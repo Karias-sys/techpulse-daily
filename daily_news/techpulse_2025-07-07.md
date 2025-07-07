@@ -1,16 +1,108 @@
 # TechPulse Daily - 2025-07-07
 
-Total Articles: 590
+Total Articles: 619
 
-## Cybersecurity (92 articles)
+## Ai (348 articles)
 
-### [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html)
+### [9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
 
-**Source:** The Hacker News | **Published:** 2025-07-07
+**Source:** Wired | **Published:** 2025-07-07
 
-How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, general
+
+---
+
+### [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Fortnite maker Epic Games has settled its antitrust case against Samsung, according to a court filing.The case, filed last September, accused Samsung of working with Google to block rival app stores b...
+
+**Categories:** ai, startups, general
+
+---
+
+### [Ancient skull may have been half human, half Neanderthal child](https://arstechnica.com/science/2025/07/ancient-skull-may-have-been-half-human-half-neanderthal-child/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navBack in 1929, archaeologists unearthed several human skeletons (sev...
+
+**Categories:** ai, general
+
+---
+
+### [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Fubo pays $3.4M to settle claims it illegally shared user data with advertisers](https://arstechnica.com/gadgets/2025/07/fubo-pays-3-4m-to-settle-claims-it-illegally-shared-user-data-with-advertisers/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navFubo has agreed to pay $3.4 million to settle a class-action lawsui...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [15 Best Air Purifiers (2025): Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveBest Air Purifier OverallIQAir Atem XRead more$1,400AmazonBest Coway Air PurifierCoway Airmega 450Read more$499$325(35% off)AmazonBest Value Air PurifierCoway Air...
+
+**Categories:** ai, general
+
+---
+
+### [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
+
+**Categories:** stock, ai, startups, general
+
+---
+
+### [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
+
+**Categories:** emerging, stock, ai, general
 
 ---
 
@@ -24,6 +116,127 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
+### [Chevron preps quick closing of Hess deal and awaits result of Exxon dispute](https://finance.yahoo.com/news/chevron-preps-quick-closing-hess-155620661.html)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-07
+
+Chevron preps quick closing of Hess deal and awaits result of Exxon disputeIllustration shows Chevron and Hess logos·ReutersSheila DangMon, Jul 7, 2025, 11:56 AM3 min readBy Sheila DangHOUSTON (Reuter...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Stock Market Today: Dow Losses Mount, S&P 500 Gives Back Gains; New Issue CoreWeave Falls On Deal News (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-tariffs-tesla-tsla-stock/?src=A00220&yptr=yahoo)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-07
+
+The Dow Jones Industrial Average and other major indexes weakened further on Monday as midday approached, even after news from Treasury Secretary Scott Bessent that several trade deal announcements ar...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Robinhood stock tokens face scrutiny in the European Union after OpenAI warning](https://www.cnbc.com/2025/07/07/robinhood-stock-tokens-face-scrutiny-in-the-eu-after-openai-warning.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Robinhood stock tokens face scrutiny in the EU after OpenAI warningSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsThe Bank of Lithuania, Robi...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple scores big victory with 'F1,' but AI is still a major problem in Cupertino](https://www.cnbc.com/2025/07/04/apple-f1-artificial-intelligence.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Apple's 'F1' success doesn't make up for AI stumblesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhile "F1" was a victory lap for Apple' se...
+
+**Categories:** ai, general, stock
+
+---
+
+### [SONAR Enhances Oracle’s OTM Integration and Launches Shipper Consortium for Unmatched Supply Chain Benchmarking](https://finance.yahoo.com/news/sonar-enhances-oracle-otm-integration-152653399.html)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-07
+
+SONAR Enhances Oracle’s OTM Integration and Launches Shipper Consortium for Unmatched Supply Chain BenchmarkingJulie Van de KampMon, Jul 7, 2025, 11:26 AM2 min readIn This Article:ORCLSONARis proud to...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Trump’s next tariffs will target South Korea and Japan](https://www.theverge.com/news/699681/trump-south-korea-japan-tariff-25-percent)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee will go into effect on August 1st, which is when the Trump administration will also impose sweeping tariffs on countries th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [F1 in Britain: Terrible English summer weather equals entertaining race](https://arstechnica.com/cars/2025/07/f1-in-britain-terrible-english-summer-weather-equals-entertaining-race/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe heat dome that oppressed much of Europe has broken. Not a drop ...
+
+**Categories:** ai, general
+
+---
+
+### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
+
+**Categories:** stock, general, ai, startups, emerging
+
+---
+
+### [Tesla shares drop 7% after Elon Musk says he is launching a political party](https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Tesla shares drop after Elon Musk says he will start a political partySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk said he would ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Tencent Hunyuan3D-PolyGen: A model for ‘art-grade’ 3D assets](https://www.artificialintelligence-news.com/news/tencent-hunyuan3d-polygen-a-model-for-art-grade-3d-assets/)
+
+**Source:** AI News | **Published:** 2025-07-07
+
+Tencent Hunyuan3D-PolyGen: A model for 'art-grade' 3D assetsSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFac...
+
+**Categories:** ai, emerging
+
+---
+
 ### [VenusTech and Salt Typhoon Breach Sheds Light on China’s Covert Cyber Mercenary Networks - gbhackers.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fTlNCaXJIb09VcENjdVlVd3FpZ0p5N1dvQm1EUjFZYXUyMk5idDF0MW5vR3gxd3JPSV9OcHlpQ01WamlURjNjZEJJOG0tYVE5Q05hdUxLUmtJTF8xNjdnQlNiVE16RnfSAWxBVV95cUxQcXhaZWNHTEtDSjBvSzAzTnRjNWNkc0w5a0RsSlIyX1JNeHR5U3BhYVVnNVcxVU9Jc1paQ0pCWERNWkk3Y0hzWEcxdV9rMU04aWotR3MxMy1PNzN3dzduWnRKUDg4MVh5NUJVaUI?oc=5)
 
 **Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-07
@@ -34,33 +247,244 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Apple appeals 500 million euro EU fine over App Store policies](https://www.cnbc.com/2025/07/07/apple-appeal-eu-fine-app-store.html)
+### [How Capital One built production multi-agent AI workflows to power enterprise use cases](https://venturebeat.com/ai/how-capital-one-built-production-multi-agent-ai-workflows-to-power-enterprise-use-cases/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-07
+
+How do you balance risk management and safety with innovation in agentic systems — and how do you grapple with core considerations around data and model selection? In thisVB Transformsession, Milind N...
+
+**Categories:** ai
+
+---
+
+### [The power of randomness](https://www.ft.com/content/2a4fb079-5733-40b6-ac64-8d3b6b702a81)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleThe power of randomnessLimited time offerRead this article and register for y...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
+
+**Categories:** emerging, stock, ai, general
+
+---
+
+### [CoreWeave to acquire Core Scientific in $9 billion all-stock deal](https://www.cnbc.com/2025/07/07/coreweave-core-scientific-stock-acquisition.html)
 
 **Source:** CNBC Tech | **Published:** 2025-07-07
 
-Apple appeals 500 million euro EU fine over App Store policiesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsApple appealed the 500 million e...
+CoreWeave to acquire Core Scientific in $9 billion all-stock dealSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsArtificial intelligence hyper...
 
-**Categories:** cybersecurity, general, stock
-
----
-
-### [Ingram Micro says ongoing outage caused by ransomware attack - TechCrunch](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGVtVGZfTlJlQ3dUMHMzWFNLWHBqWTRtd0YzazNVdm42b3c5aThvOGplNFpqRjVxc3prQWo5b0VpS0g0a2tDX2xsX1RFUmoxWVVuMUtCV0ZBSWplMjRoWERxSk9DTW0tdkt2SlhpNU1aakNzSFRBNkZVcnU3SmZsNW5JYjIxbldPSDZVU2FhV0otM3RyVE9UZHAxZw?oc=5)
-
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-07
-
-<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGVtVGZfTlJlQ3dUMHMzWFNLWHBqWTRtd0YzazNVdm42b3c5aThvOGplNFpqRjVxc3prQWo5b0VpS0g0a2tDX2xsX1RFUmoxWVVuMUtCV0ZBSWplMjRoWERxSk9DTW0tdkt2SlhpNU...
-
-**Categories:** cybersecurity, emerging
+**Categories:** ai, general, emerging, stock
 
 ---
 
-### [Hackers abuse leaked Shellter red team tool to deploy infostealers](https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/)
+### [Susquehanna Affiliate Buys $1 Billion IonQ Stake at 25% Premium](https://www.bloomberg.com/news/articles/2025-07-07/susquehanna-affiliate-buys-1-billion-ionq-stake-at-25-premium)
 
-**Source:** Bleeping Computer | **Published:** 2025-07-07
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
 
-Hackers abuse leaked Shellter red team tool to deploy infostealersByBill ToulasJuly 7, 202510:49 AM0Shellter Project, the vendor of a commercial AV/EDR evasion loader for penetration testing, confirme...
+IonQ Inc. raised $1 billion in a sale of stock and warrants to an affiliate of Susquehanna International Group, in a deal priced at a 25% premium to the quantum computing company’s closing price on Th...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Producing tangible business benefits from modern iPaaS solutions](https://www.technologyreview.com/2025/07/07/1119383/producing-tangible-business-benefits-from-modern-ipaas-solutions/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-07
+
+SponsoredIn partnership withSAPWhen a historicUK-based retailerset out to modernize its IT environment, it was wrestling with systems that had grown organically for more than 175 years. Prior digital ...
+
+**Categories:** ai, emerging
+
+---
+
+### [The digital future of industrial and operational work](https://www.technologyreview.com/2025/07/07/1119714/the-digital-future-of-industrial-and-operational-work/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-07
+
+SponsoredIn partnership withTeamViewerDigital transformation has long been a boardroom buzzword—shorthand for ambitious, often abstract visions of modernization. But today, digital technologies are no...
+
+**Categories:** ai, emerging
+
+---
+
+### [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+TechApple’s latest AirPods are already on sale for $99 before Prime DayPlus, we found deals on the latest Kindle Scribe and Garmin’s Venu Sq 2.Plus, we found deals on the latest Kindle Scribe and Garm...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [AI Stocks Face 'Show Me' Moment. Semiconductor Plays Roar Back. - Investor's Business Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
+
+<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SX...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Cracking AI’s storage bottleneck and supercharging inference at the edge](https://venturebeat.com/ai/cracking-ais-storage-bottleneck-and-supercharging-inference-at-the-edge/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-07
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowAs AI applications increasingly permeate ente...
+
+**Categories:** ai, emerging
+
+---
+
+### [Wicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movie](https://www.theverge.com/news/699463/mattel-hot-wheels-live-action-movie-jon-m-chu-director)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsWicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movieThere are still no plot details, but the Hot Wheels movie has found its director three years after being announced.There are st...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
+
+**Categories:** stock, general, ai, startups, emerging
+
+---
+
+### [CoreWeave to Buy Core Scientific in $9 Billion Stock Deal](https://www.bloomberg.com/news/articles/2025-07-07/coreweave-to-buy-core-scientific-in-deal-valued-at-9-billion)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+CoreWeave Inc. is dropping $9 billion on the data-center operator Core Scientific Inc. in an effort to gain more direct control over the physical assets powering the artificial-intelligence boom.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Strategy Posts $14 Billion Unrealized Gain in Second Quarter](https://www.bloomberg.com/news/articles/2025-07-07/strategy-posts-14-billion-unrealized-gain-in-second-quarter)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Michael Saylor’s Strategy registered an unrealized gain of $14.05 billion in the second quarter due to a rebound in Bitcoin’s price and a recent accounting change.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [The Download: China’s winning at advanced manufacturing, and a potential TikTok sale](https://www.technologyreview.com/2025/07/07/1119730/the-download-chinas-winning-at-advanced-manufacturing-and-a-potential-tiktok-sale/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-07
+
+This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.The latest threat from the rise of Chinese manufacturingIn 2013, ...
+
+**Categories:** ai, emerging
+
+---
+
+### [Top 5 AI Growth Stocks to Buy in July 2025](https://www.fool.com/investing/2025/07/07/top-5-ai-growth-stocks-for-july-2025/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+Top 5 AI Growth Stocks to Buy in July 2025 | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAccessi...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Could AMD and Nvidia Face New AI Chip Export Restrictions?](https://www.fool.com/investing/2025/07/07/could-amd-and-nvidia-face-new-ai-chip-export-restr/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+Could AMD and Nvidia Face New AI Chip Export Restrictions? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Mo...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [<a href="https://www.fiercebiotech.com/medtech/boston-scientific-expands-farapulses-reach-afib-new-fda-approval" hreflang="en">Boston Scientific expands Farapulse’s reach in afib with new FDA approval</a>](https://www.fiercebiotech.com/medtech/boston-scientific-expands-farapulses-reach-afib-new-fda-approval)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-07
+
+MedTechBoston Scientific expands Farapulse’s reach in afib with new FDA approvalByConor HaleJul 7, 2025 11:58amBoston ScientificFDApulsed field ablationatrial fibrillationBoston Scientific has claimed...
+
+**Categories:** ai, biotech, emerging, stock
+
+---
+
+### [Amazon’s Shopping Bot Falls Short of Prime Performance](https://www.bloomberg.com/news/newsletters/2025-07-07/amazon-s-shopping-bot-falls-short-of-prime-performance)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Austin Carr looks at the performance of Amazon’s shopping bot, Rufus.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [VC-Backed Startups That Stitch AI And Fashion Together See Strong Investor Interest - Crunchbase News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0JCRjlUSlp0Sm1yWTNMZkxkTzVDVEhyZ2FPSEtMS0xIMXFaNi16XzM2Ni1ESlJQRWU1WVU0cDdhUHJHb3prbktNa0pubUVSeVYtVEV6bjRFUUpiN2dfUTRTc0htN0JGcFVNaU1kbXVOVklrTjFraGQ5RDloUGswbVhiaVV0eDA5SjRubUxYYnI?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
+
+<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0JCRjlUSlp0Sm1yWTNMZkxkTzVDVEhyZ2FPSEtMS0xIMXFaNi16XzM2Ni1ESlJQRWU1WVU0cDdhUHJHb3prbktNa0pubUVSeVYtVEV6bjRFUUpiN2dfUTRTc0htN0JGcFVNaU1kbX...
+
+**Categories:** ai, emerging
+
+---
+
+### [How a big shift in training LLMs led to a capability explosion](https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Amsterdam’s AI startup Perry launches with €1.6M to help train and support Europe’s technical workers - Silicon Canals](https://news.google.com/rss/articles/CBMicEFVX3lxTE1JQXNsZjhrY2hxT0RHNG4yMHZoN1U4OVlwUGpjdHpHdlJ6TFBDSnBlZkZ5MllrZ2JPMHM2QzdLbUJQM28xZGRqRFNqc3ZYRTBicU9Hcnc3TlRfNFRjb1ZqaTJ5M2NlX1JoZFJXdEdvVXI?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
+
+<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1JQXNsZjhrY2hxT0RHNG4yMHZoN1U4OVlwUGpjdHpHdlJ6TFBDSnBlZkZ5MllrZ2JPMHM2QzdLbUJQM28xZGRqRFNqc3ZYRTBicU9Hcnc3TlRfNFRjb1ZqaTJ5M2NlX1JoZFJXdEdvVX...
+
+**Categories:** ai, emerging
+
+---
+
+### [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
 
 ---
 
@@ -74,33 +498,343 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Ingram Micro struggles to restore services after ransomware breach - Tech Wire Asia](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmRTSUc0aXhBbmxhOFcwdEMyR0FIM3lwMTRqaG0xdXVXNkEtVmxRMWFjTVZmS3VFX2FpNm9WX2NMOTFYaHlNVGNvek1HVTdoUG8zM1pRWWlvYTB1bzRmaDNUS2s2VjBPWFZtLUF4UTNjY0ZUaGFiQWYtTlJnQlNIQkZNQ1V4WXRMZ0hOQXpacnktTTZ0NDlrNnhDSjREY3VRM3c?oc=5)
+### [Huawei’s AI Lab Fends Off Accusations It Copied Rival Models](https://www.bloomberg.com/news/articles/2025-07-07/huawei-s-ai-lab-fends-off-accusations-it-copied-rival-models)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-07
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
 
-<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmRTSUc0aXhBbmxhOFcwdEMyR0FIM3lwMTRqaG0xdXVXNkEtVmxRMWFjTVZmS3VFX2FpNm9WX2NMOTFYaHlNVGNvek1HVTdoUG8zM1pRWWlvYTB1bzRmaDNUS2s2VjBPWFZtLUF4UT...
+Huawei Technologies Co.’s secretive AI research lab has pushed back against accusations it relied on rivals’ models to develop its own Pangu platform, taking the unusual step of rebutting claims about...
 
-**Categories:** cybersecurity, emerging
-
----
-
-### [Qantas 'contacted by potential cybercriminal' after data attack - Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1JvMXBwYk1aanJQanhoYUNvQVlpWm1qZTEycktacmtpdndkTXRfczZLYzVnUW5vcUprT1BEd2RvUmtOdlgwTm5NOXhidnd0YzREVDlVWG5acHNYMkpoMGdpd2RHYWNrcUxLcWtXb1pEcTRWaUh6QVR3V1QwQnZDZm9hU3RyQnRPak5tN09xaHNyQUhyS0xTdXNUb3o2LXlrOEtLbUlESldtR3BQ?oc=5)
-
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-07
-
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1JvMXBwYk1aanJQanhoYUNvQVlpWm1qZTEycktacmtpdndkTXRfczZLYzVnUW5vcUprT1BEd2RvUmtOdlgwTm5NOXhidnd0YzREVDlVWG5acHNYMkpoMGdpd2RHYWNrcUxLcWtXb1...
-
-**Categories:** cybersecurity, emerging
+**Categories:** ai, general, emerging, stock
 
 ---
 
-### [‘No honour among thieves’: M&S hacking group starts turf war](https://www.ft.com/content/22cb54ef-1611-4aef-b671-16316280e3fb)
+### [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsApple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’An Extinction Rebellion protester was arrested after spray-painting ‘Tim + Trump = Toxic’ on Apple’s New York City storefront.An E...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [The latest threat from the rise of Chinese manufacturing](https://www.technologyreview.com/2025/07/07/1119658/the-latest-threat-from-the-rise-of-chinese-manufacturing/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-07
+
+The findings a decade ago were, well, shocking. Mainstream economists had long argued that free trade was overall a good thing; though there might be some winners and losers, it would generally bring ...
+
+**Categories:** ai, emerging
+
+---
+
+### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Archer Aviation Stock Financial Analysis as It Prepares to Take Off (Literally)](https://www.fool.com/investing/2025/07/07/archer-aviation-stock-financial-analysis-as-it-pre/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+Archer Aviation Stock Financial Analysis as It Prepares to Take Off (Literally) | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Ad...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Dutch TravelTech platform GeniusTravel raises €2 million to roll out travel packages app - EU-Startups](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnV4X0dXXzQyQlJucEo3a3dMT09XQTRFVkRwNUg3U0ZKNDRDc2dkbW9Ya3JWdkhRSDJmY3lFMUVPYVlMS2UxbTB4OXBWSU9YR2E0YTQ5SUF5VTNlOGZPbi1tQlhsZjdIbl9TQWlsa3phUUVQaXZJVG0tOHU0S21HU1RiSWhSSlVxWnBWNDJnNGZqWUMyU0c4b2FBTGdZTFJzcVlZbWU4a0JPTXdtSEtlV0Y0aFItd1dEUTViNTFwTUlHR2s?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnV4X0dXXzQyQlJucEo3a3dMT09XQTRFVkRwNUg3U0ZKNDRDc2dkbW9Ya3JWdkhRSDJmY3lFMUVPYVlMS2UxbTB4OXBWSU9YR2E0YTQ5SUF5VTNlOGZPbi1tQlhsZjdIbl9TQWlsa3...
+
+**Categories:** ai, emerging
+
+---
+
+### [Huge News for Archer Aviation Stock Investors](https://www.fool.com/investing/2025/07/07/huge-news-for-archer-aviation-stock-investors/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+Huge News for Archer Aviation Stock Investors | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAcce...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsNow you can just tell SmartThings how to automate your homeNew updates to Samsung’s smart home platform let you set up routines with natural language, plus there’s now an Apple Watch widget.﻿New u...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Supply trails demand for Nvidia's B200, suggesting future growth: Wedbush](https://seekingalpha.com/news/4465570-supply-trails-demand-for-nvidias-b200-suggesting-future-growth-wedbush?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [<a href="https://www.fiercebiotech.com/biotech/jasper-warns-restructuring-after-dud-batch-urticaria-drug-derails-trials-sinks-stock" hreflang="en">Jasper warns of restructuring after dud batch of urticaria drug derails trials, sinking stock</a>](https://www.fiercebiotech.com/biotech/jasper-warns-restructuring-after-dud-batch-urticaria-drug-derails-trials-sinks-stock)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-07
+
+BiotechJasper warns of restructuring after dud batch of urticaria drug derails trials, sinking stockByJames WaldronJul 7, 2025 9:23amfailed trialschronic spontaneous urticariaasthmaClinical DataJasper...
+
+**Categories:** ai, biotech, emerging, stock
+
+---
+
+### [Where Will Palantir Stock Be in 1 Year?](https://www.fool.com/investing/2025/07/07/where-will-palantir-stock-be-in-1-year/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+Where Will Palantir Stock Be in 1 Year? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAccessibil...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Are You Falling for These 5 Roth IRA Myths?](https://www.fool.com/retirement/2025/07/07/are-you-falling-for-these-5-roth-ira-myths/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+Are You Falling for These 5 Roth IRA Myths? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAccess...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [History Says This S&P 500 ETF Could Turn $500 Per Month Into $1 Million](https://www.fool.com/investing/2025/07/07/history-says-sp-500-etf-500-month-1-million/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+History Says This S&P 500 ETF Could Turn $500 Per Month Into $1 Million | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+--...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [2 Artificial Intelligence (AI) Stocks That Could Help Make You a Millionaire](https://www.fool.com/investing/2025/07/07/2-artificial-intelligence-stocks-that-could-help/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+2 Artificial Intelligence (AI) Stocks That Could Help Make You a Millionaire | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advis...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Nvidia challenger Groq expands with first European data center](https://www.cnbc.com/2025/07/07/ai-chip-startup-groq-expands-with-first-european-data-center.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Nvidia challenger Groq expands with first European data centerSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsGroq said it has established its...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Destiny&#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsDestiny’s mobile spinoff will arrive in August﻿Destiny: Risingis a free-to-play RPG shooter for iOS and Android set in an ‘alternate timeline’ to the main franchise.﻿Destiny: Risingis a free-to-pl...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Why Artificial Superintelligence Could Arrive Sooner Than Wall Street Thinks](https://www.fool.com/investing/2025/07/07/why-artificial-superintelligence-could-arrive-soon/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+Why Artificial Superintelligence Could Arrive Sooner Than Wall Street Thinks | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advis...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Huawei's AI lab rejects claims that one of its Pangu models copied Alibaba's AI model Qwen - report](https://seekingalpha.com/news/4465519-huaweis-ai-lab-rejects-claims-that-one-of-its-pangu-models-copied-alibabas-ai-model-qwen?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [<a href="https://www.fiercebiotech.com/biotech/apogee-claims-il-13-antibody-sets-new-eczema-treatment-standard-phase-2-study" hreflang="en">Apogee claims IL-13 antibody sets new eczema treatment standard in phase 2 study</a>](https://www.fiercebiotech.com/biotech/apogee-claims-il-13-antibody-sets-new-eczema-treatment-standard-phase-2-study)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-07
+
+BiotechApogee claims IL-13 antibody sets new eczema treatment standard in phase 2 studyByJames WaldronJul 7, 2025 8:29amIL-13Apogee Therapeuticsatopic dermatitiseczemaApogee Therapeutics’ anti-IL-13 a...
+
+**Categories:** ai, biotech, emerging
+
+---
+
+### ["From Poland to Portugal": Amsterdam-based Perry raises €1.6 million to empower technicians across Europe with work instructions - EU-Startups](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQR0w4dEh3QnJ4V3UtRXc0dS1SX3YtclFnZWE4SHVmX1VoRUJ2MHE5RDJiN0R4MVpuTldmbjF4ZnVIYkpOcG9PX0Y1S2R2ZVNKXzVqS0h3VkVVVG1uUFM2MEJvaGo0Yk1VbzZlWExza0NtS3lha1pZcUVNeGF5eF9IN1ZSZnMtOXNrTHI4TTFhWHVEZVRid3NBZGFoOFZpUkprMDV4Z3M2cDV0NHQ0SDljbzRqeHdVSWVQdFctYy1sRXVqRk9Db1diX2ZsXy1qTGtIcE1KWmloU1NTTzUza3BMQ0JZTVp1VHc3dThQeTZNLWx1SFFi?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
+
+<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQR0w4dEh3QnJ4V3UtRXc0dS1SX3YtclFnZWE4SHVmX1VoRUJ2MHE5RDJiN0R4MVpuTldmbjF4ZnVIYkpOcG9PX0Y1S2R2ZVNKXzVqS0h3VkVVVG1uUFM2MEJvaGo0Yk1VbzZlWExza0...
+
+**Categories:** ai, emerging
+
+---
+
+### [The Smartest Growth Stock to Buy With $80 Right Now](https://www.fool.com/investing/2025/07/07/the-smartest-growth-stock-to-buy-with-80-right-now/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-07
+
+The Smartest Growth Stock to Buy With $80 Right Now | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley Fo...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsSpecs leak for three Samsung foldables ahead of Wednesday’s UnpackedSamsung’s launch is two days away, but there’s not much left we don’t know.Samsung’s launch is two days away, but there’s not mu...
+
+**Categories:** ai, general
+
+---
+
+### [Nvidia challenger Groq expands with first European data center - CNBC](https://news.google.com/rss/articles/CBMingFBVV95cUxQMDhzZmtlbjdJMTdsdmVvdUE1RktFNm5uVUVJSUxNc3FOSVFqNG9UVWpQTEdFa0dYNUN1X1FzNWdRRUFEOUk0LXRPSkRLR2haNm5KRW1KYjZCRFdHLTU3TldyemR2M3pZTlhmWUljNXhMeUhUTkpkTWVicTFpNEtqcDRvSU1fRlpZUlhRblRHb2tXQVBQZzhhQmk0Z2k5UdIBowFBVV95cUxOU1l4VlYwZXhrVjJhXzEySXhNVFg1WWNRQkNJS19TdXh2UWxuQzRVNUhPcm9iUzlnSnlyRWFLeHFPeFdYVDJNWTVfaVlheXJpSEZfa3hEM2I1dHdtZ1VhdDJoY1I0WWdUU3ltYUVVRms5THJMQUtyNVhtZTFfUmZnV1AxNDQ3cmJuNGFlRENLQS03ekd0b01sSzdZdFBLa2Qxakl3?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
+
+<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQMDhzZmtlbjdJMTdsdmVvdUE1RktFNm5uVUVJSUxNc3FOSVFqNG9UVWpQTEdFa0dYNUN1X1FzNWdRRUFEOUk0LXRPSkRLR2haNm5KRW1KYjZCRFdHLTU3TldyemR2M3pZTlhmWUljNX...
+
+**Categories:** ai, emerging
+
+---
+
+### [Capgemini to Buy WNS for $3.3 Billion to Expand AI Offer](https://www.bloomberg.com/news/articles/2025-07-07/capgemini-to-buy-it-firm-wns-for-3-3-billion-to-boost-ai)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+The French consulting company Capgemini SE has agreed to buy IT outsourcing firm WNS Holdings Ltd. for $3.3 billion in cash in a push to expand its presence in artificial intelligence, a technology in...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple Supplier Lens Tech Said to Price $607 Million Hong Kong Listing at Top of Range](https://www.bloomberg.com/news/articles/2025-07-07/apple-supplier-lens-tech-said-to-price-607-million-hk-listing-at-top-of-range)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Apple Inc. supplier Lens Technology Co. has raised HK$4.8 billion ($607 million) after pricing its Hong Kong listing at the top of the marketed range, according to terms of the deal seen by Bloomberg ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Foxconn Q2 sees record revenue amid AI demand](https://seekingalpha.com/news/4465497-foxconn-q2-sees-record-revenue-amid-ai-demand?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [On-the-job learning upended by AI and hybrid work](https://www.ft.com/content/071089b8-839a-4f96-af79-394c08a146d1)
 
 **Source:** Financial Times Tech | **Published:** 2025-07-07
 
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footer‘No honour among thieves’: M&S hacking group starts turf warSubscribe to unlock this articleJoin FT EditOnly$4.99per m...
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOn-the-job learning upended by AI and hybrid workSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeks...
 
-**Categories:** cybersecurity, general, emerging, stock
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Indosat and Nokia team up to reduce energy demand, advance AI-powered green operations](https://seekingalpha.com/news/4465487-indosat-and-nokia-team-up-to-reduce-energy-demand-advance-ai-powered-green-operations?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [Capgemini to buy WNS for $3.3 billion in push to boost AI](https://seekingalpha.com/news/4465485-capgemini-to-buy-wns-for-33-billion-in-push-to-boost-ai?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [Chinese Apple supplier Lens Technology raises $607M in Hong Kong IPO at top of range](https://seekingalpha.com/news/4465479-chinese-apple-supplier-lens-technology-raises-607m-in-hong-kong-ipo-at-top-of-range?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
+
+Play(<1min)Apple (NASDAQ:AAPL) supplier Lens Technology has reportedly raised HK$4.8 billion ($607 million) after pricing its Hong Kong listing at the top of the marketed range.The Shenzhen-listed com...
+
+**Categories:** ai, stock
+
+---
+
+### [Why it is vital that you understand the infrastructure behind AI](https://www.ft.com/content/8452bf94-9a41-4040-913f-ef1a462d6ea6)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhy it is vital that you understand the infrastructure behind AISubscribe to unlock this articleTry unlimited accessOn...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Samsung Elec Q2 profit likely to drop 39% on weak AI chip sales](https://finance.yahoo.com/news/samsung-elec-q2-profit-likely-231647376.html)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
+
+Samsung Elec Q2 profit likely to drop 39% on weak AI chip salesFILE PHOTO: South Korea unveils $23 billion support package for chips amid US tariff uncertainty·ReutersHeekyong YangSun, Jul 6, 2025, 7:...
+
+**Categories:** ai, stock
+
+---
+
+### [Billionaire Bill Ackman Has 51% of His Hedge Fund's $14.4 Billion Portfolio Invested in Just 3 Exceptional Stocks](https://finance.yahoo.com/news/billionaire-bill-ackman-51-hedge-221400938.html)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
+
+Billionaire Bill Ackman Has 51% of His Hedge Fund's $14.4 Billion Portfolio Invested in Just 3 Exceptional StocksAdam Levy, The Motley FoolSun, Jul 6, 2025, 6:14 PM6 min readKey PointsBill Ackman is a...
+
+**Categories:** ai, stock
+
+---
+
+### [How Xiaomi Succeeded Where Apple Failed](https://www.bloomberg.com/news/articles/2025-07-06/xiaomi-founder-s-bold-ev-bet-is-paying-off-where-apple-s-failed)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-06
+
+Lei Jun, founder and chairman of Xiaomi Corp., the only tech company to have successfully diversified into carmaking, couldn’t resist.
+
+**Categories:** ai, general, emerging, stock
 
 ---
 
@@ -114,13 +848,23 @@ OpenAI says GPT-5 will unify breakthroughs from different modelsByMayank ParmarJ
 
 ---
 
-### [Hands on with Windows 11 Notepad's new markdown support](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/)
+### [Forget the hype — real AI agents solve bounded problems, not open-world fantasies](https://venturebeat.com/ai/forget-the-hype-real-ai-agents-solve-bounded-problems-not-open-world-fantasies/)
 
-**Source:** Bleeping Computer | **Published:** 2025-07-06
+**Source:** VentureBeat AI | **Published:** 2025-07-06
 
-Hands on with Windows 11 Notepad's new markdown supportByMayank ParmarJuly 6, 202507:55 PM2Notepad now lets you use markdown text formatting on Windows 11, which means you can write in Notepad just li...
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowEverywhere you look, people are talking about...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
+
+---
+
+### [XAI Getting 2 Gigawatts of Natural Gas and Solar Power](https://www.nextbigfuture.com/2025/07/xai-getting-2-gigawatts-of-natural-gas-and-solar-power.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-06
+
+Gigawatts of energy are needed to power millions of GPUs to train larger AI. XAI is getting 2 gigawatts of power years faster than any other AI company.Elon has confirmed that xAI has bought a power p...
+
+**Categories:** ai, emerging
 
 ---
 
@@ -144,6 +888,106 @@ ChatGPT is testing disruptive Study Together featureByMayank ParmarJuly 6, 20250
 
 ---
 
+### [Billionaire Bill Ackman Has 51% of His Hedge Fund's $14.4 Billion Portfolio Invested in Just 3 Exceptional Stocks](https://www.fool.com/investing/2025/07/06/billionaire-bill-ackman-has-51-of-his-hedge-funds/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+Billionaire Bill Ackman Has 51% of His Hedge Fund's $14.4 Billion Portfolio Invested in Just 3 Exceptional Stocks | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibil...
+
+**Categories:** ai, stock
+
+---
+
+### [Prediction: Nvidia Will Soar in the Second Half](https://www.fool.com/investing/2025/07/06/prediction-nvidia-will-soar-in-the-second-half/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+Prediction: Nvidia Will Soar in the Second Half | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAc...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Tariff Negotiations, Fed Minutes, Delta Airlines, Levi’s, and More to Watch This Week](https://www.barrons.com/articles/tariff-negotiations-fed-minutes-delta-airlines-levis-and-more-to-watch-this-week-618cefb4?siteid=yhoof2&yptr=yahoo)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
+
+
+
+**Categories:** emerging, ai, stock
+
+---
+
+### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-06
+
+With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
+
+**Categories:** ai, startups, emerging
+
+---
+
+### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Startups race to help brands navigate AI-powered search: WSJ](https://seekingalpha.com/news/4465468-startups-race-to-help-brands-navigate-ai-powered-search-wsj?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-06
+
+
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Oracle is said to offer big discounts to U.S. government on software](https://seekingalpha.com/news/4465466-oracle-is-said-to-offer-big-discounts-to-u-s-government-on-software?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-06
+
+Play(3min)drserg/iStock Editorial via Getty ImagesOracle (NYSE:ORCL) is slashing prices for its software and cloud services for federal agencies, joining other tech giants in offering significant disc...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Undervalued and Profitable: This Artificial Intelligence (AI) Stock Has Soared 73% in 2025, and It Could Still Jump Higher](https://www.fool.com/investing/2025/07/06/undervalued-and-profitable-this-artificial-intelli/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+Undervalued and Profitable: This Artificial Intelligence (AI) Stock Has Soared 73% in 2025, and It Could Still Jump Higher | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite a...
+
+**Categories:** ai, emerging, stock
+
+---
+
 ### [If You Plan to Receive Social Security in 2035, You Have to Prepare Yourself for This](https://www.fool.com/retirement/2025/07/06/if-you-plan-to-receive-social-security-in-2035-you/?source=iedfolrf0000001)
 
 **Source:** The Motley Fool | **Published:** 2025-07-06
@@ -154,13 +998,193 @@ If You Plan to Receive Social Security in 2035, You Have to Prepare Yourself for
 
 ---
 
-### [Planning to Retire in 2030? Read This Before You Collect Your First Social Security Check.](https://www.fool.com/retirement/2025/07/06/planning-to-retire-in-2030-read-this-before-you-co/?source=iedfolrf0000001)
+### [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Citizen Scientists Help Confirm Distant Exoplanet](https://spectrum.ieee.org/exoplanet-citizen-science)
+
+**Source:** IEEE Spectrum | **Published:** 2025-07-06
+
+AerospaceNewsCitizen Scientists Help Confirm Distant ExoplanetAstronomers called on amateurs to observe a strange gas giantCarolyn Collins Petersen06 Jul 20254 min readCarolyn Collins Petersen is a lo...
+
+**Categories:** ai, emerging
+
+---
+
+### [AI-powered wood recycling startup in Grand Rapids secures $3.75M in seed funding - MLive.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFVEcDZhdzBNQkVqcXJsaTQwb1BTdldaSmhNenl2WUpNd2lTaDk4T2NMc1RveTlZdkhSdng2MzhyM2EzRjRBQURGRDk0SkVwUFNEY3YtVENkbkdfaG5TbkVpTGFkR2pjb3JObzMzc0hGQzl3ejZmMGpFNlhoaXdpVEZTb0M1V0xUWFljdUZoQzBFVzJYY3JwcVhQUjZpNnZwYVl0dXNKeG5ia0pEM2lSZFZnTTRGLS1zQTBkM2cyV1NUUkN4UlFhUFlKb9IB3wFBVV95cUxOenNVQm5VTUI4Z2piVnI1Y0FtSWE5a3l3RHlBVU9NaGdCOV9WaWFSVmJaS1JjVkhxdXpBa3pabHM5b2FBVkx6UllVeEhlNTZkMk5zNkRPN20tMC1BanNLVEg5cmJMcFQ5ckRrT3lRQV9MZDBYNUsxRGkySnpEV1hMa3lFcFhZbzVCZjZrY1dGV0JmTC03cG14SmtqeWpyR3REZjZZMlRsZ19Nd0dmbkJDUDVwM0JKOEFKZlVuMmNuVkFOaEhfdHZaQkNldjVaQjJSQTFhQWY1aFVNeEgwWjRZ?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-06
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFVEcDZhdzBNQkVqcXJsaTQwb1BTdldaSmhNenl2WUpNd2lTaDk4T2NMc1RveTlZdkhSdng2MzhyM2EzRjRBQURGRDk0SkVwUFNEY3YtVENkbkdfaG5TbkVpTGFkR2pjb3JObzMzc0...
+
+**Categories:** ai, emerging
+
+---
+
+### [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+TechHere are 33 of our favorite deals from Amazon’s early Prime Day saleAmazon Prime Day kicks off on July 8th, but you don’t need to wait until then to save.Amazon Prime Day kicks off on July 8th, bu...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Dan Ives Predicts a Strong Second Half for Tech. 2 Top AI Stocks to Buy Now.](https://www.fool.com/investing/2025/07/06/dan-ives-predicts-strong-second-half-for-tech/?source=iedfolrf0000001)
 
 **Source:** The Motley Fool | **Published:** 2025-07-06
 
-Planning to Retire in 2030? Read This Before You Collect Your First Social Security Check. | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%...
+Dan Ives Predicts a Strong Second Half for Tech. 2 Top AI Stocks to Buy Now. | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advis...
 
-**Categories:** cybersecurity, emerging, stock
+**Categories:** ai, emerging, stock
+
+---
+
+### [How SoundHound AI Is Quietly Building a Global AI Empire](https://www.fool.com/investing/2025/07/06/how-soundhound-ai-is-quietly-building-a-global-ai/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+How SoundHound AI Is Quietly Building a Global AI Empire | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motl...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [12 Best Kids Headphones (2025), Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [SA Asks: What's the most attractive AI stock right now?](https://seekingalpha.com/news/4465357-sa-asks-whats-the-most-attractive-ai-stock-right-now?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-06
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [The S&P 500 Is Soaring: 3 No-Brainer Vanguard ETFs to Buy Right Now](https://www.fool.com/investing/2025/07/06/the-sp-500-is-soaring-vanguard-etfs-buy-right-now/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+The S&P 500 Is Soaring: 3 No-Brainer Vanguard ETFs to Buy Right Now | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Jo...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Cathie Wood Just Went Bargain Hunting: 2 Artificial Intelligence (AI) Chip Stocks She Just Scooped Up (Hint: Nvidia Isn't One of Them)](https://www.fool.com/investing/2025/07/06/cathie-wood-just-went-shopping-2-artificial-intell/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+Cathie Wood Just Went Bargain Hunting: 2 Artificial Intelligence (AI) Chip Stocks She Just Scooped Up (Hint: Nvidia Isn't One of Them) | The Motley FoolPlease ensure Javascript is enabled for purposes...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [It’s a bad time to be a graduate](https://www.ft.com/content/002a0943-f977-44bd-bc78-957c877dfed1)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-06
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerIt’s a bad time to be a graduateSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month....
+
+**Categories:** ai, general, stock
+
+---
+
+### [3 Warren Buffett Stocks to Buy Hand Over Fist in July](https://www.fool.com/investing/2025/07/06/3-warren-buffett-stocks-to-buy-hand-over-fist-in/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+3 Warren Buffett Stocks to Buy Hand Over Fist in July | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley ...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Nvidia vs. Microsoft Stock: Which Will Be the First $4 Trillion Company?](https://www.fool.com/investing/2025/07/06/nvidia-vs-microsoft-stock-4-trillion-market-cap/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+Nvidia vs. Microsoft Stock: Which Will Be the First $4 Trillion Company? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+-...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [2 Stocks to Buy With $5,000 and Hold for a Decade](https://www.fool.com/investing/2025/07/06/2-stocks-to-buy-with-5000-and-hold-for-a-decade/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+2 Stocks to Buy With $5,000 and Hold for a Decade | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley Fool...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+Tech/ReviewsLenovo Chromebook Plus 14 review: the new king of Chromebooks﻿An OLED display, a fast processor, 16GB of RAM, and all-day battery life for $749? That’s a lot to like.If you buy something f...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Where Will Nvidia Stock Be in 1 Year?](https://www.fool.com/investing/2025/07/06/where-will-nvidia-stock-be-in-1-year/?source=iedfolrf0000001)
+
+**Source:** The Motley Fool | **Published:** 2025-07-06
+
+Where Will Nvidia Stock Be in 1 Year? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAccessibilit...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [6 Reasons Berkshire Stock Has Lagged the Market—and 3 Reasons It Could Outperform Again](https://www.barrons.com/articles/berkshire-stock-price-warren-buffet-market-problem-44bbbc3b?siteid=yhoof2&yptr=yahoo)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
+
+
+
+**Categories:** emerging, ai, stock
+
+---
+
+### [Investors Come Around to Trump’s Uncertainty](https://www.wsj.com/finance/investing/trump-market-uncertainty-investors-02be1e8b?siteid=yhoof2&yptr=yahoo)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
+
+
+
+**Categories:** emerging, ai, stock
 
 ---
 
@@ -174,13 +1198,13 @@ Planning to Retire in 2030? Read This Before You Collect Your First Social Secur
 
 ---
 
-### [Qantas attack reveals one phone call is all it takes to crack cybersecurity’s weakest link: humans - The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ21GWnFsUlJIOXNJcWRLbGVVcEtjQ3NhZHVxRmpuLUMtaE5HZERxdDJJSVVGNzY2TjRXWlZYZXJUZWhXbjVTSWxha0hvTjVFeTlHSjJ6MWJ4MkZmUGZubG91YTN1R3p5dS1mbEEyQ1ZZbDVIeEFISTJmTEJySi1jcDJqdjlfdUFBRWE2dXNzWjFrY19JM0E1dzlHZFZja095a0doLTZPZkozd0FWeUJXclM0ZzVfYVF2MEMxeVdmd2l0anFQdVZKd21DUGZxSTMweEVhX2R5MEZxYkVNYUE?oc=5)
+### [Drive Capital’s second act — how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-06
+**Source:** TechCrunch | **Published:** 2025-07-05
 
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ21GWnFsUlJIOXNJcWRLbGVVcEtjQ3NhZHVxRmpuLUMtaE5HZERxdDJJSVVGNzY2TjRXWlZYZXJUZWhXbjVTSWxha0hvTjVFeTlHSjJ6MWJ4MkZmUGZubG91YTN1R3p5dS1mbEEyQ1...
+The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
 
-**Categories:** cybersecurity, emerging
+**Categories:** stock, general, ai, startups, emerging
 
 ---
 
@@ -194,23 +1218,83 @@ Planning to Retire in 2030? Read This Before You Collect Your First Social Secur
 
 ---
 
-### [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
+### [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
 
-**Source:** The Verge | **Published:** 2025-07-05
+**Source:** TechCrunch | **Published:** 2025-07-05
 
-NewsCyberpunk: Edgerunners 2 will be even sadder and bloodierNetflix’s Cyberpunk 2077 anime spinoff is coming back for a second 10-episode season with ‘an entirely new story.’Netflix’s Cyberpunk 2077 ...
+A group known as the Independent Publishers Alliance has filed an antitrust complaint with the European Commission over Google’s AI Overviews,according to Reuters.The complaint accuses Google of “misu...
 
-**Categories:** emerging, cybersecurity, general
+**Categories:** startups, ai, general, emerging
 
 ---
 
-### [Ingram Micro outage caused by SafePay ransomware attack](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/)
+### [Secret Service in US Expands a Global Push Against Crypto Scams](https://www.bloomberg.com/news/articles/2025-07-05/us-secret-service-builds-international-network-to-fight-crypto-crime)
 
-**Source:** Bleeping Computer | **Published:** 2025-07-05
+**Source:** Bloomberg Technology | **Published:** 2025-07-05
 
-Ingram Micro outage caused by SafePay ransomware attackByLawrence AbramsJuly 5, 202511:58 AM1Update 7/7/25: Added Palto Alto Network's statement regarding our reporting that it is believed that Ingram...
+The scam began with a message, then a friendly exchange. A stranger directed the victim to a cryptocurrency investment site that appeared professional &mdash; slick design, charts, even customer suppo...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Video Friday: Cyborg Beetles May Speed Disaster Response One Day](https://spectrum.ieee.org/video-friday-cyborg-beetles)
+
+**Source:** IEEE Spectrum | **Published:** 2025-07-05
+
+RoboticsNewsHumanoid RobotsVideo Friday: Cyborg Beetles May Speed Disaster Response One DayYour weekly selection of awesome robot videosEvan Ackerman05 Jul 20253 min readEvan Ackerman is IEEE Spectrum...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [The Saturday Spread: Using Markov Chains to Help Extract Profits From DPZ, AKAM and DOCU](https://finance.yahoo.com/news/saturday-spread-using-markov-chains-141502453.html)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-05
+
+The Saturday Spread: Using Markov Chains to Help Extract Profits From DPZ, AKAM and DOCUJosh EnomotoSat, Jul 5, 2025, 10:15 AM5 min readIn This Article:AKAMBuy enter button by Ardasavasciogullari via ...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Coca-Cola HBC price target raised to 4,000 GBp from 3,800 GBp at Citi](https://finance.yahoo.com/news/coca-cola-hbc-price-target-132510540.html)
+
+**Source:** Yahoo Finance Tech | **Published:** 2025-07-05
+
+Coca-Cola HBC price target raised to 4,000 GBp from 3,800 GBp at Citihttps://www.tipranks.com/news/the-fly/coca-cola-hbc-price-target-raised-to-4000-gbp-from-3800-gbp-at-citi-theflyTipRanksSat, Jul 5,...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [AI Cameras  Change Driver Behavior at Intersections](https://spectrum.ieee.org/ai-intersection-monitoring)
+
+**Source:** IEEE Spectrum | **Published:** 2025-07-05
+
+TransportationAINewsAI Cameras  Change Driver Behavior at IntersectionsUnblinking eyes could lower the vehicular death tollWillie D. Jones05 Jul 20254 min readWillie Jones covers transportation for IE...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Inside a Utah desert facility preparing humans for life on Mars](https://www.cnbc.com/2025/07/05/utah-mars-desert-research.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-05
+
+Inside a Utah desert facility preparing humans for life on MarsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuHidden among the majestic canyons of the ...
+
+**Categories:** ai, general, emerging, stock
 
 ---
 
@@ -234,6 +1318,16 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
+### [Insider trades: Broadcom insiders trim holdings for fourth straight week](https://seekingalpha.com/news/4465421-insider-trades-broadcom-insiders-trim-holdings-for-fourth-straight-week?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-05
+
+
+
+**Categories:** ai, stock
+
+---
+
 ### [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
 
 **Source:** Wired | **Published:** 2025-07-05
@@ -241,6 +1335,86 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 Save this storySaveSave this storySaveIn recent years,North Korea has deployedthousands of so-called IT workers to infiltrate Western businesses, get paid salaries, and send money back to support the ...
 
 **Categories:** ai, cybersecurity, general, emerging
+
+---
+
+### [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+Gaming/Games ReviewDeltarune is halfway done, but it feels like a full gameThe parallel story to Undertale is just as good.The parallel story to Undertale is just as good.byJay PetersJul 5, 2025, 1:00...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Ethereum is powering Wall Street's future. The crypto scene at Cannes shows how far it's come](https://www.cnbc.com/2025/07/04/the-ethcc-crypto-scene-at-cannes-shows-how-far-ethereum-has-come.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-05
+
+The EthCC crypto scene at Cannes shows how far Ethereum has comeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsCrypto founders, developers, a...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Nvidia Partner Hon Hai Meets Sales Estimates on Strong AI Demand](https://www.bloomberg.com/news/articles/2025-07-05/nvidia-partner-hon-hai-meets-sales-estimates-on-strong-ai-demand)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-05
+
+Hon Hai Precision Industry Co. reported 15.8% growth in quarterly sales on robust demand for AI servers and iPhones.
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+Transportation/Cars/Mercedes-BenzMercedes-Benz electric G-Wagen review: king of the off-roadThe G580 with EQ Technology may have a fancy name, but it stays true to its original formula.byPeter NelsonJ...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Voice AI Startup ElevenLabs Plans to Add Hubs Around the World - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWZ4VmNiR011Tll0SHUxT0lKOGFmLUdYSURsa1BZUGxyNlVFR3NMLTRPS1BUb3NkTVhDVnlWbjRiMEpjNERnSk5ienZ5b21Rb2dHQUx1LVJjMWVaVFJ5MC15UEpRbnhtOWN0Qk93SkJxRFBoM1laemhvRzA4aFJBU2RxR1hUMzJzTHZXbzdwVFZHTXA3c3BMLXBiU0t5Mk03ZmxxUmQwWThibjRvSThCRnpnV0NXTW96?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-05
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWZ4VmNiR011Tll0SHUxT0lKOGFmLUdYSURsa1BZUGxyNlVFR3NMLTRPS1BUb3NkTVhDVnlWbjRiMEpjNERnSk5ienZ5b21Rb2dHQUx1LVJjMWVaVFJ5MC15UEpRbnhtOWN0Qk93Sk...
+
+**Categories:** ai, emerging
+
+---
+
+### [Uncovering the Role of Spacers in Advancing Portable, Low-Voltage OLEDs](https://www.nextbigfuture.com/2025/07/uncovering-the-role-of-spacers-in-advancing-portable-low-voltage-oleds.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-04
+
+Inserting a nanometer-thin spacer in ExUC-OLEDs improves energy transfer, enhances blue light emission 77-fold, paving way for lightweight, low-voltage, and more flexible OLEDs. The effect of spacer i...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+
+**Source:** The Verge | **Published:** 2025-07-04
+
+TechHere are the best Apple Watch deals available right now﻿Every model in Apple’s current lineup, from the entry-level SE to the jet black Ultra 2, is receiving a sizable discount right now.﻿Every mo...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Insulator Becomes Conducting Semiconductor And  Could Make Superelastic Silicone Solar Panels](https://www.nextbigfuture.com/2025/07/insulator-becomes-conducting-semiconductor.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-04
+
+A rule-breaking, colorful silicone that could conduct electricity.Previously only thought to be insulating, a shift in the angle between silicon and oxygen atoms creates a highway for an electrical ch...
+
+**Categories:** ai, emerging
 
 ---
 
@@ -264,6 +1438,46 @@ ChatGPT Deep Research tests new connectors for more contextByMayank ParmarJuly 4
 
 ---
 
+### [SDT Completes 20 Billion KRW ($14.11 Million USD) Pre-IPO Investment, Eyes Quantum Technology IPO in 2025 - Quantum Computing Report](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjluVTM4T0RyNUZtYXRab1JQXzVmMUZkSFdPNTNlcU9YWDlSZFliRmhvSnBtX1otZS1uOXh5YkJLbzA1NnBUdmU4NTJSbGJ6Sm9nSHZaLVVUZy1uNFpEbHIyVzlEdjgzVURTMHN5anI3YkhUTDk3M2o0emY2M3pKVTRtWUFBMVZxT3A2aFN2Rm5VakxyTjIwV1czTHFnRlVjckltdkg4S3hMTGs2MU5FVEwwRnVLRHFIR0VsNGJuZWN0X2JlZW9DblFSSElyRVNaV0o40gHYAUFVX3lxTE5DeHNNbDJ4UmRhTVd6Mmlpdmh1dGcwVXpxV19EYmpFVWVsaVZaZU1QZnBPX1psU01xMmFvcHVjWUpYSGRfZ3QtOTEwa2xsWEltX3l1UF9kY2FOSkttbTVQOXJJRXR2OTVkSmh3dGZBM3NMakhmeFluNjNuTWVnenY4Y0tvN0hySmM1aE4zSVJKblh4SnBtQXQwQzRCWVdRZi1TVWhVZzY0MzJPb0MydzMxanF6V2JmTElBY3FldnNlQzJTNWUxeUVuMk52NmZ0YjJLTnBYY3VrZw?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-04
+
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjluVTM4T0RyNUZtYXRab1JQXzVmMUZkSFdPNTNlcU9YWDlSZFliRmhvSnBtX1otZS1uOXh5YkJLbzA1NnBUdmU4NTJSbGJ6Sm9nSHZaLVVUZy1uNFpEbHIyVzlEdjgzVURTMHN5an...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [XAI Grok 4 Has Leading Benchmarks](https://www.nextbigfuture.com/2025/07/xai-grok-4-has-leading-benchmarks.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-04
+
+XAI Grok 4 Benchmarks are showing it is the leading model. Humanity Last Exam at 35 and 45 for reasoning is a big improvement from about 21 for other top models.If these leaked Grok 4 benchmarks are c...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Trump inaugural impersonators scammed donors out of crypto, feds say](https://www.cnbc.com/2025/07/04/trump-cryptocurrency-ethereum-tokens.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+Trump inaugural impersonators scammed donors out of crypto, feds saySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsScammers impersonating the...
+
+**Categories:** ai, general, stock
+
+---
+
+### [OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats](https://www.cnbc.com/2025/07/04/openai-altman-july-4-zohran-mamdani.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+OpenAI CEO Sam Altman celebrates capitalism in July 4 postSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI CEO Sam Altman said he finds ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
 ### [Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It](https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html)
 
 **Source:** The Hacker News | **Published:** 2025-07-04
@@ -284,6 +1498,26 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
+### [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveCruise robotaxis areback on the road … well, kind of. Though General Motorspulled the plugon its self-driving taxi business last year, the automaker has been quie...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [OpenAI CEO Sam Altman calls himself “politically homeless” in post criticizing Democrats](https://seekingalpha.com/news/4465408-openai-ceo-sam-altman-calls-himself-politically-homeless-in-post-criticizing-democrats?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-04
+
+
+
+**Categories:** ai, stock
+
+---
+
 ### [Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html)
 
 **Source:** The Hacker News | **Published:** 2025-07-04
@@ -291,6 +1525,46 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
 **Categories:** cybersecurity, ai, emerging
+
+---
+
+### [UK and Singapore form alliance to guide AI in finance](https://www.artificialintelligence-news.com/news/uk-and-singapore-form-alliance-guide-ai-in-finance/)
+
+**Source:** AI News | **Published:** 2025-07-04
+
+UK and Singapore form alliance to guide AI in financeSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Recog...
+
+**Categories:** ai, emerging
+
+---
+
+### [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+The European Union on Friday said it will stick to its timeline for implementing its landmark AI legislation, in response to a concerted effort by more than a hundred tech companies to delay the bloc’...
+
+**Categories:** startups, ai, general
+
+---
+
+### [The Download: India’s AI independence, and predicting future epidemics](https://www.technologyreview.com/2025/07/04/1119711/the-download-indias-ai-independence-and-predicting-future-epidemics/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-04
+
+This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.Inside India’s scramble for AI independenceDespite its status as ...
+
+**Categories:** ai, emerging
+
+---
+
+### [15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
 
 ---
 
@@ -304,33 +1578,143 @@ Ingram Micro suffers global outage as internal systems inaccessibleByLawrence Ab
 
 ---
 
-### [Hacker leaks Telefónica data allegedly stolen in a new breach](https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/)
+### [The 2025 IPO Resurgence: AI, Crypto, and ESG Lead the Charge - AInvest](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlVmTW1DdE5nR010YkN2MXhidGxKUzNXTFVCb0hhaVZCS0VPRWJYSnkxX25XZ0VpdWpiRVpuUXVHOE52RDV1aVhZMzVKQUg4cmMzS0hGcTVJb05RaE1YZFRfTHhadnhsSGpLYU94OEF5RkZudUp3cHVEUmItclI2aE4yZkZUV0U?oc=5)
 
-**Source:** Bleeping Computer | **Published:** 2025-07-04
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-04
 
-Hacker leaks Telefónica data allegedly stolen in a new breachByIonut IlascuJuly 4, 202511:11 AM0A hacker is threatening to leak 106GB of data allegedly stolen from Spanish telecommunications company T...
+<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlVmTW1DdE5nR010YkN2MXhidGxKUzNXTFVCb0hhaVZCS0VPRWJYSnkxX25XZ0VpdWpiRVpuUXVHOE52RDV1aVhZMzVKQUg4cmMzS0hGcTVJb05RaE1YZFRfTHhadnhsSGpLYU94OE...
 
-**Categories:** cybersecurity
-
----
-
-### [South Korea penalises 'negligent' SK Telecom over major data leak - Reuters](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmp2MzMxbm10dmt2bGVyaklQNlBaenFyV255MWpaelo5UEdmRUVGbU1WaDdBeXJOb1FzVTQzQ2lST0lTYlF1bnZ0Qm1Rb2xVMFFnNG92Nkt5Q1lWTHpzUzNUaW1WaU1ZampxdVQxZm5CVkQ4R3pWdWJ3QjNrcEpYenk2ZU9wSlRJSndHdno1UExvaXNiaFc4OEdSSW1CdmM3aEZMTTdPa3lZcmd4ZEZpUWg4V3Axbk5vclgwbW0tYWhDb3RhQUhucXpoZDd4c1F0OThCSFFZTHc?oc=5)
-
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-04
-
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmp2MzMxbm10dmt2bGVyaklQNlBaenFyV255MWpaelo5UEdmRUVGbU1WaDdBeXJOb1FzVTQzQ2lST0lTYlF1bnZ0Qm1Rb2xVMFFnNG92Nkt5Q1lWTHpzUzNUaW1WaU1ZampxdVQxZm...
-
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging, stock
 
 ---
 
-### [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html)
+### [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
 
-**Source:** The Hacker News | **Published:** 2025-07-03
+**Source:** Wired | **Published:** 2025-07-04
 
-How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
+Save this storySaveSave this storySaveThere are around11,000 satellites orbiting Earth, and it is estimated that at least 50,000 more will be launched in the next decade. There are also exploration in...
 
-**Categories:** cybersecurity, emerging
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Google faces EU antitrust complaint over AI Overviews as independent publishers seek action - Reuters](https://seekingalpha.com/news/4465398-google-faces-eu-antitrust-complaint-over-ai-overviews-as-independent-publishers-seek-action---reuters?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-04
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [Inside India’s scramble for AI independence](https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-04
+
+In Bengaluru, India, Adithya Kolavi felt a mix of excitement and validation as he watched DeepSeek unleash its disruptive language model on the world earlier this year. The Chinese technology rivaled ...
+
+**Categories:** ai, emerging
+
+---
+
+### [Nvidia's stock gains put it nearly on track to become world's most valuable company in history](https://seekingalpha.com/news/4465394-nvidias-stock-gains-put-it-nearly-on-track-to-become-worlds-most-valuable-company-in-history?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-04
+
+
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Tech IPO market gains momentum as Circle’s valuation reaches $42b - Tech in Asia](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEdlazA1c2NfSlNUUFpnNjFHZmQ3d19obHBDUFpKdkJpYl9ONWhGSlp3M1FmVURLTjhCdktnaWk0ejJ4alZna0JWSW9wQkE2enVpaUZMOFdPdUs0Y3B6NEQxejl3OVRzMzNXY1psRV90V25nNHpOQlBXWEh1c0dFdVo5ZXQ1Y2dibml1MGxJY3lLRTd4TGFUeXhZbw?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-04
+
+<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEdlazA1c2NfSlNUUFpnNjFHZmQ3d19obHBDUFpKdkJpYl9ONWhGSlp3M1FmVURLTjhCdktnaWk0ejJ4alZna0JWSW9wQkE2enVpaUZMOFdPdUs0Y3B6NEQxejl3OVRzMzNXY1psRV...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Hitachi Energy says AI power spikes threaten to destabilise global supply](https://www.ft.com/content/2789d048-7791-4f9a-8dbe-229c45f8083b)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-04
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHitachi Energy says AI power spikes threaten to destabilise global supplySubscribe to unlock this articleTry unlimited...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Uniqlo Owner, Seven &amp; i To Set Tone for Japan’s Consumer Sector](https://www.bloomberg.com/news/articles/2025-07-04/uniqlo-owner-seven-i-to-set-tone-for-japan-s-consumer-sector)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-04
+
+Uniqlo owner Fast Retailing Co. and Seven &amp; i Holdings Co. will show how Japan’s consumer sector is faring as Asia’s earnings season kicks off.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Two Things Tesla Needs for $1000 Share Price](https://www.nextbigfuture.com/2025/07/two-things-tesla-needs-for-1000-share-price.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-03
+
+Tesla has started executing on Robotaxi but a lot more must happen to enable a big share price run.There are two key things that must happen.There needs to be the massive expansion to at least 20,000 ...
+
+**Categories:** ai, emerging
+
+---
+
+### [Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%](https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-03
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowJapanese AI labSakana AIhas introduced a new ...
+
+**Categories:** ai, emerging
+
+---
+
+### [Austin Robtaxi Traffic – June-July Waymo 12 Versus Tesla 1 Incident](https://www.nextbigfuture.com/2025/07/austin-robtaxi-traffic-june-july-waymo-12-versus-tesla-1-incident.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-03
+
+The City of Austin is reporting robotaxi traffic incidents with daily updates.Waymo has about ten times the number of vehicles and double the driving area as Tesla in Austin.Waymo has been operating s...
+
+**Categories:** ai, emerging
+
+---
+
+### [XAI Grok 4 Should Release This Weekend](https://www.nextbigfuture.com/2025/07/xai-grok-4-should-release-this-weekend.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-03
+
+Looks like there are new Grok 4 model versions (0702) – grok-4-0702 and grok-4-code-0702.Rumor that xAI will release two versions.➝  GROK 4 & GROK 4 codeVarious reports and rumors of Grok 4 capabiliti...
+
+**Categories:** ai, emerging
+
+---
+
+### [Ambiq Micro files for U.S. IPO as generative AI fuels chip demand - Reuters](https://news.google.com/rss/articles/CBMihgFBVV95cUxQREFzZ3UxbUhlU092dTlpV3BmRkktMGQ4TVhPVURvU1NZV05rZGRKcEY1YU5ncDBuamtDRHFDZEF4TjdHXzBaUnUzaWZFQnoybmx0WFV5NFNmbEp2aDhBNjdkVmVEQkcteEFkaEh1dExZSFFlSzVtN0ZQQ2w4NlRjMUNXM3lUUQ?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQREFzZ3UxbUhlU092dTlpV3BmRkktMGQ4TVhPVURvU1NZV05rZGRKcEY1YU5ncDBuamtDRHFDZEF4TjdHXzBaUnUzaWZFQnoybmx0WFV5NFNmbEp2aDhBNjdkVmVEQkcteEFkaEh1dE...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+TechCrunch Disrupt 2025is back at Moscone West in San Francisco from October 27-29, bringing together 10,000+ startup and VC leaders to dig into what’s next in tech. And when it comes to artificial in...
+
+**Categories:** startups, ai, emerging
 
 ---
 
@@ -344,23 +1728,116 @@ Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launchByMayank Parmar
 
 ---
 
-### [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html)
+### [Ways to Bridge the U.S. Computer Science Education Gap](https://spectrum.ieee.org/computer-science-education-gap)
 
-**Source:** The Hacker News | **Published:** 2025-07-03
+**Source:** IEEE Spectrum | **Published:** 2025-07-03
 
-How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
+The InstituteIEEE Member NewsCareersOpinionWays to Bridge the U.S. Computer Science Education GapTraining teachers and mandating computer courses are a few mustsJanyl Jumadinova03 Jul 20254 min readJa...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging, stock
 
 ---
 
-### [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/)
+### [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/)
 
-**Source:** Krebs on Security | **Published:** 2025-07-03
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
 
-In May 2025, the U.S. government sanctioned a Chinese national for operating a cloud provider linked to the majority of virtual currency investment scam websites reported to the FBI. But a new report ...
+Listen onApple PodcastsListen onSpotifyCloudflare wants AI companies to pay up. The cloud infrastructure provider, which powers around 20% of the web, is launching a new experiment that would let publ...
 
-**Categories:** cybersecurity, stock
+**Categories:** startups, ai, emerging
+
+---
+
+### [Judge: You can’t ban DEI grants without bothering to define DEI](https://arstechnica.com/science/2025/07/doge-told-the-nih-which-grants-to-cancel-with-no-scientific-review/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn mid-June, a federal judgeissued a stinging rebuketo the Trump ad...
+
+**Categories:** ai, general
+
+---
+
+### [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Raising in 2025 doesn’t look anything like it did in 2021 — and that’s exactly the point.AtTechCrunch All StageonJuly 15at Boston’s SoWa Power Station,Kristen Craft, head of Business Development at Fi...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Meta’s “AI superintelligence” effort sounds just like its failed “metaverse”](https://arstechnica.com/ai/2025/07/metas-ai-superintelligence-effort-sounds-just-like-its-failed-metaverse/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Dust hits $6M ARR helping enterprises build AI agents that actually do stuff instead of just talking](https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-03
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowDust, a two-year-old artificial intelligence ...
+
+**Categories:** ai, emerging
+
+---
+
+### [Signs of a pick-up in venture capital exits are finally emerging](https://www.ft.com/content/2e0201f6-8258-4c59-a7a7-689b2c094701)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerSigns of a pick-up in venture capital exits are finally emergingSubscribe to unlock this articleTry unlimited accessOn...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [The Week’s 10 Biggest Funding Rounds: AI On Top Again, Led By xAI’s Massive Raise - Crunchbase News](https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFpIU0NoZzJFc0gzV2diS3lsZzZNdm5zTEJveDBCdjRydFc0dHd3NThORVNwYVgzTWdIMWlyMDNha2xQNV9zU0FrbjdZbGFsSnFDUTVxODV4dnd0bzhfNWtiTDB1WWpYSm9lTU1vRnVXckFCclNGcmdoMlZYTW5rN05JT2JvLWM?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFpIU0NoZzJFc0gzV2diS3lsZzZNdm5zTEJveDBCdjRydFc0dHd3NThORVNwYVgzTWdIMWlyMDNha2xQNV9zU0FrbjdZbGFsSnFDUTVxODV4dnd0bzhfNWtiTDB1WWpYSm9lTU1vRn...
+
+**Categories:** ai, emerging
+
+---
+
+### [Why 2025 Marks a Golden Opportunity in the IPO Market - AInvest](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDIwYkJkZFNvdUgzaGZmLWVOYWNoMUU5YUdwNWJ3R1dheXlYM1FaWEhsRGw3cW1BWldPMm1YS3R6WFdnRkhFMW9lck55endiYWxYdENVdG9rSDdYQUI3Rmt3SXFob3p4eWhJTzR3SDhEWDZKTGRTN0RhZTNZTEdjNg?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDIwYkJkZFNvdUgzaGZmLWVOYWNoMUU5YUdwNWJ3R1dheXlYM1FaWEhsRGw3cW1BWldPMm1YS3R6WFdnRkhFMW9lck55endiYWxYdENVdG9rSDdYQUI3Rmt3SXFob3p4eWhJTzR3SD...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips](https://www.cnbc.com/2025/07/03/coreweave-dell-blackwell-ultra-nvidia.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+CoreWeave says it's the first to get Nvidia's Blackwell UltraSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsNvidia's Blackwell Ultra chips, t...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Bad data leads to bad policy](https://www.ft.com/content/689a72db-e622-4868-b52c-9a5cdc4ad1f5)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerBad data leads to bad policySubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month.
+Com...
+
+**Categories:** ai, general, stock
 
 ---
 
@@ -371,6 +1848,88 @@ In May 2025, the U.S. government sanctioned a Chinese national for operating a c
 How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
 **Categories:** cybersecurity, ai, emerging
+
+---
+
+### [Man’s ghastly festering ulcer stumps doctors—until they cut out a wedge of flesh](https://arstechnica.com/health/2025/07/man-fails-to-take-his-medicine-the-flesh-starts-rotting-off-his-leg/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [OpenAI rejects Robinhood’s unauthorised tokenised shares](https://www.artificialintelligence-news.com/news/openai-rejects-robinhood-unauthorised-tokenised-shares/)
+
+**Source:** AI News | **Published:** 2025-07-03
+
+OpenAI rejects Robinhood's unauthorised tokenised sharesSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Re...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [IPO market gets boost from Circle's 500% surge, sparking optimism that drought may be ending - CNBC](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGM4ODV4Vmw5UWF3VmZqbG4xR3B1aWF2dlB5aWhkZ1VrUUFPcXdNWnU3U2FzbTVkRWpVb3pkMUJ3LXlHZzJVcHc4Y1V0bEtBX002WXdGeWxJTXZBVWFlY0M3bTgtN0hyekJZTHJ0T09EenJleUhlMmVVT1JjVjVDWU9oZTBZeC1Sc2R0aG1ZMXdBaTRqdzJYZ3lNSFN1MUFBM3dEQkRueEtudVNoYTJrOFl30gG3AUFVX3lxTE54ZUJ0ci1US1pmX0wwWVVfN3FjYjFrNkNVQmdQNHJWWWd3WlFlbnRJbjYzdU1mWk4wbHoySWNFeVdTS0dPV3NTMHZ2c1Rib3lESXFIWkNqN0Z5UjhObnFXdXZQcFJzWGxxaGdKdUVEU2NJbzd3RWk3YTZQMlA3OUtWT3BrdC1wMDZJSVpUTlNDX1Q4RFRMc1hORHVSRXpHODNuSnRiM3hsMnowSGxYSTFLN1RHb2FJTQ?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGM4ODV4Vmw5UWF3VmZqbG4xR3B1aWF2dlB5aWhkZ1VrUUFPcXdNWnU3U2FzbTVkRWpVb3pkMUJ3LXlHZzJVcHc4Y1V0bEtBX002WXdGeWxJTXZBVWFlY0M3bTgtN0hyekJZTHJ0T0...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [xAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAftermonths of backlashover alleged pollution concerns, xAI has fin...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+As a parent, it can be daunting to hand over a smart device to their tween when a myriad of online dangers exist. Pinwheel, a kid-friendly tech company, is introducing a new solution for parents who w...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [2 Red-Hot Recent IPOs To Buy in 2025 - 24/7 Wall St.](https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3ZMbE9hSk43MGh1ejYwb2lSUjAwaGpHU2hSek5SNlhiWFhNblZ0aExPVjZiYy0xQ19ndXlyVmlQMjctTUtwdUZ6LTBTNW03X3FzeGJid0hqUU1yc1ZJVW8zY2E1U1hSZ1pDTGMzSDhNbUdpR3RCYnZ6NnBpRUZBTVd5d3RTZk0?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3ZMbE9hSk43MGh1ejYwb2lSUjAwaGpHU2hSek5SNlhiWFhNblZ0aExPVjZiYy0xQ19ndXlyVmlQMjctTUtwdUZ6LTBTNW03X3FzeGJid0hqUU1yc1ZJVW8zY2E1U1hSZ1pDTGMzSD...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Dinosaurs to doctors’ records: the UK weighs up its data assets](https://www.ft.com/content/7585ed49-3e2c-4863-b0dc-a8a2942e9b9c)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerDinosaurs to doctors’ records: the UK weighs up its data assetsSubscribe to unlock this articleTry unlimited accessOnl...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Hypersonic weapons startupCastelionis raising a $350 million Series B led by Lightspeed Venture Partners and Altimeter Capital, according to sources and documents viewed by TechCrunch.The round, which...
+
+**Categories:** startups, ai, emerging
 
 ---
 
@@ -394,33 +1953,113 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Police dismantles investment fraud ring stealing €10 million](https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/)
+### [AI is eating venture capital, or at least its dollars - Axios](https://news.google.com/rss/articles/CBMia0FVX3lxTE9aYVFka2RtMUFSVUh2UnEtTGhTNV9xamNxczRtSDFYblRuZW1uMFdhbm10NHdGOEp6elh4MFlBcG1OUFJ3cjhNVEo1bkRtcXk3S05sb0RqdFEyb1R0ZHIteThlYTNOVE1SeGJn?oc=5)
 
-**Source:** Bleeping Computer | **Published:** 2025-07-03
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
 
-Police dismantles investment fraud ring stealing €10 millionByBill ToulasJuly 3, 202501:53 PM0The Spanish police have dismantled a large-scale investment fraud operation that caused cumulative damages...
+<a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9aYVFka2RtMUFSVUh2UnEtTGhTNV9xamNxczRtSDFYblRuZW1uMFdhbm10NHdGOEp6elh4MFlBcG1OUFJ3cjhNVEo1bkRtcXk3S05sb0RqdFEyb1R0ZHIteThlYTNOVE1SeGJn?oc=5"...
 
-**Categories:** cybersecurity, emerging, stock
-
----
-
-### [Grafana releases critical security update for Image Renderer plugin](https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/)
-
-**Source:** Bleeping Computer | **Published:** 2025-07-03
-
-Grafana releases critical security update for Image Renderer pluginByBill ToulasJuly 3, 202512:16 PM0Grafana Labs has addressed four Chromium vulnerabilities in critical security updates for the Grafa...
-
-**Categories:** cybersecurity
+**Categories:** ai, emerging
 
 ---
 
-### [IdeaLab confirms data stolen in ransomware attack last year](https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/)
+### [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/)
 
-**Source:** Bleeping Computer | **Published:** 2025-07-03
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
 
-IdeaLab is notifying individuals impacted by a data breach incident last October when hackers accessed sensitive information. [...]
+Fundraising is already hard — don’t let a messy cap table make it harder.AtTechCrunch All StageonJuly 15, founders will get a behind-the-scenes look at what it really takes to keep a raise on track du...
 
-**Categories:** cybersecurity, emerging
+**Categories:** startups, ai, emerging
+
+---
+
+### [This 1945 TV Console Showed Two Programs at Once](https://spectrum.ieee.org/dumont-duoscopic-tv-set)
+
+**Source:** IEEE Spectrum | **Published:** 2025-07-03
+
+History of TechnologyMagazineArticlePast ForwardJuly 2025Consumer ElectronicsThis 1945 TV Console Showed Two Programs at OnceIts inventor envisioned an end to arguments over what to watchAllison Marsh...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+AI agents are reshaping how work gets done across industries, and atTechCrunch Disrupt 2025, one of the leading voices in that transformation is stepping onto the AI Stage.May Habib, CEO and co-founde...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Tech Voices: OpenAI warns on stock tokens, CoreWeave-Nvidia, Apple](https://seekingalpha.com/news/4465333-tech-voices-openai-warns-on-stock-tokens-coreweave-nvidia-apple?source=feed_sector_technology)
+
+**Source:** Seeking Alpha Tech | **Published:** 2025-07-03
+
+
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [HOLY SMOKES! A new, 200% faster DeepSeek R1-0528 variant appears from German lab TNG Technology Consulting GmbH](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-03
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowIt’s been a little more than a month since Ch...
+
+**Categories:** ai, emerging
+
+---
+
+### [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Despite their imposing presence, quantum computers are delicate beasts, and their errors are among the main bottlenecks that the quantum computing community is actively working to address. Failing thi...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Jobless claims fall to lowest level since mid-May](https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse)
+
+**Source:** MarketWatch IPO | **Published:** 2025-07-03
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [The Download: AI agents hype, and Google’s electricity plans](https://www.technologyreview.com/2025/07/03/1119682/the-download-ai-agents-hype-and-googles-electricity-plans/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-03
+
+This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.Don’t let hype about AI agents get ahead of reality—Yoav Shoham i...
+
+**Categories:** ai, emerging
+
+---
+
+### [I’m human. Are you? The battle for our online identity](https://www.ft.com/content/1a93ca54-d1b9-4b06-b504-7c4937173068)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerI’m human. Are you? The battle for our online identitySubscribe to unlock this articleTry unlimited accessOnly$1for 4 ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Like Google, China's biggest search player Baidu is beefing up its product with AI to fight rivals](https://www.cnbc.com/2025/07/03/chinas-baidu-is-beefing-up-its-search-product-with-ai-to-fight-rivals.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+China's Baidu is beefing up its search product with AI to fight rivalsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsBaidu has given its sear...
+
+**Categories:** ai, general, emerging, stock
 
 ---
 
@@ -434,13 +2073,13 @@ CyXcel research discovers a third of UK businesses at AI riskSkip to contentAI N
 
 ---
 
-### [Microsoft investigates ongoing SharePoint Online access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/)
+### [Google’s electricity demand is skyrocketing](https://www.technologyreview.com/2025/07/03/1119627/google-electricity-fusion-ai/)
 
-**Source:** Bleeping Computer | **Published:** 2025-07-03
+**Source:** MIT Technology Review | **Published:** 2025-07-03
 
-​Microsoft is investigating an ongoing incident causing intermittent issues for users attempting to access SharePoint Online sites. [...]
+We got two big pieces of energy news from Google this week. The company announced that it’s signed an agreement to purchase electricity from a fusion company’s forthcoming first power plant. Google al...
 
-**Categories:** emerging, cybersecurity
+**Categories:** ai, emerging
 
 ---
 
@@ -454,13 +2093,153 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [OryxAlign: How Zero Trust is Enhancing Data Centre Security - Technology Magazine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1JrWm1vcFM5Y3FDV01EQllsSUdtMFloLS1CYXBuY0Y4V19MZzdsbVpsNVphRG9WQXVnZkRpbVF0LWZWOU5vQnVhMzJ6TENYalpOYnk0WFN5Um5mcGplT3RFZGNSNXhhbmFzMDkxTm8zRldvZjVpOGpNSmxEWGVtVEVGeG8xbzcyVFBVemhVQXlQSlBPLXlsaGpTOEM3OFFXeUNfS3hmU2FsY2lRa3l3?oc=5)
+### [Don’t let hype about AI agents get ahead of reality](https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-03
+**Source:** MIT Technology Review | **Published:** 2025-07-03
 
-<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1JrWm1vcFM5Y3FDV01EQllsSUdtMFloLS1CYXBuY0Y4V19MZzdsbVpsNVphRG9WQXVnZkRpbVF0LWZWOU5vQnVhMzJ6TENYalpOYnk0WFN5Um5mcGplT3RFZGNSNXhhbmFzMDkxTm...
+Google’s recent unveiling of what it calls a “new class of agentic experiences” feels like a turning point. At its I/O 2025 event in May, for example, the company showed off a digital assistant that d...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
+
+---
+
+### [Berlin-based Peec AI raises €7 million five months after launch to empower companies to improve their GEO - EU-Startups](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT3hlekRlWDZHRzV1R2RqNVVSVlVGaFBCYzdHSk1aQ0RNcTVXTks1Zi1aSTgtaDc5Ymh1cDlrazFtRkwzYkxZQmFOd3JPT3F3LTVPOXg2eF9IbFlVdjd5aEI5Y3BpRTJIeTA0STh1Qko2SWdtSlBVX01nM0RfckdMSlVVQ3pqZklWYm4xTzJpZDZYY1dSVFlwdUhya1lHQmdMdDRLUzlhLURWdmp1QnV0NE8wVDVKa3R4VGkzVVJZV0pJMU1uTmhaUjNmQ2JwdmNNak56Q3c3SGk4dw?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT3hlekRlWDZHRzV1R2RqNVVSVlVGaFBCYzdHSk1aQ0RNcTVXTks1Zi1aSTgtaDc5Ymh1cDlrazFtRkwzYkxZQmFOd3JPT3F3LTVPOXg2eF9IbFlVdjd5aEI5Y3BpRTJIeTA0STh1Qk...
+
+**Categories:** ai, emerging
+
+---
+
+### [<a href="https://www.fiercebiotech.com/biotech/roches-chugai-inks-250m-gero-deal-access-age-related-disease-targets" hreflang="en">Roche’s Chugai inks $250M Gero deal to access age-related disease targets</a>](https://www.fiercebiotech.com/biotech/roches-chugai-inks-250m-gero-deal-access-age-related-disease-targets)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-03
+
+BiotechRoche’s Chugai inks $250M Gero deal to access age-related disease targetsByNick Paul TaylorJul 7, 2025 3:00amChugaiRocheChugai PharmaceuticalagingChugai Pharmaceutical has teamed up with Gero, ...
+
+**Categories:** ai, biotech, emerging
+
+---
+
+### [AI voice startup ElevenLabs pushes global expansion as it gears up for an IPO](https://www.cnbc.com/2025/07/03/ai-voice-startup-elevenlabs-plots-global-expansion-eventual-ipo.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+AI voice startup ElevenLabs plots global expansion, eventual IPOSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAI voice generation platform E...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Are bigger AI models better stock pickers? Maybe, but probably not](https://www.ft.com/content/89d88cbf-a92c-43d2-b8af-88ae26529be0)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT AlphavilleRegister to unlock this articleAre bigger AI models better stock pickers? Maybe, but probably notFT Alpha...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [<a href="https://www.fiercebiotech.com/biotech/4dmt-lays-25-workforce-while-accelerating-phase-3-eye-disease-therapy-timeline" hreflang="en">4DMT lays off 25% of workforce while accelerating phase 3 eye gene therapy timeline</a>](https://www.fiercebiotech.com/biotech/4dmt-lays-25-workforce-while-accelerating-phase-3-eye-disease-therapy-timeline)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-03
+
+Brought to you by:Biotech4DMT lays off 25% of workforce while accelerating phase 3 eye gene therapy timelineByJames WaldronJul 3, 2025 4:52am4D Molecular TherapeuticsCell & Gene Therapylayoffswet AMD4...
+
+**Categories:** ai, biotech, emerging
+
+---
+
+### [SF AI startups seeing green as VC investment surges - San Francisco Examiner](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0FYZ1lyYkdJNVZ0YVktaXR6LVVJb0pHOHVVZjYzTDRlOGVfSk5LZnZNMEZWdXBQUElLY0xqeXYzNmREYUdTcFZpOFN5NmcwdHd4R1c5WXhWV0ZJamxabzNQa01zWnNQMkMyRk45dmw3QjlDQXlxQVpKdUE1MWZqTF91Um9KQi1NUEw1UU94NUhxQkFTUF9tWGVHajU5Q3NwR3lGclNCTThoRFl5NFFOdkZRUFNGcnUwRzdXdV9vNllZbGMzTlBsOTdjYlktcVlHaW5wcEN5T1JNTk5VcDBtYTQzMmo?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0FYZ1lyYkdJNVZ0YVktaXR6LVVJb0pHOHVVZjYzTDRlOGVfSk5LZnZNMEZWdXBQUElLY0xqeXYzNmREYUdTcFZpOFN5NmcwdHd4R1c5WXhWV0ZJamxabzNQa01zWnNQMkMyRk45dm...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Meta’s AI climate tool raised false hope of CO₂ removal, scientists say](https://www.ft.com/content/69220fea-9c9a-4f55-9118-65d2660c85d4)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerMeta’s AI climate tool raised false hope of CO₂ removal, scientists saySubscribe to unlock this articleJoin FT EditOnl...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [European CEOs urge Brussels to halt landmark AI Act](https://www.ft.com/content/a825759e-aec8-4184-bc73-f604f169204c)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerEuropean CEOs urge Brussels to halt landmark AI ActSubscribe to unlock this articleTry unlimited accessOnly$1for 4 wee...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [How hopeful can we be about AI climate tech?](https://www.ft.com/content/bd835b8f-e39a-4e5f-84d0-2fb019b47b80)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHow hopeful can we be about AI climate tech?Subscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Whose job is safe from AI?](https://www.ft.com/content/b67bcbaa-67b9-48f8-ad4d-4cd6f9bdc1b7)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhose job is safe from AI?Subscribe to unlock this articleJoin FT EditOnly$49a yearGet 2 months free with an annual su...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Hong Kong's IPO market is on fire — here's what's fueling the surge - CNBC](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnhJbVNGN1RlMWhDbFFrVzNVVWxaY01nbmo3QjhsemNXek81UWx1TGdaeVh4bVRnaW9mQ3o2QjBfcXBoU3paRE9FUDludmtEdDI1SmxpXzdZRmluM0VhSmNkRTlnM2x4Q2hfd2s4Y21lVHpaWkx5eU02M25XLWJtUlc4YzYwM0RQRGZoSjJfSjlYRXE4ZEdRakY1VVRrM3pqMlVqSEJwdWU3eldzcEhJ0gG0AUFVX3lxTE9FTHNtVTh3YUZTMWJoTExuSTE3RlBkYndmcEtRRHhoMHV0UE1Fa09vbWg1RUdIN1g5bV9TVVVXM1pQYVpLOVloUGJSY1JvMDQzeTNvU0R0cDJRSkdGTHg0bHpGMy1GX0VLd2NKWDRwMXlORXVyVTZHcThCQnUtYjlHb0ZFWXRKSFRfeTNobVBiVElyaVA3WkUteGtXVU1lc2pzd2J6WDNIS3FEZFVNQ3ZDYWhiTw?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnhJbVNGN1RlMWhDbFFrVzNVVWxaY01nbmo3QjhsemNXek81UWx1TGdaeVh4bVRnaW9mQ3o2QjBfcXBoU3paRE9FUDludmtEdDI1SmxpXzdZRmluM0VhSmNkRTlnM2x4Q2hfd2s4Y2...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Campfire Raises $35 Million for AI-Driven ERP System for Startups - PYMNTS.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGlHYjdia3pXMnRoc3VnMFY5bnA1d3owTTZJSGQ4UDVtdE9zWVpkcGhWN2l6U3B1WmR4M0c5cXpMeDNJb1BJdERYZ08yc3dwWnRHTG92dGtqd1djS0NoSDBMU0pxY0NEVk52ZHZ3UENKS3I4Z2Vvd3VydzRZb1dqMlNnUWtPRWgtNExEZWNHUC1BQWRDMXBkTTlmOWZidEMxMG9ULXdObVg?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGlHYjdia3pXMnRoc3VnMFY5bnA1d3owTTZJSGQ4UDVtdE9zWVpkcGhWN2l6U3B1WmR4M0c5cXpMeDNJb1BJdERYZ08yc3dwWnRHTG92dGtqd1djS0NoSDBMU0pxY0NEVk52ZHZ3UE...
+
+**Categories:** ai, emerging
+
+---
+
+### [Robotics Startup Genesis AI Launches With $105 Million in Funding - PYMNTS.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTk96Y0pfMVpUTW9GaFpRMzNHYkdDRkpsUGQwWDYzYTdWekU5dE5kaVJoR2k5dTVWZU5zQmF1TXJuSWdnaWdTTXB2LUdFckc3ZVNsVmpCX3FOQ1RqRlc3VFFwemFSSmpxZDRZdlE4azAxaW8zZEY1UUwwSmE5REx3U0dCdHhLR21DYU54UmdNSm1wa1d1cHN6UlhvY21XZUZJblhPN0RKRnhETkJlYl92MDRya29Pby1BamtOZUgtamJaRDJjclE?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQTk96Y0pfMVpUTW9GaFpRMzNHYkdDRkpsUGQwWDYzYTdWekU5dE5kaVJoR2k5dTVWZU5zQmF1TXJuSWdnaWdTTXB2LUdFckc3ZVNsVmpCX3FOQ1RqRlc3VFFwemFSSmpxZDRZdlE4az...
+
+**Categories:** ai, emerging
+
+---
+
+### [OpenAI signs $30bn data centre deal with Oracle](https://www.ft.com/content/b4324903-ff53-48c2-bf71-4151cd4f68d0)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-02
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOpenAI signs $30bn data centre deal with OracleSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksTh...
+
+**Categories:** emerging, ai, general, stock
 
 ---
 
@@ -474,6 +2253,58 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
+### [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-02
+
+Listen onApple PodcastsListen onSpotifyRobinhood’s Baiju Bhatt has a new mission: solar power from space.Fresh off a$50 million Series Araise, Robinhood co-founder Baiju Bhatt is going all-in on space...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [OpenAI says Robinhood's tokens aren't equity in the company](https://www.cnbc.com/2025/07/02/openai-robinhood-tokens.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+OpenAI says Robinhood's tokens aren't equity in the companySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI said it did not partner with...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [TikTok is being flooded with racist AI videos generated by Google’s Veo 3](https://arstechnica.com/ai/2025/07/racist-ai-videos-created-with-google-veo-3-are-proliferating-on-tiktok/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe release of Google's Veo 3 video generator in May represented ad...
+
+**Categories:** ai, general
+
+---
+
+### [Be Polarizing as a Job Seeker](https://spectrum.ieee.org/be-a-polarizing-job-seeker)
+
+**Source:** IEEE Spectrum | **Published:** 2025-07-02
+
+CareersGuest ArticleBe Polarizing as a Job SeekerYour goal is to be an exceptional fit for one specific jobRahul Pandey02 Jul 20253 min readRahul Pandey is the founder of Taro, a YC-backed career plat...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Everything that could go wrong with X’s new AI-written community notes](https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navElon Musk's X arguably revolutionized social media fact-checking by...
+
+**Categories:** ai, general, emerging
+
+---
+
 ### [Qantas hit by cyber attack after FBI alert on Scattered Spider group](https://www.ft.com/content/255cdc1d-f31e-4199-ad95-4666a0a660a2)
 
 **Source:** Financial Times Tech | **Published:** 2025-07-02
@@ -484,13 +2315,85 @@ Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to foot
 
 ---
 
-### [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html)
+### [Vera Rubin: This Is How Far Engineers Go to Explore the Universe](https://spectrum.ieee.org/vera-rubin-engineering)
 
-**Source:** The Hacker News | **Published:** 2025-07-02
+**Source:** IEEE Spectrum | **Published:** 2025-07-02
 
-How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
+AerospaceMagazineOpinionJuly 2025Vera Rubin: This Is How Far Engineers Go to Explore the UniverseAnd how far we went to tell their storyHarry Goldstein02 Jul 20253 min readHarry Goldstein is Editor in...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
+
+---
+
+### [Robinhood stock hits $100 as it roars 30% since S&P 500 snub](https://www.cnbc.com/2025/07/02/robinhood-stock-record.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Robinhood stock hits $100 as it roars 30% since S&P 500 snubSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsRobinhood stock hit the $100 mark ...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [AT&T rolls out Wireless Account Lock protection to curb the SIM-swap scourge](https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAT&T is rolling out a protection that prevents unauthorized changes...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Ukraine summons top US diplomat after Washington halts some arms supplies](https://www.ft.com/content/b69e327d-95a3-487d-a9b6-6a72ef48ba61)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-02
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerUkraine summons top US diplomat after Washington halts some arms suppliesSubscribe to unlock this articleTry unlimited...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-02
+
+Lovable, one of the darlings of the vibe-coding world and one of Europe’s fastest-growing AI startups, is working on raising a fresh round of over $150 million at a near $2 billion valuation, theFinan...
+
+**Categories:** startups, ai, emerging, stock
+
+---
+
+### [Ether and related stocks gain amid the latest crypto craze: Tokenization](https://www.cnbc.com/2025/07/02/ether-and-related-stocks-gain-amid-the-latest-crypto-craze-tokenization.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Ether and related stocks gain amid the latest crypto craze: TokenizationSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsShares of BitMine Imme...
+
+**Categories:** ai, general, stock
+
+---
+
+### [<a href="https://www.fiercebiotech.com/research/blocking-enzyme-mice-restored-key-protector-neurons-signaling-hope-biotechs-pursuing" hreflang="en">Blocking an enzyme in mice restored a key protector of neurons, signaling hope for biotechs pursuing the pathway in Parkinson’s</a>](https://www.fiercebiotech.com/research/blocking-enzyme-mice-restored-key-protector-neurons-signaling-hope-biotechs-pursuing)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-02
+
+ResearchBlocking an enzyme in mice restored a key protector of neurons, signaling hope for biotechs pursuing the pathway in Parkinson’sByDarren IncorvaiaJul 2, 2025 5:26pmParkinson's diseasegenetic mu...
+
+**Categories:** ai, biotech, emerging
+
+---
+
+### [NYT to start searching deleted ChatGPT logs after beating OpenAI in court](https://arstechnica.com/tech-policy/2025/07/nyt-to-start-searching-deleted-chatgpt-logs-after-beating-openai-in-court/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navLast week, OpenAI raised objections in court, hoping to overturn a ...
+
+**Categories:** ai, general, emerging
 
 ---
 
@@ -504,6 +2407,57 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
+### [Study finds AI can slash global carbon emissions](https://www.artificialintelligence-news.com/news/study-finds-ai-slash-global-carbon-emissions/)
+
+**Source:** AI News | **Published:** 2025-07-02
+
+Study finds AI can slash global carbon emissionsSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Recognitio...
+
+**Categories:** ai, emerging
+
+---
+
+### [Tesla Q2 Deliveries Were Positive For Shareprice](https://www.nextbigfuture.com/2025/07/tesla-q2-deliveries-were-positive-for-shareprice.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-02
+
+Tesla had 384,122 deliveries which was above the 365,000 whisper number for deliveries.2025 2Q Tesla Production & Deliveries ====================              
+            Production       Deliveries...
+
+**Categories:** ai, emerging
+
+---
+
+### [Confidence in agentic AI: Why eval infrastructure must come first](https://venturebeat.com/ai/confidence-in-agentic-ai-why-eval-infrastructure-must-come-first/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-02
+
+As AI agents enter real-world deployment, organizations are under pressure to define where they belong, how to build them effectively, and how to operationalize them at scale. At VentureBeat’sTransfor...
+
+**Categories:** ai
+
+---
+
+### [LLM Benchmarking Shows Capabilities Doubling Every 7 Months](https://spectrum.ieee.org/llm-benchmarking-metr)
+
+**Source:** IEEE Spectrum | **Published:** 2025-07-02
+
+AIInterviewLLM Benchmarking Shows Capabilities Doubling Every 7 MonthsBy 2030, LLMs may do a month’s work in just hoursGlenn Zorpette02 Jul 20256 min readGlenn Zorpette is editorial director for conte...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [AI Getting Better at Medical Diagnosis](https://www.nextbigfuture.com/2025/07/ai-getting-better-at-medical-diagnosis.html)
+
+**Source:** Next Big Future | **Published:** 2025-07-02
+
+AI did better than human doctors on known case diagnosis. However, doctors were handicapped by not being able to use Google and other references and all of the cases did have diseases. Most actual cas...
+
+**Categories:** ai, emerging
+
+---
+
 ### [Qantas Confirms Major Data Breach Linked to Third-Party Vendor - Hack Read](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXBBb1V5R0paNGJvTEhmc2VVZ1RSN1NTdi1rSlp0Z2pMbUE0bjZzOTJWc1Q3SlhOMlFqOWZpekZVTlhuX0dwb0wyQnk3SThnMnN4dHR2bXY1bDdqUW5Xd3ZKODFvdzVBWUtZX0c1dGgtQ2RndDRIZXpZYmt1bFRjOQ?oc=5)
 
 **Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-02
@@ -514,13 +2468,14 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Qantas data breach impacts 6 million customer accounts - Mashable](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHo4bjhTM0ZSLU02eTk0OGFta3JOSndudTlVRS1XNnJlb0JEM1pHUG10NjZGcUw2Y0dEcVFacUpQVWZ1ZWtULXoxQVg3NFZRR0plTTNKWF9LVjRhX296d1BUYnFNNFU5ZjZSWDRYMjFPYXRZLUM2SnQ2MTZIX3piNFpLOWwzaFVVbktfdXBFcw?oc=5)
+### [Medical groups warn Senate budget bill will create dystopian health care system](https://arstechnica.com/health/2025/07/doctors-blast-senate-bill-point-out-that-11-8m-losing-health-insurance-is-bad/)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-02
+**Source:** Ars Technica | **Published:** 2025-07-02
 
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHo4bjhTM0ZSLU02eTk0OGFta3JOSndudTlVRS1XNnJlb0JEM1pHUG10NjZGcUw2Y0dEcVFacUpQVWZ1ZWtULXoxQVg3NFZRR0plTTNKWF9LVjRhX296d1BUYnFNNFU5ZjZSWDRYMj...
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navMedical organizations are blasting the Senate's budget bill in the ...
 
-**Categories:** cybersecurity, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -534,6 +2489,76 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
+### [<a href="https://www.fiercebiotech.com/medtech/fda-clears-fasikls-ai-neurostimulation-wristwatch-essential-tremor" hreflang="en">FDA clears Fasikl's AI neurostimulation wristwatch for essential tremor</a>](https://www.fiercebiotech.com/medtech/fda-clears-fasikls-ai-neurostimulation-wristwatch-essential-tremor)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-02
+
+MedTechFDA clears Fasikl's AI neurostimulation wristwatch for essential tremorByConor HaleJul 3, 2025 9:15amFDAessential tremorParkinson's diseaseDevicesUniversity of Minnesota spinout Fasikl has obta...
+
+**Categories:** ai, biotech, emerging
+
+---
+
+### [Large Language Models Are Improving Exponentially](https://spectrum.ieee.org/large-language-model-performance)
+
+**Source:** IEEE Spectrum | **Published:** 2025-07-02
+
+ComputingMagazineAnalysisJuly 2025Large Language Models Are Improving ExponentiallyIn a few years, AI could handle complex tasks with easeGlenn Zorpette02 Jul 20252 min readGlenn Zorpette is editorial...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Transform 2025: Why observability is critical for AI agent ecosystems](https://venturebeat.com/ai/transform-2025-why-observability-is-critical-for-ai-agent-ecosystems/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-02
+
+The autonomous software revolution is coming. AtTransform 2025, Ashan Willy, CEO of New Relic and Sam Witteveen, CEO and co-founder of Red Dragon AI, talked about how they’re instrumenting agentic sys...
+
+**Categories:** ai
+
+---
+
+### [Wonderful raises $34M in Seed funding to bring multilingual AI to global call centers - CTech](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nY0tsOUNqWElpNW13c3FPQ3ZkNlQzWGFnRVZKUVd2ejlCb1B2VC1NaS1OUHRuSzRLanRvYjJOUDFqSVJuQ0lFYlpxdksxNEVHcHNTU1NuSWxkQnd5VXd0cm96S1kxZ0xP?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-02
+
+<a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nY0tsOUNqWElpNW13c3FPQ3ZkNlQzWGFnRVZKUVd2ejlCb1B2VC1NaS1OUHRuSzRLanRvYjJOUDFqSVJuQ0lFYlpxdksxNEVHcHNTU1NuSWxkQnd5VXd0cm96S1kxZ0xP?oc=5" tar...
+
+**Categories:** ai, emerging
+
+---
+
+### [Bright Data beat Elon Musk and Meta in court — now its $100M AI platform is taking on Big Tech](https://venturebeat.com/ai/bright-data-beat-elon-musk-and-meta-in-court-now-its-100m-ai-platform-is-taking-on-big-tech/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-02
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowBright Data, the Israeli web scraping company...
+
+**Categories:** ai
+
+---
+
+### [The Download: how AI could improve construction site safety, and our Roundtables conversation with Karen Hao](https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-02
+
+This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.How generative AI could help make construction sites saferMore th...
+
+**Categories:** ai, emerging
+
+---
+
+### [<a href="https://www.fiercebiotech.com/biotech/biotech-vc-raises-200m-focus-japans-untapped-source-innovation" hreflang="en">Biotech VC raises $200M to focus on Japan’s ‘untapped source’ of innovation</a>](https://www.fiercebiotech.com/biotech/biotech-vc-raises-200m-focus-japans-untapped-source-innovation)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-02
+
+BiotechBiotech VC raises $200M to focus on Japan’s ‘untapped source’ of innovationByGabrielle MassonJul 2, 2025 11:45amARCH Venture Partnersbiotech venture capitalJapanVenture CapitalAN Venture Partne...
+
+**Categories:** ai, biotech, emerging
+
+---
+
 ### [Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html)
 
 **Source:** The Hacker News | **Published:** 2025-07-02
@@ -544,23 +2569,63 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Verizon and T-Mobile Deny Data Breaches as Millions of User Records Sold Online - Hack Read](https://news.google.com/rss/articles/CBMigAFBVV95cUxPU1FpS2Y0NTl6bGkwQjFFUEpveTduQ19KUzJITUZQWVNDNmFGVWxfZzF6aUttS0YwYXRFVm9oeXNfRlZoYmUtcDJyNDlHdUtZU2ZwT0N3RjREU3pnMnROSlozOXdYUWFHaFBCSXprc0RwQjI1S3pOanBQMjVwTWtLSQ?oc=5)
+### [How businesses can use local AI models to improve data privacy](https://www.artificialintelligence-news.com/news/how-businesses-can-use-local-ai-models-to-improve-data-privacy/)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-02
+**Source:** AI News | **Published:** 2025-07-02
 
-<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPU1FpS2Y0NTl6bGkwQjFFUEpveTduQ19KUzJITUZQWVNDNmFGVWxfZzF6aUttS0YwYXRFVm9oeXNfRlZoYmUtcDJyNDlHdUtZU2ZwT0N3RjREU3pnMnROSlozOXdYUWFHaFBCSXprc0...
+How to use private AI to keep your business secrets safeSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Re...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
 
 ---
 
-### [Australia's Qantas says 6 million customer accounts accessed in cyber hack - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxOb2dXaXE2MGt0ekFmaHlpeGY0ZEpYS2R3RHgza1NYQjlIckZnemt3SnVVVkN6T182UFZDcHJjNjZFNkpZSnR1LXN4N1NwM28xUzNpUHZhaGdsQ0RocjIxYWVYRUhYSHVxMkxFc0tVOUdXS2ZhbUtfemFkekw4MXRsQjNYN2F5dDg0Wlo2N05WNC1QZkNtbGZfUnBVTFpjTDB6YkkwaWRVMjRoY2QyTjJOTnRyeHpGWmhfeVh0Qg?oc=5)
+### [<a href="https://www.fiercebiotech.com/medtech/kardium-raises-250m-its-pulsed-field-ablation-system-undergoes-fda-review" hreflang="en">Kardium raises $250M as its pulsed field ablation system undergoes FDA review</a>](https://www.fiercebiotech.com/medtech/kardium-raises-250m-its-pulsed-field-ablation-system-undergoes-fda-review)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-02
+**Source:** Fierce Biotech | **Published:** 2025-07-02
 
-<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOb2dXaXE2MGt0ekFmaHlpeGY0ZEpYS2R3RHgza1NYQjlIckZnemt3SnVVVkN6T182UFZDcHJjNjZFNkpZSnR1LXN4N1NwM28xUzNpUHZhaGdsQ0RocjIxYWVYRUhYSHVxMkxFc0tVOU...
+MedTechKardium raises $250M as its pulsed field ablation system undergoes FDA reviewByConor HaleJul 2, 2025 11:00amKardiumventure capital (VC)atrial fibrillationpulsed field ablationThe pulsed field a...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, biotech, emerging
+
+---
+
+### [<a href="https://www.fiercebiotech.com/biotech/vyne-prunes-psoriasis-trial-fda-hold-keeps-faith-bet-inhibitor" hreflang="en">Vyne prunes psoriasis trial under FDA hold, but keeps faith in BET inhibitor</a>](https://www.fiercebiotech.com/biotech/vyne-prunes-psoriasis-trial-fda-hold-keeps-faith-bet-inhibitor)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-02
+
+BiotechVyne prunes psoriasis trial under FDA hold, but keeps faith in BET inhibitorByJames WaldronJul 2, 2025 10:33amVYNE Therapeuticspsoriasisclinical holdBET inhibitionVyne Therapeutics hasgiven up ...
+
+**Categories:** ai, biotech, emerging
+
+---
+
+### [How generative AI could help make construction sites safer](https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-02
+
+Last winter, during the construction of an affordable housing project on Martha’s Vineyard, Massachusetts, a 32-year-old worker named Jose Luis Collaguazo Cresposlipped off a ladderon the second floor...
+
+**Categories:** ai, emerging
+
+---
+
+### [<a href="https://www.fiercebiotech.com/biotech/organon-axes-biggest-potential-opportunity-after-flunking-phase-2-trial" hreflang="en">Organon axes 'biggest potential opportunity' after flunking phase 2 trial</a>](https://www.fiercebiotech.com/biotech/organon-axes-biggest-potential-opportunity-after-flunking-phase-2-trial)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-02
+
+BiotechOrganon axes 'biggest potential opportunity' after flunking phase 2 trialByNick Paul TaylorJul 2, 2025 8:43amOrganonendometriosisfailed trialsClinical DataA drug candidate Organon hailed as per...
+
+**Categories:** biotech, ai, emerging
+
+---
+
+### [Nasdaq's Tech-Driven IPO Surge: A Blueprint for Strategic Equity Allocation in 2025 - AInvest](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXROVzF3cG1rQ3FwSE5HRldNOXZXQ1JRVk1Wd3E5Tml4dzluZVBCMl9hYlRtbmcwbFQ1bDhFdFY5SmdCOFlFbndUNGFwaDZZT2Q3WlF1UmR4aDUteWF3d1lERklzSS1rT0hwVFMzblppUHRacFpJLU9hNEpySnEzbzVjeWNIdjZKMzZoLVV2aGpBR2ZuQ1V3Y2luUjYxdHFZUlVnd0xsN3MzUQ?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-02
+
+<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXROVzF3cG1rQ3FwSE5HRldNOXZXQ1JRVk1Wd3E5Tml4dzluZVBCMl9hYlRtbmcwbFQ1bDhFdFY5SmdCOFlFbndUNGFwaDZZT2Q3WlF1UmR4aDUteWF3d1lERklzSS1rT0hwVFMzbl...
+
+**Categories:** ai, emerging, stock
 
 ---
 
@@ -571,6 +2636,56 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQX1VNeWlSdWhMcGpFMm9PQzRiWF9acFo5aDA1MGxUZkZlUUhfSUVnZWZ3MVBOWlRENkh1ZHNDb2hKWDRKalNwTkQ4N1Bud0lURlpFemFmMElFNV91bFZYZ3o3VWVSVkJZb3dmbUNXcl...
 
 **Categories:** ai, cybersecurity, emerging
+
+---
+
+### [Hong Kong's Re-Emergence as a Global IPO Hub: Opportunities in 2025 and Beyond - AInvest](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVFlQUNBMkthT2lfNWs3aW5fYXVXbW1VamREaFk3dTNKRnpqMG5jMnJHN0taa0RkVV9IT2pmOENGaG5mV3VfNU5wU1FkNE16TW1TRkdwUGI3MVdZTWhoMTU2VmZvbUhxYmV3ZGFiOWljWkM4bXFmUFNsdk15SjlGd3NUSmtINlp0TVNSSDBDaW16QQ?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-02
+
+<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVFlQUNBMkthT2lfNWs3aW5fYXVXbW1VamREaFk3dTNKRnpqMG5jMnJHN0taa0RkVV9IT2pmOENGaG5mV3VfNU5wU1FkNE16TW1TRkdwUGI3MVdZTWhoMTU2VmZvbUhxYmV3ZGFiOW...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Robotics Startup Raises $105 Million Seed From US, China VCs - Bloomberg](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRaa3ozOGZVYllVZElyZkJoN2tFMmp3WmQ3UXkwdVM3aDdMTnp4enlrdWNwd3RkZDBRR0E2bGw3bDdqMXMwbXE5ODVQZi1RTFpxclB4Z1lTX09JRXJHU0NpRDR0XzVEc0FXRHJLeTAwaGpaTU0zQU9hZGhwUUtiMUVjZXEyX2t5Ylg5d3hEcVhWb1JaY1ZLYWhZRHFXSjFoMDl4a29sa0R4d0R4amItRGEyRVM2aUEzZnVEWVFkQ2hIdnpNS2kwVg?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-02
+
+<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRaa3ozOGZVYllVZElyZkJoN2tFMmp3WmQ3UXkwdVM3aDdMTnp4enlrdWNwd3RkZDBRR0E2bGw3bDdqMXMwbXE5ODVQZi1RTFpxclB4Z1lTX09JRXJHU0NpRDR0XzVEc0FXRHJLeT...
+
+**Categories:** ai, emerging
+
+---
+
+### [Capital One builds agentic AI to supercharge auto sales](https://venturebeat.com/ai/capital-one-builds-agentic-ai-to-supercharge-auto-sales/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-02
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowInspiration can come from different places, e...
+
+**Categories:** ai, emerging
+
+---
+
+### [Enterprise giants Atlassian, Intuit, and AWS are planning for a world where agents call the APIs](https://venturebeat.com/ai/enterprise-giants-atlassian-intuit-and-aws-are-planning-for-a-world-where-agents-call-the-apis/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-02
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe Now>>See all our Transform 2025 coverage here<<T...
+
+**Categories:** ai, emerging
+
+---
+
+### [From 30 days to 1: Chevron’s cloud migration ROI in real numbers](https://venturebeat.com/data-infrastructure/from-30-days-to-1-chevrons-cloud-migration-roi-in-real-numbers/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-01
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowThe No. 1 way AI is changing 150-year-old ene...
+
+**Categories:** ai, emerging
 
 ---
 
@@ -594,23 +2709,53 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html)
+### [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/)
 
-**Source:** The Hacker News | **Published:** 2025-07-01
+**Source:** TechCrunch Startups | **Published:** 2025-07-01
 
-How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
+Figmapublicly sharedits financials Tuesday, inching the design software company closer to an IPO. And while this initial S-1 is missing details such as number of shares to be offered and what price, t...
 
-**Categories:** cybersecurity
+**Categories:** ai, startups, emerging, stock
 
 ---
 
-### [Food Lion workers, families among 2.2M victims of latest corporate data breach - Charlotte Observer](https://news.google.com/rss/articles/CBMieEFVX3lxTE1wS0JWYzdmcmE1SFlyekgzeHFFcXpydDlyaE9LOU9jNTBvcm54WldENlRoaUYyczFfNFJmYlFJZFlVdGlxaUlUYUdOa2RaQzJkVnpJX0w5emhBZThhVFgxU1NiSTVTTXYya2dpcHVQT05XNHZuWlppa9IBeEFVX3lxTE1NSTFhTGtvUEVsQVB4VThxR2cxUWlfYmJiVFNxYkVLemNxMzRjMmxuZDNJVXlWckw5Y3l3VTVybGJMUHpEUXVlcHFWREVNLWU5Q3haQ0JyVWpxUVV1MzVBME5pUGpWYjRRWFMxM1EzMDNhVVZxbEU5LQ?oc=5)
+### [Figma moves closer to a blockbuster IPO that could raise $1.5B - TechCrunch](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEZXLWM5aGw0UTB5NzdmbWtvOFo1eFN5R3BIT082bWZad1VaT0VYT29paWNZZ0dmYU91c2Z5R0dtbHNaSFBIQ0FJVG90UVdzcXRxU0tBNzU3T3NwNkhpNVMxTFFtejVqb25wVTBxaDBYMDdrQ1VwZlhka2JCVURBWHQ2Z1VRMGNNUlFxVGdpaF82UHUzTXVxdF8tb3k?oc=5)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-01
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
 
-<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1wS0JWYzdmcmE1SFlyekgzeHFFcXpydDlyaE9LOU9jNTBvcm54WldENlRoaUYyczFfNFJmYlFJZFlVdGlxaUlUYUdOa2RaQzJkVnpJX0w5emhBZThhVFgxU1NiSTVTTXYya2dpcHVQT0...
+<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEZXLWM5aGw0UTB5NzdmbWtvOFo1eFN5R3BIT082bWZad1VaT0VYT29paWNZZ0dmYU91c2Z5R0dtbHNaSFBIQ0FJVG90UVdzcXRxU0tBNzU3T3NwNkhpNVMxTFFtejVqb25wVTBxaD...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging, stock
+
+---
+
+### [Design Platform Figma Files for IPO as Market for New Tech Listings Warms - Investopedia](https://news.google.com/rss/articles/CBMitAFBVV95cUxQakRPMlNackZ0eWI3U1VlXzFpLWJIME93Ni13UHdmZkFSRVhLT1M2OWFVRnhZX3VkYUllOUZmUU1WNjBJZlRKbkNyUk4ySVpSUGt4SnpnZ2o4RXNDeUJaSmM3RVJ5XzBBNHNfWnhLOThqc2JUT3VEZGR2U2FtTElSVUpjbnFTU2VWR0tnNDR6NVVPdXVoVVZndUJONEJpN3Biekc0V3JTQmJSZnh2LXFlWjRqUk0?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
+
+<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQakRPMlNackZ0eWI3U1VlXzFpLWJIME93Ni13UHdmZkFSRVhLT1M2OWFVRnhZX3VkYUllOUZmUU1WNjBJZlRKbkNyUk4ySVpSUGt4SnpnZ2o4RXNDeUJaSmM3RVJ5XzBBNHNfWnhLOT...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Figma files for IPO on NYSE, plans to 'take big swings' with acquisitions - CNBC](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmlxU0luc2NKcS1iOUxTMV91YUZHaTB3amxfRFBJdU55bXNROFVZVkVSclhHUEs3WlJRTFVqa2ViekhmelphMkUyXzY0b29TVndzbHkxTGo4aXpOamhHcGlIT1d4V1F0cmtHWnF4T2ItX3FSSVNVa0wyVVd1OTkxel9CMGQ2dUE1MTkzVnhVb9IBlAFBVV95cUxQbWhQMEFrQTczSkFuankwaVhDeFhqQUNLQVFYcTVyY1YyX0twM19oVldIUndKNWxZMkdoUDY3eW1XWU9ndjMyM0hSLVhYVkp6UXlXOXhWQmU4QnNQY0FOUmtwREdGRjNDTWlycUlKT0pLcTVfRU93bWJzUmhpMU5fTjFDTlZLOV85TFZZeEFsNkZYQkxf?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
+
+<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmlxU0luc2NKcS1iOUxTMV91YUZHaTB3amxfRFBJdU55bXNROFVZVkVSclhHUEs3WlJRTFVqa2ViekhmelphMkUyXzY0b29TVndzbHkxTGo4aXpOamhHcGlIT1d4V1F0cmtHWnF4T2...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Nasdaq's Tech-Driven IPO Surge: A Blueprint for Growth in 2025 and Beyond - AInvest](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdERzaTI3WU1nVjZXRENaWktxVlIwZXhNb094a2ZQczJ1a3A5N1dpeEVjZ01vTTRBa1NCU0l5RU80dE5YRzNlVEpualpZQlY5M003b1VSLUVBQjRRdTNSQ0RSakJJSVJRUnFtRDJfMVh0N1hBZDRpcnVMeUh6NWdiVXY0YnBObE9qb0d2VWZB?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
+
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOdERzaTI3WU1nVjZXRENaWktxVlIwZXhNb094a2ZQczJ1a3A5N1dpeEVjZ01vTTRBa1NCU0l5RU80dE5YRzNlVEpualpZQlY5M003b1VSLUVBQjRRdTNSQ0RSakJJSVJRUnFtRDJfMV...
+
+**Categories:** ai, emerging, stock
 
 ---
 
@@ -624,6 +2769,36 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
+### [Nasdaq prevails over NYSE in first-half listings, buoyed by blockbuster IPOs - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmhWUnA5azFqSmNTazBOTzdiR3I3NDdLQnlfblM0NEt2eGNyZkJhdzBTZG9CS1o1WDNabV94WXRhS1FvUno2WmYwY2ZvS25EWlFEc0F0YnBJUmx0cmxsN0JBLUR2RnU5bGxpamtMMlctUGpJeVcxb08ydWtMNm9qUG9MWm43NGwtZi1raGNYNXM4WWhaaWZSak9FSHdRU2J5VnAzc3lMRm82YVdQLS1xTTJ0Z0ZzbThST19iREFYYU5tVjg?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
+
+<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmhWUnA5azFqSmNTazBOTzdiR3I3NDdLQnlfblM0NEt2eGNyZkJhdzBTZG9CS1o1WDNabV94WXRhS1FvUno2WmYwY2ZvS25EWlFEc0F0YnBJUmx0cmxsN0JBLUR2RnU5bGxpamtMMl...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Flood of interest in Europe’s AI Gigafactories plan](https://www.artificialintelligence-news.com/news/flood-of-interest-in-europe-ai-gigafactories-plan/)
+
+**Source:** AI News | **Published:** 2025-07-01
+
+Flood of interest in Europe’s AI Gigafactories planSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Recogni...
+
+**Categories:** ai, emerging
+
+---
+
+### [Europe’s 20 largest startup funding rounds this year (so far) - The Next Web](https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1oxTk5tUURueGZERnpMbnV1ZDBfUFdNd2ZDSmVBdHVrcUI0SXFGS3FIdWhtdkZyeFhXYXJkUGZwZUpNRmNxWTJRZXlURGJBTVY5cmoxcW1kU3A1eUEybDdiYXFDWTF4Ylk1RXQyX2gzWHYzTmZLNWhKQ2p2T1FFVFVnQnBEYV9CdGJYcjFRMA?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-01
+
+<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1oxTk5tUURueGZERnpMbnV1ZDBfUFdNd2ZDSmVBdHVrcUI0SXFGS3FIdWhtdkZyeFhXYXJkUGZwZUpNRmNxWTJRZXlURGJBTVY5cmoxcW1kU3A1eUEybDdiYXFDWTF4Ylk1RXQyX2...
+
+**Categories:** ai, emerging
+
+---
+
 ### [Ahold Delhaize USA says cyberattack exposed personal data of 2M people - Cybersecurity Dive](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNU9MbVFtQnBnSE5qX1hLUDhWNFNGLWx2T2Q3dGdQQkpTX0FYZEFaQU5sSGx4NjN3N2NfUVZ0blV1WmFCb0xyNzZSc283T1dnZE1GSXZYdEdCWnBzR1NUT2xjcVVGaHBGOVQ3d3B6YVdPUm5HV3E4czVYU1Y0RkY4UGlySTRfZUlJN1dkb1hEMGNQdTlORnRhRWNEVmptUFlqazU2OXZBVjA1M1E?oc=5)
 
 **Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-01
@@ -631,6 +2806,96 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNU9MbVFtQnBnSE5qX1hLUDhWNFNGLWx2T2Q3dGdQQkpTX0FYZEFaQU5sSGx4NjN3N2NfUVZ0blV1WmFCb0xyNzZSc283T1dnZE1GSXZYdEdCWnBzR1NUT2xjcVVGaHBGOVQ3d3B6YV...
 
 **Categories:** cybersecurity, ai, emerging
+
+---
+
+### [<a href="https://www.fiercebiotech.com/research/shionogi-puts-more-600m-table-swiss-biotechs-antibiotic-program" hreflang="en">Shionogi puts more than $600M on the table for Swiss biotech's antibiotic program</a>](https://www.fiercebiotech.com/research/shionogi-puts-more-600m-table-swiss-biotechs-antibiotic-program)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-01
+
+ResearchShionogi puts more than $600M on the table for Swiss biotech's antibiotic programByDarren IncorvaiaJul 2, 2025 1:00amShionogiantibioticsantibiotic resistanceantimicrobialStoried Japanese pharm...
+
+**Categories:** biotech, ai, emerging
+
+---
+
+### [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots - TechCrunch](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSVVJSTFGVmFWZ3dvSkd0QjhOSDZNclMwdW94SU5CMTZGcXU3R0gxSVBiaTlCbEp3cmxqUVFadWRJOVFLVEF1MHpRTVFvVnBweWdCcHNwbFc2OUdWUnFkN0E?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-07-01
+
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSV...
+
+**Categories:** ai, emerging
+
+---
+
+### [The Download: tripping with AI, and blocking crawler bots](https://www.technologyreview.com/2025/07/01/1119520/the-download-tripping-with-ai-and-blocking-crawler-bots/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-01
+
+This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.People are using AI to ‘sit’ with them while they trip on psyched...
+
+**Categories:** ai, emerging
+
+---
+
+### [Cuba’s Power Grid Nears Total Failure](https://spectrum.ieee.org/cuba-energy-crisis)
+
+**Source:** IEEE Spectrum | **Published:** 2025-07-01
+
+EnergyAnalysisClimate TechCuba’s Power Grid Nears Total FailureDecades of neglect and subpar fuel leave Cuba’s energy infrastructure in crisisRicardo Torres01 Jul 20256 min readRicardo Torres is an ec...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [<a href="https://www.fiercebiotech.com/medtech/siemens-healthineers-rolls-out-helium-sealed-15t-mri-scanner" hreflang="en">Siemens Healthineers rolls out helium-sealed 1.5T MRI scanner</a>](https://www.fiercebiotech.com/medtech/siemens-healthineers-rolls-out-helium-sealed-15t-mri-scanner)
+
+**Source:** Fierce Biotech | **Published:** 2025-07-01
+
+MedTechSiemens Healthineers rolls out helium-sealed 1.5T MRI scannerByConor HaleJul 1, 2025 12:00pmSiemens Healthineersdigital imagingMRIFDASiemens Healthineers is debuting its first fully sealed 1.5 ...
+
+**Categories:** biotech, ai, emerging
+
+---
+
+### [Cloudflare will now, by default, block AI bots from crawling its clients’ websites](https://www.technologyreview.com/2025/07/01/1119498/cloudflare-will-now-by-default-block-ai-bots-from-crawling-its-clients-websites/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-01
+
+The internet infrastructure company Cloudflare announced today that it will now default to blocking AI bots from visiting websites it hosts. Cloudflare will also give clients the ability to manually a...
+
+**Categories:** ai, emerging
+
+---
+
+### [People are using AI to ‘sit’ with them while they trip on psychedelics](https://www.technologyreview.com/2025/07/01/1119513/ai-sit-trip-psychedelics/)
+
+**Source:** MIT Technology Review | **Published:** 2025-07-01
+
+Peter sat alone in his bedroom as the first waves of euphoria coursed through his body like an electrical current. He was in darkness, save for the soft blue light of the screen glowing from his lap. ...
+
+**Categories:** ai, emerging
+
+---
+
+### [Kayak and Expedia race to build AI travel agents that turn social posts into itineraries](https://venturebeat.com/ai/kayak-and-expedia-race-to-build-ai-travel-agents-that-turn-social-posts-into-itineraries/)
+
+**Source:** VentureBeat AI | **Published:** 2025-07-01
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe Now>>See all our Transform 2025 coverage here<<W...
+
+**Categories:** ai, emerging
+
+---
+
+### [From chatbots to collaborators: How AI agents are reshaping enterprise work](https://venturebeat.com/ai/from-chatbots-to-collaborators-how-ai-agents-are-reshaping-enterprise-work/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-30
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowScott White still marvels at how quickly arti...
+
+**Categories:** ai, emerging
 
 ---
 
@@ -644,16 +2909,6 @@ The InstituteIEEE Member NewsArticleDigital Signal Processing Pioneer Jim Boddie
 
 ---
 
-### [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/)
-
-**Source:** Krebs on Security | **Published:** 2025-06-30
-
-Agents with theFederal Bureau of Investigation(FBI) briefed Capitol Hill staff recently on hardening the security of their mobile devices, after a contacts list stolen from the personal phone of the W...
-
-**Categories:** cybersecurity, emerging
-
----
-
 ### [A CarFax for Used PCs](https://spectrum.ieee.org/carmax-used-pcs)
 
 **Source:** IEEE Spectrum | **Published:** 2025-06-30
@@ -661,6 +2916,16 @@ Agents with theFederal Bureau of Investigation(FBI) briefed Capitol Hill staff r
 ComputingGuest ArticleA CarFax for Used PCsHewlett Packard wants to give old laptops new lifeAbu BakerSal VasiBarbara SpitzerJohn Hong30 Jun 20255 min readAbu Baker is a Principal Architect at HP for ...
 
 **Categories:** ai, cybersecurity, emerging, stock
+
+---
+
+### [Power play: Can the grid cope with AI’s growing appetite?](https://www.artificialintelligence-news.com/news/power-play-can-the-grid-cope-with-ais-growing-appetite/)
+
+**Source:** AI News | **Published:** 2025-06-30
+
+Power play: Can the grid cope with AI's growing appetite?Skip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace R...
+
+**Categories:** ai, emerging
 
 ---
 
@@ -674,13 +2939,13 @@ ComputingGuest ArticleA CarFax for Used PCsHewlett Packard wants to give old lap
 
 ---
 
-### [Data breach at healthcare services firm Episource affects 5.4M - Cybersecurity Dive](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndIeURJMmJNSEZTYVBIbko1REJUN05nRFdYc1g3TS1zRWwtWFctVWh6NXpna0F0Rm9KSm1SVVdGUnJqQWJJTllqSmdTY1RHbGk2eVY5bEQ3VFJtMHpFQWNrVXoxU3NDMkZOd2lCUHRCUHNGdTVGU0Z1N2hKb3BDX2F5dEd1UEJNR0ZkWGZXOXhQeVY3Y2tEVVAtNmJsemZf?oc=5)
+### [Next-Gen Brain Implants Offer New Hope for Depression](https://spectrum.ieee.org/deep-brain-stimulation-depression)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-06-30
+**Source:** IEEE Spectrum | **Published:** 2025-06-30
 
-<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndIeURJMmJNSEZTYVBIbko1REJUN05nRFdYc1g3TS1zRWwtWFctVWh6NXpna0F0Rm9KSm1SVVdGUnJqQWJJTllqSmdTY1RHbGk2eVY5bEQ3VFJtMHpFQWNrVXoxU3NDMkZOd2lCUH...
+BiomedicalMagazineFeatureNext-Gen Brain Implants Offer New Hope for DepressionAI and real-time neural feedback could transform treatmentsElie Dolgin30 Jun 202512 min readDeep brain stimulation (DBS) u...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
 
 ---
 
@@ -691,6 +2956,26 @@ ComputingGuest ArticleA CarFax for Used PCsHewlett Packard wants to give old lap
 Get Strategic with Digital EngineeringSkip to Main ContentEBOOKGet Strategic with Digital EngineeringWhy digital engineering is critical to future-proofing your business.In a literal sense, digital en...
 
 **Categories:** ai, cybersecurity, emerging, stock
+
+---
+
+### [The Rise Of The Ultra-Unicorns: $5B+ Startups Are Leading The Private-Market Herd In 2025 - Crunchbase News](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHQzQ0dua2dQeGt3Y2x5Rk4zYUsyTVJSZm5GejlkRGtZNDdMTEhUdUlTTzY2eEd1OWhhSlRtOEJCaVVoaXZHN01LeWdJeW5yNTUycjNTcG9yanNLMW4wRmFZbEJpMklhMm9udjlYV0tGaTd4WWJEVlYya3lvTEUwNFhoNzZGQUpoYXo0cw?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-06-30
+
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHQzQ0dua2dQeGt3Y2x5Rk4zYUsyTVJSZm5GejlkRGtZNDdMTEhUdUlTTzY2eEd1OWhhSlRtOEJCaVVoaXZHN01LeWdJeW5yNTUycjNTcG9yanNLMW4wRmFZbEJpMklhMm9udjlYV0...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Exploring how AI has changed daily life](https://www.artificialintelligence-news.com/news/exploring-how-ai-has-changed-daily-life/)
+
+**Source:** AI News | **Published:** 2025-06-30
+
+Exploring how AI has changed daily life - AI NewsSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Recogniti...
+
+**Categories:** ai, emerging
 
 ---
 
@@ -714,6 +2999,106 @@ Get Strategic with Digital EngineeringSkip to Main ContentEBOOKGet Strategic wit
 
 ---
 
+### [Between utopia and collapse: Navigating AI’s murky middle future](https://venturebeat.com/ai/between-utopia-and-collapse-navigating-ais-murky-middle-future/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-29
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowIn the blog postThe Gentle Singularity, OpenA...
+
+**Categories:** ai, emerging
+
+---
+
+### [Identity theft hits 1.1M reports — and authentication fatigue is only getting worse](https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-authentication-fatigue-is-only-getting-worse/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-29
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowFrom passwords to passkeys to a veritable alp...
+
+**Categories:** ai, emerging
+
+---
+
+### [From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways](https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-28
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowComputer vision projects rarely go exactly as...
+
+**Categories:** ai, emerging
+
+---
+
+### [AI agents are hitting a liability wall. Mixus has a plan to overcome it using human overseers on high-risk workflows](https://venturebeat.com/ai/ai-agents-are-hitting-a-liability-wall-mixus-has-a-plan-to-overcome-it-using-human-overseers-on-high-risk-workflows/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-28
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowWhile enterprises face the challenges of depl...
+
+**Categories:** ai, emerging
+
+---
+
+### [CTGT wins Best Presentation Style award at VB Transform 2025](https://venturebeat.com/ai/ctgt-wins-best-presentation-style-award-at-vb-transform-2025/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-28
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowSan Francisco-basedCTGT, a startup focused on...
+
+**Categories:** ai, emerging
+
+---
+
+### [Catio wins ‘coolest tech’ award at VB Transform 2025](https://venturebeat.com/ai/catio-wins-coolest-tech-award-at-vb-transform-2025/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-28
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowPalo Alto-basedCatiowas awarded “Coolest Tech...
+
+**Categories:** ai, emerging
+
+---
+
+### [Retail resurrection: David’s Bridal bets its future on AI after double bankruptcy](https://venturebeat.com/ai/retail-resurrection-davids-bridal-bets-its-future-on-ai-after-double-bankruptcy/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-27
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowInside a newDavid’s Bridalstore in Delray Bea...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [How runtime attacks turn profitable AI into budget black holes](https://venturebeat.com/security/how-runtime-attacks-turn-profitable-ai-into-budget-black-holes/)
+
+**Source:** VentureBeat AI | **Published:** 2025-06-27
+
+This article is part of VentureBeat’s special issue, “The Real Cost of AI: Performance, Efficiency and ROI at Scale.”Read morefrom this special issue.AI’s promise is undeniable, but so are its blindsi...
+
+**Categories:** ai
+
+---
+
+### [Anthropic tests AI running a real business with bizarre results](https://www.artificialintelligence-news.com/news/anthropic-tests-ai-running-a-real-business-with-bizarre-results/)
+
+**Source:** AI News | **Published:** 2025-06-27
+
+Anthropic tests AI running a real business with bizarre resultsSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbots...
+
+**Categories:** ai, emerging
+
+---
+
+### [Video Friday: This Quadruped Throws With Its Whole Body](https://spectrum.ieee.org/robot-arm-thrower)
+
+**Source:** IEEE Spectrum | **Published:** 2025-06-27
+
+RoboticsNewsHumanoid RobotsVideo Friday: This Quadruped Throws With Its Whole BodyYour weekly selection of awesome robot videosEvan Ackerman27 Jun 20253 min readEvan Ackerman is IEEE Spectrum’s roboti...
+
+**Categories:** ai, emerging
+
+---
+
 ### [Reviving a 1970s Analog HP X-Y Recorder](https://spectrum.ieee.org/reviving-vintage-x-y-recorder)
 
 **Source:** IEEE Spectrum | **Published:** 2025-06-27
@@ -721,6 +3106,16 @@ Get Strategic with Digital EngineeringSkip to Main ContentEBOOKGet Strategic wit
 DIYMagazineHands OnJuly 2025Reviving a 1970s Analog HP X-Y RecorderOnce upon a time all hardware was open sourceStephen Cass27 Jun 20255 min readStephen Cass is the special projects editor at IEEE Spe...
 
 **Categories:** ai, cybersecurity, emerging
+
+---
+
+### [The Week’s 10 Biggest Funding Rounds: AI Continues To Dominate In An Action-Packed Week - Crunchbase News](https://news.google.com/rss/articles/CBMikgFBVV95cUxPYllnSXB1cTZfOE1CTDczNHFZY0M3a0xVTVF4VEZrcXl2QXdPMFVFQzNmRDdLbzduRjRrd05EeC1CcWhSa0JmT09oQlJZYVN6NkRrZmRCRjcyR21BV0U1M0YyTkpOUXc4enJMYzNidXYxc0FzSmh0aU9HR2FGU2JpSGo0dWhiU3E2VmtoRGNGbGpqQQ?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-06-27
+
+<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPYllnSXB1cTZfOE1CTDczNHFZY0M3a0xVTVF4VEZrcXl2QXdPMFVFQzNmRDdLbzduRjRrd05EeC1CcWhSa0JmT09oQlJZYVN6NkRrZmRCRjcyR21BV0U1M0YyTkpOUXc4enJMYzNidX...
+
+**Categories:** ai, emerging
 
 ---
 
@@ -734,6 +3129,26 @@ The InstituteIEEE Member NewsComputingCareersProfileAdvancing Quantum Science: H
 
 ---
 
+### [Nvidia reclaims title of most valuable company on AI momentum](https://www.artificialintelligence-news.com/news/nvidia-reclaims-title-of-most-valuable-company-on-ai-momentum/)
+
+**Source:** AI News | **Published:** 2025-06-26
+
+Nvidia reclaims title of most valuable company on AI momentumSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFa...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [The Violinist Who Fell in Love With Machine Learning](https://spectrum.ieee.org/violinist-to-software-engineer)
+
+**Source:** IEEE Spectrum | **Published:** 2025-06-26
+
+CareersMagazineJuly 2025ProfileThe Violinist Who Fell in Love With Machine LearningThose with nontechnical backgrounds can succeed in softwareEdd Gent26 Jun 20254 min readEdd Gent is a contributing ed...
+
+**Categories:** ai, emerging
+
+---
+
 ### [AI Improves at Improving Itself Using an Evolutionary Trick](https://spectrum.ieee.org/evolutionary-ai-coding-agents)
 
 **Source:** IEEE Spectrum | **Published:** 2025-06-26
@@ -741,6 +3156,16 @@ The InstituteIEEE Member NewsComputingCareersProfileAdvancing Quantum Science: H
 AINewsAI Improves at Improving Itself Using an Evolutionary TrickResearchers use evolutionary algorithms to enhance AI coding skillsMatthew Hutson26 Jun 20255 min readiStock
 
 **Categories:** ai, cybersecurity, emerging
+
+---
+
+### [Superconducting Motor Could Propel Electric Aircraft](https://spectrum.ieee.org/electric-aircraft-motor-hinetics)
+
+**Source:** IEEE Spectrum | **Published:** 2025-06-26
+
+AerospaceNewsTransportationSuperconducting Motor Could Propel Electric AircraftPrototype unit from startup Hinetics uses a high-temperature superconductorGlenn Zorpette26 Jun 20255 min readGlenn Zorpe...
+
+**Categories:** ai, emerging, stock
 
 ---
 
@@ -764,23 +3189,33 @@ Major AI chatbots parrot CCP propagandaSkip to contentAI News is part of the Tec
 
 ---
 
-### [Average cost of a data breach in the United States from 2006 to 2024 - Statista](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWpyQjFBbEgtdTVSenJsUWwya1NqeVdOTnlTUkxTSDRmQ2NQT1EwUi1UNVEtMGZfWEVycjlnMm5Gc3VndkRfUnB6bVFkR0U3b25fbUhPWGVLTUdhSGc1WU5yQlVRZFFoQmpaalFTZEY3MERZTzNYOWpGSDdqZjNwSE10UkZXRzBlQkdiRHlR?oc=5)
+### [NO FAKES Act: AI deepfakes protection or internet freedom threat?](https://www.artificialintelligence-news.com/news/no-fakes-act-ai-deepfakes-protection-internet-freedom-threat/)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-06-23
+**Source:** AI News | **Published:** 2025-06-25
 
-<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWpyQjFBbEgtdTVSenJsUWwya1NqeVdOTnlTUkxTSDRmQ2NQT1EwUi1UNVEtMGZfWEVycjlnMm5Gc3VndkRfUnB6bVFkR0U3b25fbUhPWGVLTUdhSGc1WU5yQlVRZFFoQmpaalFTZE...
+NO FAKES Act: AI deepfakes protection or internet freedom threat?Skip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbo...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
 
 ---
 
-### [The 6 biggest cybersecurity breaches of 2025 so far - Mashable](https://news.google.com/rss/articles/CBMieEFVX3lxTE1DQkVPY2lNanJ6N080M1ZTUUZKLUdPcTdEVzVOdnNoWS1lQ0hkb1o0S1ZIdUU2QksyTWtpU1QxVERILTJzb3R4dEI0UkxURFpfd1lqbU1TNUMwZGNwWkE3bi1VWm04TzlodGJXSk1oV09kNzJKU3hDcQ?oc=5)
+### [Agentic AI Startup VoiceCare AI Completes Successful Funding Round - PR Newswire](https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1otSVNZUWZ1TDQwTTJQOW1ISGtoZUJ0d0F6ZTBMU1pqOGplcVNjRVF2d09zX2Itc2VtYi1ndF95QlFmcGg1aTA5dEd0dngwSjJIVzA0MzdrMWg4VFZCTnI0R0RUR1dWUlYwLUdoOE5Ob1I1ZE9TQjBHNk1acVQ5RjY2ZHk3MUdLTmdtdzJ1UGdZY3BDdlVaS2xDaF9heC1neGJFaEV4UVJVN0RKeEVHNnA5bkE3MmVuc2V2WUE4MA?oc=5)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-06-19
+**Source:** Google: AI Funding Rounds | **Published:** 2025-06-23
 
-<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1DQkVPY2lNanJ6N080M1ZTUUZKLUdPcTdEVzVOdnNoWS1lQ0hkb1o0S1ZIdUU2QksyTWtpU1QxVERILTJzb3R4dEI0UkxURFpfd1lqbU1TNUMwZGNwWkE3bi1VWm04TzlodGJXSk1oV0...
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1otSVNZUWZ1TDQwTTJQOW1ISGtoZUJ0d0F6ZTBMU1pqOGplcVNjRVF2d09zX2Itc2VtYi1ndF95QlFmcGg1aTA5dEd0dngwSjJIVzA0MzdrMWg4VFZCTnI0R0RUR1dWUlYwLUdoOE...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
+
+---
+
+### [<a href="https://www.fiercebiotech.com/sponsored/sap-answerthink-help-emerging-biopharma-firms-scale-confidence" hreflang="en">SAP, Answerthink Help Emerging Biopharma Firms Scale With Confidence</a>](https://www.fiercebiotech.com/sponsored/sap-answerthink-help-emerging-biopharma-firms-scale-confidence)
+
+**Source:** Fierce Biotech | **Published:** 2025-06-20
+
+SponsoredBiotechSAP, Answerthink Help Emerging Biopharma Firms Scale With ConfidenceSponsored BySAP and AnswerthinkJul 7, 2025 8:00amBiotechIn an interview with Fierce Biotech Publisher Rebecca Willum...
+
+**Categories:** ai, biotech, emerging
 
 ---
 
@@ -794,13 +3229,23 @@ Major AI chatbots parrot CCP propagandaSkip to contentAI News is part of the Tec
 
 ---
 
-### [What Is Cybersecurity? - ibm.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRmhHM2pIOEV0dFZkYWlPbS1IMVFQYmc1d3pXVjdOdzdYM2kyN1QxVU56OXZ1bzBXdjF3enF6bVN6M2czVnpFa2t2S01URWpnNEN1eXV1cHRpQQ?oc=5)
+### [Here are the 24 US AI startups that have raised $100M or more in 2025 - TechCrunch](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1VPbzNqSzNNRVo1eFNySHN4X0x3MDBtTWYwU1BzQjhrVVJHcTB6X19DUnNwQV9iNjdSWE1HVENUZVFSM1JKNU1ROVZiWDVwY0t0NjNUODR6U3VWNkZma0cyVE82ZlBoT1dpQzFGMEhQSjFwNnFTUWFrYXQtdDBrczFBdTUzQlJQLXhLajd3aGlXZ3B2VVNPcHUwOUZmTlRSZDRKc0Vn?oc=5)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-06-13
+**Source:** Google: AI Funding Rounds | **Published:** 2025-06-18
 
-<a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRmhHM2pIOEV0dFZkYWlPbS1IMVFQYmc1d3pXVjdOdzdYM2kyN1QxVU56OXZ1bzBXdjF3enF6bVN6M2czVnpFa2t2S01URWpnNEN1eXV1cHRpQQ?oc=5" target="_blank">What ...
+<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1VPbzNqSzNNRVo1eFNySHN4X0x3MDBtTWYwU1BzQjhrVVJHcTB6X19DUnNwQV9iNjdSWE1HVENUZVFSM1JKNU1ROVZiWDVwY0t0NjNUODR6U3VWNkZma0cyVE82ZlBoT1dpQzFGME...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
+
+---
+
+### [The Week’s Biggest Funding Rounds: Scale AI Tops Busy Week For AI Investment - Crunchbase News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjA1c3RxQkJWWDFjZml6aDQ0TWdlMHRzb2lrS2ZNNUc4RmFlU29FNm9OWTUzT2pYQk5vU1FpTG02aHptWTJCcU55X1Y3djBXcC10MVFpdE92RTgwZ2p4aVdxUEdRTTg0cG50WEdIZHpqM293bGljVlJIb1ZfWHFBbm9hLVJ5U0NBVEhn?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-06-13
+
+<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjA1c3RxQkJWWDFjZml6aDQ0TWdlMHRzb2lrS2ZNNUc4RmFlU29FNm9OWTUzT2pYQk5vU1FpTG02aHptWTJCcU55X1Y3djBXcC10MVFpdE92RTgwZ2p4aVdxUEdRTTg0cG50WEdIZH...
+
+**Categories:** ai, emerging, stock
 
 ---
 
@@ -814,13 +3259,13 @@ Late last year, security researchers made a startling discovery: Kremlin-backed 
 
 ---
 
-### [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/)
+### [Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVNQYXRRc3ItMTItRUl3VWRDZjJvTnhZN0FPM0RMUkN3WC05MGpZd0t1TTJNZ0NXdVFsVmVCRzRBcFVkT2FpelIzaEdwc3dZaHRaanZ6VUxSTTB3bEl5S2x1QWNkblhvZ0VaZ3ZEVk1FelhyUVFpMzhoMXRxcDd6VlFYM1lCNmN1WVZlZm9scVFfTWdLX1lPT2FsNDg?oc=5)
 
-**Source:** Krebs on Security | **Published:** 2025-06-11
+**Source:** Google: AI Funding Rounds | **Published:** 2025-06-06
 
-Microsofttoday released security updates to fix at least 67 vulnerabilities in itsWindowsoperating systems and software. Redmond warns that one of the flaws is already under active attack, and that so...
+<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVNQYXRRc3ItMTItRUl3VWRDZjJvTnhZN0FPM0RMUkN3WC05MGpZd0t1TTJNZ0NXdVFsVmVCRzRBcFVkT2FpelIzaEdwc3dZaHRaanZ6VUxSTTB3bEl5S2x1QWNkblhvZ0VaZ3ZEVk...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging, stock
 
 ---
 
@@ -844,6 +3289,16 @@ Image: Shutterstock, ArtHead.The U.S. government today imposed economic sanction
 
 ---
 
+### [AI Share Of Startup Funding Fluctuates Sharply By Stage - Crunchbase News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTZsdUdvS3plUFVvR3pJQ0s5SExRc2VkX0FSQmI2TkVZVEItRnp1VGNsSktjRGVPYWw2VW5VaHhKVUpocjcxZGo3ZTZDa2hpMDRXS1hpMTR0dTE2cGZKb2ZCSng2QlFZQXZPWmd3UWpOclFmRTZES0xEUGwtbFhjLWthOW9HQ3NSZk1V?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-05-29
+
+<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTZsdUdvS3plUFVvR3pJQ0s5SExRc2VkX0FSQmI2TkVZVEItRnp1VGNsSktjRGVPYWw2VW5VaHhKVUpocjcxZGo3ZTZDa2hpMDRXS1hpMTR0dTE2cGZKb2ZCSng2QlFZQXZPWmd3UW...
+
+**Categories:** ai, emerging
+
+---
+
 ### [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/)
 
 **Source:** Krebs on Security | **Published:** 2025-05-28
@@ -851,16 +3306,6 @@ Image: Shutterstock, ArtHead.The U.S. government today imposed economic sanction
 Authorities in Pakistan have arrested 21 individuals accused of operating “Heartsender,” a once popular spam and malware dissemination service that operated for more than a decade. The main clientele ...
 
 **Categories:** cybersecurity, ai, emerging
-
----
-
-### [Healthcare Data Breach Statistics - The HIPAA Journal](https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5)
-
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-05-26
-
-<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2...
-
-**Categories:** cybersecurity, emerging
 
 ---
 
@@ -874,33 +3319,43 @@ The U.S. government today unsealed criminal charges against 16 individuals accus
 
 ---
 
-### [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
+### [Sierra Ventures On The 5 Layers Of AI Startup Investment - Crunchbase News](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTgwRGx5VUJxcE52ZHhuSlZvQ2l0QTFEMVo4VkxSYmZ1Mk11WlJ3MkJNRlBCOVFTeHREczhoXzNrVHFWaEFDazRCQjNybWxpVmxpeGRQZUprQ21JTWFNNkJkZWpEOGxycVFxY0lfUS0xMmRnTFhYaUI4dG11RGh0a3BWX2VIc3pyRFE?oc=5)
 
-**Source:** Krebs on Security | **Published:** 2025-05-20
+**Source:** Google: AI Funding Rounds | **Published:** 2025-05-14
 
-KrebsOnSecurity last week was hit by a near record distributed denial-of-service (DDoS) attack that clocked in at more than 6.3 terabits of data per second (a terabit is one trillion bits of data). Th...
+<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTgwRGx5VUJxcE52ZHhuSlZvQ2l0QTFEMVo4VkxSYmZ1Mk11WlJ3MkJNRlBCOVFTeHREczhoXzNrVHFWaEFDazRCQjNybWxpVmxpeGRQZUprQ21JTWFNNkJkZWpEOGxycVFxY0lfUS...
 
-**Categories:** cybersecurity, emerging
-
----
-
-### [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/)
-
-**Source:** Krebs on Security | **Published:** 2025-05-15
-
-In what experts are calling a novel legal outcome, the 22-year-old former administrator of the cybercrime communityBreachforumswill forfeit nearly $700,000 to settle a civil lawsuit from a health insu...
-
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging, stock
 
 ---
 
-### [Masimo faces operational disruption after cybersecurity breach, triggers law enforcement coordination - Industrial Cyber](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnlZNTlOSjloTk8zZGx1Z2JmUzVWTGxJVDUtbmtvUFM3czF3S1MwSUl6MEduTkxZcXRQUmxobUVMNUFES0tjVUR3MjRtRWhrQzlCZG1vWDFGcVlXdGVKdW5ESzA5V3pVelhUSkgwRnpNNFJsd3FjUjY2RXlSZjlpc251eFlRVlJMYmFKc3JoSS1JRWtKSFRqanNSTGRmYk9BYURSRmVfVXdZX0ZlamNrcXExeXlHWUEtdUF6RS1DbVJFMVNTVGE3US1ULUZXSDY3b0E?oc=5)
+### [Google launches AI startup fund offering access to new models and tools - CNBC](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWprUDZjbUp1d01fYmJ0Q0M4clJZbjZEdjZvbTVLZFA3NlZwakNtVXp5aGZpQXVLTHhRcXFReDlQb1VSbDM0MUZhbklkczB2SFhvWGVEa3dzdjJfUG5vNl9PSzJkekItN2QzdnFRSGFDNG43ZUhsZExobW5BcEU4c2ZpeWNCY3oxUEg3QTRDRnM3S0dxbHF2di1XOHBiX2vSAaQBQVVfeXFMTUJfc3FfNGJYTW1ZcS1UTy1MRmoyTjNtd2EtMjEydVVZaWNpNGV5WG9GUHV1R1JFLW54VzVoMl9PV3hqalp0dE1SQmtNTzZJZ2xtdGFFU0NQYjduQzFtMG9hQ0lwUXEtZnBadXhoQVlwNXZoVUJEUjI0VXlKU1Z5bHVoa0xoUkQzYnR6d2tYelRFNW5LWVlYMERKdVFrTko3R1ljb1E?oc=5)
 
-**Source:** Google: Cybersecurity Breaches | **Published:** 2025-05-08
+**Source:** Google: AI Funding Rounds | **Published:** 2025-05-12
 
-<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnlZNTlOSjloTk8zZGx1Z2JmUzVWTGxJVDUtbmtvUFM3czF3S1MwSUl6MEduTkxZcXRQUmxobUVMNUFES0tjVUR3MjRtRWhrQzlCZG1vWDFGcVlXdGVKdW5ESzA5V3pVelhUSkgwRn...
+<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWprUDZjbUp1d01fYmJ0Q0M4clJZbjZEdjZvbTVLZFA3NlZwakNtVXp5aGZpQXVLTHhRcXFReDlQb1VSbDM0MUZhbklkczB2SFhvWGVEa3dzdjJfUG5vNl9PSzJkekItN2QzdnFRSG...
 
-**Categories:** cybersecurity, emerging
+**Categories:** ai, emerging
+
+---
+
+### [Wall Street's hopes for a 2025 IPO bonanza are being put to the test - Yahoo Finance](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWlZbXlpcmJMRjBIQ3hVbTVRTWtTWVpsU1BrRjRTRGRxVmN1M0JBVjhucTIyWllfeHU3Z19JdE9OVnFramZBazdKTnNVRVVTdFJrWFhQSTB3TWc4dnJxVDNISV93VmhleTA0NHhBU19tTTlTcFJYaGlSOXoyTDFfT3FfQUI4b28xbVJLSjZZZjNsak5SbTFZX2E0SDBiSmlYNEFNVVNIZjd6Uzc1TWlXSWlMdw?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-03-12
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWlZbXlpcmJMRjBIQ3hVbTVRTWtTWVpsU1BrRjRTRGRxVmN1M0JBVjhucTIyWllfeHU3Z19JdE9OVnFramZBazdKTnNVRVVTdFJrWFhQSTB3TWc4dnJxVDNISV93VmhleTA0NHhBU1...
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [IPO Market Slump Drags On As Unicorns Multiply. Why There's Hope For More IPOs In 2025. - Investor's Business Daily](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHpNSFVLTTVHbVJOT2p6NjBCVGpjeHJDVHFvRmlJV0R2dXRnTWFzSmVKeDNYWFNvTEM1NjRJV25XelFkMm41TjROMVBDNEdTVUFTelRtOW13czg3Y0k4RXZVR2JtajVyak5xbDljZ1hpbXMwMkQxUXAzQXlYekQwSHl4TDNycnFFblphdGd5ZWRSdw?oc=5)
+
+**Source:** Google: Tech IPOs 2025 | **Published:** 2025-02-28
+
+<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHpNSFVLTTVHbVJOT2p6NjBCVGpjeHJDVHFvRmlJV0R2dXRnTWFzSmVKeDNYWFNvTEM1NjRJV25XelFkMm41TjROMVBDNEdTVUFTelRtOW13czg3Y0k4RXZVR2JtajVyak5xbDljZ1...
+
+**Categories:** ai, emerging, stock
 
 ---
 
@@ -914,6 +3369,2512 @@ In what experts are calling a novel legal outcome, the 22-year-old former admini
 
 ---
 
+### [Jobless claims stay low in latest week](https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse)
+
+**Source:** MarketWatch IPO | **Published:** 2025-02-13
+
+
+
+**Categories:** ai, stock
+
+---
+
+### [Startup Funding Regained Its Footing In 2024 As AI Became The Star Of The Show - Crunchbase News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZnJDVVNVNVYzamtTSmlBWmNoT09iZnpVWVhkczJDbXVOWi1MdklyaEJTOFdIWkI2WWhNSVJkQlhCVDBrTl9CeUdVUXVteFNjbjhZNldjbVcxNUhFX1E2SEE5VU84Z2Nvc2ZVemVyLWRFREFqX0RGMEgyMnh5MUdFT29nbw?oc=5)
+
+**Source:** Google: AI Funding Rounds | **Published:** 2025-01-07
+
+<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPZnJDVVNVNVYzamtTSmlBWmNoT09iZnpVWVhkczJDbXVOWi1MdklyaEJTOFdIWkI2WWhNSVJkQlhCVDBrTl9CeUdVUXVteFNjbjhZNldjbVcxNUhFX1E2SEE5VU84Z2Nvc2ZVemVyLW...
+
+**Categories:** ai, emerging
+
+---
+
+### [Trainline boosts guidance for the second time this year](https://www.marketwatch.com/story/trainline-boosts-guidance-for-the-second-time-this-year-513373f6?mod=mw_rss_marketpulse)
+
+**Source:** MarketWatch IPO | **Published:** 2024-10-28
+
+
+
+**Categories:** ai, emerging, stock
+
+---
+
+### [Data observability company Cribl raises $150M](https://venturebeat.com/data-infrastructure/data-observability-company-cribl-raises-150m/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-24
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowCribl, a data observability platform used by ...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Headless CMS platform Payload goes open source](https://venturebeat.com/business/headless-cms-platform-payload-goes-open-source/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-24
+
+Let theOSS Enterprise newsletterguide your open-source journey!Sign up here.WordPress might be the darling of the content management system (CMS) world, powering some40%of the world’s websites, but al...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [The Women in AI Breakfast is a go, and nominations for the Women in AI Awards now open](https://venturebeat.com/ai/the-women-in-ai-breakfast-is-a-go-and-nominations-for-the-women-in-ai-awards-now-open/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-18
+
+Women leaders are increasingly at the center of AI innovation, and they’ll be in the spotlight at this year’s Women in AI Breakfast and Women in AI Awards as part of Transform 2022. VentureBeat is com...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Rain nabs $11M to build voice products](https://venturebeat.com/marketing/rain-nabs-11m-to-build-voice-products/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-13
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowThe shift to working from home during the pan...
+
+**Categories:** startups, ai, emerging, stock
+
+---
+
+### [Rocky Linux developer CIQ raises $26M to recreate CentOS for enterprises](https://venturebeat.com/entrepreneur/rocky-linux-developer-ciq-raises-26m-to-recreate-centos-for-enterprises/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-11
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Why companies need to get a handle on ethical and responsible AI (VB On-Demand)](https://venturebeat.com/ai/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-25
+
+Presented by Defined.aiAs AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow. Join this VB Live event for an in-de...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Embracing an ML-first mindset helps startups accelerate time-to-market and build long-term competitiveness](https://venturebeat.com/datadecisionmakers/embracing-an-ml-first-mindset-helps-startups-accelerate-time-to-market-and-build-long-term-competitiveness/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-21
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowOf the many fascinating insights I get from w...
+
+**Categories:** startups, ai, emerging, stock
+
+---
+
+### [Enterprise VR training company Strivr raises $35M to help reskill the workforce](https://venturebeat.com/business/enterprise-vr-training-company-strivr-raises-35m-to-help-reskill-the-workforce/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-19
+
+Strivr, the company behind an enterprise-focused virtual reality (VR) training platform used by big names such as Walmart, Verizon and Bank of America, has raised $35 million in an extension to itspre...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Microsoft launches Azure Managed Grafana service in preview](https://venturebeat.com/enterprise-analytics/microsoft-launches-azure-managed-grafana-service-in-preview/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-19
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Why transparent, interpretable, and unbiased AI is more crucial than ever (VB Live)](https://venturebeat.com/data-infrastructure/why-transparent-interpretable-and-unbiased-ai-is-more-crucial-than-ever-vb-live/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-06
+
+Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What government policies will shape the future of AI? Join Intel’s Melvin Greer, IBM’s Noelle Silver and Daniela Braga from D...
+
+**Categories:** startups, ai, emerging
+
+---
+
+## General (179 articles)
+
+### [9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** ai, general
+
+---
+
+### [What would a cheap, Apple A18-powered MacBook actually be good at?](https://arstechnica.com/apple/2025/07/what-would-a-cheap-apple-a18-powered-macbook-actually-be-good-at/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navSome Apple rumors just don't go away, hanging around in perpetuity ...
+
+**Categories:** general
+
+---
+
+### [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Fortnite maker Epic Games has settled its antitrust case against Samsung, according to a court filing.The case, filed last September, accused Samsung of working with Google to block rival app stores b...
+
+**Categories:** ai, startups, general
+
+---
+
+### [Samsung and Epic Games call a truce in app store lawsuit](https://arstechnica.com/gadgets/2025/07/samsung-and-epic-games-call-a-truce-in-app-store-lawsuit/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navEpic Games, buoyed by the massive success of Fortnite, has spent th...
+
+**Categories:** general
+
+---
+
+### [Ancient skull may have been half human, half Neanderthal child](https://arstechnica.com/science/2025/07/ancient-skull-may-have-been-half-human-half-neanderthal-child/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navBack in 1929, archaeologists unearthed several human skeletons (sev...
+
+**Categories:** ai, general
+
+---
+
+### [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Bluesky users can customize their notifications, including activity alerts from their favorite accounts](https://techcrunch.com/2025/07/07/bluesky-users-can-customize-their-notifications-including-activity-alerts-from-their-favorite-accounts/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+On Monday, Blueskyannouncedthree updates to enhance notifications, allowing users to personalize their experience while decluttering their notification center and reducing unnecessary alerts.The updat...
+
+**Categories:** startups, general
+
+---
+
+### [Measles cases reach 33-year high as RFK Jr. pursues anti-vaccine agenda](https://arstechnica.com/health/2025/07/measles-cases-reach-33-year-high-as-rfk-jr-pursues-anti-vaccine-agenda/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the weekend, the tally of measles cases reached 1,281, setting...
+
+**Categories:** emerging, general
+
+---
+
+### [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+The iPhone’s new glassy look has been toned down with Monday’s release of the third developer beta of iOS 26. This follows user complaints that the update made parts of the user interface more difficu...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Trump and Congress finalize law that could hurt your Wi-Fi](https://arstechnica.com/tech-policy/2025/07/trump-and-congress-finalize-law-that-could-hurt-your-wi-fi/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe Federal Communications Commission has regained its authority to...
+
+**Categories:** general
+
+---
+
+### [The 8 Best Travel Pillows (2025), Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, general
+
+---
+
+### [Jack Dorsey working on Bluetooth messaging app, Bitchat](https://techcrunch.com/2025/07/07/jack-dorsey-working-on-bluetooth-messaging-app-bitchat/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Block CEO and Twitter co-founder Jack Dorseywrote in an X poston Sunday night that he spent his weekend creating an app called Bitchat (presumably a combination of the words “bit” and “chat,” and nott...
+
+**Categories:** startups, general
+
+---
+
+### [Fubo pays $3.4M to settle claims it illegally shared user data with advertisers](https://arstechnica.com/gadgets/2025/07/fubo-pays-3-4m-to-settle-claims-it-illegally-shared-user-data-with-advertisers/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navFubo has agreed to pay $3.4 million to settle a class-action lawsui...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [“No honor among thieves”: M&S hacking group starts turf war](https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe ransomware group linked to the recent cyberattacks on UK retail...
+
+**Categories:** cybersecurity, emerging, general
+
+---
+
+### [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [15 Best Air Purifiers (2025): Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveBest Air Purifier OverallIQAir Atem XRead more$1,400AmazonBest Coway Air PurifierCoway Airmega 450Read more$499$325(35% off)AmazonBest Value Air PurifierCoway Air...
+
+**Categories:** ai, general
+
+---
+
+### [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
+
+**Categories:** stock, ai, startups, general
+
+---
+
+### [Waymo robotaxis are heading to Philadelphia and NYC](https://techcrunch.com/2025/07/07/waymo-heading-to-philadelphia-and-nyc/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Waymo kicked off two “road trips” to Philadelphia and New York City on Monday, signaling the Alphabet-owned company’s interest in expanding into Northeastern cities.Waymo’s branded “road trips” don’t ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Microsoft’s Edge browser now loads sites even faster](https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsMicrosoft’s Edge browser now loads sites even faster﻿The company says it’s improved the responsiveness of several Edge features, including its settings page.﻿The company says it’s improved the res...
+
+**Categories:** emerging, general
+
+---
+
+### [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
+
+**Categories:** emerging, stock, ai, general
+
+---
+
+### [US may get its own glitchy version of TikTok if Trump’s deal works out](https://arstechnica.com/tech-policy/2025/07/trumps-shaky-plan-to-save-tiktok-may-push-users-to-buggy-version-of-app/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navCould Donald Trump possibly follow through on his campaign promise ...
+
+**Categories:** general
+
+---
+
+### [Trump advisor Navarro rips Apple's Tim Cook, saying he's not moving production out of China fast enough](https://www.cnbc.com/2025/07/07/trump-navarro-apple-tim-cook-china.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Navarro rips Apple for not moving production out of China fast enoughSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhite House trade advisor...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [America’s police-industrial complex has a meme stock](https://www.ft.com/content/5b44d353-27db-477c-bd0f-222dac6e7539)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerAmerica’s police-industrial complex has a meme stockSubscribe to unlock this articleTry unlimited accessOnly$1for 4 we...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Oldest wooden tools in East Asia may have come from any of three species](https://arstechnica.com/science/2025/07/did-denisovans-or-homo-erectus-make-the-oldest-wooden-tools-in-east-asia/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navSomeone made very sophisticated wooden tools in China 300,000 years...
+
+**Categories:** general
+
+---
+
+### [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [CoreWeave strikes $9bn deal to buy rival Core Scientific](https://www.ft.com/content/7a304ced-f737-4ecd-959f-b72e45fa9f2f)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerAI data centre group CoreWeave strikes $9bn deal to buy rival Core ScientificSubscribe to unlock this articleTry unlim...
+
+**Categories:** general, stock
+
+---
+
+### [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Robinhood stock tokens face scrutiny in the European Union after OpenAI warning](https://www.cnbc.com/2025/07/07/robinhood-stock-tokens-face-scrutiny-in-the-eu-after-openai-warning.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Robinhood stock tokens face scrutiny in the EU after OpenAI warningSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsThe Bank of Lithuania, Robi...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple scores big victory with 'F1,' but AI is still a major problem in Cupertino](https://www.cnbc.com/2025/07/04/apple-f1-artificial-intelligence.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Apple's 'F1' success doesn't make up for AI stumblesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhile "F1" was a victory lap for Apple' se...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Trump’s next tariffs will target South Korea and Japan](https://www.theverge.com/news/699681/trump-south-korea-japan-tariff-25-percent)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee will go into effect on August 1st, which is when the Trump administration will also impose sweeping tariffs on countries th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [F1 in Britain: Terrible English summer weather equals entertaining race](https://arstechnica.com/cars/2025/07/f1-in-britain-terrible-english-summer-weather-equals-entertaining-race/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe heat dome that oppressed much of Europe has broken. Not a drop ...
+
+**Categories:** ai, general
+
+---
+
+### [Bluesky can really keep up with the news now that it has activity notifications](https://www.theverge.com/news/699671/bluesky-push-notifications-activity-controls-reposts)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsBluesky can really keep up with the news now that it has activity notifications﻿A new update has also added much more control over which notifications users will see, and who can trigger them.﻿A n...
+
+**Categories:** emerging, general
+
+---
+
+### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
+
+**Categories:** stock, general, ai, startups, emerging
+
+---
+
+### [Tesla shares drop 7% after Elon Musk says he is launching a political party](https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Tesla shares drop after Elon Musk says he will start a political partySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk said he would ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [The power of randomness](https://www.ft.com/content/2a4fb079-5733-40b6-ac64-8d3b6b702a81)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleThe power of randomnessLimited time offerRead this article and register for y...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
+
+**Categories:** emerging, stock, ai, general
+
+---
+
+### [Epic reaches mystery settlement with Samsung days before new Galaxy phones](https://www.theverge.com/analysis/699541/epic-games-settle-samsung-auto-blocker-lawsuit)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+AnalysisEpic reaches mystery settlement with Samsung days before new Galaxy phonesEpic isn’t saying what it got out of Samsung.Epic isn’t saying what it got out of Samsung.bySean HollisterJul 7, 2025,...
+
+**Categories:** emerging, general
+
+---
+
+### [CoreWeave to acquire Core Scientific in $9 billion all-stock deal](https://www.cnbc.com/2025/07/07/coreweave-core-scientific-stock-acquisition.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+CoreWeave to acquire Core Scientific in $9 billion all-stock dealSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsArtificial intelligence hyper...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple appeals 500 million euro EU fine over App Store policies](https://www.cnbc.com/2025/07/07/apple-appeal-eu-fine-app-store.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Apple appeals 500 million euro EU fine over App Store policiesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsApple appealed the 500 million e...
+
+**Categories:** cybersecurity, general, stock
+
+---
+
+### [Susquehanna Affiliate Buys $1 Billion IonQ Stake at 25% Premium](https://www.bloomberg.com/news/articles/2025-07-07/susquehanna-affiliate-buys-1-billion-ionq-stake-at-25-premium)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+IonQ Inc. raised $1 billion in a sale of stock and warrants to an affiliate of Susquehanna International Group, in a deal priced at a 25% premium to the quantum computing company’s closing price on Th...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [TikTok reportedly developing new version of app ahead of planned US sale](https://techcrunch.com/2025/07/07/tiktok-reportedly-developing-new-version-of-app-ahead-of-planned-us-sale/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+TikTok is developing a new version of its app for U.S. users ahead of an expected sale of the app to a group of investors, according to a report fromThe Information.The company reportedly plans to lau...
+
+**Categories:** startups, general
+
+---
+
+### [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+TechApple’s latest AirPods are already on sale for $99 before Prime DayPlus, we found deals on the latest Kindle Scribe and Garmin’s Venu Sq 2.Plus, we found deals on the latest Kindle Scribe and Garm...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Ingram Micro says ongoing outage caused by ransomware attack](https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Nintendo wants to keep ‘traditional approach’ to development as costs skyrocket](https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsNintendo wants to keep ‘traditional approach’ to development as costs skyrocketNintendo president Shuntaro Furukawa says the company will make ‘necessary investments for more efficient development...
+
+**Categories:** emerging, general
+
+---
+
+### [Wicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movie](https://www.theverge.com/news/699463/mattel-hot-wheels-live-action-movie-jon-m-chu-director)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsWicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movieThere are still no plot details, but the Hot Wheels movie has found its director three years after being announced.There are st...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
+
+**Categories:** stock, general, ai, startups, emerging
+
+---
+
+### [CoreWeave to Buy Core Scientific in $9 Billion Stock Deal](https://www.bloomberg.com/news/articles/2025-07-07/coreweave-to-buy-core-scientific-in-deal-valued-at-9-billion)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+CoreWeave Inc. is dropping $9 billion on the data-center operator Core Scientific Inc. in an effort to gain more direct control over the physical assets powering the artificial-intelligence boom.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Strategy Posts $14 Billion Unrealized Gain in Second Quarter](https://www.bloomberg.com/news/articles/2025-07-07/strategy-posts-14-billion-unrealized-gain-in-second-quarter)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Michael Saylor’s Strategy registered an unrealized gain of $14.05 billion in the second quarter due to a rebound in Bitcoin’s price and a recent accounting change.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general
+
+---
+
+### [Amazon’s Shopping Bot Falls Short of Prime Performance](https://www.bloomberg.com/news/newsletters/2025-07-07/amazon-s-shopping-bot-falls-short-of-prime-performance)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Austin Carr looks at the performance of Amazon’s shopping bot, Rufus.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [How a big shift in training LLMs led to a capability explosion](https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Huawei’s AI Lab Fends Off Accusations It Copied Rival Models](https://www.bloomberg.com/news/articles/2025-07-07/huawei-s-ai-lab-fends-off-accusations-it-copied-rival-models)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Huawei Technologies Co.’s secretive AI research lab has pushed back against accusations it relied on rivals’ models to develop its own Pangu platform, taking the unusual step of rebutting claims about...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsApple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’An Extinction Rebellion protester was arrested after spray-painting ‘Tim + Trump = Toxic’ on Apple’s New York City storefront.An E...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+Podcasts/DecoderHow SharkNinja took over the home, with CEO Mark BarrocasThe head of the home appliance giant on grilling, product design, and the future of viral marketing.byNilay PatelJul 7, 2025, 2...
+
+**Categories:** general, emerging
+
+---
+
+### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsNow you can just tell SmartThings how to automate your homeNew updates to Samsung’s smart home platform let you set up routines with natural language, plus there’s now an Apple Watch widget.﻿New u...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Apple Appeals ‘Unprecedented’ €500 Million EU App Store Fine](https://www.bloomberg.com/news/articles/2025-07-07/apple-appeals-unprecedented-500-million-eu-app-store-fine)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Apple Inc. appealed a €500 million ($580 million) fine from the European Union, calling the penalty “unprecedented” and the regulator’s required changes to its App Store as “unlawful.”
+
+**Categories:** general, stock
+
+---
+
+### [Nvidia challenger Groq expands with first European data center](https://www.cnbc.com/2025/07/07/ai-chip-startup-groq-expands-with-first-european-data-center.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Nvidia challenger Groq expands with first European data centerSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsGroq said it has established its...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Destiny&#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsDestiny’s mobile spinoff will arrive in August﻿Destiny: Risingis a free-to-play RPG shooter for iOS and Android set in an ‘alternate timeline’ to the main franchise.﻿Destiny: Risingis a free-to-pl...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Windows 11 has finally overtaken Windows 10 as the most used desktop OS](https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsWindows 11 has finally overtaken Windows 10 as the most used desktop OSWindows 11 is now more widely used than Windows 10, nearly four years after its release.Windows 11 is now more widely used th...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsSpecs leak for three Samsung foldables ahead of Wednesday’s UnpackedSamsung’s launch is two days away, but there’s not much left we don’t know.Samsung’s launch is two days away, but there’s not mu...
+
+**Categories:** ai, general
+
+---
+
+### [Capgemini to Buy WNS for $3.3 Billion to Expand AI Offer](https://www.bloomberg.com/news/articles/2025-07-07/capgemini-to-buy-it-firm-wns-for-3-3-billion-to-boost-ai)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+The French consulting company Capgemini SE has agreed to buy IT outsourcing firm WNS Holdings Ltd. for $3.3 billion in cash in a push to expand its presence in artificial intelligence, a technology in...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple Supplier Lens Tech Said to Price $607 Million Hong Kong Listing at Top of Range](https://www.bloomberg.com/news/articles/2025-07-07/apple-supplier-lens-tech-said-to-price-607-million-hk-listing-at-top-of-range)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Apple Inc. supplier Lens Technology Co. has raised HK$4.8 billion ($607 million) after pricing its Hong Kong listing at the top of the marketed range, according to terms of the deal seen by Bloomberg ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [‘No honour among thieves’: M&S hacking group starts turf war](https://www.ft.com/content/22cb54ef-1611-4aef-b671-16316280e3fb)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footer‘No honour among thieves’: M&S hacking group starts turf warSubscribe to unlock this articleJoin FT EditOnly$4.99per m...
+
+**Categories:** cybersecurity, general, emerging, stock
+
+---
+
+### [US stocks: rally or overcorrection?](https://www.ft.com/content/23dcb650-df6a-47af-a722-bf6c4e434b38)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+US stocks: rally or overcorrection?onx(opens in a new window)US stocks: rally or overcorrection?onfacebook(opens in a new window)US stocks: rally or overcorrection?onlinkedin(opens in a new window)US ...
+
+**Categories:** general, stock
+
+---
+
+### [On-the-job learning upended by AI and hybrid work](https://www.ft.com/content/071089b8-839a-4f96-af79-394c08a146d1)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOn-the-job learning upended by AI and hybrid workSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeks...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Why it is vital that you understand the infrastructure behind AI](https://www.ft.com/content/8452bf94-9a41-4040-913f-ef1a462d6ea6)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhy it is vital that you understand the infrastructure behind AISubscribe to unlock this articleTry unlimited accessOn...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [How Xiaomi Succeeded Where Apple Failed](https://www.bloomberg.com/news/articles/2025-07-06/xiaomi-founder-s-bold-ev-bet-is-paying-off-where-apple-s-failed)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-06
+
+Lei Jun, founder and chairman of Xiaomi Corp., the only tech company to have successfully diversified into carmaking, couldn’t resist.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+NewsTikTok’s ‘ban’ problem could end soon with a new app and a saleThe Information reports a new TikTok app could replace the old one in September.The Information reports a new TikTok app could replac...
+
+**Categories:** general, emerging
+
+---
+
+### [Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, general
+
+---
+
+### [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+TechHere are 33 of our favorite deals from Amazon’s early Prime Day saleAmazon Prime Day kicks off on July 8th, but you don’t need to wait until then to save.Amazon Prime Day kicks off on July 8th, bu...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [12 Best Kids Headphones (2025), Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [How to watch Summer Games Done Quick 2025](https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+GamingHow to watch Summer Games Done Quick 2025The summer speedrunning charity showcase is back, raising money for Doctors Without Borders.The summer speedrunning charity showcase is back, raising mon...
+
+**Categories:** general, emerging
+
+---
+
+### [Figuring out why a nap might help people see things in new ways](https://arstechnica.com/science/2025/07/figuring-out-why-a-nap-might-help-people-see-things-in-new-ways/)
+
+**Source:** Ars Technica | **Published:** 2025-07-06
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navDmitri Mendeleev famously saw the complete arrangement of the perio...
+
+**Categories:** general
+
+---
+
+### [It’s a bad time to be a graduate](https://www.ft.com/content/002a0943-f977-44bd-bc78-957c877dfed1)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-06
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerIt’s a bad time to be a graduateSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month....
+
+**Categories:** ai, general, stock
+
+---
+
+### [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general
+
+---
+
+### [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+EntertainmentThe Verge’s summer ‘in’ and ‘out’ listIn our second annual trend forecast, The Verge staff weighs in on Labubus, tariffs, The Hague, and AI slop.byMia SatoJul 6, 2025, 1:00 PM UTCLinkFace...
+
+**Categories:** general, emerging
+
+---
+
+### [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+Tech/ReviewsLenovo Chromebook Plus 14 review: the new king of Chromebooks﻿An OLED display, a fast processor, 16GB of RAM, and all-day battery life for $749? That’s a lot to like.If you buy something f...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Meteorologists Say the National Weather Service Did Its Job in Texas](https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveAt least 27people, including nine children, are dead in central Texas after flash floods struck suddenly on the morning of the Fourth of July holiday. After a sto...
+
+**Categories:** general
+
+---
+
+### [Drive Capital’s second act — how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
+
+**Categories:** stock, general, ai, startups, emerging
+
+---
+
+### [Ask not for whom the Louvre of Bluesky tolls, it tolls for thee](https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+A group known as the Independent Publishers Alliance has filed an antitrust complaint with the European Commission over Google’s AI Overviews,according to Reuters.The complaint accuses Google of “misu...
+
+**Categories:** startups, ai, general, emerging
+
+---
+
+### [Secret Service in US Expands a Global Push Against Crypto Scams](https://www.bloomberg.com/news/articles/2025-07-05/us-secret-service-builds-international-network-to-fight-crypto-crime)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-05
+
+The scam began with a message, then a friendly exchange. A stranger directed the victim to a cryptocurrency investment site that appeared professional &mdash; slick design, charts, even customer suppo...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+NewsCyberpunk: Edgerunners 2 will be even sadder and bloodierNetflix’s Cyberpunk 2077 anime spinoff is coming back for a second 10-episode season with ‘an entirely new story.’Netflix’s Cyberpunk 2077 ...
+
+**Categories:** emerging, cybersecurity, general
+
+---
+
+### [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Inside a Utah desert facility preparing humans for life on Mars](https://www.cnbc.com/2025/07/05/utah-mars-desert-research.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-05
+
+Inside a Utah desert facility preparing humans for life on MarsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuHidden among the majestic canyons of the ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Best Laptop Stands (2025): 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general
+
+---
+
+### [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveTriangleUpBuy NowMultiple Buying Options Available$269at Amazon$269at BoseAll products featured on WIRED are independently selected by our editors. However, when ...
+
+**Categories:** emerging, general
+
+---
+
+### [Everything You Can Do in the Photoshop Mobile App](https://www.wired.com/story/everything-you-can-do-in-the-photoshop-mobile-app/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveYou know yoursoftware is a success when its name becomes a verb: You'll now commonly hear about images being photoshopped, even if the editing wasn't done with th...
+
+**Categories:** general
+
+---
+
+### [The curious rise of giant tablets on wheels](https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/)
+
+**Source:** Ars Technica | **Published:** 2025-07-05
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the past few years, LG has set off a strange tech trend that’s...
+
+**Categories:** general
+
+---
+
+### [Samsung is about to find out if Ultra is enough](https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+Tech/SamsungSamsung is about to find out if Ultra is enoughIt looks like Samsung has some new ideas about foldables this year — but will they be enough to entice buyers?It looks like Samsung has some ...
+
+**Categories:** emerging, general
+
+---
+
+### [The 49 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveStreaming services areknown for having award-worthy series but also plenty of duds. Our guide to the best TV shows on Netflix is updated weekly to help you know w...
+
+**Categories:** general, emerging
+
+---
+
+### [The 50 Best Movies on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveNetflix has plentyof movies to watch. Maybetoomany. Sometimes finding the right film at the right time can seem like an impossible task. Let us help you. Below is...
+
+**Categories:** emerging, general
+
+---
+
+### [Is It Time to Stop Protecting the Grizzly Bear?](https://www.wired.com/story/is-it-time-to-stop-protecting-the-grizzly-bear-endangered-species-act-list/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveThis story originallyappeared onVoxand is part of theClimate Deskcollaboration.In the early 1900s, long before smartphones and selfie sticks, tourists flocked to ...
+
+**Categories:** emerging, general
+
+---
+
+### [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveIn recent years,North Korea has deployedthousands of so-called IT workers to infiltrate Western businesses, get paid salaries, and send money back to support the ...
+
+**Categories:** ai, cybersecurity, general, emerging
+
+---
+
+### [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+Gaming/Games ReviewDeltarune is halfway done, but it feels like a full gameThe parallel story to Undertale is just as good.The parallel story to Undertale is just as good.byJay PetersJul 5, 2025, 1:00...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Ethereum is powering Wall Street's future. The crypto scene at Cannes shows how far it's come](https://www.cnbc.com/2025/07/04/the-ethcc-crypto-scene-at-cannes-shows-how-far-ethereum-has-come.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-05
+
+The EthCC crypto scene at Cannes shows how far Ethereum has comeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsCrypto founders, developers, a...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Nvidia Partner Hon Hai Meets Sales Estimates on Strong AI Demand](https://www.bloomberg.com/news/articles/2025-07-05/nvidia-partner-hon-hai-meets-sales-estimates-on-strong-ai-demand)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-05
+
+Hon Hai Precision Industry Co. reported 15.8% growth in quarterly sales on robust demand for AI servers and iPhones.
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+Transportation/Cars/Mercedes-BenzMercedes-Benz electric G-Wagen review: king of the off-roadThe G580 with EQ Technology may have a fancy name, but it stays true to its original formula.byPeter NelsonJ...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Apple races to box office glory with Brad Pitt’s F1 blockbuster](https://www.ft.com/content/fe5a2104-e56f-48a7-9aab-a61f413f780a)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-05
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleApple races to box office glory with Brad Pitt’s F1 blockbusterLimited time o...
+
+**Categories:** general, stock
+
+---
+
+### [ChatGPT — the last of the great romantics](https://www.ft.com/content/22c42b1a-c5eb-4d92-843e-c5a4fb17be6b)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-05
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerChatGPT — the last of the great romanticsSubscribe to unlock this articleJoin FT EditOnly$4.99per monthAccess to eight...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+
+**Source:** The Verge | **Published:** 2025-07-04
+
+TechHere are the best Apple Watch deals available right now﻿Every model in Apple’s current lineup, from the entry-level SE to the jet black Ultra 2, is receiving a sizable discount right now.﻿Every mo...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [IPO market gets boost from Circle's 500% surge, sparking optimism that drought may be ending](https://www.cnbc.com/2025/07/03/ipo-market-boost-from-circle-500percent-surge-vcs-say-drought-may-be-ending.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+IPO market boost from Circle 500% surge, VCs say drought may be endingSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTech IPOs had a big mont...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+Microsoft is closing its operations in Pakistan, marking the end of a 25-year presence in the South Asian nation.The Redmond-based company on Friday told TechCrunch that it is changing its operational...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [Trump inaugural impersonators scammed donors out of crypto, feds say](https://www.cnbc.com/2025/07/04/trump-cryptocurrency-ethereum-tokens.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+Trump inaugural impersonators scammed donors out of crypto, feds saySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsScammers impersonating the...
+
+**Categories:** ai, general, stock
+
+---
+
+### [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+Welcome back toTechCrunch Mobility— your central hub for news and insights on the future of transportation. Sign up here for free — just clickTechCrunch Mobility!This week I’m publishing an abbreviate...
+
+**Categories:** startups, general
+
+---
+
+### [OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats](https://www.cnbc.com/2025/07/04/openai-altman-july-4-zohran-mamdani.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+OpenAI CEO Sam Altman celebrates capitalism in July 4 postSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI CEO Sam Altman said he finds ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Musk backs Sen. Paul's criticism of Trump's megabill in first comment since it passed](https://www.cnbc.com/2025/07/04/musk-trump-megabill.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+Musk backs criticism of Trump's megabill after it passed HouseSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTesla CEO Elon Musk made his fir...
+
+**Categories:** general, stock
+
+---
+
+### [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveCruise robotaxis areback on the road … well, kind of. Though General Motorspulled the plugon its self-driving taxi business last year, the automaker has been quie...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [How to Choose the Right Soundbar (2025): Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, emerging
+
+---
+
+### [15 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, general
+
+---
+
+### [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+The European Union on Friday said it will stick to its timeline for implementing its landmark AI legislation, in response to a concerted effort by more than a hundred tech companies to delay the bloc’...
+
+**Categories:** startups, ai, general
+
+---
+
+### [15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [The 13 Best Fans for the Coolest Summer (2025)](https://www.wired.com/gallery/best-fans/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, general
+
+---
+
+### [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveWhether due toconsumer backlash or an aging EV lineup, or both, Tesla saleshave again seen a global plunge, this time 13 percent last quarter compared to the prev...
+
+**Categories:** emerging, general
+
+---
+
+### [Best Fourth of July Mattress Deals From Helix, Birch, and More (2025)](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveChristmas in July,mattress edition. The Fourth of July is not only for barbecues and pool hangouts, but some of the best mattress deals you’ll see all year. That'...
+
+**Categories:** emerging, general
+
+---
+
+### [Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now](https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/)
+
+**Source:** Ars Technica | **Published:** 2025-07-04
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navWelcome to Edition 8.01 of the Rocket Report! Today's edition will ...
+
+**Categories:** emerging, general
+
+---
+
+### [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveThere are around11,000 satellites orbiting Earth, and it is estimated that at least 50,000 more will be launched in the next decade. There are also exploration in...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Valve conquered PC gaming. What comes next?](https://www.ft.com/content/f4a13716-838a-43da-853b-7c31ac17192c)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-04
+
+Valve conquered PC gaming. What comes next?onx(opens in a new window)Valve conquered PC gaming. What comes next?onfacebook(opens in a new window)Valve conquered PC gaming. What comes next?onlinkedin(o...
+
+**Categories:** general, stock
+
+---
+
+### [Hitachi Energy says AI power spikes threaten to destabilise global supply](https://www.ft.com/content/2789d048-7791-4f9a-8dbe-229c45f8083b)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-04
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHitachi Energy says AI power spikes threaten to destabilise global supplySubscribe to unlock this articleTry unlimited...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Uniqlo Owner, Seven &amp; i To Set Tone for Japan’s Consumer Sector](https://www.bloomberg.com/news/articles/2025-07-04/uniqlo-owner-seven-i-to-set-tone-for-japan-s-consumer-sector)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-04
+
+Uniqlo owner Fast Retailing Co. and Seven &amp; i Holdings Co. will show how Japan’s consumer sector is faring as Asia’s earnings season kicks off.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Microsoft layoffs hit 830 workers in home state of Washington](https://www.cnbc.com/2025/07/03/microsoft-layoffs-hit-830-workers-in-home-state-of-washington-.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+Microsoft layoffs hit 830 workers in home state of WashingtonSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsMicrosoft's latest job cuts affec...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+Slate Auto, theelectric vehicle startup backed by Jeff Bezos, has stopped promoting that its upcoming pickup truck will start “under $20,000” following passage of President Trump’s tax cut bill. The b...
+
+**Categories:** startups, general
+
+---
+
+### [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+You got into Y Combinator, raised $20 million from a16z, and then exited to Meta? That’s cool, I guess. But did Soham Parekh apply to work at your startup?There is now a new badge of honor for startup...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)
+
+**Source:** Wired | **Published:** 2025-07-03
+
+Save this storySaveSave this storySaveUS attorney generalPam Bondi has told at least 10 tech companies, including Apple, Microsoft, Amazon, and Google, that they have “incurred no liability” for suppo...
+
+**Categories:** general
+
+---
+
+### [Tripadvisor stock surges 17% as Starboard Value builds sizable stake in online travel company](https://www.cnbc.com/2025/07/03/tripadvisor-activist-starboard-value.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+Tripadvisor stock surges as Starboard Value builds 9% stakeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTripadvisor's stock jumped after St...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Provider of covert surveillance app spills passwords for 62,000 users](https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe maker of a phone app that is advertised as providing a stealthy...
+
+**Categories:** emerging, general
+
+---
+
+### [Final GOP bill kneecaps renewables and hydrogen but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+Republican legislators Thursday passed a reconciliation act that, among other things, unwinds much of the Inflation Reduction Act (IRA). The bill, which passed 218-214 with two Republicans voting no, ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Judge: You can’t ban DEI grants without bothering to define DEI](https://arstechnica.com/science/2025/07/doge-told-the-nih-which-grants-to-cancel-with-no-scientific-review/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn mid-June, a federal judgeissued a stinging rebuketo the Trump ad...
+
+**Categories:** ai, general
+
+---
+
+### [Meta’s “AI superintelligence” effort sounds just like its failed “metaverse”](https://arstechnica.com/ai/2025/07/metas-ai-superintelligence-effort-sounds-just-like-its-failed-metaverse/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [The Last of Us co-creator Neil Druckmann exits HBO show](https://arstechnica.com/culture/2025/07/the-last-of-us-co-creator-neil-druckmann-exits-hbo-show/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTwo key writers of HBO's seriesThe Last of Usare moving on, accordi...
+
+**Categories:** emerging, general
+
+---
+
+### [U.S. lifts chip software curbs on China in sign of trade truce](https://www.cnbc.com/2025/07/03/us-lifts-chip-software-curbs-on-china-amid-trade-truce-synopsys-says-.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+U.S. lifts chip software curbs on China in sign of trade truceSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsSiemens AG, Synopsys, and Cadenc...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Signs of a pick-up in venture capital exits are finally emerging](https://www.ft.com/content/2e0201f6-8258-4c59-a7a7-689b2c094701)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerSigns of a pick-up in venture capital exits are finally emergingSubscribe to unlock this articleTry unlimited accessOn...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips](https://www.cnbc.com/2025/07/03/coreweave-dell-blackwell-ultra-nvidia.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+CoreWeave says it's the first to get Nvidia's Blackwell UltraSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsNvidia's Blackwell Ultra chips, t...
+
+**Categories:** ai, general, stock
+
+---
+
+### [2025 VW ID Buzz review: If you want an electric minivan, this is it](https://arstechnica.com/cars/2025/07/2025-vw-id-buzz-acres-of-space-but-being-electric-comes-at-a-premium/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you had asked me a few years ago, I would have told you that the...
+
+**Categories:** general
+
+---
+
+### [Bad data leads to bad policy](https://www.ft.com/content/689a72db-e622-4868-b52c-9a5cdc4ad1f5)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerBad data leads to bad policySubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month.
+Com...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Man’s ghastly festering ulcer stumps doctors—until they cut out a wedge of flesh](https://arstechnica.com/health/2025/07/man-fails-to-take-his-medicine-the-flesh-starts-rotting-off-his-leg/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [xAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAftermonths of backlashover alleged pollution concerns, xAI has fin...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Dinosaurs to doctors’ records: the UK weighs up its data assets](https://www.ft.com/content/7585ed49-3e2c-4863-b0dc-a8a2942e9b9c)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerDinosaurs to doctors’ records: the UK weighs up its data assetsSubscribe to unlock this articleTry unlimited accessOnl...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Glovo pauses ‘heat bonuses’ for Italian food delivery workers after backlash](https://www.ft.com/content/d87ae9b1-e18b-4369-92d5-51d16c6e694b)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerGlovo pauses ‘heat bonuses’ for Italian food delivery workers after backlashSubscribe to unlock this articleTry unlimi...
+
+**Categories:** general, stock
+
+---
+
+### [Apple's China iPhone sales grows for the first time in two years](https://www.cnbc.com/2025/07/03/apple-china-iphone-sales-grew-for-the-first-time-in-two-years.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+Apple China iPhone sales grew for the first time in two yearsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsSales of iPhones in China jumped ...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [I’m human. Are you? The battle for our online identity](https://www.ft.com/content/1a93ca54-d1b9-4b06-b504-7c4937173068)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerI’m human. Are you? The battle for our online identitySubscribe to unlock this articleTry unlimited accessOnly$1for 4 ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Like Google, China's biggest search player Baidu is beefing up its product with AI to fight rivals](https://www.cnbc.com/2025/07/03/chinas-baidu-is-beefing-up-its-search-product-with-ai-to-fight-rivals.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+China's Baidu is beefing up its search product with AI to fight rivalsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsBaidu has given its sear...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Amazon to shut down Freevee streaming TV service in August](https://www.cnbc.com/2025/07/02/amazon-freevee-streaming.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+Amazon to shut down Freevee streaming TV service in AugustSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAmazon is sunsetting its standalone ...
+
+**Categories:** general, stock
+
+---
+
+### [Cutting-edge pressure and BYD leads Tesla](https://www.ft.com/content/51c19253-3afc-4c57-906f-cb7964130b00)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerCutting-edge pressure and BYD leads TeslaSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75p...
+
+**Categories:** general, stock
+
+---
+
+### [AI voice startup ElevenLabs pushes global expansion as it gears up for an IPO](https://www.cnbc.com/2025/07/03/ai-voice-startup-elevenlabs-plots-global-expansion-eventual-ipo.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+AI voice startup ElevenLabs plots global expansion, eventual IPOSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAI voice generation platform E...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Are bigger AI models better stock pickers? Maybe, but probably not](https://www.ft.com/content/89d88cbf-a92c-43d2-b8af-88ae26529be0)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT AlphavilleRegister to unlock this articleAre bigger AI models better stock pickers? Maybe, but probably notFT Alpha...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Chip software makers say US restrictions on sales to China lifted](https://www.ft.com/content/36b12cb9-68d4-4e31-84e8-6d96d676b45d)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerChip software makers say US restrictions on sales to China liftedSubscribe to unlock this articleTry unlimited accessO...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Meta’s AI climate tool raised false hope of CO₂ removal, scientists say](https://www.ft.com/content/69220fea-9c9a-4f55-9118-65d2660c85d4)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerMeta’s AI climate tool raised false hope of CO₂ removal, scientists saySubscribe to unlock this articleJoin FT EditOnl...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [European CEOs urge Brussels to halt landmark AI Act](https://www.ft.com/content/a825759e-aec8-4184-bc73-f604f169204c)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerEuropean CEOs urge Brussels to halt landmark AI ActSubscribe to unlock this articleTry unlimited accessOnly$1for 4 wee...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [How hopeful can we be about AI climate tech?](https://www.ft.com/content/bd835b8f-e39a-4e5f-84d0-2fb019b47b80)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHow hopeful can we be about AI climate tech?Subscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Whose job is safe from AI?](https://www.ft.com/content/b67bcbaa-67b9-48f8-ad4d-4cd6f9bdc1b7)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhose job is safe from AI?Subscribe to unlock this articleJoin FT EditOnly$49a yearGet 2 months free with an annual su...
+
+**Categories:** ai, general, stock
+
+---
+
+### [OpenAI signs $30bn data centre deal with Oracle](https://www.ft.com/content/b4324903-ff53-48c2-bf71-4151cd4f68d0)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-02
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOpenAI signs $30bn data centre deal with OracleSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksTh...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Datadog stock jumps 10% on tech company’s inclusion in S&P 500 index](https://www.cnbc.com/2025/07/02/datadog-stock-jumps-sp-500-index-inclusion.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Datadog stock jumps on inclusion in S&P 500 indexSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsDatadog shares were up 10% in extended tradin...
+
+**Categories:** emerging, general, stock
+
+---
+
+### [OpenAI says Robinhood's tokens aren't equity in the company](https://www.cnbc.com/2025/07/02/openai-robinhood-tokens.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+OpenAI says Robinhood's tokens aren't equity in the companySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI said it did not partner with...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [TikTok is being flooded with racist AI videos generated by Google’s Veo 3](https://arstechnica.com/ai/2025/07/racist-ai-videos-created-with-google-veo-3-are-proliferating-on-tiktok/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe release of Google's Veo 3 video generator in May represented ad...
+
+**Categories:** ai, general
+
+---
+
+### [Everything that could go wrong with X’s new AI-written community notes](https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navElon Musk's X arguably revolutionized social media fact-checking by...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Qantas hit by cyber attack after FBI alert on Scattered Spider group](https://www.ft.com/content/255cdc1d-f31e-4199-ad95-4666a0a660a2)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-02
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerQantas hit by cyber attack after FBI alert on Scattered Spider groupSubscribe to unlock this articleTry unlimited acce...
+
+**Categories:** general, stock, ai, emerging, cybersecurity
+
+---
+
+### [New evidence that some supernovae may be a “double detonation”](https://arstechnica.com/science/2025/07/new-evidence-that-some-supernovae-may-be-a-double-detonation/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navType Ia supernovae are critical tools in astronomy, since they all ...
+
+**Categories:** general, emerging
+
+---
+
+### [Robinhood stock hits $100 as it roars 30% since S&P 500 snub](https://www.cnbc.com/2025/07/02/robinhood-stock-record.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Robinhood stock hits $100 as it roars 30% since S&P 500 snubSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsRobinhood stock hit the $100 mark ...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Rice could be key to brewing better non-alcoholic beer](https://arstechnica.com/science/2025/07/rice-could-be-key-to-brewing-better-non-alcoholic-beer/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThere is increasing consumer demand for low- or non-alcoholic beers...
+
+**Categories:** general
+
+---
+
+### [AT&T rolls out Wireless Account Lock protection to curb the SIM-swap scourge](https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAT&T is rolling out a protection that prevents unauthorized changes...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Elon Musk's X goes down for some users](https://www.cnbc.com/2025/07/02/elon-musk-x-outage.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Elon Musk's X goes down for some usersSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk's social media platform X was hit with an outa...
+
+**Categories:** general, stock
+
+---
+
+### [Ukraine summons top US diplomat after Washington halts some arms supplies](https://www.ft.com/content/b69e327d-95a3-487d-a9b6-6a72ef48ba61)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-02
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerUkraine summons top US diplomat after Washington halts some arms suppliesSubscribe to unlock this articleTry unlimited...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Ether and related stocks gain amid the latest crypto craze: Tokenization](https://www.cnbc.com/2025/07/02/ether-and-related-stocks-gain-amid-the-latest-crypto-craze-tokenization.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Ether and related stocks gain amid the latest crypto craze: TokenizationSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsShares of BitMine Imme...
+
+**Categories:** ai, general, stock
+
+---
+
+### [From Le Mans to Driven—where does F1: The Movie rank?](https://arstechnica.com/cars/2025/07/f1-the-movie-takes-motorsport-into-the-imax-age/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIt may not have escaped your attention that there's a new film abou...
+
+**Categories:** general
+
+---
+
+### [NYT to start searching deleted ChatGPT logs after beating OpenAI in court](https://arstechnica.com/tech-policy/2025/07/nyt-to-start-searching-deleted-chatgpt-logs-after-beating-openai-in-court/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navLast week, OpenAI raised objections in court, hoping to overturn a ...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Paramount accused of bribery as it settles Trump lawsuit for $16 million](https://arstechnica.com/tech-policy/2025/07/paramount-accused-of-bribery-as-it-settles-trump-lawsuit-for-16-million/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navCBS owner Paramount has reached a $16 million settlement with Presi...
+
+**Categories:** emerging, general
+
+---
+
+### [Medical groups warn Senate budget bill will create dystopian health care system](https://arstechnica.com/health/2025/07/doctors-blast-senate-bill-point-out-that-11-8m-losing-health-insurance-is-bad/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navMedical organizations are blasting the Senate's budget bill in the ...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Tesla Q2 2025 sales dropped more than 13% year over year](https://arstechnica.com/cars/2025/07/tesla-q2-2025-sales-dropped-more-than-13-year-over-year/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTesla sold 384,122 electric vehicles during the months of April, Ma...
+
+**Categories:** emerging, general
+
+---
+
+## Startups (66 articles)
+
+### [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Fortnite maker Epic Games has settled its antitrust case against Samsung, according to a court filing.The case, filed last September, accused Samsung of working with Google to block rival app stores b...
+
+**Categories:** ai, startups, general
+
+---
+
+### [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Bluesky users can customize their notifications, including activity alerts from their favorite accounts](https://techcrunch.com/2025/07/07/bluesky-users-can-customize-their-notifications-including-activity-alerts-from-their-favorite-accounts/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+On Monday, Blueskyannouncedthree updates to enhance notifications, allowing users to personalize their experience while decluttering their notification center and reducing unnecessary alerts.The updat...
+
+**Categories:** startups, general
+
+---
+
+### [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+The iPhone’s new glassy look has been toned down with Monday’s release of the third developer beta of iOS 26. This follows user complaints that the update made parts of the user interface more difficu...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Jack Dorsey working on Bluetooth messaging app, Bitchat](https://techcrunch.com/2025/07/07/jack-dorsey-working-on-bluetooth-messaging-app-bitchat/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Block CEO and Twitter co-founder Jack Dorseywrote in an X poston Sunday night that he spent his weekend creating an app called Bitchat (presumably a combination of the words “bit” and “chat,” and nott...
+
+**Categories:** startups, general
+
+---
+
+### [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
+
+**Categories:** stock, ai, startups, general
+
+---
+
+### [Waymo robotaxis are heading to Philadelphia and NYC](https://techcrunch.com/2025/07/07/waymo-heading-to-philadelphia-and-nyc/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Waymo kicked off two “road trips” to Philadelphia and New York City on Monday, signaling the Alphabet-owned company’s interest in expanding into Northeastern cities.Waymo’s branded “road trips” don’t ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
+
+**Categories:** stock, general, ai, startups, emerging
+
+---
+
+### [TikTok reportedly developing new version of app ahead of planned US sale](https://techcrunch.com/2025/07/07/tiktok-reportedly-developing-new-version-of-app-ahead-of-planned-us-sale/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+TikTok is developing a new version of its app for U.S. users ahead of an expected sale of the app to a group of investors, according to a report fromThe Information.The company reportedly plans to lau...
+
+**Categories:** startups, general
+
+---
+
+### [Ingram Micro says ongoing outage caused by ransomware attack](https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
+
+**Categories:** stock, general, ai, startups, emerging
+
+---
+
+### [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-06
+
+With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
+
+**Categories:** ai, startups, emerging
+
+---
+
+### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Drive Capital’s second act — how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
+
+**Categories:** stock, general, ai, startups, emerging
+
+---
+
+### [Ask not for whom the Louvre of Bluesky tolls, it tolls for thee](https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+A group known as the Independent Publishers Alliance has filed an antitrust complaint with the European Commission over Google’s AI Overviews,according to Reuters.The complaint accuses Google of “misu...
+
+**Categories:** startups, ai, general, emerging
+
+---
+
+### [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-04
+
+Earlier this week, San Diego startup Gallant announced$18 millionin funding to bring the first FDA-approved ready-to-use stem cell therapy to veterinary medicine. If it passes regulatory muster, it co...
+
+**Categories:** startups, emerging
+
+---
+
+### [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+Microsoft is closing its operations in Pakistan, marking the end of a 25-year presence in the South Asian nation.The Redmond-based company on Friday told TechCrunch that it is changing its operational...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+Welcome back toTechCrunch Mobility— your central hub for news and insights on the future of transportation. Sign up here for free — just clickTechCrunch Mobility!This week I’m publishing an abbreviate...
+
+**Categories:** startups, general
+
+---
+
+### [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+The European Union on Friday said it will stick to its timeline for implementing its landmark AI legislation, in response to a concerted effort by more than a hundred tech companies to delay the bloc’...
+
+**Categories:** startups, ai, general
+
+---
+
+### [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+Slate Auto, theelectric vehicle startup backed by Jeff Bezos, has stopped promoting that its upcoming pickup truck will start “under $20,000” following passage of President Trump’s tax cut bill. The b...
+
+**Categories:** startups, general
+
+---
+
+### [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+You got into Y Combinator, raised $20 million from a16z, and then exited to Meta? That’s cool, I guess. But did Soham Parekh apply to work at your startup?There is now a new badge of honor for startup...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Cluely’s revenue has skyrocketed to about $7 million in ARR sinceit launched its new enterprise producta week ago, founder Roy Lee told TechCrunch. “Every single person who has a meeting or an intervi...
+
+**Categories:** startups, emerging
+
+---
+
+### [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+In the last week, social media users have shared dozens of stories about encounters with Soham Parekh, a software engineer who seems to have been simultaneously working at multiple Silicon Valley star...
+
+**Categories:** startups, emerging
+
+---
+
+### [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+We’re almost there, and ticket rates have officially rolled back with savings of up to $425.TechCrunch All Stage, the founder summit of the year, is just around the corner. On July 15, Boston becomes ...
+
+**Categories:** startups, emerging
+
+---
+
+### [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+TechCrunch Disrupt 2025is back at Moscone West in San Francisco from October 27-29, bringing together 10,000+ startup and VC leaders to dig into what’s next in tech. And when it comes to artificial in...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+It’s an open secret in the fintech world that the founder and CEO of startupIncrease, Darragh Buckley, has been trying for years to “buy a bank,” as one person familiar with the landscape told TechCru...
+
+**Categories:** startups, emerging
+
+---
+
+### [Final GOP bill kneecaps renewables and hydrogen but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+Republican legislators Thursday passed a reconciliation act that, among other things, unwinds much of the Inflation Reduction Act (IRA). The bill, which passed 218-214 with two Republicans voting no, ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Listen onApple PodcastsListen onSpotifyCloudflare wants AI companies to pay up. The cloud infrastructure provider, which powers around 20% of the web, is launching a new experiment that would let publ...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Raising in 2025 doesn’t look anything like it did in 2021 — and that’s exactly the point.AtTechCrunch All StageonJuly 15at Boston’s SoWa Power Station,Kristen Craft, head of Business Development at Fi...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+As a parent, it can be daunting to hand over a smart device to their tween when a myriad of online dangers exist. Pinwheel, a kid-friendly tech company, is introducing a new solution for parents who w...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Hypersonic weapons startupCastelionis raising a $350 million Series B led by Lightspeed Venture Partners and Altimeter Capital, according to sources and documents viewed by TechCrunch.The round, which...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Fundraising is already hard — don’t let a messy cap table make it harder.AtTechCrunch All StageonJuly 15, founders will get a behind-the-scenes look at what it really takes to keep a raise on track du...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+AI agents are reshaping how work gets done across industries, and atTechCrunch Disrupt 2025, one of the leading voices in that transformation is stepping onto the AI Stage.May Habib, CEO and co-founde...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-03
+
+Despite their imposing presence, quantum computers are delicate beasts, and their errors are among the main bottlenecks that the quantum computing community is actively working to address. Failing thi...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-02
+
+Listen onApple PodcastsListen onSpotifyRobinhood’s Baiju Bhatt has a new mission: solar power from space.Fresh off a$50 million Series Araise, Robinhood co-founder Baiju Bhatt is going all-in on space...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-02
+
+Startups demand constant decision-making and pressure-filled pivots, which bring big emotional swings. It’s no wonder anxiety shows up at every stage. But what if it didn’t have to be a liability?AtTe...
+
+**Categories:** startups, emerging
+
+---
+
+### [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-02
+
+Lovable, one of the darlings of the vibe-coding world and one of Europe’s fastest-growing AI startups, is working on raising a fresh round of over $150 million at a near $2 billion valuation, theFinan...
+
+**Categories:** startups, ai, emerging, stock
+
+---
+
+### [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-01
+
+Founders are often told to chase product-market fit before anything else, but what if scaling too soon, too fast, is what’s really holding them back?AtTechCrunch All Stage 2025onJuly 15 in Boston,Jon ...
+
+**Categories:** startups, emerging
+
+---
+
+### [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/)
+
+**Source:** TechCrunch Startups | **Published:** 2025-07-01
+
+Figmapublicly sharedits financials Tuesday, inching the design software company closer to an IPO. And while this initial S-1 is missing details such as number of shares to be offered and what price, t...
+
+**Categories:** ai, startups, emerging, stock
+
+---
+
+### [4 tips for using analytics and data to drive growth and profits](https://venturebeat.com/datadecisionmakers/4-tips-for-using-analytics-and-data-to-drive-growth-and-profits/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-06-10
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowAccording to aGartnerstudy, about 40% of ente...
+
+**Categories:** startups, emerging
+
+---
+
+### [Stripe’s new apps marketplace brings third-party tools directly into Stripe](https://venturebeat.com/apps/stripes-new-apps-marketplace-brings-third-party-tools-to-the-mix/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-24
+
+Payments processing and financial infrastructure giant Stripe has launched a newapps marketplace, designed to bring third-party accounting, analytics, CRM, marketing and esignature features directly i...
+
+**Categories:** startups, emerging, stock
+
+---
+
+### [Data observability company Cribl raises $150M](https://venturebeat.com/data-infrastructure/data-observability-company-cribl-raises-150m/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-24
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowCribl, a data observability platform used by ...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Headless CMS platform Payload goes open source](https://venturebeat.com/business/headless-cms-platform-payload-goes-open-source/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-24
+
+Let theOSS Enterprise newsletterguide your open-source journey!Sign up here.WordPress might be the darling of the content management system (CMS) world, powering some40%of the world’s websites, but al...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Once frenemies, Elastic and AWS are now besties](https://venturebeat.com/business/once-frenemies-elastic-and-aws-are-now-besties/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-19
+
+It has been a frosty few years forElasticand Amazon’s AWS cloud computing arm, with the duofrequently locking hornsover various issues relating to Elastic’s ex-open-source database search engine —Elas...
+
+**Categories:** startups, emerging
+
+---
+
+### [The Women in AI Breakfast is a go, and nominations for the Women in AI Awards now open](https://venturebeat.com/ai/the-women-in-ai-breakfast-is-a-go-and-nominations-for-the-women-in-ai-awards-now-open/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-18
+
+Women leaders are increasingly at the center of AI innovation, and they’ll be in the spotlight at this year’s Women in AI Breakfast and Women in AI Awards as part of Transform 2022. VentureBeat is com...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [What technical leaders can learn from my experience with a $500,000 bug](https://venturebeat.com/datadecisionmakers/what-technical-leaders-can-learn-from-my-experience-with-a-500000-bug/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-15
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowWhen I started the social media app Skout in ...
+
+**Categories:** startups, emerging
+
+---
+
+### [Rain nabs $11M to build voice products](https://venturebeat.com/marketing/rain-nabs-11m-to-build-voice-products/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-13
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowThe shift to working from home during the pan...
+
+**Categories:** startups, ai, emerging, stock
+
+---
+
+### [Rocky Linux developer CIQ raises $26M to recreate CentOS for enterprises](https://venturebeat.com/entrepreneur/rocky-linux-developer-ciq-raises-26m-to-recreate-centos-for-enterprises/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-11
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
+
+**Categories:** startups, ai, emerging
+
+---
+
 ### [It’s time for startups to get proactive and prioritize security](https://venturebeat.com/datadecisionmakers/its-time-for-startups-to-get-proactive-and-prioritize-security/)
 
 **Source:** VentureBeat Startups | **Published:** 2022-05-10
@@ -924,7 +5885,210 @@ Want smarter insights in your inbox? Sign up for our weekly newsletters to get o
 
 ---
 
-## Emerging (469 articles)
+### [GitHub to enforce 2FA for all code contributors by the end of 2023](https://venturebeat.com/entrepreneur/github-to-enforce-2fa-for-all-code-contributors-by-the-end-of-2023/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-05-04
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
+
+**Categories:** startups, emerging
+
+---
+
+### [3 lessons learned from building a software startup](https://venturebeat.com/datadecisionmakers/3-lessons-learned-from-building-a-software-startup/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-29
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowAbout90%of startups fail, and of that stunnin...
+
+**Categories:** startups, emerging
+
+---
+
+### [Why companies need to get a handle on ethical and responsible AI (VB On-Demand)](https://venturebeat.com/ai/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-25
+
+Presented by Defined.aiAs AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow. Join this VB Live event for an in-de...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Embracing an ML-first mindset helps startups accelerate time-to-market and build long-term competitiveness](https://venturebeat.com/datadecisionmakers/embracing-an-ml-first-mindset-helps-startups-accelerate-time-to-market-and-build-long-term-competitiveness/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-21
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowOf the many fascinating insights I get from w...
+
+**Categories:** startups, ai, emerging, stock
+
+---
+
+### [Stigg launches to help SaaS companies dabble with different pricing and feature packaging](https://venturebeat.com/business/stigg-launches-to-help-saas-companies-dabble-with-different-pricing-and-feature-packaging/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-20
+
+Arecent report commissionedby payments infrastructure company Paddle identified “agile pricing” as one of the key ways that SaaS companies can improve their bottom lines — experimenting with different...
+
+**Categories:** startups, emerging
+
+---
+
+### [Enterprise VR training company Strivr raises $35M to help reskill the workforce](https://venturebeat.com/business/enterprise-vr-training-company-strivr-raises-35m-to-help-reskill-the-workforce/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-19
+
+Strivr, the company behind an enterprise-focused virtual reality (VR) training platform used by big names such as Walmart, Verizon and Bank of America, has raised $35 million in an extension to itspre...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [Microsoft launches Azure Managed Grafana service in preview](https://venturebeat.com/enterprise-analytics/microsoft-launches-azure-managed-grafana-service-in-preview/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-19
+
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
+
+**Categories:** startups, ai, emerging
+
+---
+
+### [4 emerging tech cities for new graduates](https://venturebeat.com/business/4-emerging-tech-cities-for-new-graduates/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-13
+
+With colleges finishing up towards the end of April and early May, this year’s crop of technology graduates will be thinking about next steps. The great news is college grads aged 25-to-34 have an emp...
+
+**Categories:** startups, emerging
+
+---
+
+### [Data fabric versus data mesh: What’s the difference?](https://venturebeat.com/business/data-fabric-versus-data-mesh-whats-the-difference/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-08
+
+As more and more processes move online during the pandemic, businesses are adopting analytics to gain greater insight into their operations. According to 2021 survey commissioned by Starburst and Red ...
+
+**Categories:** startups, emerging
+
+---
+
+### [Why transparent, interpretable, and unbiased AI is more crucial than ever (VB Live)](https://venturebeat.com/data-infrastructure/why-transparent-interpretable-and-unbiased-ai-is-more-crucial-than-ever-vb-live/)
+
+**Source:** VentureBeat Startups | **Published:** 2022-04-06
+
+Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What government policies will shape the future of AI? Join Intel’s Melvin Greer, IBM’s Noelle Silver and Daniela Braga from D...
+
+**Categories:** startups, ai, emerging
+
+---
+
+## Emerging (488 articles)
+
+### [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Measles cases reach 33-year high as RFK Jr. pursues anti-vaccine agenda](https://arstechnica.com/health/2025/07/measles-cases-reach-33-year-high-as-rfk-jr-pursues-anti-vaccine-agenda/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the weekend, the tally of measles cases reached 1,281, setting...
+
+**Categories:** emerging, general
+
+---
+
+### [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+The iPhone’s new glassy look has been toned down with Monday’s release of the third developer beta of iOS 26. This follows user complaints that the update made parts of the user interface more difficu...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [The 8 Best Travel Pillows (2025), Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, general
+
+---
+
+### [Fubo pays $3.4M to settle claims it illegally shared user data with advertisers](https://arstechnica.com/gadgets/2025/07/fubo-pays-3-4m-to-settle-claims-it-illegally-shared-user-data-with-advertisers/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navFubo has agreed to pay $3.4 million to settle a class-action lawsui...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [“No honor among thieves”: M&S hacking group starts turf war](https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe ransomware group linked to the recent cyberattacks on UK retail...
+
+**Categories:** cybersecurity, emerging, general
+
+---
+
+### [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
+
+**Categories:** emerging, ai, startups, general
+
+---
+
+### [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Waymo robotaxis are heading to Philadelphia and NYC](https://techcrunch.com/2025/07/07/waymo-heading-to-philadelphia-and-nyc/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Waymo kicked off two “road trips” to Philadelphia and New York City on Monday, signaling the Alphabet-owned company’s interest in expanding into Northeastern cities.Waymo’s branded “road trips” don’t ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Microsoft’s Edge browser now loads sites even faster](https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsMicrosoft’s Edge browser now loads sites even faster﻿The company says it’s improved the responsiveness of several Edge features, including its settings page.﻿The company says it’s improved the res...
+
+**Categories:** emerging, general
+
+---
 
 ### [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html)
 
@@ -933,6 +6097,16 @@ Want smarter insights in your inbox? Sign up for our weekly newsletters to get o
 How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
 **Categories:** cybersecurity, emerging
+
+---
+
+### [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
+
+**Categories:** emerging, stock, ai, general
 
 ---
 
@@ -1052,7 +6226,7 @@ Chevron preps quick closing of Hess deal and awaits result of Exxon disputeIllus
 
 Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -1072,7 +6246,7 @@ The Dow Jones Industrial Average and other major indexes weakened further on Mon
 
 Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
 
-**Categories:** startups, ai, general, emerging
+**Categories:** emerging, ai, startups, general
 
 ---
 
@@ -1106,13 +6280,33 @@ Stocks Pressured Ahead of Wednesday's Tariff DeadlineRich AsplundMon, Jul 7, 202
 
 ---
 
+### [Trump’s next tariffs will target South Korea and Japan](https://www.theverge.com/news/699681/trump-south-korea-japan-tariff-25-percent)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee will go into effect on August 1st, which is when the Trump administration will also impose sweeping tariffs on countries th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Bluesky can really keep up with the news now that it has activity notifications](https://www.theverge.com/news/699671/bluesky-push-notifications-activity-controls-reposts)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsBluesky can really keep up with the news now that it has activity notifications﻿A new update has also added much more control over which notifications users will see, and who can trigger them.﻿A n...
+
+**Categories:** emerging, general
+
+---
+
 ### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
 
-**Source:** TechCrunch Startups | **Published:** 2025-07-07
+**Source:** TechCrunch | **Published:** 2025-07-07
 
 The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
 
-**Categories:** startups, ai, emerging, stock
+**Categories:** stock, general, ai, startups, emerging
 
 ---
 
@@ -1156,6 +6350,26 @@ Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to foot
 
 ---
 
+### [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
+
+**Categories:** emerging, stock, ai, general
+
+---
+
+### [Epic reaches mystery settlement with Samsung days before new Galaxy phones](https://www.theverge.com/analysis/699541/epic-games-settle-samsung-auto-blocker-lawsuit)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+AnalysisEpic reaches mystery settlement with Samsung days before new Galaxy phonesEpic isn’t saying what it got out of Samsung.Epic isn’t saying what it got out of Samsung.bySean HollisterJul 7, 2025,...
+
+**Categories:** emerging, general
+
+---
+
 ### [CoreWeave to acquire Core Scientific in $9 billion all-stock deal](https://www.cnbc.com/2025/07/07/coreweave-core-scientific-stock-acquisition.html)
 
 **Source:** CNBC Tech | **Published:** 2025-07-07
@@ -1196,6 +6410,16 @@ SponsoredIn partnership withTeamViewerDigital transformation has long been a boa
 
 ---
 
+### [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+TechApple’s latest AirPods are already on sale for $99 before Prime DayPlus, we found deals on the latest Kindle Scribe and Garmin’s Venu Sq 2.Plus, we found deals on the latest Kindle Scribe and Garm...
+
+**Categories:** emerging, ai, general
+
+---
+
 ### [AI Stocks Face 'Show Me' Moment. Semiconductor Plays Roar Back. - Investor's Business Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5)
 
 **Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
@@ -1203,16 +6427,6 @@ SponsoredIn partnership withTeamViewerDigital transformation has long been a boa
 <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SX...
 
 **Categories:** ai, emerging, stock
-
----
-
-### [Ingram Micro says ongoing outage caused by ransomware attack](https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
-
-**Categories:** startups, general, emerging
 
 ---
 
@@ -1226,6 +6440,26 @@ Ingram Micro, a U.S. technology distributing giant and managed services provider
 
 ---
 
+### [Ingram Micro says ongoing outage caused by ransomware attack](https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Nintendo wants to keep ‘traditional approach’ to development as costs skyrocket](https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsNintendo wants to keep ‘traditional approach’ to development as costs skyrocketNintendo president Shuntaro Furukawa says the company will make ‘necessary investments for more efficient development...
+
+**Categories:** emerging, general
+
+---
+
 ### [Cracking AI’s storage bottleneck and supercharging inference at the edge](https://venturebeat.com/ai/cracking-ais-storage-bottleneck-and-supercharging-inference-at-the-edge/)
 
 **Source:** VentureBeat AI | **Published:** 2025-07-07
@@ -1233,6 +6467,26 @@ Ingram Micro, a U.S. technology distributing giant and managed services provider
 Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowAs AI applications increasingly permeate ente...
 
 **Categories:** ai, emerging
+
+---
+
+### [Wicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movie](https://www.theverge.com/news/699463/mattel-hot-wheels-live-action-movie-jon-m-chu-director)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsWicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movieThere are still no plot details, but the Hot Wheels movie has found its director three years after being announced.There are st...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
+
+**Categories:** stock, general, ai, startups, emerging
 
 ---
 
@@ -1353,7 +6607,7 @@ Welcome to Tech In Depth, our daily newsletter about the business of tech from B
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -1363,7 +6617,7 @@ Text
 
 Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -1393,7 +6647,7 @@ Hackers abuse leaked Shellter red team tool to deploy infostealersByBill ToulasJ
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -1443,7 +6697,7 @@ Huawei Technologies Co.’s secretive AI research lab has pushed back against ac
 
 NewsApple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’An Extinction Rebellion protester was arrested after spray-painting ‘Tim + Trump = Toxic’ on Apple’s New York City storefront.An E...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -1477,16 +6731,6 @@ Podcasts/DecoderHow SharkNinja took over the home, with CEO Mark BarrocasThe hea
 
 ---
 
-### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
-
-**Categories:** ai, general, emerging
-
----
-
 ### [The latest threat from the rise of Chinese manufacturing](https://www.technologyreview.com/2025/07/07/1119658/the-latest-threat-from-the-rise-of-chinese-manufacturing/)
 
 **Source:** MIT Technology Review | **Published:** 2025-07-07
@@ -1494,6 +6738,16 @@ Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyo
 The findings a decade ago were, well, shocking. Mainstream economists had long argued that free trade was overall a good thing; though there might be some winners and losers, it would generally bring ...
 
 **Categories:** ai, emerging
+
+---
+
+### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
+
+**Categories:** emerging, ai, general
 
 ---
 
@@ -1903,7 +7157,7 @@ Lei Jun, founder and chairman of Xiaomi Corp., the only tech company to have suc
 
 On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
 
-**Categories:** startups, general, emerging
+**Categories:** emerging, startups, general
 
 ---
 
@@ -1999,11 +7253,11 @@ With AI igniting an investor frenzy, every month, more startups obtain unicorn s
 
 ### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
 
-**Source:** TechCrunch Startups | **Published:** 2025-07-06
+**Source:** TechCrunch | **Published:** 2025-07-06
 
 With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
 
-**Categories:** startups, ai, emerging
+**Categories:** emerging, ai, startups, general
 
 ---
 
@@ -2013,7 +7267,7 @@ With AI igniting an investor frenzy, every month, more startups obtain unicorn s
 
 The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
 
-**Categories:** startups, ai, general, emerging
+**Categories:** emerging, ai, startups, general
 
 ---
 
@@ -2043,7 +7297,7 @@ Tariff Dealine, Fed Minutes and Other Key Thing to Watch this WeekGavin McMaster
 
 Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
 
-**Categories:** startups, ai, general, emerging
+**Categories:** emerging, ai, startups, general
 
 ---
 
@@ -2109,11 +7363,11 @@ If You Plan to Receive Social Security in 2035, You Have to Prepare Yourself for
 
 ### [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
 
-**Source:** TechCrunch Startups | **Published:** 2025-07-06
+**Source:** TechCrunch | **Published:** 2025-07-06
 
 Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
 
-**Categories:** startups, ai, emerging
+**Categories:** emerging, ai, startups, general
 
 ---
 
@@ -2133,7 +7387,7 @@ NewsTikTok’s ‘ban’ problem could end soon with a new app and a saleThe Inf
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** general, emerging
+**Categories:** emerging, general
 
 ---
 
@@ -2203,7 +7457,7 @@ How SoundHound AI Is Quietly Building a Global AI Empire | The Motley FoolPlease
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -2393,7 +7647,7 @@ After a 50% Crash, This Tech Stock Is a Tremendous Value | The Motley FoolPlease
 
 Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -2477,13 +7731,13 @@ Dow Jones futures fell slightly Sunday night, along with S&P 500 futures and Nas
 
 ---
 
-### [Drive Capital’s second act –  how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
+### [Drive Capital’s second act — how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
 
 **Source:** TechCrunch | **Published:** 2025-07-05
 
 The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
 
-**Categories:** ai, stock, startups, general, emerging
+**Categories:** stock, general, ai, startups, emerging
 
 ---
 
@@ -2493,7 +7747,7 @@ The venture capital world has always had a hot-and-cold relationship with the Mi
 
 It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
 
-**Categories:** startups, general, emerging
+**Categories:** emerging, startups, general
 
 ---
 
@@ -2553,7 +7807,7 @@ NewsCyberpunk: Edgerunners 2 will be even sadder and bloodierNetflix’s Cyberpu
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -2623,7 +7877,7 @@ Inside a Utah desert facility preparing humans for life on MarsSkip NavigationMa
 
 Save this storySaveSave this storySaveTriangleUpBuy NowMultiple Buying Options Available$269at Amazon$269at BoseAll products featured on WIRED are independently selected by our editors. However, when ...
 
-**Categories:** general, emerging
+**Categories:** emerging, general
 
 ---
 
@@ -2667,13 +7921,23 @@ Tech/SamsungSamsung is about to find out if Ultra is enoughIt looks like Samsung
 
 ---
 
+### [The 49 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveStreaming services areknown for having award-worthy series but also plenty of duds. Our guide to the best TV shows on Netflix is updated weekly to help you know w...
+
+**Categories:** general, emerging
+
+---
+
 ### [The 50 Best Movies on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
 
 **Source:** Wired | **Published:** 2025-07-05
 
 Save this storySaveSave this storySaveNetflix has plentyof movies to watch. Maybetoomany. Sometimes finding the right film at the right time can seem like an impossible task. Let us help you. Below is...
 
-**Categories:** general, emerging
+**Categories:** emerging, general
 
 ---
 
@@ -2683,17 +7947,7 @@ Save this storySaveSave this storySaveNetflix has plentyof movies to watch. Mayb
 
 Save this storySaveSave this storySaveThis story originallyappeared onVoxand is part of theClimate Deskcollaboration.In the early 1900s, long before smartphones and selfie sticks, tourists flocked to ...
 
-**Categories:** general, emerging
-
----
-
-### [The 49 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveStreaming services areknown for having award-worthy series but also plenty of duds. Our guide to the best TV shows on Netflix is updated weekly to help you know w...
-
-**Categories:** general, emerging
+**Categories:** emerging, general
 
 ---
 
@@ -3024,7 +8278,7 @@ Save this storySaveSave this storySaveChristmas in July,mattress edition. The Fo
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navWelcome to Edition 8.01 of the Rocket Report! Today's edition will ...
 
-**Categories:** general, emerging
+**Categories:** emerging, general
 
 ---
 
@@ -3235,7 +8489,7 @@ Looks like there are new Grok 4 model versions (0702) – grok-4-0702 and grok-4
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe maker of a phone app that is advertised as providing a stealthy...
 
-**Categories:** general, emerging
+**Categories:** emerging, general
 
 ---
 
@@ -3316,7 +8570,7 @@ Raising in 2025 doesn’t look anything like it did in 2021 — and that’s exa
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -3327,7 +8581,7 @@ Text
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTwo key writers of HBO's seriesThe Last of Usare moving on, accordi...
 
-**Categories:** general, emerging
+**Categories:** emerging, general
 
 ---
 
@@ -3408,7 +8662,7 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
 
-**Categories:** ai, general, emerging
+**Categories:** emerging, ai, general
 
 ---
 
@@ -5631,7 +10885,28 @@ Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What 
 
 ---
 
-## Ai (334 articles)
+## Cybersecurity (93 articles)
+
+### [“No honor among thieves”: M&S hacking group starts turf war](https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe ransomware group linked to the recent cyberattacks on UK retail...
+
+**Categories:** cybersecurity, emerging, general
+
+---
+
+### [⚡ Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto Heists and More](https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html)
+
+**Source:** The Hacker News | **Published:** 2025-07-07
+
+How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
+
+**Categories:** cybersecurity, emerging
+
+---
 
 ### [Manufacturing Security: Why Default Passwords Must Go](https://thehackernews.com/2025/07/manufacturing-security-why-default.html)
 
@@ -5640,117 +10915,6 @@ Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What 
 How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
 **Categories:** cybersecurity, ai, emerging
-
----
-
-### [Chevron preps quick closing of Hess deal and awaits result of Exxon dispute](https://finance.yahoo.com/news/chevron-preps-quick-closing-hess-155620661.html)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-07
-
-Chevron preps quick closing of Hess deal and awaits result of Exxon disputeIllustration shows Chevron and Hess logos·ReutersSheila DangMon, Jul 7, 2025, 11:56 AM3 min readBy Sheila DangHOUSTON (Reuter...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Stock Market Today: Dow Losses Mount, S&P 500 Gives Back Gains; New Issue CoreWeave Falls On Deal News (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-tariffs-tesla-tsla-stock/?src=A00220&yptr=yahoo)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-07
-
-The Dow Jones Industrial Average and other major indexes weakened further on Monday as midday approached, even after news from Treasury Secretary Scott Bessent that several trade deal announcements ar...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Robinhood stock tokens face scrutiny in the European Union after OpenAI warning](https://www.cnbc.com/2025/07/07/robinhood-stock-tokens-face-scrutiny-in-the-eu-after-openai-warning.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Robinhood stock tokens face scrutiny in the EU after OpenAI warningSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsThe Bank of Lithuania, Robi...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple scores big victory with 'F1,' but AI is still a major problem in Cupertino](https://www.cnbc.com/2025/07/04/apple-f1-artificial-intelligence.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Apple's 'F1' success doesn't make up for AI stumblesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhile "F1" was a victory lap for Apple' se...
-
-**Categories:** ai, general, stock
-
----
-
-### [SONAR Enhances Oracle’s OTM Integration and Launches Shipper Consortium for Unmatched Supply Chain Benchmarking](https://finance.yahoo.com/news/sonar-enhances-oracle-otm-integration-152653399.html)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-07
-
-SONAR Enhances Oracle’s OTM Integration and Launches Shipper Consortium for Unmatched Supply Chain BenchmarkingJulie Van de KampMon, Jul 7, 2025, 11:26 AM2 min readIn This Article:ORCLSONARis proud to...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [F1 in Britain: Terrible English summer weather equals entertaining race](https://arstechnica.com/cars/2025/07/f1-in-britain-terrible-english-summer-weather-equals-entertaining-race/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe heat dome that oppressed much of Europe has broken. Not a drop ...
-
-**Categories:** ai, general
-
----
-
-### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-07
-
-The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
-
-**Categories:** startups, ai, emerging, stock
-
----
-
-### [Tesla shares drop 7% after Elon Musk says he is launching a political party](https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Tesla shares drop after Elon Musk says he will start a political partySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk said he would ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Tencent Hunyuan3D-PolyGen: A model for ‘art-grade’ 3D assets](https://www.artificialintelligence-news.com/news/tencent-hunyuan3d-polygen-a-model-for-art-grade-3d-assets/)
-
-**Source:** AI News | **Published:** 2025-07-07
-
-Tencent Hunyuan3D-PolyGen: A model for 'art-grade' 3D assetsSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFac...
-
-**Categories:** ai, emerging
 
 ---
 
@@ -5764,214 +10928,33 @@ Tencent Hunyuan3D-PolyGen: A model for 'art-grade' 3D assetsSkip to contentAI Ne
 
 ---
 
-### [How Capital One built production multi-agent AI workflows to power enterprise use cases](https://venturebeat.com/ai/how-capital-one-built-production-multi-agent-ai-workflows-to-power-enterprise-use-cases/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-07
-
-How do you balance risk management and safety with innovation in agentic systems — and how do you grapple with core considerations around data and model selection? In thisVB Transformsession, Milind N...
-
-**Categories:** ai
-
----
-
-### [The power of randomness](https://www.ft.com/content/2a4fb079-5733-40b6-ac64-8d3b6b702a81)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleThe power of randomnessLimited time offerRead this article and register for y...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [CoreWeave to acquire Core Scientific in $9 billion all-stock deal](https://www.cnbc.com/2025/07/07/coreweave-core-scientific-stock-acquisition.html)
+### [Apple appeals 500 million euro EU fine over App Store policies](https://www.cnbc.com/2025/07/07/apple-appeal-eu-fine-app-store.html)
 
 **Source:** CNBC Tech | **Published:** 2025-07-07
 
-CoreWeave to acquire Core Scientific in $9 billion all-stock dealSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsArtificial intelligence hyper...
+Apple appeals 500 million euro EU fine over App Store policiesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsApple appealed the 500 million e...
 
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Susquehanna Affiliate Buys $1 Billion IonQ Stake at 25% Premium](https://www.bloomberg.com/news/articles/2025-07-07/susquehanna-affiliate-buys-1-billion-ionq-stake-at-25-premium)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-IonQ Inc. raised $1 billion in a sale of stock and warrants to an affiliate of Susquehanna International Group, in a deal priced at a 25% premium to the quantum computing company’s closing price on Th...
-
-**Categories:** ai, general, emerging, stock
+**Categories:** cybersecurity, general, stock
 
 ---
 
-### [Producing tangible business benefits from modern iPaaS solutions](https://www.technologyreview.com/2025/07/07/1119383/producing-tangible-business-benefits-from-modern-ipaas-solutions/)
+### [Ingram Micro says ongoing outage caused by ransomware attack - TechCrunch](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGVtVGZfTlJlQ3dUMHMzWFNLWHBqWTRtd0YzazNVdm42b3c5aThvOGplNFpqRjVxc3prQWo5b0VpS0g0a2tDX2xsX1RFUmoxWVVuMUtCV0ZBSWplMjRoWERxSk9DTW0tdkt2SlhpNU1aakNzSFRBNkZVcnU3SmZsNW5JYjIxbldPSDZVU2FhV0otM3RyVE9UZHAxZw?oc=5)
 
-**Source:** MIT Technology Review | **Published:** 2025-07-07
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-07
 
-SponsoredIn partnership withSAPWhen a historicUK-based retailerset out to modernize its IT environment, it was wrestling with systems that had grown organically for more than 175 years. Prior digital ...
+<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGVtVGZfTlJlQ3dUMHMzWFNLWHBqWTRtd0YzazNVdm42b3c5aThvOGplNFpqRjVxc3prQWo5b0VpS0g0a2tDX2xsX1RFUmoxWVVuMUtCV0ZBSWplMjRoWERxSk9DTW0tdkt2SlhpNU...
 
-**Categories:** ai, emerging
-
----
-
-### [The digital future of industrial and operational work](https://www.technologyreview.com/2025/07/07/1119714/the-digital-future-of-industrial-and-operational-work/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-07
-
-SponsoredIn partnership withTeamViewerDigital transformation has long been a boardroom buzzword—shorthand for ambitious, often abstract visions of modernization. But today, digital technologies are no...
-
-**Categories:** ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [AI Stocks Face 'Show Me' Moment. Semiconductor Plays Roar Back. - Investor's Business Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SXNzNkE0ZTNua2hvNGpydw?oc=5)
+### [Hackers abuse leaked Shellter red team tool to deploy infostealers](https://www.bleepingcomputer.com/news/security/hackers-abuse-leaked-shellter-red-team-tool-to-deploy-infostealers/)
 
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
+**Source:** Bleeping Computer | **Published:** 2025-07-07
 
-<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SX...
+Hackers abuse leaked Shellter red team tool to deploy infostealersByBill ToulasJuly 7, 202510:49 AM0Shellter Project, the vendor of a commercial AV/EDR evasion loader for penetration testing, confirme...
 
-**Categories:** ai, emerging, stock
-
----
-
-### [Cracking AI’s storage bottleneck and supercharging inference at the edge](https://venturebeat.com/ai/cracking-ais-storage-bottleneck-and-supercharging-inference-at-the-edge/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-07
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowAs AI applications increasingly permeate ente...
-
-**Categories:** ai, emerging
-
----
-
-### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate companies to let developers steer users outsid...
-
-**Categories:** startups, ai, general
-
----
-
-### [CoreWeave to Buy Core Scientific in $9 Billion Stock Deal](https://www.bloomberg.com/news/articles/2025-07-07/coreweave-to-buy-core-scientific-in-deal-valued-at-9-billion)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-CoreWeave Inc. is dropping $9 billion on the data-center operator Core Scientific Inc. in an effort to gain more direct control over the physical assets powering the artificial-intelligence boom.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Strategy Posts $14 Billion Unrealized Gain in Second Quarter](https://www.bloomberg.com/news/articles/2025-07-07/strategy-posts-14-billion-unrealized-gain-in-second-quarter)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Michael Saylor’s Strategy registered an unrealized gain of $14.05 billion in the second quarter due to a rebound in Bitcoin’s price and a recent accounting change.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [The Download: China’s winning at advanced manufacturing, and a potential TikTok sale](https://www.technologyreview.com/2025/07/07/1119730/the-download-chinas-winning-at-advanced-manufacturing-and-a-potential-tiktok-sale/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-07
-
-This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.The latest threat from the rise of Chinese manufacturingIn 2013, ...
-
-**Categories:** ai, emerging
-
----
-
-### [Top 5 AI Growth Stocks to Buy in July 2025](https://www.fool.com/investing/2025/07/07/top-5-ai-growth-stocks-for-july-2025/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-Top 5 AI Growth Stocks to Buy in July 2025 | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAccessi...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Could AMD and Nvidia Face New AI Chip Export Restrictions?](https://www.fool.com/investing/2025/07/07/could-amd-and-nvidia-face-new-ai-chip-export-restr/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-Could AMD and Nvidia Face New AI Chip Export Restrictions? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Mo...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [<a href="https://www.fiercebiotech.com/medtech/boston-scientific-expands-farapulses-reach-afib-new-fda-approval" hreflang="en">Boston Scientific expands Farapulse’s reach in afib with new FDA approval</a>](https://www.fiercebiotech.com/medtech/boston-scientific-expands-farapulses-reach-afib-new-fda-approval)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-07
-
-MedTechBoston Scientific expands Farapulse’s reach in afib with new FDA approvalByConor HaleJul 7, 2025 11:58amBoston ScientificFDApulsed field ablationatrial fibrillationBoston Scientific has claimed...
-
-**Categories:** ai, biotech, emerging, stock
-
----
-
-### [Amazon’s Shopping Bot Falls Short of Prime Performance](https://www.bloomberg.com/news/newsletters/2025-07-07/amazon-s-shopping-bot-falls-short-of-prime-performance)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Austin Carr looks at the performance of Amazon’s shopping bot, Rufus.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [VC-Backed Startups That Stitch AI And Fashion Together See Strong Investor Interest - Crunchbase News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0JCRjlUSlp0Sm1yWTNMZkxkTzVDVEhyZ2FPSEtMS0xIMXFaNi16XzM2Ni1ESlJQRWU1WVU0cDdhUHJHb3prbktNa0pubUVSeVYtVEV6bjRFUUpiN2dfUTRTc0htN0JGcFVNaU1kbXVOVklrTjFraGQ5RDloUGswbVhiaVV0eDA5SjRubUxYYnI?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
-
-<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0JCRjlUSlp0Sm1yWTNMZkxkTzVDVEhyZ2FPSEtMS0xIMXFaNi16XzM2Ni1ESlJQRWU1WVU0cDdhUHJHb3prbktNa0pubUVSeVYtVEV6bjRFUUpiN2dfUTRTc0htN0JGcFVNaU1kbX...
-
-**Categories:** ai, emerging
-
----
-
-### [How a big shift in training LLMs led to a capability explosion](https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
-
-**Categories:** ai, general, emerging
-
----
-
-### [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Amsterdam’s AI startup Perry launches with €1.6M to help train and support Europe’s technical workers - Silicon Canals](https://news.google.com/rss/articles/CBMicEFVX3lxTE1JQXNsZjhrY2hxT0RHNG4yMHZoN1U4OVlwUGpjdHpHdlJ6TFBDSnBlZkZ5MllrZ2JPMHM2QzdLbUJQM28xZGRqRFNqc3ZYRTBicU9Hcnc3TlRfNFRjb1ZqaTJ5M2NlX1JoZFJXdEdvVXI?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
-
-<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1JQXNsZjhrY2hxT0RHNG4yMHZoN1U4OVlwUGpjdHpHdlJ6TFBDSnBlZkZ5MllrZ2JPMHM2QzdLbUJQM28xZGRqRFNqc3ZYRTBicU9Hcnc3TlRfNFRjb1ZqaTJ5M2NlX1JoZFJXdEdvVX...
-
-**Categories:** ai, emerging
-
----
-
-### [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** ai, general, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -5985,343 +10968,33 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Huawei’s AI Lab Fends Off Accusations It Copied Rival Models](https://www.bloomberg.com/news/articles/2025-07-07/huawei-s-ai-lab-fends-off-accusations-it-copied-rival-models)
+### [Ingram Micro struggles to restore services after ransomware breach - Tech Wire Asia](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmRTSUc0aXhBbmxhOFcwdEMyR0FIM3lwMTRqaG0xdXVXNkEtVmxRMWFjTVZmS3VFX2FpNm9WX2NMOTFYaHlNVGNvek1HVTdoUG8zM1pRWWlvYTB1bzRmaDNUS2s2VjBPWFZtLUF4UTNjY0ZUaGFiQWYtTlJnQlNIQkZNQ1V4WXRMZ0hOQXpacnktTTZ0NDlrNnhDSjREY3VRM3c?oc=5)
 
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-07
 
-Huawei Technologies Co.’s secretive AI research lab has pushed back against accusations it relied on rivals’ models to develop its own Pangu platform, taking the unusual step of rebutting claims about...
+<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmRTSUc0aXhBbmxhOFcwdEMyR0FIM3lwMTRqaG0xdXVXNkEtVmxRMWFjTVZmS3VFX2FpNm9WX2NMOTFYaHlNVGNvek1HVTdoUG8zM1pRWWlvYTB1bzRmaDNUS2s2VjBPWFZtLUF4UT...
 
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsApple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’An Extinction Rebellion protester was arrested after spray-painting ‘Tim + Trump = Toxic’ on Apple’s New York City storefront.An E...
-
-**Categories:** ai, general, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
+### [Qantas 'contacted by potential cybercriminal' after data attack - Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1JvMXBwYk1aanJQanhoYUNvQVlpWm1qZTEycktacmtpdndkTXRfczZLYzVnUW5vcUprT1BEd2RvUmtOdlgwTm5NOXhidnd0YzREVDlVWG5acHNYMkpoMGdpd2RHYWNrcUxLcWtXb1pEcTRWaUh6QVR3V1QwQnZDZm9hU3RyQnRPak5tN09xaHNyQUhyS0xTdXNUb3o2LXlrOEtLbUlESldtR3BQ?oc=5)
 
-**Source:** Wired | **Published:** 2025-07-07
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-07
 
-Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
+<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1JvMXBwYk1aanJQanhoYUNvQVlpWm1qZTEycktacmtpdndkTXRfczZLYzVnUW5vcUprT1BEd2RvUmtOdlgwTm5NOXhidnd0YzREVDlVWG5acHNYMkpoMGdpd2RHYWNrcUxLcWtXb1...
 
-**Categories:** ai, general, emerging
-
----
-
-### [The latest threat from the rise of Chinese manufacturing](https://www.technologyreview.com/2025/07/07/1119658/the-latest-threat-from-the-rise-of-chinese-manufacturing/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-07
-
-The findings a decade ago were, well, shocking. Mainstream economists had long argued that free trade was overall a good thing; though there might be some winners and losers, it would generally bring ...
-
-**Categories:** ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [Archer Aviation Stock Financial Analysis as It Prepares to Take Off (Literally)](https://www.fool.com/investing/2025/07/07/archer-aviation-stock-financial-analysis-as-it-pre/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-Archer Aviation Stock Financial Analysis as It Prepares to Take Off (Literally) | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Ad...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Dutch TravelTech platform GeniusTravel raises €2 million to roll out travel packages app - EU-Startups](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnV4X0dXXzQyQlJucEo3a3dMT09XQTRFVkRwNUg3U0ZKNDRDc2dkbW9Ya3JWdkhRSDJmY3lFMUVPYVlMS2UxbTB4OXBWSU9YR2E0YTQ5SUF5VTNlOGZPbi1tQlhsZjdIbl9TQWlsa3phUUVQaXZJVG0tOHU0S21HU1RiSWhSSlVxWnBWNDJnNGZqWUMyU0c4b2FBTGdZTFJzcVlZbWU4a0JPTXdtSEtlV0Y0aFItd1dEUTViNTFwTUlHR2s?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnV4X0dXXzQyQlJucEo3a3dMT09XQTRFVkRwNUg3U0ZKNDRDc2dkbW9Ya3JWdkhRSDJmY3lFMUVPYVlMS2UxbTB4OXBWSU9YR2E0YTQ5SUF5VTNlOGZPbi1tQlhsZjdIbl9TQWlsa3...
-
-**Categories:** ai, emerging
-
----
-
-### [Huge News for Archer Aviation Stock Investors](https://www.fool.com/investing/2025/07/07/huge-news-for-archer-aviation-stock-investors/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-Huge News for Archer Aviation Stock Investors | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAcce...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsNow you can just tell SmartThings how to automate your homeNew updates to Samsung’s smart home platform let you set up routines with natural language, plus there’s now an Apple Watch widget.﻿New u...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Supply trails demand for Nvidia's B200, suggesting future growth: Wedbush](https://seekingalpha.com/news/4465570-supply-trails-demand-for-nvidias-b200-suggesting-future-growth-wedbush?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
-
-
-
-**Categories:** ai, stock
-
----
-
-### [<a href="https://www.fiercebiotech.com/biotech/jasper-warns-restructuring-after-dud-batch-urticaria-drug-derails-trials-sinks-stock" hreflang="en">Jasper warns of restructuring after dud batch of urticaria drug derails trials, sinking stock</a>](https://www.fiercebiotech.com/biotech/jasper-warns-restructuring-after-dud-batch-urticaria-drug-derails-trials-sinks-stock)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-07
-
-BiotechJasper warns of restructuring after dud batch of urticaria drug derails trials, sinking stockByJames WaldronJul 7, 2025 9:23amfailed trialschronic spontaneous urticariaasthmaClinical DataJasper...
-
-**Categories:** ai, biotech, emerging, stock
-
----
-
-### [Where Will Palantir Stock Be in 1 Year?](https://www.fool.com/investing/2025/07/07/where-will-palantir-stock-be-in-1-year/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-Where Will Palantir Stock Be in 1 Year? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAccessibil...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Are You Falling for These 5 Roth IRA Myths?](https://www.fool.com/retirement/2025/07/07/are-you-falling-for-these-5-roth-ira-myths/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-Are You Falling for These 5 Roth IRA Myths? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAccess...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [History Says This S&P 500 ETF Could Turn $500 Per Month Into $1 Million](https://www.fool.com/investing/2025/07/07/history-says-sp-500-etf-500-month-1-million/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-History Says This S&P 500 ETF Could Turn $500 Per Month Into $1 Million | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+--...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [2 Artificial Intelligence (AI) Stocks That Could Help Make You a Millionaire](https://www.fool.com/investing/2025/07/07/2-artificial-intelligence-stocks-that-could-help/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-2 Artificial Intelligence (AI) Stocks That Could Help Make You a Millionaire | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advis...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Nvidia challenger Groq expands with first European data center](https://www.cnbc.com/2025/07/07/ai-chip-startup-groq-expands-with-first-european-data-center.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Nvidia challenger Groq expands with first European data centerSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsGroq said it has established its...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Destiny&#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsDestiny’s mobile spinoff will arrive in August﻿Destiny: Risingis a free-to-play RPG shooter for iOS and Android set in an ‘alternate timeline’ to the main franchise.﻿Destiny: Risingis a free-to-pl...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Why Artificial Superintelligence Could Arrive Sooner Than Wall Street Thinks](https://www.fool.com/investing/2025/07/07/why-artificial-superintelligence-could-arrive-soon/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-Why Artificial Superintelligence Could Arrive Sooner Than Wall Street Thinks | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advis...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Huawei's AI lab rejects claims that one of its Pangu models copied Alibaba's AI model Qwen - report](https://seekingalpha.com/news/4465519-huaweis-ai-lab-rejects-claims-that-one-of-its-pangu-models-copied-alibabas-ai-model-qwen?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
-
-
-
-**Categories:** ai, stock
-
----
-
-### [<a href="https://www.fiercebiotech.com/biotech/apogee-claims-il-13-antibody-sets-new-eczema-treatment-standard-phase-2-study" hreflang="en">Apogee claims IL-13 antibody sets new eczema treatment standard in phase 2 study</a>](https://www.fiercebiotech.com/biotech/apogee-claims-il-13-antibody-sets-new-eczema-treatment-standard-phase-2-study)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-07
-
-BiotechApogee claims IL-13 antibody sets new eczema treatment standard in phase 2 studyByJames WaldronJul 7, 2025 8:29amIL-13Apogee Therapeuticsatopic dermatitiseczemaApogee Therapeutics’ anti-IL-13 a...
-
-**Categories:** ai, biotech, emerging
-
----
-
-### ["From Poland to Portugal": Amsterdam-based Perry raises €1.6 million to empower technicians across Europe with work instructions - EU-Startups](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQR0w4dEh3QnJ4V3UtRXc0dS1SX3YtclFnZWE4SHVmX1VoRUJ2MHE5RDJiN0R4MVpuTldmbjF4ZnVIYkpOcG9PX0Y1S2R2ZVNKXzVqS0h3VkVVVG1uUFM2MEJvaGo0Yk1VbzZlWExza0NtS3lha1pZcUVNeGF5eF9IN1ZSZnMtOXNrTHI4TTFhWHVEZVRid3NBZGFoOFZpUkprMDV4Z3M2cDV0NHQ0SDljbzRqeHdVSWVQdFctYy1sRXVqRk9Db1diX2ZsXy1qTGtIcE1KWmloU1NTTzUza3BMQ0JZTVp1VHc3dThQeTZNLWx1SFFi?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
-
-<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQR0w4dEh3QnJ4V3UtRXc0dS1SX3YtclFnZWE4SHVmX1VoRUJ2MHE5RDJiN0R4MVpuTldmbjF4ZnVIYkpOcG9PX0Y1S2R2ZVNKXzVqS0h3VkVVVG1uUFM2MEJvaGo0Yk1VbzZlWExza0...
-
-**Categories:** ai, emerging
-
----
-
-### [The Smartest Growth Stock to Buy With $80 Right Now](https://www.fool.com/investing/2025/07/07/the-smartest-growth-stock-to-buy-with-80-right-now/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-07
-
-The Smartest Growth Stock to Buy With $80 Right Now | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley Fo...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsSpecs leak for three Samsung foldables ahead of Wednesday’s UnpackedSamsung’s launch is two days away, but there’s not much left we don’t know.Samsung’s launch is two days away, but there’s not mu...
-
-**Categories:** ai, general
-
----
-
-### [Nvidia challenger Groq expands with first European data center - CNBC](https://news.google.com/rss/articles/CBMingFBVV95cUxQMDhzZmtlbjdJMTdsdmVvdUE1RktFNm5uVUVJSUxNc3FOSVFqNG9UVWpQTEdFa0dYNUN1X1FzNWdRRUFEOUk0LXRPSkRLR2haNm5KRW1KYjZCRFdHLTU3TldyemR2M3pZTlhmWUljNXhMeUhUTkpkTWVicTFpNEtqcDRvSU1fRlpZUlhRblRHb2tXQVBQZzhhQmk0Z2k5UdIBowFBVV95cUxOU1l4VlYwZXhrVjJhXzEySXhNVFg1WWNRQkNJS19TdXh2UWxuQzRVNUhPcm9iUzlnSnlyRWFLeHFPeFdYVDJNWTVfaVlheXJpSEZfa3hEM2I1dHdtZ1VhdDJoY1I0WWdUU3ltYUVVRms5THJMQUtyNVhtZTFfUmZnV1AxNDQ3cmJuNGFlRENLQS03ekd0b01sSzdZdFBLa2Qxakl3?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-07
-
-<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQMDhzZmtlbjdJMTdsdmVvdUE1RktFNm5uVUVJSUxNc3FOSVFqNG9UVWpQTEdFa0dYNUN1X1FzNWdRRUFEOUk0LXRPSkRLR2haNm5KRW1KYjZCRFdHLTU3TldyemR2M3pZTlhmWUljNX...
-
-**Categories:** ai, emerging
-
----
-
-### [Capgemini to Buy WNS for $3.3 Billion to Expand AI Offer](https://www.bloomberg.com/news/articles/2025-07-07/capgemini-to-buy-it-firm-wns-for-3-3-billion-to-boost-ai)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-The French consulting company Capgemini SE has agreed to buy IT outsourcing firm WNS Holdings Ltd. for $3.3 billion in cash in a push to expand its presence in artificial intelligence, a technology in...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple Supplier Lens Tech Said to Price $607 Million Hong Kong Listing at Top of Range](https://www.bloomberg.com/news/articles/2025-07-07/apple-supplier-lens-tech-said-to-price-607-million-hk-listing-at-top-of-range)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Apple Inc. supplier Lens Technology Co. has raised HK$4.8 billion ($607 million) after pricing its Hong Kong listing at the top of the marketed range, according to terms of the deal seen by Bloomberg ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Foxconn Q2 sees record revenue amid AI demand](https://seekingalpha.com/news/4465497-foxconn-q2-sees-record-revenue-amid-ai-demand?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
-
-
-
-**Categories:** ai, stock
-
----
-
-### [On-the-job learning upended by AI and hybrid work](https://www.ft.com/content/071089b8-839a-4f96-af79-394c08a146d1)
+### [‘No honour among thieves’: M&S hacking group starts turf war](https://www.ft.com/content/22cb54ef-1611-4aef-b671-16316280e3fb)
 
 **Source:** Financial Times Tech | **Published:** 2025-07-07
 
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOn-the-job learning upended by AI and hybrid workSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeks...
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footer‘No honour among thieves’: M&S hacking group starts turf warSubscribe to unlock this articleJoin FT EditOnly$4.99per m...
 
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Indosat and Nokia team up to reduce energy demand, advance AI-powered green operations](https://seekingalpha.com/news/4465487-indosat-and-nokia-team-up-to-reduce-energy-demand-advance-ai-powered-green-operations?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
-
-
-
-**Categories:** ai, stock
-
----
-
-### [Capgemini to buy WNS for $3.3 billion in push to boost AI](https://seekingalpha.com/news/4465485-capgemini-to-buy-wns-for-33-billion-in-push-to-boost-ai?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
-
-
-
-**Categories:** ai, stock
-
----
-
-### [Chinese Apple supplier Lens Technology raises $607M in Hong Kong IPO at top of range](https://seekingalpha.com/news/4465479-chinese-apple-supplier-lens-technology-raises-607m-in-hong-kong-ipo-at-top-of-range?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-07
-
-Play(<1min)Apple (NASDAQ:AAPL) supplier Lens Technology has reportedly raised HK$4.8 billion ($607 million) after pricing its Hong Kong listing at the top of the marketed range.The Shenzhen-listed com...
-
-**Categories:** ai, stock
-
----
-
-### [Why it is vital that you understand the infrastructure behind AI](https://www.ft.com/content/8452bf94-9a41-4040-913f-ef1a462d6ea6)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhy it is vital that you understand the infrastructure behind AISubscribe to unlock this articleTry unlimited accessOn...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Samsung Elec Q2 profit likely to drop 39% on weak AI chip sales](https://finance.yahoo.com/news/samsung-elec-q2-profit-likely-231647376.html)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
-
-Samsung Elec Q2 profit likely to drop 39% on weak AI chip salesFILE PHOTO: South Korea unveils $23 billion support package for chips amid US tariff uncertainty·ReutersHeekyong YangSun, Jul 6, 2025, 7:...
-
-**Categories:** ai, stock
-
----
-
-### [Billionaire Bill Ackman Has 51% of His Hedge Fund's $14.4 Billion Portfolio Invested in Just 3 Exceptional Stocks](https://finance.yahoo.com/news/billionaire-bill-ackman-51-hedge-221400938.html)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
-
-Billionaire Bill Ackman Has 51% of His Hedge Fund's $14.4 Billion Portfolio Invested in Just 3 Exceptional StocksAdam Levy, The Motley FoolSun, Jul 6, 2025, 6:14 PM6 min readKey PointsBill Ackman is a...
-
-**Categories:** ai, stock
-
----
-
-### [How Xiaomi Succeeded Where Apple Failed](https://www.bloomberg.com/news/articles/2025-07-06/xiaomi-founder-s-bold-ev-bet-is-paying-off-where-apple-s-failed)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-06
-
-Lei Jun, founder and chairman of Xiaomi Corp., the only tech company to have successfully diversified into carmaking, couldn’t resist.
-
-**Categories:** ai, general, emerging, stock
+**Categories:** cybersecurity, general, emerging, stock
 
 ---
 
@@ -6335,23 +11008,13 @@ OpenAI says GPT-5 will unify breakthroughs from different modelsByMayank ParmarJ
 
 ---
 
-### [Forget the hype — real AI agents solve bounded problems, not open-world fantasies](https://venturebeat.com/ai/forget-the-hype-real-ai-agents-solve-bounded-problems-not-open-world-fantasies/)
+### [Hands on with Windows 11 Notepad's new markdown support](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11-notepads-new-markdown-support/)
 
-**Source:** VentureBeat AI | **Published:** 2025-07-06
+**Source:** Bleeping Computer | **Published:** 2025-07-06
 
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowEverywhere you look, people are talking about...
+Hands on with Windows 11 Notepad's new markdown supportByMayank ParmarJuly 6, 202507:55 PM2Notepad now lets you use markdown text formatting on Windows 11, which means you can write in Notepad just li...
 
-**Categories:** ai, emerging
-
----
-
-### [XAI Getting 2 Gigawatts of Natural Gas and Solar Power](https://www.nextbigfuture.com/2025/07/xai-getting-2-gigawatts-of-natural-gas-and-solar-power.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-06
-
-Gigawatts of energy are needed to power millions of GPUs to train larger AI. XAI is getting 2 gigawatts of power years faster than any other AI company.Elon has confirmed that xAI has bought a power p...
-
-**Categories:** ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -6375,106 +11038,6 @@ ChatGPT is testing disruptive Study Together featureByMayank ParmarJuly 6, 20250
 
 ---
 
-### [Billionaire Bill Ackman Has 51% of His Hedge Fund's $14.4 Billion Portfolio Invested in Just 3 Exceptional Stocks](https://www.fool.com/investing/2025/07/06/billionaire-bill-ackman-has-51-of-his-hedge-funds/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-Billionaire Bill Ackman Has 51% of His Hedge Fund's $14.4 Billion Portfolio Invested in Just 3 Exceptional Stocks | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibil...
-
-**Categories:** ai, stock
-
----
-
-### [Prediction: Nvidia Will Soar in the Second Half](https://www.fool.com/investing/2025/07/06/prediction-nvidia-will-soar-in-the-second-half/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-Prediction: Nvidia Will Soar in the Second Half | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAc...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Tariff Negotiations, Fed Minutes, Delta Airlines, Levi’s, and More to Watch This Week](https://www.barrons.com/articles/tariff-negotiations-fed-minutes-delta-airlines-levis-and-more-to-watch-this-week-618cefb4?siteid=yhoof2&yptr=yahoo)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
-
-
-
-**Categories:** emerging, ai, stock
-
----
-
-### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-06
-
-With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
-
-**Categories:** ai, startups, emerging
-
----
-
-### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-06
-
-With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Startups race to help brands navigate AI-powered search: WSJ](https://seekingalpha.com/news/4465468-startups-race-to-help-brands-navigate-ai-powered-search-wsj?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-06
-
-
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Oracle is said to offer big discounts to U.S. government on software](https://seekingalpha.com/news/4465466-oracle-is-said-to-offer-big-discounts-to-u-s-government-on-software?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-06
-
-Play(3min)drserg/iStock Editorial via Getty ImagesOracle (NYSE:ORCL) is slashing prices for its software and cloud services for federal agencies, joining other tech giants in offering significant disc...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Undervalued and Profitable: This Artificial Intelligence (AI) Stock Has Soared 73% in 2025, and It Could Still Jump Higher](https://www.fool.com/investing/2025/07/06/undervalued-and-profitable-this-artificial-intelli/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-Undervalued and Profitable: This Artificial Intelligence (AI) Stock Has Soared 73% in 2025, and It Could Still Jump Higher | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite a...
-
-**Categories:** ai, emerging, stock
-
----
-
 ### [If You Plan to Receive Social Security in 2035, You Have to Prepare Yourself for This](https://www.fool.com/retirement/2025/07/06/if-you-plan-to-receive-social-security-in-2035-you/?source=iedfolrf0000001)
 
 **Source:** The Motley Fool | **Published:** 2025-07-06
@@ -6485,193 +11048,13 @@ If You Plan to Receive Social Security in 2035, You Have to Prepare Yourself for
 
 ---
 
-### [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-06
-
-Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Citizen Scientists Help Confirm Distant Exoplanet](https://spectrum.ieee.org/exoplanet-citizen-science)
-
-**Source:** IEEE Spectrum | **Published:** 2025-07-06
-
-AerospaceNewsCitizen Scientists Help Confirm Distant ExoplanetAstronomers called on amateurs to observe a strange gas giantCarolyn Collins Petersen06 Jul 20254 min readCarolyn Collins Petersen is a lo...
-
-**Categories:** ai, emerging
-
----
-
-### [AI-powered wood recycling startup in Grand Rapids secures $3.75M in seed funding - MLive.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFVEcDZhdzBNQkVqcXJsaTQwb1BTdldaSmhNenl2WUpNd2lTaDk4T2NMc1RveTlZdkhSdng2MzhyM2EzRjRBQURGRDk0SkVwUFNEY3YtVENkbkdfaG5TbkVpTGFkR2pjb3JObzMzc0hGQzl3ejZmMGpFNlhoaXdpVEZTb0M1V0xUWFljdUZoQzBFVzJYY3JwcVhQUjZpNnZwYVl0dXNKeG5ia0pEM2lSZFZnTTRGLS1zQTBkM2cyV1NUUkN4UlFhUFlKb9IB3wFBVV95cUxOenNVQm5VTUI4Z2piVnI1Y0FtSWE5a3l3RHlBVU9NaGdCOV9WaWFSVmJaS1JjVkhxdXpBa3pabHM5b2FBVkx6UllVeEhlNTZkMk5zNkRPN20tMC1BanNLVEg5cmJMcFQ5ckRrT3lRQV9MZDBYNUsxRGkySnpEV1hMa3lFcFhZbzVCZjZrY1dGV0JmTC03cG14SmtqeWpyR3REZjZZMlRsZ19Nd0dmbkJDUDVwM0JKOEFKZlVuMmNuVkFOaEhfdHZaQkNldjVaQjJSQTFhQWY1aFVNeEgwWjRZ?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-06
-
-<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFVEcDZhdzBNQkVqcXJsaTQwb1BTdldaSmhNenl2WUpNd2lTaDk4T2NMc1RveTlZdkhSdng2MzhyM2EzRjRBQURGRDk0SkVwUFNEY3YtVENkbkdfaG5TbkVpTGFkR2pjb3JObzMzc0...
-
-**Categories:** ai, emerging
-
----
-
-### [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-TechHere are 33 of our favorite deals from Amazon’s early Prime Day saleAmazon Prime Day kicks off on July 8th, but you don’t need to wait until then to save.Amazon Prime Day kicks off on July 8th, bu...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Dan Ives Predicts a Strong Second Half for Tech. 2 Top AI Stocks to Buy Now.](https://www.fool.com/investing/2025/07/06/dan-ives-predicts-strong-second-half-for-tech/?source=iedfolrf0000001)
+### [Planning to Retire in 2030? Read This Before You Collect Your First Social Security Check.](https://www.fool.com/retirement/2025/07/06/planning-to-retire-in-2030-read-this-before-you-co/?source=iedfolrf0000001)
 
 **Source:** The Motley Fool | **Published:** 2025-07-06
 
-Dan Ives Predicts a Strong Second Half for Tech. 2 Top AI Stocks to Buy Now. | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advis...
+Planning to Retire in 2030? Read This Before You Collect Your First Social Security Check. | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%...
 
-**Categories:** ai, emerging, stock
-
----
-
-### [How SoundHound AI Is Quietly Building a Global AI Empire](https://www.fool.com/investing/2025/07/06/how-soundhound-ai-is-quietly-building-a-global-ai/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-How SoundHound AI Is Quietly Building a Global AI Empire | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motl...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [12 Best Kids Headphones (2025), Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** ai, general, emerging
-
----
-
-### [SA Asks: What's the most attractive AI stock right now?](https://seekingalpha.com/news/4465357-sa-asks-whats-the-most-attractive-ai-stock-right-now?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-06
-
-
-
-**Categories:** ai, stock
-
----
-
-### [The S&P 500 Is Soaring: 3 No-Brainer Vanguard ETFs to Buy Right Now](https://www.fool.com/investing/2025/07/06/the-sp-500-is-soaring-vanguard-etfs-buy-right-now/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-The S&P 500 Is Soaring: 3 No-Brainer Vanguard ETFs to Buy Right Now | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Jo...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Cathie Wood Just Went Bargain Hunting: 2 Artificial Intelligence (AI) Chip Stocks She Just Scooped Up (Hint: Nvidia Isn't One of Them)](https://www.fool.com/investing/2025/07/06/cathie-wood-just-went-shopping-2-artificial-intell/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-Cathie Wood Just Went Bargain Hunting: 2 Artificial Intelligence (AI) Chip Stocks She Just Scooped Up (Hint: Nvidia Isn't One of Them) | The Motley FoolPlease ensure Javascript is enabled for purposes...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [It’s a bad time to be a graduate](https://www.ft.com/content/002a0943-f977-44bd-bc78-957c877dfed1)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-06
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerIt’s a bad time to be a graduateSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month....
-
-**Categories:** ai, general, stock
-
----
-
-### [3 Warren Buffett Stocks to Buy Hand Over Fist in July](https://www.fool.com/investing/2025/07/06/3-warren-buffett-stocks-to-buy-hand-over-fist-in/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-3 Warren Buffett Stocks to Buy Hand Over Fist in July | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley ...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Nvidia vs. Microsoft Stock: Which Will Be the First $4 Trillion Company?](https://www.fool.com/investing/2025/07/06/nvidia-vs-microsoft-stock-4-trillion-market-cap/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-Nvidia vs. Microsoft Stock: Which Will Be the First $4 Trillion Company? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+-...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [2 Stocks to Buy With $5,000 and Hold for a Decade](https://www.fool.com/investing/2025/07/06/2-stocks-to-buy-with-5000-and-hold-for-a-decade/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-2 Stocks to Buy With $5,000 and Hold for a Decade | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley Fool...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-Tech/ReviewsLenovo Chromebook Plus 14 review: the new king of Chromebooks﻿An OLED display, a fast processor, 16GB of RAM, and all-day battery life for $749? That’s a lot to like.If you buy something f...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Where Will Nvidia Stock Be in 1 Year?](https://www.fool.com/investing/2025/07/06/where-will-nvidia-stock-be-in-1-year/?source=iedfolrf0000001)
-
-**Source:** The Motley Fool | **Published:** 2025-07-06
-
-Where Will Nvidia Stock Be in 1 Year? | The Motley FoolPlease ensure Javascript is enabled for purposes ofwebsite accessibilitySearch▲ S&P 500+---%|▲ Stock Advisor+---%Join The Motley FoolAccessibilit...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
-
-**Categories:** ai, general, emerging
-
----
-
-### [6 Reasons Berkshire Stock Has Lagged the Market—and 3 Reasons It Could Outperform Again](https://www.barrons.com/articles/berkshire-stock-price-warren-buffet-market-problem-44bbbc3b?siteid=yhoof2&yptr=yahoo)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
-
-
-
-**Categories:** emerging, ai, stock
-
----
-
-### [Investors Come Around to Trump’s Uncertainty](https://www.wsj.com/finance/investing/trump-market-uncertainty-investors-02be1e8b?siteid=yhoof2&yptr=yahoo)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-06
-
-
-
-**Categories:** emerging, ai, stock
+**Categories:** cybersecurity, emerging, stock
 
 ---
 
@@ -6685,13 +11068,13 @@ Save this storySaveSave this storySaveThe original versionofthis storyappeared i
 
 ---
 
-### [Drive Capital’s second act –  how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
+### [Qantas attack reveals one phone call is all it takes to crack cybersecurity’s weakest link: humans - The Guardian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ21GWnFsUlJIOXNJcWRLbGVVcEtjQ3NhZHVxRmpuLUMtaE5HZERxdDJJSVVGNzY2TjRXWlZYZXJUZWhXbjVTSWxha0hvTjVFeTlHSjJ6MWJ4MkZmUGZubG91YTN1R3p5dS1mbEEyQ1ZZbDVIeEFISTJmTEJySi1jcDJqdjlfdUFBRWE2dXNzWjFrY19JM0E1dzlHZFZja095a0doLTZPZkozd0FWeUJXclM0ZzVfYVF2MEMxeVdmd2l0anFQdVZKd21DUGZxSTMweEVhX2R5MEZxYkVNYUE?oc=5)
 
-**Source:** TechCrunch | **Published:** 2025-07-05
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-06
 
-The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
+<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ21GWnFsUlJIOXNJcWRLbGVVcEtjQ3NhZHVxRmpuLUMtaE5HZERxdDJJSVVGNzY2TjRXWlZYZXJUZWhXbjVTSWxha0hvTjVFeTlHSjJ6MWJ4MkZmUGZubG91YTN1R3p5dS1mbEEyQ1...
 
-**Categories:** ai, stock, startups, general, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -6705,83 +11088,23 @@ The venture capital world has always had a hot-and-cold relationship with the Mi
 
 ---
 
-### [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
+### [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
 
-**Source:** TechCrunch | **Published:** 2025-07-05
+**Source:** The Verge | **Published:** 2025-07-05
 
-A group known as the Independent Publishers Alliance has filed an antitrust complaint with the European Commission over Google’s AI Overviews,according to Reuters.The complaint accuses Google of “misu...
+NewsCyberpunk: Edgerunners 2 will be even sadder and bloodierNetflix’s Cyberpunk 2077 anime spinoff is coming back for a second 10-episode season with ‘an entirely new story.’Netflix’s Cyberpunk 2077 ...
 
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Secret Service in US Expands a Global Push Against Crypto Scams](https://www.bloomberg.com/news/articles/2025-07-05/us-secret-service-builds-international-network-to-fight-crypto-crime)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-05
-
-The scam began with a message, then a friendly exchange. A stranger directed the victim to a cryptocurrency investment site that appeared professional &mdash; slick design, charts, even customer suppo...
-
-**Categories:** ai, general, emerging, stock
+**Categories:** emerging, cybersecurity, general
 
 ---
 
-### [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
+### [Ingram Micro outage caused by SafePay ransomware attack](https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/)
 
-**Source:** Wired | **Published:** 2025-07-05
+**Source:** Bleeping Computer | **Published:** 2025-07-05
 
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+Ingram Micro outage caused by SafePay ransomware attackByLawrence AbramsJuly 5, 202511:58 AM1Update 7/7/25: Added Palto Alto Network's statement regarding our reporting that it is believed that Ingram...
 
-**Categories:** ai, general, emerging
-
----
-
-### [Video Friday: Cyborg Beetles May Speed Disaster Response One Day](https://spectrum.ieee.org/video-friday-cyborg-beetles)
-
-**Source:** IEEE Spectrum | **Published:** 2025-07-05
-
-RoboticsNewsHumanoid RobotsVideo Friday: Cyborg Beetles May Speed Disaster Response One DayYour weekly selection of awesome robot videosEvan Ackerman05 Jul 20253 min readEvan Ackerman is IEEE Spectrum...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [The Saturday Spread: Using Markov Chains to Help Extract Profits From DPZ, AKAM and DOCU](https://finance.yahoo.com/news/saturday-spread-using-markov-chains-141502453.html)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-05
-
-The Saturday Spread: Using Markov Chains to Help Extract Profits From DPZ, AKAM and DOCUJosh EnomotoSat, Jul 5, 2025, 10:15 AM5 min readIn This Article:AKAMBuy enter button by Ardasavasciogullari via ...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Coca-Cola HBC price target raised to 4,000 GBp from 3,800 GBp at Citi](https://finance.yahoo.com/news/coca-cola-hbc-price-target-132510540.html)
-
-**Source:** Yahoo Finance Tech | **Published:** 2025-07-05
-
-Coca-Cola HBC price target raised to 4,000 GBp from 3,800 GBp at Citihttps://www.tipranks.com/news/the-fly/coca-cola-hbc-price-target-raised-to-4000-gbp-from-3800-gbp-at-citi-theflyTipRanksSat, Jul 5,...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [AI Cameras  Change Driver Behavior at Intersections](https://spectrum.ieee.org/ai-intersection-monitoring)
-
-**Source:** IEEE Spectrum | **Published:** 2025-07-05
-
-TransportationAINewsAI Cameras  Change Driver Behavior at IntersectionsUnblinking eyes could lower the vehicular death tollWillie D. Jones05 Jul 20254 min readWillie Jones covers transportation for IE...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Inside a Utah desert facility preparing humans for life on Mars](https://www.cnbc.com/2025/07/05/utah-mars-desert-research.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-05
-
-Inside a Utah desert facility preparing humans for life on MarsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuHidden among the majestic canyons of the ...
-
-**Categories:** ai, general, emerging, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -6805,16 +11128,6 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Insider trades: Broadcom insiders trim holdings for fourth straight week](https://seekingalpha.com/news/4465421-insider-trades-broadcom-insiders-trim-holdings-for-fourth-straight-week?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-05
-
-
-
-**Categories:** ai, stock
-
----
-
 ### [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
 
 **Source:** Wired | **Published:** 2025-07-05
@@ -6822,86 +11135,6 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 Save this storySaveSave this storySaveIn recent years,North Korea has deployedthousands of so-called IT workers to infiltrate Western businesses, get paid salaries, and send money back to support the ...
 
 **Categories:** ai, cybersecurity, general, emerging
-
----
-
-### [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-Gaming/Games ReviewDeltarune is halfway done, but it feels like a full gameThe parallel story to Undertale is just as good.The parallel story to Undertale is just as good.byJay PetersJul 5, 2025, 1:00...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Ethereum is powering Wall Street's future. The crypto scene at Cannes shows how far it's come](https://www.cnbc.com/2025/07/04/the-ethcc-crypto-scene-at-cannes-shows-how-far-ethereum-has-come.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-05
-
-The EthCC crypto scene at Cannes shows how far Ethereum has comeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsCrypto founders, developers, a...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Nvidia Partner Hon Hai Meets Sales Estimates on Strong AI Demand](https://www.bloomberg.com/news/articles/2025-07-05/nvidia-partner-hon-hai-meets-sales-estimates-on-strong-ai-demand)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-05
-
-Hon Hai Precision Industry Co. reported 15.8% growth in quarterly sales on robust demand for AI servers and iPhones.
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-Transportation/Cars/Mercedes-BenzMercedes-Benz electric G-Wagen review: king of the off-roadThe G580 with EQ Technology may have a fancy name, but it stays true to its original formula.byPeter NelsonJ...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Voice AI Startup ElevenLabs Plans to Add Hubs Around the World - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWZ4VmNiR011Tll0SHUxT0lKOGFmLUdYSURsa1BZUGxyNlVFR3NMLTRPS1BUb3NkTVhDVnlWbjRiMEpjNERnSk5ienZ5b21Rb2dHQUx1LVJjMWVaVFJ5MC15UEpRbnhtOWN0Qk93SkJxRFBoM1laemhvRzA4aFJBU2RxR1hUMzJzTHZXbzdwVFZHTXA3c3BMLXBiU0t5Mk03ZmxxUmQwWThibjRvSThCRnpnV0NXTW96?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-05
-
-<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWZ4VmNiR011Tll0SHUxT0lKOGFmLUdYSURsa1BZUGxyNlVFR3NMLTRPS1BUb3NkTVhDVnlWbjRiMEpjNERnSk5ienZ5b21Rb2dHQUx1LVJjMWVaVFJ5MC15UEpRbnhtOWN0Qk93Sk...
-
-**Categories:** ai, emerging
-
----
-
-### [Uncovering the Role of Spacers in Advancing Portable, Low-Voltage OLEDs](https://www.nextbigfuture.com/2025/07/uncovering-the-role-of-spacers-in-advancing-portable-low-voltage-oleds.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-04
-
-Inserting a nanometer-thin spacer in ExUC-OLEDs improves energy transfer, enhances blue light emission 77-fold, paving way for lightweight, low-voltage, and more flexible OLEDs. The effect of spacer i...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
-
-**Source:** The Verge | **Published:** 2025-07-04
-
-TechHere are the best Apple Watch deals available right now﻿Every model in Apple’s current lineup, from the entry-level SE to the jet black Ultra 2, is receiving a sizable discount right now.﻿Every mo...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Insulator Becomes Conducting Semiconductor And  Could Make Superelastic Silicone Solar Panels](https://www.nextbigfuture.com/2025/07/insulator-becomes-conducting-semiconductor.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-04
-
-A rule-breaking, colorful silicone that could conduct electricity.Previously only thought to be insulating, a shift in the angle between silicon and oxygen atoms creates a highway for an electrical ch...
-
-**Categories:** ai, emerging
 
 ---
 
@@ -6925,46 +11158,6 @@ ChatGPT Deep Research tests new connectors for more contextByMayank ParmarJuly 4
 
 ---
 
-### [SDT Completes 20 Billion KRW ($14.11 Million USD) Pre-IPO Investment, Eyes Quantum Technology IPO in 2025 - Quantum Computing Report](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjluVTM4T0RyNUZtYXRab1JQXzVmMUZkSFdPNTNlcU9YWDlSZFliRmhvSnBtX1otZS1uOXh5YkJLbzA1NnBUdmU4NTJSbGJ6Sm9nSHZaLVVUZy1uNFpEbHIyVzlEdjgzVURTMHN5anI3YkhUTDk3M2o0emY2M3pKVTRtWUFBMVZxT3A2aFN2Rm5VakxyTjIwV1czTHFnRlVjckltdkg4S3hMTGs2MU5FVEwwRnVLRHFIR0VsNGJuZWN0X2JlZW9DblFSSElyRVNaV0o40gHYAUFVX3lxTE5DeHNNbDJ4UmRhTVd6Mmlpdmh1dGcwVXpxV19EYmpFVWVsaVZaZU1QZnBPX1psU01xMmFvcHVjWUpYSGRfZ3QtOTEwa2xsWEltX3l1UF9kY2FOSkttbTVQOXJJRXR2OTVkSmh3dGZBM3NMakhmeFluNjNuTWVnenY4Y0tvN0hySmM1aE4zSVJKblh4SnBtQXQwQzRCWVdRZi1TVWhVZzY0MzJPb0MydzMxanF6V2JmTElBY3FldnNlQzJTNWUxeUVuMk52NmZ0YjJLTnBYY3VrZw?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-04
-
-<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjluVTM4T0RyNUZtYXRab1JQXzVmMUZkSFdPNTNlcU9YWDlSZFliRmhvSnBtX1otZS1uOXh5YkJLbzA1NnBUdmU4NTJSbGJ6Sm9nSHZaLVVUZy1uNFpEbHIyVzlEdjgzVURTMHN5an...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [XAI Grok 4 Has Leading Benchmarks](https://www.nextbigfuture.com/2025/07/xai-grok-4-has-leading-benchmarks.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-04
-
-XAI Grok 4 Benchmarks are showing it is the leading model. Humanity Last Exam at 35 and 45 for reasoning is a big improvement from about 21 for other top models.If these leaked Grok 4 benchmarks are c...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Trump inaugural impersonators scammed donors out of crypto, feds say](https://www.cnbc.com/2025/07/04/trump-cryptocurrency-ethereum-tokens.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-Trump inaugural impersonators scammed donors out of crypto, feds saySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsScammers impersonating the...
-
-**Categories:** ai, general, stock
-
----
-
-### [OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats](https://www.cnbc.com/2025/07/04/openai-altman-july-4-zohran-mamdani.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-OpenAI CEO Sam Altman celebrates capitalism in July 4 postSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI CEO Sam Altman said he finds ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
 ### [Your AI Agents Might Be Leaking Data — Watch this Webinar to Learn How to Stop It](https://thehackernews.com/2025/07/your-ai-agents-might-be-leaking-data.html)
 
 **Source:** The Hacker News | **Published:** 2025-07-04
@@ -6985,26 +11178,6 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveCruise robotaxis areback on the road … well, kind of. Though General Motorspulled the plugon its self-driving taxi business last year, the automaker has been quie...
-
-**Categories:** ai, general, emerging
-
----
-
-### [OpenAI CEO Sam Altman calls himself “politically homeless” in post criticizing Democrats](https://seekingalpha.com/news/4465408-openai-ceo-sam-altman-calls-himself-politically-homeless-in-post-criticizing-democrats?source=feed_sector_technology)
-
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-04
-
-
-
-**Categories:** ai, stock
-
----
-
 ### [Google Ordered to Pay $314M for Misusing Android Users' Cellular Data Without Permission](https://thehackernews.com/2025/07/google-ordered-to-pay-314m-for-misusing.html)
 
 **Source:** The Hacker News | **Published:** 2025-07-04
@@ -7012,46 +11185,6 @@ Save this storySaveSave this storySaveCruise robotaxis areback on the road … w
 How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
 **Categories:** cybersecurity, ai, emerging
-
----
-
-### [UK and Singapore form alliance to guide AI in finance](https://www.artificialintelligence-news.com/news/uk-and-singapore-form-alliance-guide-ai-in-finance/)
-
-**Source:** AI News | **Published:** 2025-07-04
-
-UK and Singapore form alliance to guide AI in financeSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Recog...
-
-**Categories:** ai, emerging
-
----
-
-### [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-The European Union on Friday said it will stick to its timeline for implementing its landmark AI legislation, in response to a concerted effort by more than a hundred tech companies to delay the bloc’...
-
-**Categories:** startups, ai, general
-
----
-
-### [The Download: India’s AI independence, and predicting future epidemics](https://www.technologyreview.com/2025/07/04/1119711/the-download-indias-ai-independence-and-predicting-future-epidemics/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-04
-
-This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.Inside India’s scramble for AI independenceDespite its status as ...
-
-**Categories:** ai, emerging
-
----
-
-### [15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, ai, general
 
 ---
 
@@ -7065,143 +11198,33 @@ Ingram Micro suffers global outage as internal systems inaccessibleByLawrence Ab
 
 ---
 
-### [The 2025 IPO Resurgence: AI, Crypto, and ESG Lead the Charge - AInvest](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlVmTW1DdE5nR010YkN2MXhidGxKUzNXTFVCb0hhaVZCS0VPRWJYSnkxX25XZ0VpdWpiRVpuUXVHOE52RDV1aVhZMzVKQUg4cmMzS0hGcTVJb05RaE1YZFRfTHhadnhsSGpLYU94OEF5RkZudUp3cHVEUmItclI2aE4yZkZUV0U?oc=5)
+### [Hacker leaks Telefónica data allegedly stolen in a new breach](https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/)
 
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-04
+**Source:** Bleeping Computer | **Published:** 2025-07-04
 
-<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlVmTW1DdE5nR010YkN2MXhidGxKUzNXTFVCb0hhaVZCS0VPRWJYSnkxX25XZ0VpdWpiRVpuUXVHOE52RDV1aVhZMzVKQUg4cmMzS0hGcTVJb05RaE1YZFRfTHhadnhsSGpLYU94OE...
+Hacker leaks Telefónica data allegedly stolen in a new breachByIonut IlascuJuly 4, 202511:11 AM0A hacker is threatening to leak 106GB of data allegedly stolen from Spanish telecommunications company T...
 
-**Categories:** ai, emerging, stock
-
----
-
-### [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveThere are around11,000 satellites orbiting Earth, and it is estimated that at least 50,000 more will be launched in the next decade. There are also exploration in...
-
-**Categories:** emerging, ai, general, stock
+**Categories:** cybersecurity
 
 ---
 
-### [Google faces EU antitrust complaint over AI Overviews as independent publishers seek action - Reuters](https://seekingalpha.com/news/4465398-google-faces-eu-antitrust-complaint-over-ai-overviews-as-independent-publishers-seek-action---reuters?source=feed_sector_technology)
+### [South Korea penalises 'negligent' SK Telecom over major data leak - Reuters](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmp2MzMxbm10dmt2bGVyaklQNlBaenFyV255MWpaelo5UEdmRUVGbU1WaDdBeXJOb1FzVTQzQ2lST0lTYlF1bnZ0Qm1Rb2xVMFFnNG92Nkt5Q1lWTHpzUzNUaW1WaU1ZampxdVQxZm5CVkQ4R3pWdWJ3QjNrcEpYenk2ZU9wSlRJSndHdno1UExvaXNiaFc4OEdSSW1CdmM3aEZMTTdPa3lZcmd4ZEZpUWg4V3Axbk5vclgwbW0tYWhDb3RhQUhucXpoZDd4c1F0OThCSFFZTHc?oc=5)
 
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-04
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-04
 
+<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmp2MzMxbm10dmt2bGVyaklQNlBaenFyV255MWpaelo5UEdmRUVGbU1WaDdBeXJOb1FzVTQzQ2lST0lTYlF1bnZ0Qm1Rb2xVMFFnNG92Nkt5Q1lWTHpzUzNUaW1WaU1ZampxdVQxZm...
 
-
-**Categories:** ai, stock
-
----
-
-### [Inside India’s scramble for AI independence](https://www.technologyreview.com/2025/07/04/1119705/inside-indias-scramble-for-ai-independence/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-04
-
-In Bengaluru, India, Adithya Kolavi felt a mix of excitement and validation as he watched DeepSeek unleash its disruptive language model on the world earlier this year. The Chinese technology rivaled ...
-
-**Categories:** ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [Nvidia's stock gains put it nearly on track to become world's most valuable company in history](https://seekingalpha.com/news/4465394-nvidias-stock-gains-put-it-nearly-on-track-to-become-worlds-most-valuable-company-in-history?source=feed_sector_technology)
+### [Massive Android Fraud Operations Uncovered: IconAds, Kaleidoscope, SMS Malware, NFC Scams](https://thehackernews.com/2025/07/mobile-security-alert-352-iconads-fraud.html)
 
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-04
+**Source:** The Hacker News | **Published:** 2025-07-03
 
+How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Tech IPO market gains momentum as Circle’s valuation reaches $42b - Tech in Asia](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEdlazA1c2NfSlNUUFpnNjFHZmQ3d19obHBDUFpKdkJpYl9ONWhGSlp3M1FmVURLTjhCdktnaWk0ejJ4alZna0JWSW9wQkE2enVpaUZMOFdPdUs0Y3B6NEQxejl3OVRzMzNXY1psRV90V25nNHpOQlBXWEh1c0dFdVo5ZXQ1Y2dibml1MGxJY3lLRTd4TGFUeXhZbw?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-04
-
-<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEdlazA1c2NfSlNUUFpnNjFHZmQ3d19obHBDUFpKdkJpYl9ONWhGSlp3M1FmVURLTjhCdktnaWk0ejJ4alZna0JWSW9wQkE2enVpaUZMOFdPdUs0Y3B6NEQxejl3OVRzMzNXY1psRV...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Hitachi Energy says AI power spikes threaten to destabilise global supply](https://www.ft.com/content/2789d048-7791-4f9a-8dbe-229c45f8083b)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-04
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHitachi Energy says AI power spikes threaten to destabilise global supplySubscribe to unlock this articleTry unlimited...
-
-**Categories:** ai, general, stock
-
----
-
-### [Uniqlo Owner, Seven &amp; i To Set Tone for Japan’s Consumer Sector](https://www.bloomberg.com/news/articles/2025-07-04/uniqlo-owner-seven-i-to-set-tone-for-japan-s-consumer-sector)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-04
-
-Uniqlo owner Fast Retailing Co. and Seven &amp; i Holdings Co. will show how Japan’s consumer sector is faring as Asia’s earnings season kicks off.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Two Things Tesla Needs for $1000 Share Price](https://www.nextbigfuture.com/2025/07/two-things-tesla-needs-for-1000-share-price.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-03
-
-Tesla has started executing on Robotaxi but a lot more must happen to enable a big share price run.There are two key things that must happen.There needs to be the massive expansion to at least 20,000 ...
-
-**Categories:** ai, emerging
-
----
-
-### [Sakana AI’s TreeQuest: Deploy multi-model teams that outperform individual LLMs by 30%](https://venturebeat.com/ai/sakana-ais-treequest-deploy-multi-model-teams-that-outperform-individual-llms-by-30/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-03
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowJapanese AI labSakana AIhas introduced a new ...
-
-**Categories:** ai, emerging
-
----
-
-### [Austin Robtaxi Traffic – June-July Waymo 12 Versus Tesla 1 Incident](https://www.nextbigfuture.com/2025/07/austin-robtaxi-traffic-june-july-waymo-12-versus-tesla-1-incident.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-03
-
-The City of Austin is reporting robotaxi traffic incidents with daily updates.Waymo has about ten times the number of vehicles and double the driving area as Tesla in Austin.Waymo has been operating s...
-
-**Categories:** ai, emerging
-
----
-
-### [XAI Grok 4 Should Release This Weekend](https://www.nextbigfuture.com/2025/07/xai-grok-4-should-release-this-weekend.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-03
-
-Looks like there are new Grok 4 model versions (0702) – grok-4-0702 and grok-4-code-0702.Rumor that xAI will release two versions.➝  GROK 4 & GROK 4 codeVarious reports and rumors of Grok 4 capabiliti...
-
-**Categories:** ai, emerging
-
----
-
-### [Ambiq Micro files for U.S. IPO as generative AI fuels chip demand - Reuters](https://news.google.com/rss/articles/CBMihgFBVV95cUxQREFzZ3UxbUhlU092dTlpV3BmRkktMGQ4TVhPVURvU1NZV05rZGRKcEY1YU5ncDBuamtDRHFDZEF4TjdHXzBaUnUzaWZFQnoybmx0WFV5NFNmbEp2aDhBNjdkVmVEQkcteEFkaEh1dExZSFFlSzVtN0ZQQ2w4NlRjMUNXM3lUUQ?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQREFzZ3UxbUhlU092dTlpV3BmRkktMGQ4TVhPVURvU1NZV05rZGRKcEY1YU5ncDBuamtDRHFDZEF4TjdHXzBaUnUzaWZFQnoybmx0WFV5NFNmbEp2aDhBNjdkVmVEQkcteEFkaEh1dE...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-TechCrunch Disrupt 2025is back at Moscone West in San Francisco from October 27-29, bringing together 10,000+ startup and VC leaders to dig into what’s next in tech. And when it comes to artificial in...
-
-**Categories:** startups, ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -7215,116 +11238,23 @@ Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launchByMayank Parmar
 
 ---
 
-### [Ways to Bridge the U.S. Computer Science Education Gap](https://spectrum.ieee.org/computer-science-education-gap)
+### [Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing User Assets](https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html)
 
-**Source:** IEEE Spectrum | **Published:** 2025-07-03
+**Source:** The Hacker News | **Published:** 2025-07-03
 
-The InstituteIEEE Member NewsCareersOpinionWays to Bridge the U.S. Computer Science Education GapTraining teachers and mandating computer courses are a few mustsJanyl Jumadinova03 Jul 20254 min readJa...
+How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
-**Categories:** ai, emerging, stock
-
----
-
-### [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Listen onApple PodcastsListen onSpotifyCloudflare wants AI companies to pay up. The cloud infrastructure provider, which powers around 20% of the web, is launching a new experiment that would let publ...
-
-**Categories:** startups, ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [Judge: You can’t ban DEI grants without bothering to define DEI](https://arstechnica.com/science/2025/07/doge-told-the-nih-which-grants-to-cancel-with-no-scientific-review/)
+### [Big Tech’s Mixed Response to U.S. Treasury Sanctions](https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/)
 
-**Source:** Ars Technica | **Published:** 2025-07-03
+**Source:** Krebs on Security | **Published:** 2025-07-03
 
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn mid-June, a federal judgeissued a stinging rebuketo the Trump ad...
+In May 2025, the U.S. government sanctioned a Chinese national for operating a cloud provider linked to the majority of virtual currency investment scam websites reported to the FBI. But a new report ...
 
-**Categories:** ai, general
-
----
-
-### [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Raising in 2025 doesn’t look anything like it did in 2021 — and that’s exactly the point.AtTechCrunch All StageonJuly 15at Boston’s SoWa Power Station,Kristen Craft, head of Business Development at Fi...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Meta’s “AI superintelligence” effort sounds just like its failed “metaverse”](https://arstechnica.com/ai/2025/07/metas-ai-superintelligence-effort-sounds-just-like-its-failed-metaverse/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Dust hits $6M ARR helping enterprises build AI agents that actually do stuff instead of just talking](https://venturebeat.com/ai/dust-hits-6m-arr-helping-enterprises-build-ai-agents-that-actually-do-stuff-instead-of-just-talking/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-03
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowDust, a two-year-old artificial intelligence ...
-
-**Categories:** ai, emerging
-
----
-
-### [Signs of a pick-up in venture capital exits are finally emerging](https://www.ft.com/content/2e0201f6-8258-4c59-a7a7-689b2c094701)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerSigns of a pick-up in venture capital exits are finally emergingSubscribe to unlock this articleTry unlimited accessOn...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [The Week’s 10 Biggest Funding Rounds: AI On Top Again, Led By xAI’s Massive Raise - Crunchbase News](https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFpIU0NoZzJFc0gzV2diS3lsZzZNdm5zTEJveDBCdjRydFc0dHd3NThORVNwYVgzTWdIMWlyMDNha2xQNV9zU0FrbjdZbGFsSnFDUTVxODV4dnd0bzhfNWtiTDB1WWpYSm9lTU1vRnVXckFCclNGcmdoMlZYTW5rN05JT2JvLWM?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFpIU0NoZzJFc0gzV2diS3lsZzZNdm5zTEJveDBCdjRydFc0dHd3NThORVNwYVgzTWdIMWlyMDNha2xQNV9zU0FrbjdZbGFsSnFDUTVxODV4dnd0bzhfNWtiTDB1WWpYSm9lTU1vRn...
-
-**Categories:** ai, emerging
-
----
-
-### [Why 2025 Marks a Golden Opportunity in the IPO Market - AInvest](https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDIwYkJkZFNvdUgzaGZmLWVOYWNoMUU5YUdwNWJ3R1dheXlYM1FaWEhsRGw3cW1BWldPMm1YS3R6WFdnRkhFMW9lck55endiYWxYdENVdG9rSDdYQUI3Rmt3SXFob3p4eWhJTzR3SDhEWDZKTGRTN0RhZTNZTEdjNg?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDIwYkJkZFNvdUgzaGZmLWVOYWNoMUU5YUdwNWJ3R1dheXlYM1FaWEhsRGw3cW1BWldPMm1YS3R6WFdnRkhFMW9lck55endiYWxYdENVdG9rSDdYQUI3Rmt3SXFob3p4eWhJTzR3SD...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips](https://www.cnbc.com/2025/07/03/coreweave-dell-blackwell-ultra-nvidia.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-CoreWeave says it's the first to get Nvidia's Blackwell UltraSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsNvidia's Blackwell Ultra chips, t...
-
-**Categories:** ai, general, stock
-
----
-
-### [Bad data leads to bad policy](https://www.ft.com/content/689a72db-e622-4868-b52c-9a5cdc4ad1f5)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerBad data leads to bad policySubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month.
-Com...
-
-**Categories:** ai, general, stock
+**Categories:** cybersecurity, stock
 
 ---
 
@@ -7335,88 +11265,6 @@ Com...
 How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
 **Categories:** cybersecurity, ai, emerging
-
----
-
-### [Man’s ghastly festering ulcer stumps doctors—until they cut out a wedge of flesh](https://arstechnica.com/health/2025/07/man-fails-to-take-his-medicine-the-flesh-starts-rotting-off-his-leg/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
-
-**Categories:** ai, general, emerging
-
----
-
-### [OpenAI rejects Robinhood’s unauthorised tokenised shares](https://www.artificialintelligence-news.com/news/openai-rejects-robinhood-unauthorised-tokenised-shares/)
-
-**Source:** AI News | **Published:** 2025-07-03
-
-OpenAI rejects Robinhood's unauthorised tokenised sharesSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Re...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [IPO market gets boost from Circle's 500% surge, sparking optimism that drought may be ending - CNBC](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGM4ODV4Vmw5UWF3VmZqbG4xR3B1aWF2dlB5aWhkZ1VrUUFPcXdNWnU3U2FzbTVkRWpVb3pkMUJ3LXlHZzJVcHc4Y1V0bEtBX002WXdGeWxJTXZBVWFlY0M3bTgtN0hyekJZTHJ0T09EenJleUhlMmVVT1JjVjVDWU9oZTBZeC1Sc2R0aG1ZMXdBaTRqdzJYZ3lNSFN1MUFBM3dEQkRueEtudVNoYTJrOFl30gG3AUFVX3lxTE54ZUJ0ci1US1pmX0wwWVVfN3FjYjFrNkNVQmdQNHJWWWd3WlFlbnRJbjYzdU1mWk4wbHoySWNFeVdTS0dPV3NTMHZ2c1Rib3lESXFIWkNqN0Z5UjhObnFXdXZQcFJzWGxxaGdKdUVEU2NJbzd3RWk3YTZQMlA3OUtWT3BrdC1wMDZJSVpUTlNDX1Q4RFRMc1hORHVSRXpHODNuSnRiM3hsMnowSGxYSTFLN1RHb2FJTQ?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGM4ODV4Vmw5UWF3VmZqbG4xR3B1aWF2dlB5aWhkZ1VrUUFPcXdNWnU3U2FzbTVkRWpVb3pkMUJ3LXlHZzJVcHc4Y1V0bEtBX002WXdGeWxJTXZBVWFlY0M3bTgtN0hyekJZTHJ0T0...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [xAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAftermonths of backlashover alleged pollution concerns, xAI has fin...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-As a parent, it can be daunting to hand over a smart device to their tween when a myriad of online dangers exist. Pinwheel, a kid-friendly tech company, is introducing a new solution for parents who w...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [2 Red-Hot Recent IPOs To Buy in 2025 - 24/7 Wall St.](https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3ZMbE9hSk43MGh1ejYwb2lSUjAwaGpHU2hSek5SNlhiWFhNblZ0aExPVjZiYy0xQ19ndXlyVmlQMjctTUtwdUZ6LTBTNW03X3FzeGJid0hqUU1yc1ZJVW8zY2E1U1hSZ1pDTGMzSDhNbUdpR3RCYnZ6NnBpRUZBTVd5d3RTZk0?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3ZMbE9hSk43MGh1ejYwb2lSUjAwaGpHU2hSek5SNlhiWFhNblZ0aExPVjZiYy0xQ19ndXlyVmlQMjctTUtwdUZ6LTBTNW03X3FzeGJid0hqUU1yc1ZJVW8zY2E1U1hSZ1pDTGMzSD...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Dinosaurs to doctors’ records: the UK weighs up its data assets](https://www.ft.com/content/7585ed49-3e2c-4863-b0dc-a8a2942e9b9c)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerDinosaurs to doctors’ records: the UK weighs up its data assetsSubscribe to unlock this articleTry unlimited accessOnl...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Hypersonic weapons startupCastelionis raising a $350 million Series B led by Lightspeed Venture Partners and Altimeter Capital, according to sources and documents viewed by TechCrunch.The round, which...
-
-**Categories:** startups, ai, emerging
 
 ---
 
@@ -7440,113 +11288,33 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [AI is eating venture capital, or at least its dollars - Axios](https://news.google.com/rss/articles/CBMia0FVX3lxTE9aYVFka2RtMUFSVUh2UnEtTGhTNV9xamNxczRtSDFYblRuZW1uMFdhbm10NHdGOEp6elh4MFlBcG1OUFJ3cjhNVEo1bkRtcXk3S05sb0RqdFEyb1R0ZHIteThlYTNOVE1SeGJn?oc=5)
+### [Police dismantles investment fraud ring stealing €10 million](https://www.bleepingcomputer.com/news/legal/police-dismantles-investment-fraud-ring-stealing-10-million/)
 
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
+**Source:** Bleeping Computer | **Published:** 2025-07-03
 
-<a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9aYVFka2RtMUFSVUh2UnEtTGhTNV9xamNxczRtSDFYblRuZW1uMFdhbm10NHdGOEp6elh4MFlBcG1OUFJ3cjhNVEo1bkRtcXk3S05sb0RqdFEyb1R0ZHIteThlYTNOVE1SeGJn?oc=5"...
+Police dismantles investment fraud ring stealing €10 millionByBill ToulasJuly 3, 202501:53 PM0The Spanish police have dismantled a large-scale investment fraud operation that caused cumulative damages...
 
-**Categories:** ai, emerging
-
----
-
-### [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Fundraising is already hard — don’t let a messy cap table make it harder.AtTechCrunch All StageonJuly 15, founders will get a behind-the-scenes look at what it really takes to keep a raise on track du...
-
-**Categories:** startups, ai, emerging
+**Categories:** cybersecurity, emerging, stock
 
 ---
 
-### [This 1945 TV Console Showed Two Programs at Once](https://spectrum.ieee.org/dumont-duoscopic-tv-set)
+### [Grafana releases critical security update for Image Renderer plugin](https://www.bleepingcomputer.com/news/security/grafana-releases-critical-security-update-for-image-renderer-plugin/)
 
-**Source:** IEEE Spectrum | **Published:** 2025-07-03
+**Source:** Bleeping Computer | **Published:** 2025-07-03
 
-History of TechnologyMagazineArticlePast ForwardJuly 2025Consumer ElectronicsThis 1945 TV Console Showed Two Programs at OnceIts inventor envisioned an end to arguments over what to watchAllison Marsh...
+Grafana releases critical security update for Image Renderer pluginByBill ToulasJuly 3, 202512:16 PM0Grafana Labs has addressed four Chromium vulnerabilities in critical security updates for the Grafa...
 
-**Categories:** ai, emerging, stock
-
----
-
-### [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-AI agents are reshaping how work gets done across industries, and atTechCrunch Disrupt 2025, one of the leading voices in that transformation is stepping onto the AI Stage.May Habib, CEO and co-founde...
-
-**Categories:** startups, ai, emerging
+**Categories:** cybersecurity
 
 ---
 
-### [Tech Voices: OpenAI warns on stock tokens, CoreWeave-Nvidia, Apple](https://seekingalpha.com/news/4465333-tech-voices-openai-warns-on-stock-tokens-coreweave-nvidia-apple?source=feed_sector_technology)
+### [IdeaLab confirms data stolen in ransomware attack last year](https://www.bleepingcomputer.com/news/security/idealab-confirms-data-stolen-in-ransomware-attack-last-year/)
 
-**Source:** Seeking Alpha Tech | **Published:** 2025-07-03
+**Source:** Bleeping Computer | **Published:** 2025-07-03
 
+IdeaLab is notifying individuals impacted by a data breach incident last October when hackers accessed sensitive information. [...]
 
-
-**Categories:** ai, emerging, stock
-
----
-
-### [HOLY SMOKES! A new, 200% faster DeepSeek R1-0528 variant appears from German lab TNG Technology Consulting GmbH](https://venturebeat.com/ai/holy-smokes-a-new-200-faster-deepseek-r1-0528-variant-appears-from-german-lab-tng-technology-consulting-gmbh/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-03
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowIt’s been a little more than a month since Ch...
-
-**Categories:** ai, emerging
-
----
-
-### [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Despite their imposing presence, quantum computers are delicate beasts, and their errors are among the main bottlenecks that the quantum computing community is actively working to address. Failing thi...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Jobless claims fall to lowest level since mid-May](https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse)
-
-**Source:** MarketWatch IPO | **Published:** 2025-07-03
-
-
-
-**Categories:** ai, stock
-
----
-
-### [The Download: AI agents hype, and Google’s electricity plans](https://www.technologyreview.com/2025/07/03/1119682/the-download-ai-agents-hype-and-googles-electricity-plans/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-03
-
-This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.Don’t let hype about AI agents get ahead of reality—Yoav Shoham i...
-
-**Categories:** ai, emerging
-
----
-
-### [I’m human. Are you? The battle for our online identity](https://www.ft.com/content/1a93ca54-d1b9-4b06-b504-7c4937173068)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerI’m human. Are you? The battle for our online identitySubscribe to unlock this articleTry unlimited accessOnly$1for 4 ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Like Google, China's biggest search player Baidu is beefing up its product with AI to fight rivals](https://www.cnbc.com/2025/07/03/chinas-baidu-is-beefing-up-its-search-product-with-ai-to-fight-rivals.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-China's Baidu is beefing up its search product with AI to fight rivalsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsBaidu has given its sear...
-
-**Categories:** ai, general, emerging, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -7560,13 +11328,13 @@ CyXcel research discovers a third of UK businesses at AI riskSkip to contentAI N
 
 ---
 
-### [Google’s electricity demand is skyrocketing](https://www.technologyreview.com/2025/07/03/1119627/google-electricity-fusion-ai/)
+### [Microsoft investigates ongoing SharePoint Online access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/)
 
-**Source:** MIT Technology Review | **Published:** 2025-07-03
+**Source:** Bleeping Computer | **Published:** 2025-07-03
 
-We got two big pieces of energy news from Google this week. The company announced that it’s signed an agreement to purchase electricity from a fusion company’s forthcoming first power plant. Google al...
+​Microsoft is investigating an ongoing incident causing intermittent issues for users attempting to access SharePoint Online sites. [...]
 
-**Categories:** ai, emerging
+**Categories:** emerging, cybersecurity
 
 ---
 
@@ -7580,153 +11348,13 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Don’t let hype about AI agents get ahead of reality](https://www.technologyreview.com/2025/07/03/1119545/dont-let-hype-about-ai-agents-get-ahead-of-reality/)
+### [OryxAlign: How Zero Trust is Enhancing Data Centre Security - Technology Magazine](https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1JrWm1vcFM5Y3FDV01EQllsSUdtMFloLS1CYXBuY0Y4V19MZzdsbVpsNVphRG9WQXVnZkRpbVF0LWZWOU5vQnVhMzJ6TENYalpOYnk0WFN5Um5mcGplT3RFZGNSNXhhbmFzMDkxTm8zRldvZjVpOGpNSmxEWGVtVEVGeG8xbzcyVFBVemhVQXlQSlBPLXlsaGpTOEM3OFFXeUNfS3hmU2FsY2lRa3l3?oc=5)
 
-**Source:** MIT Technology Review | **Published:** 2025-07-03
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-03
 
-Google’s recent unveiling of what it calls a “new class of agentic experiences” feels like a turning point. At its I/O 2025 event in May, for example, the company showed off a digital assistant that d...
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1JrWm1vcFM5Y3FDV01EQllsSUdtMFloLS1CYXBuY0Y4V19MZzdsbVpsNVphRG9WQXVnZkRpbVF0LWZWOU5vQnVhMzJ6TENYalpOYnk0WFN5Um5mcGplT3RFZGNSNXhhbmFzMDkxTm...
 
-**Categories:** ai, emerging
-
----
-
-### [Berlin-based Peec AI raises €7 million five months after launch to empower companies to improve their GEO - EU-Startups](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT3hlekRlWDZHRzV1R2RqNVVSVlVGaFBCYzdHSk1aQ0RNcTVXTks1Zi1aSTgtaDc5Ymh1cDlrazFtRkwzYkxZQmFOd3JPT3F3LTVPOXg2eF9IbFlVdjd5aEI5Y3BpRTJIeTA0STh1Qko2SWdtSlBVX01nM0RfckdMSlVVQ3pqZklWYm4xTzJpZDZYY1dSVFlwdUhya1lHQmdMdDRLUzlhLURWdmp1QnV0NE8wVDVKa3R4VGkzVVJZV0pJMU1uTmhaUjNmQ2JwdmNNak56Q3c3SGk4dw?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT3hlekRlWDZHRzV1R2RqNVVSVlVGaFBCYzdHSk1aQ0RNcTVXTks1Zi1aSTgtaDc5Ymh1cDlrazFtRkwzYkxZQmFOd3JPT3F3LTVPOXg2eF9IbFlVdjd5aEI5Y3BpRTJIeTA0STh1Qk...
-
-**Categories:** ai, emerging
-
----
-
-### [<a href="https://www.fiercebiotech.com/biotech/roches-chugai-inks-250m-gero-deal-access-age-related-disease-targets" hreflang="en">Roche’s Chugai inks $250M Gero deal to access age-related disease targets</a>](https://www.fiercebiotech.com/biotech/roches-chugai-inks-250m-gero-deal-access-age-related-disease-targets)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-03
-
-BiotechRoche’s Chugai inks $250M Gero deal to access age-related disease targetsByNick Paul TaylorJul 7, 2025 3:00amChugaiRocheChugai PharmaceuticalagingChugai Pharmaceutical has teamed up with Gero, ...
-
-**Categories:** ai, biotech, emerging
-
----
-
-### [AI voice startup ElevenLabs pushes global expansion as it gears up for an IPO](https://www.cnbc.com/2025/07/03/ai-voice-startup-elevenlabs-plots-global-expansion-eventual-ipo.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-AI voice startup ElevenLabs plots global expansion, eventual IPOSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAI voice generation platform E...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Are bigger AI models better stock pickers? Maybe, but probably not](https://www.ft.com/content/89d88cbf-a92c-43d2-b8af-88ae26529be0)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT AlphavilleRegister to unlock this articleAre bigger AI models better stock pickers? Maybe, but probably notFT Alpha...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [<a href="https://www.fiercebiotech.com/biotech/4dmt-lays-25-workforce-while-accelerating-phase-3-eye-disease-therapy-timeline" hreflang="en">4DMT lays off 25% of workforce while accelerating phase 3 eye gene therapy timeline</a>](https://www.fiercebiotech.com/biotech/4dmt-lays-25-workforce-while-accelerating-phase-3-eye-disease-therapy-timeline)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-03
-
-Brought to you by:Biotech4DMT lays off 25% of workforce while accelerating phase 3 eye gene therapy timelineByJames WaldronJul 3, 2025 4:52am4D Molecular TherapeuticsCell & Gene Therapylayoffswet AMD4...
-
-**Categories:** ai, biotech, emerging
-
----
-
-### [SF AI startups seeing green as VC investment surges - San Francisco Examiner](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0FYZ1lyYkdJNVZ0YVktaXR6LVVJb0pHOHVVZjYzTDRlOGVfSk5LZnZNMEZWdXBQUElLY0xqeXYzNmREYUdTcFZpOFN5NmcwdHd4R1c5WXhWV0ZJamxabzNQa01zWnNQMkMyRk45dmw3QjlDQXlxQVpKdUE1MWZqTF91Um9KQi1NUEw1UU94NUhxQkFTUF9tWGVHajU5Q3NwR3lGclNCTThoRFl5NFFOdkZRUFNGcnUwRzdXdV9vNllZbGMzTlBsOTdjYlktcVlHaW5wcEN5T1JNTk5VcDBtYTQzMmo?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT0FYZ1lyYkdJNVZ0YVktaXR6LVVJb0pHOHVVZjYzTDRlOGVfSk5LZnZNMEZWdXBQUElLY0xqeXYzNmREYUdTcFZpOFN5NmcwdHd4R1c5WXhWV0ZJamxabzNQa01zWnNQMkMyRk45dm...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Meta’s AI climate tool raised false hope of CO₂ removal, scientists say](https://www.ft.com/content/69220fea-9c9a-4f55-9118-65d2660c85d4)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerMeta’s AI climate tool raised false hope of CO₂ removal, scientists saySubscribe to unlock this articleJoin FT EditOnl...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [European CEOs urge Brussels to halt landmark AI Act](https://www.ft.com/content/a825759e-aec8-4184-bc73-f604f169204c)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerEuropean CEOs urge Brussels to halt landmark AI ActSubscribe to unlock this articleTry unlimited accessOnly$1for 4 wee...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [How hopeful can we be about AI climate tech?](https://www.ft.com/content/bd835b8f-e39a-4e5f-84d0-2fb019b47b80)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHow hopeful can we be about AI climate tech?Subscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$...
-
-**Categories:** ai, general, stock
-
----
-
-### [Whose job is safe from AI?](https://www.ft.com/content/b67bcbaa-67b9-48f8-ad4d-4cd6f9bdc1b7)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhose job is safe from AI?Subscribe to unlock this articleJoin FT EditOnly$49a yearGet 2 months free with an annual su...
-
-**Categories:** ai, general, stock
-
----
-
-### [Hong Kong's IPO market is on fire — here's what's fueling the surge - CNBC](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnhJbVNGN1RlMWhDbFFrVzNVVWxaY01nbmo3QjhsemNXek81UWx1TGdaeVh4bVRnaW9mQ3o2QjBfcXBoU3paRE9FUDludmtEdDI1SmxpXzdZRmluM0VhSmNkRTlnM2x4Q2hfd2s4Y21lVHpaWkx5eU02M25XLWJtUlc4YzYwM0RQRGZoSjJfSjlYRXE4ZEdRakY1VVRrM3pqMlVqSEJwdWU3eldzcEhJ0gG0AUFVX3lxTE9FTHNtVTh3YUZTMWJoTExuSTE3RlBkYndmcEtRRHhoMHV0UE1Fa09vbWg1RUdIN1g5bV9TVVVXM1pQYVpLOVloUGJSY1JvMDQzeTNvU0R0cDJRSkdGTHg0bHpGMy1GX0VLd2NKWDRwMXlORXVyVTZHcThCQnUtYjlHb0ZFWXRKSFRfeTNobVBiVElyaVA3WkUteGtXVU1lc2pzd2J6WDNIS3FEZFVNQ3ZDYWhiTw?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnhJbVNGN1RlMWhDbFFrVzNVVWxaY01nbmo3QjhsemNXek81UWx1TGdaeVh4bVRnaW9mQ3o2QjBfcXBoU3paRE9FUDludmtEdDI1SmxpXzdZRmluM0VhSmNkRTlnM2x4Q2hfd2s4Y2...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Campfire Raises $35 Million for AI-Driven ERP System for Startups - PYMNTS.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGlHYjdia3pXMnRoc3VnMFY5bnA1d3owTTZJSGQ4UDVtdE9zWVpkcGhWN2l6U3B1WmR4M0c5cXpMeDNJb1BJdERYZ08yc3dwWnRHTG92dGtqd1djS0NoSDBMU0pxY0NEVk52ZHZ3UENKS3I4Z2Vvd3VydzRZb1dqMlNnUWtPRWgtNExEZWNHUC1BQWRDMXBkTTlmOWZidEMxMG9ULXdObVg?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGlHYjdia3pXMnRoc3VnMFY5bnA1d3owTTZJSGQ4UDVtdE9zWVpkcGhWN2l6U3B1WmR4M0c5cXpMeDNJb1BJdERYZ08yc3dwWnRHTG92dGtqd1djS0NoSDBMU0pxY0NEVk52ZHZ3UE...
-
-**Categories:** ai, emerging
-
----
-
-### [Robotics Startup Genesis AI Launches With $105 Million in Funding - PYMNTS.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTk96Y0pfMVpUTW9GaFpRMzNHYkdDRkpsUGQwWDYzYTdWekU5dE5kaVJoR2k5dTVWZU5zQmF1TXJuSWdnaWdTTXB2LUdFckc3ZVNsVmpCX3FOQ1RqRlc3VFFwemFSSmpxZDRZdlE4azAxaW8zZEY1UUwwSmE5REx3U0dCdHhLR21DYU54UmdNSm1wa1d1cHN6UlhvY21XZUZJblhPN0RKRnhETkJlYl92MDRya29Pby1BamtOZUgtamJaRDJjclE?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-03
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQTk96Y0pfMVpUTW9GaFpRMzNHYkdDRkpsUGQwWDYzYTdWekU5dE5kaVJoR2k5dTVWZU5zQmF1TXJuSWdnaWdTTXB2LUdFckc3ZVNsVmpCX3FOQ1RqRlc3VFFwemFSSmpxZDRZdlE4az...
-
-**Categories:** ai, emerging
-
----
-
-### [OpenAI signs $30bn data centre deal with Oracle](https://www.ft.com/content/b4324903-ff53-48c2-bf71-4151cd4f68d0)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-02
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOpenAI signs $30bn data centre deal with OracleSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksTh...
-
-**Categories:** emerging, ai, general, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -7740,58 +11368,6 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-02
-
-Listen onApple PodcastsListen onSpotifyRobinhood’s Baiju Bhatt has a new mission: solar power from space.Fresh off a$50 million Series Araise, Robinhood co-founder Baiju Bhatt is going all-in on space...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [OpenAI says Robinhood's tokens aren't equity in the company](https://www.cnbc.com/2025/07/02/openai-robinhood-tokens.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-OpenAI says Robinhood's tokens aren't equity in the companySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI said it did not partner with...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [TikTok is being flooded with racist AI videos generated by Google’s Veo 3](https://arstechnica.com/ai/2025/07/racist-ai-videos-created-with-google-veo-3-are-proliferating-on-tiktok/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe release of Google's Veo 3 video generator in May represented ad...
-
-**Categories:** ai, general
-
----
-
-### [Be Polarizing as a Job Seeker](https://spectrum.ieee.org/be-a-polarizing-job-seeker)
-
-**Source:** IEEE Spectrum | **Published:** 2025-07-02
-
-CareersGuest ArticleBe Polarizing as a Job SeekerYour goal is to be an exceptional fit for one specific jobRahul Pandey02 Jul 20253 min readRahul Pandey is the founder of Taro, a YC-backed career plat...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Everything that could go wrong with X’s new AI-written community notes](https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navElon Musk's X arguably revolutionized social media fact-checking by...
-
-**Categories:** ai, general, emerging
-
----
-
 ### [Qantas hit by cyber attack after FBI alert on Scattered Spider group](https://www.ft.com/content/255cdc1d-f31e-4199-ad95-4666a0a660a2)
 
 **Source:** Financial Times Tech | **Published:** 2025-07-02
@@ -7802,85 +11378,13 @@ Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to foot
 
 ---
 
-### [Vera Rubin: This Is How Far Engineers Go to Explore the Universe](https://spectrum.ieee.org/vera-rubin-engineering)
+### [That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat](https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html)
 
-**Source:** IEEE Spectrum | **Published:** 2025-07-02
+**Source:** The Hacker News | **Published:** 2025-07-02
 
-AerospaceMagazineOpinionJuly 2025Vera Rubin: This Is How Far Engineers Go to Explore the UniverseAnd how far we went to tell their storyHarry Goldstein02 Jul 20253 min readHarry Goldstein is Editor in...
+How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
-**Categories:** ai, emerging
-
----
-
-### [Robinhood stock hits $100 as it roars 30% since S&P 500 snub](https://www.cnbc.com/2025/07/02/robinhood-stock-record.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Robinhood stock hits $100 as it roars 30% since S&P 500 snubSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsRobinhood stock hit the $100 mark ...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [AT&T rolls out Wireless Account Lock protection to curb the SIM-swap scourge](https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAT&T is rolling out a protection that prevents unauthorized changes...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Ukraine summons top US diplomat after Washington halts some arms supplies](https://www.ft.com/content/b69e327d-95a3-487d-a9b6-6a72ef48ba61)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-02
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerUkraine summons top US diplomat after Washington halts some arms suppliesSubscribe to unlock this articleTry unlimited...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-02
-
-Lovable, one of the darlings of the vibe-coding world and one of Europe’s fastest-growing AI startups, is working on raising a fresh round of over $150 million at a near $2 billion valuation, theFinan...
-
-**Categories:** startups, ai, emerging, stock
-
----
-
-### [Ether and related stocks gain amid the latest crypto craze: Tokenization](https://www.cnbc.com/2025/07/02/ether-and-related-stocks-gain-amid-the-latest-crypto-craze-tokenization.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Ether and related stocks gain amid the latest crypto craze: TokenizationSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsShares of BitMine Imme...
-
-**Categories:** ai, general, stock
-
----
-
-### [<a href="https://www.fiercebiotech.com/research/blocking-enzyme-mice-restored-key-protector-neurons-signaling-hope-biotechs-pursuing" hreflang="en">Blocking an enzyme in mice restored a key protector of neurons, signaling hope for biotechs pursuing the pathway in Parkinson’s</a>](https://www.fiercebiotech.com/research/blocking-enzyme-mice-restored-key-protector-neurons-signaling-hope-biotechs-pursuing)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-02
-
-ResearchBlocking an enzyme in mice restored a key protector of neurons, signaling hope for biotechs pursuing the pathway in Parkinson’sByDarren IncorvaiaJul 2, 2025 5:26pmParkinson's diseasegenetic mu...
-
-**Categories:** ai, biotech, emerging
-
----
-
-### [NYT to start searching deleted ChatGPT logs after beating OpenAI in court](https://arstechnica.com/tech-policy/2025/07/nyt-to-start-searching-deleted-chatgpt-logs-after-beating-openai-in-court/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navLast week, OpenAI raised objections in court, hoping to overturn a ...
-
-**Categories:** ai, general, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -7894,57 +11398,6 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Study finds AI can slash global carbon emissions](https://www.artificialintelligence-news.com/news/study-finds-ai-slash-global-carbon-emissions/)
-
-**Source:** AI News | **Published:** 2025-07-02
-
-Study finds AI can slash global carbon emissionsSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Recognitio...
-
-**Categories:** ai, emerging
-
----
-
-### [Tesla Q2 Deliveries Were Positive For Shareprice](https://www.nextbigfuture.com/2025/07/tesla-q2-deliveries-were-positive-for-shareprice.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-02
-
-Tesla had 384,122 deliveries which was above the 365,000 whisper number for deliveries.2025 2Q Tesla Production & Deliveries ====================              
-            Production       Deliveries...
-
-**Categories:** ai, emerging
-
----
-
-### [Confidence in agentic AI: Why eval infrastructure must come first](https://venturebeat.com/ai/confidence-in-agentic-ai-why-eval-infrastructure-must-come-first/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-02
-
-As AI agents enter real-world deployment, organizations are under pressure to define where they belong, how to build them effectively, and how to operationalize them at scale. At VentureBeat’sTransfor...
-
-**Categories:** ai
-
----
-
-### [LLM Benchmarking Shows Capabilities Doubling Every 7 Months](https://spectrum.ieee.org/llm-benchmarking-metr)
-
-**Source:** IEEE Spectrum | **Published:** 2025-07-02
-
-AIInterviewLLM Benchmarking Shows Capabilities Doubling Every 7 MonthsBy 2030, LLMs may do a month’s work in just hoursGlenn Zorpette02 Jul 20256 min readGlenn Zorpette is editorial director for conte...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [AI Getting Better at Medical Diagnosis](https://www.nextbigfuture.com/2025/07/ai-getting-better-at-medical-diagnosis.html)
-
-**Source:** Next Big Future | **Published:** 2025-07-02
-
-AI did better than human doctors on known case diagnosis. However, doctors were handicapped by not being able to use Google and other references and all of the cases did have diseases. Most actual cas...
-
-**Categories:** ai, emerging
-
----
-
 ### [Qantas Confirms Major Data Breach Linked to Third-Party Vendor - Hack Read](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXBBb1V5R0paNGJvTEhmc2VVZ1RSN1NTdi1rSlp0Z2pMbUE0bjZzOTJWc1Q3SlhOMlFqOWZpekZVTlhuX0dwb0wyQnk3SThnMnN4dHR2bXY1bDdqUW5Xd3ZKODFvdzVBWUtZX0c1dGgtQ2RndDRIZXpZYmt1bFRjOQ?oc=5)
 
 **Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-02
@@ -7955,14 +11408,13 @@ AI did better than human doctors on known case diagnosis. However, doctors were 
 
 ---
 
-### [Medical groups warn Senate budget bill will create dystopian health care system](https://arstechnica.com/health/2025/07/doctors-blast-senate-bill-point-out-that-11-8m-losing-health-insurance-is-bad/)
+### [Qantas data breach impacts 6 million customer accounts - Mashable](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHo4bjhTM0ZSLU02eTk0OGFta3JOSndudTlVRS1XNnJlb0JEM1pHUG10NjZGcUw2Y0dEcVFacUpQVWZ1ZWtULXoxQVg3NFZRR0plTTNKWF9LVjRhX296d1BUYnFNNFU5ZjZSWDRYMjFPYXRZLUM2SnQ2MTZIX3piNFpLOWwzaFVVbktfdXBFcw?oc=5)
 
-**Source:** Ars Technica | **Published:** 2025-07-02
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-02
 
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navMedical organizations are blasting the Senate's budget bill in the ...
+<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHo4bjhTM0ZSLU02eTk0OGFta3JOSndudTlVRS1XNnJlb0JEM1pHUG10NjZGcUw2Y0dEcVFacUpQVWZ1ZWtULXoxQVg3NFZRR0plTTNKWF9LVjRhX296d1BUYnFNNFU5ZjZSWDRYMj...
 
-**Categories:** emerging, ai, general
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -7976,76 +11428,6 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [<a href="https://www.fiercebiotech.com/medtech/fda-clears-fasikls-ai-neurostimulation-wristwatch-essential-tremor" hreflang="en">FDA clears Fasikl's AI neurostimulation wristwatch for essential tremor</a>](https://www.fiercebiotech.com/medtech/fda-clears-fasikls-ai-neurostimulation-wristwatch-essential-tremor)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-02
-
-MedTechFDA clears Fasikl's AI neurostimulation wristwatch for essential tremorByConor HaleJul 3, 2025 9:15amFDAessential tremorParkinson's diseaseDevicesUniversity of Minnesota spinout Fasikl has obta...
-
-**Categories:** ai, biotech, emerging
-
----
-
-### [Large Language Models Are Improving Exponentially](https://spectrum.ieee.org/large-language-model-performance)
-
-**Source:** IEEE Spectrum | **Published:** 2025-07-02
-
-ComputingMagazineAnalysisJuly 2025Large Language Models Are Improving ExponentiallyIn a few years, AI could handle complex tasks with easeGlenn Zorpette02 Jul 20252 min readGlenn Zorpette is editorial...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Transform 2025: Why observability is critical for AI agent ecosystems](https://venturebeat.com/ai/transform-2025-why-observability-is-critical-for-ai-agent-ecosystems/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-02
-
-The autonomous software revolution is coming. AtTransform 2025, Ashan Willy, CEO of New Relic and Sam Witteveen, CEO and co-founder of Red Dragon AI, talked about how they’re instrumenting agentic sys...
-
-**Categories:** ai
-
----
-
-### [Wonderful raises $34M in Seed funding to bring multilingual AI to global call centers - CTech](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nY0tsOUNqWElpNW13c3FPQ3ZkNlQzWGFnRVZKUVd2ejlCb1B2VC1NaS1OUHRuSzRLanRvYjJOUDFqSVJuQ0lFYlpxdksxNEVHcHNTU1NuSWxkQnd5VXd0cm96S1kxZ0xP?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-02
-
-<a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nY0tsOUNqWElpNW13c3FPQ3ZkNlQzWGFnRVZKUVd2ejlCb1B2VC1NaS1OUHRuSzRLanRvYjJOUDFqSVJuQ0lFYlpxdksxNEVHcHNTU1NuSWxkQnd5VXd0cm96S1kxZ0xP?oc=5" tar...
-
-**Categories:** ai, emerging
-
----
-
-### [Bright Data beat Elon Musk and Meta in court — now its $100M AI platform is taking on Big Tech](https://venturebeat.com/ai/bright-data-beat-elon-musk-and-meta-in-court-now-its-100m-ai-platform-is-taking-on-big-tech/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-02
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowBright Data, the Israeli web scraping company...
-
-**Categories:** ai
-
----
-
-### [The Download: how AI could improve construction site safety, and our Roundtables conversation with Karen Hao](https://www.technologyreview.com/2025/07/02/1119616/the-download-how-ai-could-improve-construction-site-safety-and-our-roundtables-conversation-with-karen-hao/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-02
-
-This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.How generative AI could help make construction sites saferMore th...
-
-**Categories:** ai, emerging
-
----
-
-### [<a href="https://www.fiercebiotech.com/biotech/biotech-vc-raises-200m-focus-japans-untapped-source-innovation" hreflang="en">Biotech VC raises $200M to focus on Japan’s ‘untapped source’ of innovation</a>](https://www.fiercebiotech.com/biotech/biotech-vc-raises-200m-focus-japans-untapped-source-innovation)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-02
-
-BiotechBiotech VC raises $200M to focus on Japan’s ‘untapped source’ of innovationByGabrielle MassonJul 2, 2025 11:45amARCH Venture Partnersbiotech venture capitalJapanVenture CapitalAN Venture Partne...
-
-**Categories:** ai, biotech, emerging
-
----
-
 ### [Vercel's v0 AI Tool Weaponized by Cybercriminals to Rapidly Create Fake Login Pages at Scale](https://thehackernews.com/2025/07/vercels-v0-ai-tool-weaponized-by.html)
 
 **Source:** The Hacker News | **Published:** 2025-07-02
@@ -8056,63 +11438,23 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [How businesses can use local AI models to improve data privacy](https://www.artificialintelligence-news.com/news/how-businesses-can-use-local-ai-models-to-improve-data-privacy/)
+### [Verizon and T-Mobile Deny Data Breaches as Millions of User Records Sold Online - Hack Read](https://news.google.com/rss/articles/CBMigAFBVV95cUxPU1FpS2Y0NTl6bGkwQjFFUEpveTduQ19KUzJITUZQWVNDNmFGVWxfZzF6aUttS0YwYXRFVm9oeXNfRlZoYmUtcDJyNDlHdUtZU2ZwT0N3RjREU3pnMnROSlozOXdYUWFHaFBCSXprc0RwQjI1S3pOanBQMjVwTWtLSQ?oc=5)
 
-**Source:** AI News | **Published:** 2025-07-02
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-02
 
-How to use private AI to keep your business secrets safeSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Re...
+<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPU1FpS2Y0NTl6bGkwQjFFUEpveTduQ19KUzJITUZQWVNDNmFGVWxfZzF6aUttS0YwYXRFVm9oeXNfRlZoYmUtcDJyNDlHdUtZU2ZwT0N3RjREU3pnMnROSlozOXdYUWFHaFBCSXprc0...
 
-**Categories:** ai, emerging
-
----
-
-### [<a href="https://www.fiercebiotech.com/medtech/kardium-raises-250m-its-pulsed-field-ablation-system-undergoes-fda-review" hreflang="en">Kardium raises $250M as its pulsed field ablation system undergoes FDA review</a>](https://www.fiercebiotech.com/medtech/kardium-raises-250m-its-pulsed-field-ablation-system-undergoes-fda-review)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-02
-
-MedTechKardium raises $250M as its pulsed field ablation system undergoes FDA reviewByConor HaleJul 2, 2025 11:00amKardiumventure capital (VC)atrial fibrillationpulsed field ablationThe pulsed field a...
-
-**Categories:** ai, biotech, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [<a href="https://www.fiercebiotech.com/biotech/vyne-prunes-psoriasis-trial-fda-hold-keeps-faith-bet-inhibitor" hreflang="en">Vyne prunes psoriasis trial under FDA hold, but keeps faith in BET inhibitor</a>](https://www.fiercebiotech.com/biotech/vyne-prunes-psoriasis-trial-fda-hold-keeps-faith-bet-inhibitor)
+### [Australia's Qantas says 6 million customer accounts accessed in cyber hack - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxOb2dXaXE2MGt0ekFmaHlpeGY0ZEpYS2R3RHgza1NYQjlIckZnemt3SnVVVkN6T182UFZDcHJjNjZFNkpZSnR1LXN4N1NwM28xUzNpUHZhaGdsQ0RocjIxYWVYRUhYSHVxMkxFc0tVOUdXS2ZhbUtfemFkekw4MXRsQjNYN2F5dDg0Wlo2N05WNC1QZkNtbGZfUnBVTFpjTDB6YkkwaWRVMjRoY2QyTjJOTnRyeHpGWmhfeVh0Qg?oc=5)
 
-**Source:** Fierce Biotech | **Published:** 2025-07-02
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-02
 
-BiotechVyne prunes psoriasis trial under FDA hold, but keeps faith in BET inhibitorByJames WaldronJul 2, 2025 10:33amVYNE Therapeuticspsoriasisclinical holdBET inhibitionVyne Therapeutics hasgiven up ...
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOb2dXaXE2MGt0ekFmaHlpeGY0ZEpYS2R3RHgza1NYQjlIckZnemt3SnVVVkN6T182UFZDcHJjNjZFNkpZSnR1LXN4N1NwM28xUzNpUHZhaGdsQ0RocjIxYWVYRUhYSHVxMkxFc0tVOU...
 
-**Categories:** ai, biotech, emerging
-
----
-
-### [How generative AI could help make construction sites safer](https://www.technologyreview.com/2025/07/02/1119607/how-generative-ai-could-help-make-construction-sites-safer/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-02
-
-Last winter, during the construction of an affordable housing project on Martha’s Vineyard, Massachusetts, a 32-year-old worker named Jose Luis Collaguazo Cresposlipped off a ladderon the second floor...
-
-**Categories:** ai, emerging
-
----
-
-### [<a href="https://www.fiercebiotech.com/biotech/organon-axes-biggest-potential-opportunity-after-flunking-phase-2-trial" hreflang="en">Organon axes 'biggest potential opportunity' after flunking phase 2 trial</a>](https://www.fiercebiotech.com/biotech/organon-axes-biggest-potential-opportunity-after-flunking-phase-2-trial)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-02
-
-BiotechOrganon axes 'biggest potential opportunity' after flunking phase 2 trialByNick Paul TaylorJul 2, 2025 8:43amOrganonendometriosisfailed trialsClinical DataA drug candidate Organon hailed as per...
-
-**Categories:** biotech, ai, emerging
-
----
-
-### [Nasdaq's Tech-Driven IPO Surge: A Blueprint for Strategic Equity Allocation in 2025 - AInvest](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXROVzF3cG1rQ3FwSE5HRldNOXZXQ1JRVk1Wd3E5Tml4dzluZVBCMl9hYlRtbmcwbFQ1bDhFdFY5SmdCOFlFbndUNGFwaDZZT2Q3WlF1UmR4aDUteWF3d1lERklzSS1rT0hwVFMzblppUHRacFpJLU9hNEpySnEzbzVjeWNIdjZKMzZoLVV2aGpBR2ZuQ1V3Y2luUjYxdHFZUlVnd0xsN3MzUQ?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-02
-
-<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXROVzF3cG1rQ3FwSE5HRldNOXZXQ1JRVk1Wd3E5Tml4dzluZVBCMl9hYlRtbmcwbFQ1bDhFdFY5SmdCOFlFbndUNGFwaDZZT2Q3WlF1UmR4aDUteWF3d1lERklzSS1rT0hwVFMzbl...
-
-**Categories:** ai, emerging, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -8123,56 +11465,6 @@ BiotechOrganon axes 'biggest potential opportunity' after flunking phase 2 trial
 <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQX1VNeWlSdWhMcGpFMm9PQzRiWF9acFo5aDA1MGxUZkZlUUhfSUVnZWZ3MVBOWlRENkh1ZHNDb2hKWDRKalNwTkQ4N1Bud0lURlpFemFmMElFNV91bFZYZ3o3VWVSVkJZb3dmbUNXcl...
 
 **Categories:** ai, cybersecurity, emerging
-
----
-
-### [Hong Kong's Re-Emergence as a Global IPO Hub: Opportunities in 2025 and Beyond - AInvest](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVFlQUNBMkthT2lfNWs3aW5fYXVXbW1VamREaFk3dTNKRnpqMG5jMnJHN0taa0RkVV9IT2pmOENGaG5mV3VfNU5wU1FkNE16TW1TRkdwUGI3MVdZTWhoMTU2VmZvbUhxYmV3ZGFiOWljWkM4bXFmUFNsdk15SjlGd3NUSmtINlp0TVNSSDBDaW16QQ?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-02
-
-<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVFlQUNBMkthT2lfNWs3aW5fYXVXbW1VamREaFk3dTNKRnpqMG5jMnJHN0taa0RkVV9IT2pmOENGaG5mV3VfNU5wU1FkNE16TW1TRkdwUGI3MVdZTWhoMTU2VmZvbUhxYmV3ZGFiOW...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Robotics Startup Raises $105 Million Seed From US, China VCs - Bloomberg](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRaa3ozOGZVYllVZElyZkJoN2tFMmp3WmQ3UXkwdVM3aDdMTnp4enlrdWNwd3RkZDBRR0E2bGw3bDdqMXMwbXE5ODVQZi1RTFpxclB4Z1lTX09JRXJHU0NpRDR0XzVEc0FXRHJLeTAwaGpaTU0zQU9hZGhwUUtiMUVjZXEyX2t5Ylg5d3hEcVhWb1JaY1ZLYWhZRHFXSjFoMDl4a29sa0R4d0R4amItRGEyRVM2aUEzZnVEWVFkQ2hIdnpNS2kwVg?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-02
-
-<a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRaa3ozOGZVYllVZElyZkJoN2tFMmp3WmQ3UXkwdVM3aDdMTnp4enlrdWNwd3RkZDBRR0E2bGw3bDdqMXMwbXE5ODVQZi1RTFpxclB4Z1lTX09JRXJHU0NpRDR0XzVEc0FXRHJLeT...
-
-**Categories:** ai, emerging
-
----
-
-### [Capital One builds agentic AI to supercharge auto sales](https://venturebeat.com/ai/capital-one-builds-agentic-ai-to-supercharge-auto-sales/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-02
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowInspiration can come from different places, e...
-
-**Categories:** ai, emerging
-
----
-
-### [Enterprise giants Atlassian, Intuit, and AWS are planning for a world where agents call the APIs](https://venturebeat.com/ai/enterprise-giants-atlassian-intuit-and-aws-are-planning-for-a-world-where-agents-call-the-apis/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-02
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe Now>>See all our Transform 2025 coverage here<<T...
-
-**Categories:** ai, emerging
-
----
-
-### [From 30 days to 1: Chevron’s cloud migration ROI in real numbers](https://venturebeat.com/data-infrastructure/from-30-days-to-1-chevrons-cloud-migration-roi-in-real-numbers/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-01
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowThe No. 1 way AI is changing 150-year-old ene...
-
-**Categories:** ai, emerging
 
 ---
 
@@ -8196,53 +11488,23 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/)
+### [New Flaw in IDEs Like Visual Studio Code Lets Malicious Extensions Bypass Verified Status](https://thehackernews.com/2025/07/new-flaw-in-ides-like-visual-studio.html)
 
-**Source:** TechCrunch Startups | **Published:** 2025-07-01
+**Source:** The Hacker News | **Published:** 2025-07-01
 
-Figmapublicly sharedits financials Tuesday, inching the design software company closer to an IPO. And while this initial S-1 is missing details such as number of shares to be offered and what price, t...
+How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how organizations are approaching AI security today, where the biggest gaps exist, and what actions leading teams are taking t...
 
-**Categories:** ai, startups, emerging, stock
-
----
-
-### [Figma moves closer to a blockbuster IPO that could raise $1.5B - TechCrunch](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEZXLWM5aGw0UTB5NzdmbWtvOFo1eFN5R3BIT082bWZad1VaT0VYT29paWNZZ0dmYU91c2Z5R0dtbHNaSFBIQ0FJVG90UVdzcXRxU0tBNzU3T3NwNkhpNVMxTFFtejVqb25wVTBxaDBYMDdrQ1VwZlhka2JCVURBWHQ2Z1VRMGNNUlFxVGdpaF82UHUzTXVxdF8tb3k?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
-
-<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEZXLWM5aGw0UTB5NzdmbWtvOFo1eFN5R3BIT082bWZad1VaT0VYT29paWNZZ0dmYU91c2Z5R0dtbHNaSFBIQ0FJVG90UVdzcXRxU0tBNzU3T3NwNkhpNVMxTFFtejVqb25wVTBxaD...
-
-**Categories:** ai, emerging, stock
+**Categories:** cybersecurity
 
 ---
 
-### [Design Platform Figma Files for IPO as Market for New Tech Listings Warms - Investopedia](https://news.google.com/rss/articles/CBMitAFBVV95cUxQakRPMlNackZ0eWI3U1VlXzFpLWJIME93Ni13UHdmZkFSRVhLT1M2OWFVRnhZX3VkYUllOUZmUU1WNjBJZlRKbkNyUk4ySVpSUGt4SnpnZ2o4RXNDeUJaSmM3RVJ5XzBBNHNfWnhLOThqc2JUT3VEZGR2U2FtTElSVUpjbnFTU2VWR0tnNDR6NVVPdXVoVVZndUJONEJpN3Biekc0V3JTQmJSZnh2LXFlWjRqUk0?oc=5)
+### [Food Lion workers, families among 2.2M victims of latest corporate data breach - Charlotte Observer](https://news.google.com/rss/articles/CBMieEFVX3lxTE1wS0JWYzdmcmE1SFlyekgzeHFFcXpydDlyaE9LOU9jNTBvcm54WldENlRoaUYyczFfNFJmYlFJZFlVdGlxaUlUYUdOa2RaQzJkVnpJX0w5emhBZThhVFgxU1NiSTVTTXYya2dpcHVQT05XNHZuWlppa9IBeEFVX3lxTE1NSTFhTGtvUEVsQVB4VThxR2cxUWlfYmJiVFNxYkVLemNxMzRjMmxuZDNJVXlWckw5Y3l3VTVybGJMUHpEUXVlcHFWREVNLWU5Q3haQ0JyVWpxUVV1MzVBME5pUGpWYjRRWFMxM1EzMDNhVVZxbEU5LQ?oc=5)
 
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-01
 
-<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQakRPMlNackZ0eWI3U1VlXzFpLWJIME93Ni13UHdmZkFSRVhLT1M2OWFVRnhZX3VkYUllOUZmUU1WNjBJZlRKbkNyUk4ySVpSUGt4SnpnZ2o4RXNDeUJaSmM3RVJ5XzBBNHNfWnhLOT...
+<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1wS0JWYzdmcmE1SFlyekgzeHFFcXpydDlyaE9LOU9jNTBvcm54WldENlRoaUYyczFfNFJmYlFJZFlVdGlxaUlUYUdOa2RaQzJkVnpJX0w5emhBZThhVFgxU1NiSTVTTXYya2dpcHVQT0...
 
-**Categories:** ai, emerging, stock
-
----
-
-### [Figma files for IPO on NYSE, plans to 'take big swings' with acquisitions - CNBC](https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmlxU0luc2NKcS1iOUxTMV91YUZHaTB3amxfRFBJdU55bXNROFVZVkVSclhHUEs3WlJRTFVqa2ViekhmelphMkUyXzY0b29TVndzbHkxTGo4aXpOamhHcGlIT1d4V1F0cmtHWnF4T2ItX3FSSVNVa0wyVVd1OTkxel9CMGQ2dUE1MTkzVnhVb9IBlAFBVV95cUxQbWhQMEFrQTczSkFuankwaVhDeFhqQUNLQVFYcTVyY1YyX0twM19oVldIUndKNWxZMkdoUDY3eW1XWU9ndjMyM0hSLVhYVkp6UXlXOXhWQmU4QnNQY0FOUmtwREdGRjNDTWlycUlKT0pLcTVfRU93bWJzUmhpMU5fTjFDTlZLOV85TFZZeEFsNkZYQkxf?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
-
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmlxU0luc2NKcS1iOUxTMV91YUZHaTB3amxfRFBJdU55bXNROFVZVkVSclhHUEs3WlJRTFVqa2ViekhmelphMkUyXzY0b29TVndzbHkxTGo4aXpOamhHcGlIT1d4V1F0cmtHWnF4T2...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Nasdaq's Tech-Driven IPO Surge: A Blueprint for Growth in 2025 and Beyond - AInvest](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdERzaTI3WU1nVjZXRENaWktxVlIwZXhNb094a2ZQczJ1a3A5N1dpeEVjZ01vTTRBa1NCU0l5RU80dE5YRzNlVEpualpZQlY5M003b1VSLUVBQjRRdTNSQ0RSakJJSVJRUnFtRDJfMVh0N1hBZDRpcnVMeUh6NWdiVXY0YnBObE9qb0d2VWZB?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
-
-<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOdERzaTI3WU1nVjZXRENaWktxVlIwZXhNb094a2ZQczJ1a3A5N1dpeEVjZ01vTTRBa1NCU0l5RU80dE5YRzNlVEpualpZQlY5M003b1VSLUVBQjRRdTNSQ0RSakJJSVJRUnFtRDJfMV...
-
-**Categories:** ai, emerging, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -8256,36 +11518,6 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 ---
 
-### [Nasdaq prevails over NYSE in first-half listings, buoyed by blockbuster IPOs - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmhWUnA5azFqSmNTazBOTzdiR3I3NDdLQnlfblM0NEt2eGNyZkJhdzBTZG9CS1o1WDNabV94WXRhS1FvUno2WmYwY2ZvS25EWlFEc0F0YnBJUmx0cmxsN0JBLUR2RnU5bGxpamtMMlctUGpJeVcxb08ydWtMNm9qUG9MWm43NGwtZi1raGNYNXM4WWhaaWZSak9FSHdRU2J5VnAzc3lMRm82YVdQLS1xTTJ0Z0ZzbThST19iREFYYU5tVjg?oc=5)
-
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-07-01
-
-<a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZmhWUnA5azFqSmNTazBOTzdiR3I3NDdLQnlfblM0NEt2eGNyZkJhdzBTZG9CS1o1WDNabV94WXRhS1FvUno2WmYwY2ZvS25EWlFEc0F0YnBJUmx0cmxsN0JBLUR2RnU5bGxpamtMMl...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Flood of interest in Europe’s AI Gigafactories plan](https://www.artificialintelligence-news.com/news/flood-of-interest-in-europe-ai-gigafactories-plan/)
-
-**Source:** AI News | **Published:** 2025-07-01
-
-Flood of interest in Europe’s AI Gigafactories planSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Recogni...
-
-**Categories:** ai, emerging
-
----
-
-### [Europe’s 20 largest startup funding rounds this year (so far) - The Next Web](https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1oxTk5tUURueGZERnpMbnV1ZDBfUFdNd2ZDSmVBdHVrcUI0SXFGS3FIdWhtdkZyeFhXYXJkUGZwZUpNRmNxWTJRZXlURGJBTVY5cmoxcW1kU3A1eUEybDdiYXFDWTF4Ylk1RXQyX2gzWHYzTmZLNWhKQ2p2T1FFVFVnQnBEYV9CdGJYcjFRMA?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-01
-
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1oxTk5tUURueGZERnpMbnV1ZDBfUFdNd2ZDSmVBdHVrcUI0SXFGS3FIdWhtdkZyeFhXYXJkUGZwZUpNRmNxWTJRZXlURGJBTVY5cmoxcW1kU3A1eUEybDdiYXFDWTF4Ylk1RXQyX2...
-
-**Categories:** ai, emerging
-
----
-
 ### [Ahold Delhaize USA says cyberattack exposed personal data of 2M people - Cybersecurity Dive](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNU9MbVFtQnBnSE5qX1hLUDhWNFNGLWx2T2Q3dGdQQkpTX0FYZEFaQU5sSGx4NjN3N2NfUVZ0blV1WmFCb0xyNzZSc283T1dnZE1GSXZYdEdCWnBzR1NUT2xjcVVGaHBGOVQ3d3B6YVdPUm5HV3E4czVYU1Y0RkY4UGlySTRfZUlJN1dkb1hEMGNQdTlORnRhRWNEVmptUFlqazU2OXZBVjA1M1E?oc=5)
 
 **Source:** Google: Cybersecurity Breaches | **Published:** 2025-07-01
@@ -8293,96 +11525,6 @@ Flood of interest in Europe’s AI Gigafactories planSkip to contentAI News is p
 <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNU9MbVFtQnBnSE5qX1hLUDhWNFNGLWx2T2Q3dGdQQkpTX0FYZEFaQU5sSGx4NjN3N2NfUVZ0blV1WmFCb0xyNzZSc283T1dnZE1GSXZYdEdCWnBzR1NUT2xjcVVGaHBGOVQ3d3B6YV...
 
 **Categories:** cybersecurity, ai, emerging
-
----
-
-### [<a href="https://www.fiercebiotech.com/research/shionogi-puts-more-600m-table-swiss-biotechs-antibiotic-program" hreflang="en">Shionogi puts more than $600M on the table for Swiss biotech's antibiotic program</a>](https://www.fiercebiotech.com/research/shionogi-puts-more-600m-table-swiss-biotechs-antibiotic-program)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-01
-
-ResearchShionogi puts more than $600M on the table for Swiss biotech's antibiotic programByDarren IncorvaiaJul 2, 2025 1:00amShionogiantibioticsantibiotic resistanceantimicrobialStoried Japanese pharm...
-
-**Categories:** biotech, ai, emerging
-
----
-
-### [Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots - TechCrunch](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSVVJSTFGVmFWZ3dvSkd0QjhOSDZNclMwdW94SU5CMTZGcXU3R0gxSVBiaTlCbEp3cmxqUVFadWRJOVFLVEF1MHpRTVFvVnBweWdCcHNwbFc2OUdWUnFkN0E?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-07-01
-
-<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSV...
-
-**Categories:** ai, emerging
-
----
-
-### [The Download: tripping with AI, and blocking crawler bots](https://www.technologyreview.com/2025/07/01/1119520/the-download-tripping-with-ai-and-blocking-crawler-bots/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-01
-
-This is today's edition ofThe Download,our weekday newsletter that provides a daily dose of what's going on in the world of technology.People are using AI to ‘sit’ with them while they trip on psyched...
-
-**Categories:** ai, emerging
-
----
-
-### [Cuba’s Power Grid Nears Total Failure](https://spectrum.ieee.org/cuba-energy-crisis)
-
-**Source:** IEEE Spectrum | **Published:** 2025-07-01
-
-EnergyAnalysisClimate TechCuba’s Power Grid Nears Total FailureDecades of neglect and subpar fuel leave Cuba’s energy infrastructure in crisisRicardo Torres01 Jul 20256 min readRicardo Torres is an ec...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [<a href="https://www.fiercebiotech.com/medtech/siemens-healthineers-rolls-out-helium-sealed-15t-mri-scanner" hreflang="en">Siemens Healthineers rolls out helium-sealed 1.5T MRI scanner</a>](https://www.fiercebiotech.com/medtech/siemens-healthineers-rolls-out-helium-sealed-15t-mri-scanner)
-
-**Source:** Fierce Biotech | **Published:** 2025-07-01
-
-MedTechSiemens Healthineers rolls out helium-sealed 1.5T MRI scannerByConor HaleJul 1, 2025 12:00pmSiemens Healthineersdigital imagingMRIFDASiemens Healthineers is debuting its first fully sealed 1.5 ...
-
-**Categories:** biotech, ai, emerging
-
----
-
-### [Cloudflare will now, by default, block AI bots from crawling its clients’ websites](https://www.technologyreview.com/2025/07/01/1119498/cloudflare-will-now-by-default-block-ai-bots-from-crawling-its-clients-websites/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-01
-
-The internet infrastructure company Cloudflare announced today that it will now default to blocking AI bots from visiting websites it hosts. Cloudflare will also give clients the ability to manually a...
-
-**Categories:** ai, emerging
-
----
-
-### [People are using AI to ‘sit’ with them while they trip on psychedelics](https://www.technologyreview.com/2025/07/01/1119513/ai-sit-trip-psychedelics/)
-
-**Source:** MIT Technology Review | **Published:** 2025-07-01
-
-Peter sat alone in his bedroom as the first waves of euphoria coursed through his body like an electrical current. He was in darkness, save for the soft blue light of the screen glowing from his lap. ...
-
-**Categories:** ai, emerging
-
----
-
-### [Kayak and Expedia race to build AI travel agents that turn social posts into itineraries](https://venturebeat.com/ai/kayak-and-expedia-race-to-build-ai-travel-agents-that-turn-social-posts-into-itineraries/)
-
-**Source:** VentureBeat AI | **Published:** 2025-07-01
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe Now>>See all our Transform 2025 coverage here<<W...
-
-**Categories:** ai, emerging
-
----
-
-### [From chatbots to collaborators: How AI agents are reshaping enterprise work](https://venturebeat.com/ai/from-chatbots-to-collaborators-how-ai-agents-are-reshaping-enterprise-work/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-30
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowScott White still marvels at how quickly arti...
-
-**Categories:** ai, emerging
 
 ---
 
@@ -8396,6 +11538,16 @@ The InstituteIEEE Member NewsArticleDigital Signal Processing Pioneer Jim Boddie
 
 ---
 
+### [Senator Chides FBI for Weak Advice on Mobile Security](https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/)
+
+**Source:** Krebs on Security | **Published:** 2025-06-30
+
+Agents with theFederal Bureau of Investigation(FBI) briefed Capitol Hill staff recently on hardening the security of their mobile devices, after a contacts list stolen from the personal phone of the W...
+
+**Categories:** cybersecurity, emerging
+
+---
+
 ### [A CarFax for Used PCs](https://spectrum.ieee.org/carmax-used-pcs)
 
 **Source:** IEEE Spectrum | **Published:** 2025-06-30
@@ -8403,16 +11555,6 @@ The InstituteIEEE Member NewsArticleDigital Signal Processing Pioneer Jim Boddie
 ComputingGuest ArticleA CarFax for Used PCsHewlett Packard wants to give old laptops new lifeAbu BakerSal VasiBarbara SpitzerJohn Hong30 Jun 20255 min readAbu Baker is a Principal Architect at HP for ...
 
 **Categories:** ai, cybersecurity, emerging, stock
-
----
-
-### [Power play: Can the grid cope with AI’s growing appetite?](https://www.artificialintelligence-news.com/news/power-play-can-the-grid-cope-with-ais-growing-appetite/)
-
-**Source:** AI News | **Published:** 2025-06-30
-
-Power play: Can the grid cope with AI's growing appetite?Skip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace R...
-
-**Categories:** ai, emerging
 
 ---
 
@@ -8426,13 +11568,13 @@ Power play: Can the grid cope with AI's growing appetite?Skip to contentAI News 
 
 ---
 
-### [Next-Gen Brain Implants Offer New Hope for Depression](https://spectrum.ieee.org/deep-brain-stimulation-depression)
+### [Data breach at healthcare services firm Episource affects 5.4M - Cybersecurity Dive](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndIeURJMmJNSEZTYVBIbko1REJUN05nRFdYc1g3TS1zRWwtWFctVWh6NXpna0F0Rm9KSm1SVVdGUnJqQWJJTllqSmdTY1RHbGk2eVY5bEQ3VFJtMHpFQWNrVXoxU3NDMkZOd2lCUHRCUHNGdTVGU0Z1N2hKb3BDX2F5dEd1UEJNR0ZkWGZXOXhQeVY3Y2tEVVAtNmJsemZf?oc=5)
 
-**Source:** IEEE Spectrum | **Published:** 2025-06-30
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-06-30
 
-BiomedicalMagazineFeatureNext-Gen Brain Implants Offer New Hope for DepressionAI and real-time neural feedback could transform treatmentsElie Dolgin30 Jun 202512 min readDeep brain stimulation (DBS) u...
+<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndIeURJMmJNSEZTYVBIbko1REJUN05nRFdYc1g3TS1zRWwtWFctVWh6NXpna0F0Rm9KSm1SVVdGUnJqQWJJTllqSmdTY1RHbGk2eVY5bEQ3VFJtMHpFQWNrVXoxU3NDMkZOd2lCUH...
 
-**Categories:** ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -8443,26 +11585,6 @@ BiomedicalMagazineFeatureNext-Gen Brain Implants Offer New Hope for DepressionAI
 Get Strategic with Digital EngineeringSkip to Main ContentEBOOKGet Strategic with Digital EngineeringWhy digital engineering is critical to future-proofing your business.In a literal sense, digital en...
 
 **Categories:** ai, cybersecurity, emerging, stock
-
----
-
-### [The Rise Of The Ultra-Unicorns: $5B+ Startups Are Leading The Private-Market Herd In 2025 - Crunchbase News](https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHQzQ0dua2dQeGt3Y2x5Rk4zYUsyTVJSZm5GejlkRGtZNDdMTEhUdUlTTzY2eEd1OWhhSlRtOEJCaVVoaXZHN01LeWdJeW5yNTUycjNTcG9yanNLMW4wRmFZbEJpMklhMm9udjlYV0tGaTd4WWJEVlYya3lvTEUwNFhoNzZGQUpoYXo0cw?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-06-30
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHQzQ0dua2dQeGt3Y2x5Rk4zYUsyTVJSZm5GejlkRGtZNDdMTEhUdUlTTzY2eEd1OWhhSlRtOEJCaVVoaXZHN01LeWdJeW5yNTUycjNTcG9yanNLMW4wRmFZbEJpMklhMm9udjlYV0...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [Exploring how AI has changed daily life](https://www.artificialintelligence-news.com/news/exploring-how-ai-has-changed-daily-life/)
-
-**Source:** AI News | **Published:** 2025-06-30
-
-Exploring how AI has changed daily life - AI NewsSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFace Recogniti...
-
-**Categories:** ai, emerging
 
 ---
 
@@ -8486,106 +11608,6 @@ Exploring how AI has changed daily life - AI NewsSkip to contentAI News is part 
 
 ---
 
-### [Between utopia and collapse: Navigating AI’s murky middle future](https://venturebeat.com/ai/between-utopia-and-collapse-navigating-ais-murky-middle-future/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-29
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowIn the blog postThe Gentle Singularity, OpenA...
-
-**Categories:** ai, emerging
-
----
-
-### [Identity theft hits 1.1M reports — and authentication fatigue is only getting worse](https://venturebeat.com/security/identity-theft-hits-1-1m-reports-and-authentication-fatigue-is-only-getting-worse/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-29
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowFrom passwords to passkeys to a veritable alp...
-
-**Categories:** ai, emerging
-
----
-
-### [From hallucinations to hardware: Lessons from a real-world computer vision project gone sideways](https://venturebeat.com/ai/from-hallucinations-to-hardware-lessons-from-a-real-world-computer-vision-project-gone-sideways/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-28
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowComputer vision projects rarely go exactly as...
-
-**Categories:** ai, emerging
-
----
-
-### [AI agents are hitting a liability wall. Mixus has a plan to overcome it using human overseers on high-risk workflows](https://venturebeat.com/ai/ai-agents-are-hitting-a-liability-wall-mixus-has-a-plan-to-overcome-it-using-human-overseers-on-high-risk-workflows/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-28
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowWhile enterprises face the challenges of depl...
-
-**Categories:** ai, emerging
-
----
-
-### [CTGT wins Best Presentation Style award at VB Transform 2025](https://venturebeat.com/ai/ctgt-wins-best-presentation-style-award-at-vb-transform-2025/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-28
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowSan Francisco-basedCTGT, a startup focused on...
-
-**Categories:** ai, emerging
-
----
-
-### [Catio wins ‘coolest tech’ award at VB Transform 2025](https://venturebeat.com/ai/catio-wins-coolest-tech-award-at-vb-transform-2025/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-28
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowPalo Alto-basedCatiowas awarded “Coolest Tech...
-
-**Categories:** ai, emerging
-
----
-
-### [Retail resurrection: David’s Bridal bets its future on AI after double bankruptcy](https://venturebeat.com/ai/retail-resurrection-davids-bridal-bets-its-future-on-ai-after-double-bankruptcy/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-27
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowInside a newDavid’s Bridalstore in Delray Bea...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [How runtime attacks turn profitable AI into budget black holes](https://venturebeat.com/security/how-runtime-attacks-turn-profitable-ai-into-budget-black-holes/)
-
-**Source:** VentureBeat AI | **Published:** 2025-06-27
-
-This article is part of VentureBeat’s special issue, “The Real Cost of AI: Performance, Efficiency and ROI at Scale.”Read morefrom this special issue.AI’s promise is undeniable, but so are its blindsi...
-
-**Categories:** ai
-
----
-
-### [Anthropic tests AI running a real business with bizarre results](https://www.artificialintelligence-news.com/news/anthropic-tests-ai-running-a-real-business-with-bizarre-results/)
-
-**Source:** AI News | **Published:** 2025-06-27
-
-Anthropic tests AI running a real business with bizarre resultsSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbots...
-
-**Categories:** ai, emerging
-
----
-
-### [Video Friday: This Quadruped Throws With Its Whole Body](https://spectrum.ieee.org/robot-arm-thrower)
-
-**Source:** IEEE Spectrum | **Published:** 2025-06-27
-
-RoboticsNewsHumanoid RobotsVideo Friday: This Quadruped Throws With Its Whole BodyYour weekly selection of awesome robot videosEvan Ackerman27 Jun 20253 min readEvan Ackerman is IEEE Spectrum’s roboti...
-
-**Categories:** ai, emerging
-
----
-
 ### [Reviving a 1970s Analog HP X-Y Recorder](https://spectrum.ieee.org/reviving-vintage-x-y-recorder)
 
 **Source:** IEEE Spectrum | **Published:** 2025-06-27
@@ -8593,16 +11615,6 @@ RoboticsNewsHumanoid RobotsVideo Friday: This Quadruped Throws With Its Whole Bo
 DIYMagazineHands OnJuly 2025Reviving a 1970s Analog HP X-Y RecorderOnce upon a time all hardware was open sourceStephen Cass27 Jun 20255 min readStephen Cass is the special projects editor at IEEE Spe...
 
 **Categories:** ai, cybersecurity, emerging
-
----
-
-### [The Week’s 10 Biggest Funding Rounds: AI Continues To Dominate In An Action-Packed Week - Crunchbase News](https://news.google.com/rss/articles/CBMikgFBVV95cUxPYllnSXB1cTZfOE1CTDczNHFZY0M3a0xVTVF4VEZrcXl2QXdPMFVFQzNmRDdLbzduRjRrd05EeC1CcWhSa0JmT09oQlJZYVN6NkRrZmRCRjcyR21BV0U1M0YyTkpOUXc4enJMYzNidXYxc0FzSmh0aU9HR2FGU2JpSGo0dWhiU3E2VmtoRGNGbGpqQQ?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-06-27
-
-<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPYllnSXB1cTZfOE1CTDczNHFZY0M3a0xVTVF4VEZrcXl2QXdPMFVFQzNmRDdLbzduRjRrd05EeC1CcWhSa0JmT09oQlJZYVN6NkRrZmRCRjcyR21BV0U1M0YyTkpOUXc4enJMYzNidX...
-
-**Categories:** ai, emerging
 
 ---
 
@@ -8616,26 +11628,6 @@ The InstituteIEEE Member NewsComputingCareersProfileAdvancing Quantum Science: H
 
 ---
 
-### [Nvidia reclaims title of most valuable company on AI momentum](https://www.artificialintelligence-news.com/news/nvidia-reclaims-title-of-most-valuable-company-on-ai-momentum/)
-
-**Source:** AI News | **Published:** 2025-06-26
-
-Nvidia reclaims title of most valuable company on AI momentumSkip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbotsFa...
-
-**Categories:** ai, emerging, stock
-
----
-
-### [The Violinist Who Fell in Love With Machine Learning](https://spectrum.ieee.org/violinist-to-software-engineer)
-
-**Source:** IEEE Spectrum | **Published:** 2025-06-26
-
-CareersMagazineJuly 2025ProfileThe Violinist Who Fell in Love With Machine LearningThose with nontechnical backgrounds can succeed in softwareEdd Gent26 Jun 20254 min readEdd Gent is a contributing ed...
-
-**Categories:** ai, emerging
-
----
-
 ### [AI Improves at Improving Itself Using an Evolutionary Trick](https://spectrum.ieee.org/evolutionary-ai-coding-agents)
 
 **Source:** IEEE Spectrum | **Published:** 2025-06-26
@@ -8643,16 +11635,6 @@ CareersMagazineJuly 2025ProfileThe Violinist Who Fell in Love With Machine Learn
 AINewsAI Improves at Improving Itself Using an Evolutionary TrickResearchers use evolutionary algorithms to enhance AI coding skillsMatthew Hutson26 Jun 20255 min readiStock
 
 **Categories:** ai, cybersecurity, emerging
-
----
-
-### [Superconducting Motor Could Propel Electric Aircraft](https://spectrum.ieee.org/electric-aircraft-motor-hinetics)
-
-**Source:** IEEE Spectrum | **Published:** 2025-06-26
-
-AerospaceNewsTransportationSuperconducting Motor Could Propel Electric AircraftPrototype unit from startup Hinetics uses a high-temperature superconductorGlenn Zorpette26 Jun 20255 min readGlenn Zorpe...
-
-**Categories:** ai, emerging, stock
 
 ---
 
@@ -8676,33 +11658,23 @@ Major AI chatbots parrot CCP propagandaSkip to contentAI News is part of the Tec
 
 ---
 
-### [NO FAKES Act: AI deepfakes protection or internet freedom threat?](https://www.artificialintelligence-news.com/news/no-fakes-act-ai-deepfakes-protection-internet-freedom-threat/)
+### [Average cost of a data breach in the United States from 2006 to 2024 - Statista](https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWpyQjFBbEgtdTVSenJsUWwya1NqeVdOTnlTUkxTSDRmQ2NQT1EwUi1UNVEtMGZfWEVycjlnMm5Gc3VndkRfUnB6bVFkR0U3b25fbUhPWGVLTUdhSGc1WU5yQlVRZFFoQmpaalFTZEY3MERZTzNYOWpGSDdqZjNwSE10UkZXRzBlQkdiRHlR?oc=5)
 
-**Source:** AI News | **Published:** 2025-06-25
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-06-23
 
-NO FAKES Act: AI deepfakes protection or internet freedom threat?Skip to contentAI News is part of the TechForge Publications seriesTechForgeSearchSubscribeSubscribeNewsCategoriesAGIApplicationsChatbo...
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWpyQjFBbEgtdTVSenJsUWwya1NqeVdOTnlTUkxTSDRmQ2NQT1EwUi1UNVEtMGZfWEVycjlnMm5Gc3VndkRfUnB6bVFkR0U3b25fbUhPWGVLTUdhSGc1WU5yQlVRZFFoQmpaalFTZE...
 
-**Categories:** ai, emerging
-
----
-
-### [Agentic AI Startup VoiceCare AI Completes Successful Funding Round - PR Newswire](https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1otSVNZUWZ1TDQwTTJQOW1ISGtoZUJ0d0F6ZTBMU1pqOGplcVNjRVF2d09zX2Itc2VtYi1ndF95QlFmcGg1aTA5dEd0dngwSjJIVzA0MzdrMWg4VFZCTnI0R0RUR1dWUlYwLUdoOE5Ob1I1ZE9TQjBHNk1acVQ5RjY2ZHk3MUdLTmdtdzJ1UGdZY3BDdlVaS2xDaF9heC1neGJFaEV4UVJVN0RKeEVHNnA5bkE3MmVuc2V2WUE4MA?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-06-23
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1otSVNZUWZ1TDQwTTJQOW1ISGtoZUJ0d0F6ZTBMU1pqOGplcVNjRVF2d09zX2Itc2VtYi1ndF95QlFmcGg1aTA5dEd0dngwSjJIVzA0MzdrMWg4VFZCTnI0R0RUR1dWUlYwLUdoOE...
-
-**Categories:** ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [<a href="https://www.fiercebiotech.com/sponsored/sap-answerthink-help-emerging-biopharma-firms-scale-confidence" hreflang="en">SAP, Answerthink Help Emerging Biopharma Firms Scale With Confidence</a>](https://www.fiercebiotech.com/sponsored/sap-answerthink-help-emerging-biopharma-firms-scale-confidence)
+### [The 6 biggest cybersecurity breaches of 2025 so far - Mashable](https://news.google.com/rss/articles/CBMieEFVX3lxTE1DQkVPY2lNanJ6N080M1ZTUUZKLUdPcTdEVzVOdnNoWS1lQ0hkb1o0S1ZIdUU2QksyTWtpU1QxVERILTJzb3R4dEI0UkxURFpfd1lqbU1TNUMwZGNwWkE3bi1VWm04TzlodGJXSk1oV09kNzJKU3hDcQ?oc=5)
 
-**Source:** Fierce Biotech | **Published:** 2025-06-20
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-06-19
 
-SponsoredBiotechSAP, Answerthink Help Emerging Biopharma Firms Scale With ConfidenceSponsored BySAP and AnswerthinkJul 7, 2025 8:00amBiotechIn an interview with Fierce Biotech Publisher Rebecca Willum...
+<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1DQkVPY2lNanJ6N080M1ZTUUZKLUdPcTdEVzVOdnNoWS1lQ0hkb1o0S1ZIdUU2QksyTWtpU1QxVERILTJzb3R4dEI0UkxURFpfd1lqbU1TNUMwZGNwWkE3bi1VWm04TzlodGJXSk1oV0...
 
-**Categories:** ai, biotech, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -8716,23 +11688,13 @@ SponsoredBiotechSAP, Answerthink Help Emerging Biopharma Firms Scale With Confid
 
 ---
 
-### [Here are the 24 US AI startups that have raised $100M or more in 2025 - TechCrunch](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1VPbzNqSzNNRVo1eFNySHN4X0x3MDBtTWYwU1BzQjhrVVJHcTB6X19DUnNwQV9iNjdSWE1HVENUZVFSM1JKNU1ROVZiWDVwY0t0NjNUODR6U3VWNkZma0cyVE82ZlBoT1dpQzFGMEhQSjFwNnFTUWFrYXQtdDBrczFBdTUzQlJQLXhLajd3aGlXZ3B2VVNPcHUwOUZmTlRSZDRKc0Vn?oc=5)
+### [What Is Cybersecurity? - ibm.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRmhHM2pIOEV0dFZkYWlPbS1IMVFQYmc1d3pXVjdOdzdYM2kyN1QxVU56OXZ1bzBXdjF3enF6bVN6M2czVnpFa2t2S01URWpnNEN1eXV1cHRpQQ?oc=5)
 
-**Source:** Google: AI Funding Rounds | **Published:** 2025-06-18
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-06-13
 
-<a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1VPbzNqSzNNRVo1eFNySHN4X0x3MDBtTWYwU1BzQjhrVVJHcTB6X19DUnNwQV9iNjdSWE1HVENUZVFSM1JKNU1ROVZiWDVwY0t0NjNUODR6U3VWNkZma0cyVE82ZlBoT1dpQzFGME...
+<a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRmhHM2pIOEV0dFZkYWlPbS1IMVFQYmc1d3pXVjdOdzdYM2kyN1QxVU56OXZ1bzBXdjF3enF6bVN6M2czVnpFa2t2S01URWpnNEN1eXV1cHRpQQ?oc=5" target="_blank">What ...
 
-**Categories:** ai, emerging
-
----
-
-### [The Week’s Biggest Funding Rounds: Scale AI Tops Busy Week For AI Investment - Crunchbase News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjA1c3RxQkJWWDFjZml6aDQ0TWdlMHRzb2lrS2ZNNUc4RmFlU29FNm9OWTUzT2pYQk5vU1FpTG02aHptWTJCcU55X1Y3djBXcC10MVFpdE92RTgwZ2p4aVdxUEdRTTg0cG50WEdIZHpqM293bGljVlJIb1ZfWHFBbm9hLVJ5U0NBVEhn?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-06-13
-
-<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjA1c3RxQkJWWDFjZml6aDQ0TWdlMHRzb2lrS2ZNNUc4RmFlU29FNm9OWTUzT2pYQk5vU1FpTG02aHptWTJCcU55X1Y3djBXcC10MVFpdE92RTgwZ2p4aVdxUEdRTTg0cG50WEdIZH...
-
-**Categories:** ai, emerging, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -8746,13 +11708,13 @@ Late last year, security researchers made a startling discovery: Kremlin-backed 
 
 ---
 
-### [Venture capital investment is rising in Los Angeles — and not just for AI startups - Los Angeles Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVNQYXRRc3ItMTItRUl3VWRDZjJvTnhZN0FPM0RMUkN3WC05MGpZd0t1TTJNZ0NXdVFsVmVCRzRBcFVkT2FpelIzaEdwc3dZaHRaanZ6VUxSTTB3bEl5S2x1QWNkblhvZ0VaZ3ZEVk1FelhyUVFpMzhoMXRxcDd6VlFYM1lCNmN1WVZlZm9scVFfTWdLX1lPT2FsNDg?oc=5)
+### [Patch Tuesday, June 2025 Edition](https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/)
 
-**Source:** Google: AI Funding Rounds | **Published:** 2025-06-06
+**Source:** Krebs on Security | **Published:** 2025-06-11
 
-<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVNQYXRRc3ItMTItRUl3VWRDZjJvTnhZN0FPM0RMUkN3WC05MGpZd0t1TTJNZ0NXdVFsVmVCRzRBcFVkT2FpelIzaEdwc3dZaHRaanZ6VUxSTTB3bEl5S2x1QWNkblhvZ0VaZ3ZEVk...
+Microsofttoday released security updates to fix at least 67 vulnerabilities in itsWindowsoperating systems and software. Redmond warns that one of the flaws is already under active attack, and that so...
 
-**Categories:** ai, emerging, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -8776,16 +11738,6 @@ Image: Shutterstock, ArtHead.The U.S. government today imposed economic sanction
 
 ---
 
-### [AI Share Of Startup Funding Fluctuates Sharply By Stage - Crunchbase News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTZsdUdvS3plUFVvR3pJQ0s5SExRc2VkX0FSQmI2TkVZVEItRnp1VGNsSktjRGVPYWw2VW5VaHhKVUpocjcxZGo3ZTZDa2hpMDRXS1hpMTR0dTE2cGZKb2ZCSng2QlFZQXZPWmd3UWpOclFmRTZES0xEUGwtbFhjLWthOW9HQ3NSZk1V?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-05-29
-
-<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTZsdUdvS3plUFVvR3pJQ0s5SExRc2VkX0FSQmI2TkVZVEItRnp1VGNsSktjRGVPYWw2VW5VaHhKVUpocjcxZGo3ZTZDa2hpMDRXS1hpMTR0dTE2cGZKb2ZCSng2QlFZQXZPWmd3UW...
-
-**Categories:** ai, emerging
-
----
-
 ### [Pakistan Arrests 21 in ‘Heartsender’ Malware Service](https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/)
 
 **Source:** Krebs on Security | **Published:** 2025-05-28
@@ -8793,6 +11745,16 @@ Image: Shutterstock, ArtHead.The U.S. government today imposed economic sanction
 Authorities in Pakistan have arrested 21 individuals accused of operating “Heartsender,” a once popular spam and malware dissemination service that operated for more than a decade. The main clientele ...
 
 **Categories:** cybersecurity, ai, emerging
+
+---
+
+### [Healthcare Data Breach Statistics - The HIPAA Journal](https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5)
+
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-05-26
+
+<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2...
+
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -8806,43 +11768,33 @@ The U.S. government today unsealed criminal charges against 16 individuals accus
 
 ---
 
-### [Sierra Ventures On The 5 Layers Of AI Startup Investment - Crunchbase News](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTgwRGx5VUJxcE52ZHhuSlZvQ2l0QTFEMVo4VkxSYmZ1Mk11WlJ3MkJNRlBCOVFTeHREczhoXzNrVHFWaEFDazRCQjNybWxpVmxpeGRQZUprQ21JTWFNNkJkZWpEOGxycVFxY0lfUS0xMmRnTFhYaUI4dG11RGh0a3BWX2VIc3pyRFE?oc=5)
+### [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
 
-**Source:** Google: AI Funding Rounds | **Published:** 2025-05-14
+**Source:** Krebs on Security | **Published:** 2025-05-20
 
-<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPNTgwRGx5VUJxcE52ZHhuSlZvQ2l0QTFEMVo4VkxSYmZ1Mk11WlJ3MkJNRlBCOVFTeHREczhoXzNrVHFWaEFDazRCQjNybWxpVmxpeGRQZUprQ21JTWFNNkJkZWpEOGxycVFxY0lfUS...
+KrebsOnSecurity last week was hit by a near record distributed denial-of-service (DDoS) attack that clocked in at more than 6.3 terabits of data per second (a terabit is one trillion bits of data). Th...
 
-**Categories:** ai, emerging, stock
-
----
-
-### [Google launches AI startup fund offering access to new models and tools - CNBC](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWprUDZjbUp1d01fYmJ0Q0M4clJZbjZEdjZvbTVLZFA3NlZwakNtVXp5aGZpQXVLTHhRcXFReDlQb1VSbDM0MUZhbklkczB2SFhvWGVEa3dzdjJfUG5vNl9PSzJkekItN2QzdnFRSGFDNG43ZUhsZExobW5BcEU4c2ZpeWNCY3oxUEg3QTRDRnM3S0dxbHF2di1XOHBiX2vSAaQBQVVfeXFMTUJfc3FfNGJYTW1ZcS1UTy1MRmoyTjNtd2EtMjEydVVZaWNpNGV5WG9GUHV1R1JFLW54VzVoMl9PV3hqalp0dE1SQmtNTzZJZ2xtdGFFU0NQYjduQzFtMG9hQ0lwUXEtZnBadXhoQVlwNXZoVUJEUjI0VXlKU1Z5bHVoa0xoUkQzYnR6d2tYelRFNW5LWVlYMERKdVFrTko3R1ljb1E?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-05-12
-
-<a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWprUDZjbUp1d01fYmJ0Q0M4clJZbjZEdjZvbTVLZFA3NlZwakNtVXp5aGZpQXVLTHhRcXFReDlQb1VSbDM0MUZhbklkczB2SFhvWGVEa3dzdjJfUG5vNl9PSzJkekItN2QzdnFRSG...
-
-**Categories:** ai, emerging
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [Wall Street's hopes for a 2025 IPO bonanza are being put to the test - Yahoo Finance](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWlZbXlpcmJMRjBIQ3hVbTVRTWtTWVpsU1BrRjRTRGRxVmN1M0JBVjhucTIyWllfeHU3Z19JdE9OVnFramZBazdKTnNVRVVTdFJrWFhQSTB3TWc4dnJxVDNISV93VmhleTA0NHhBU19tTTlTcFJYaGlSOXoyTDFfT3FfQUI4b28xbVJLSjZZZjNsak5SbTFZX2E0SDBiSmlYNEFNVVNIZjd6Uzc1TWlXSWlMdw?oc=5)
+### [Breachforums Boss to Pay $700k in Healthcare Breach](https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/)
 
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-03-12
+**Source:** Krebs on Security | **Published:** 2025-05-15
 
-<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWlZbXlpcmJMRjBIQ3hVbTVRTWtTWVpsU1BrRjRTRGRxVmN1M0JBVjhucTIyWllfeHU3Z19JdE9OVnFramZBazdKTnNVRVVTdFJrWFhQSTB3TWc4dnJxVDNISV93VmhleTA0NHhBU1...
+In what experts are calling a novel legal outcome, the 22-year-old former administrator of the cybercrime communityBreachforumswill forfeit nearly $700,000 to settle a civil lawsuit from a health insu...
 
-**Categories:** ai, emerging, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
-### [IPO Market Slump Drags On As Unicorns Multiply. Why There's Hope For More IPOs In 2025. - Investor's Business Daily](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHpNSFVLTTVHbVJOT2p6NjBCVGpjeHJDVHFvRmlJV0R2dXRnTWFzSmVKeDNYWFNvTEM1NjRJV25XelFkMm41TjROMVBDNEdTVUFTelRtOW13czg3Y0k4RXZVR2JtajVyak5xbDljZ1hpbXMwMkQxUXAzQXlYekQwSHl4TDNycnFFblphdGd5ZWRSdw?oc=5)
+### [Masimo faces operational disruption after cybersecurity breach, triggers law enforcement coordination - Industrial Cyber](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnlZNTlOSjloTk8zZGx1Z2JmUzVWTGxJVDUtbmtvUFM3czF3S1MwSUl6MEduTkxZcXRQUmxobUVMNUFES0tjVUR3MjRtRWhrQzlCZG1vWDFGcVlXdGVKdW5ESzA5V3pVelhUSkgwRnpNNFJsd3FjUjY2RXlSZjlpc251eFlRVlJMYmFKc3JoSS1JRWtKSFRqanNSTGRmYk9BYURSRmVfVXdZX0ZlamNrcXExeXlHWUEtdUF6RS1DbVJFMVNTVGE3US1ULUZXSDY3b0E?oc=5)
 
-**Source:** Google: Tech IPOs 2025 | **Published:** 2025-02-28
+**Source:** Google: Cybersecurity Breaches | **Published:** 2025-05-08
 
-<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHpNSFVLTTVHbVJOT2p6NjBCVGpjeHJDVHFvRmlJV0R2dXRnTWFzSmVKeDNYWFNvTEM1NjRJV25XelFkMm41TjROMVBDNEdTVUFTelRtOW13czg3Y0k4RXZVR2JtajVyak5xbDljZ1...
+<a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnlZNTlOSjloTk8zZGx1Z2JmUzVWTGxJVDUtbmtvUFM3czF3S1MwSUl6MEduTkxZcXRQUmxobUVMNUFES0tjVUR3MjRtRWhrQzlCZG1vWDFGcVlXdGVKdW5ESzA5V3pVelhUSkgwRn...
 
-**Categories:** ai, emerging, stock
+**Categories:** cybersecurity, emerging
 
 ---
 
@@ -8856,137 +11808,37 @@ The U.S. government today unsealed criminal charges against 16 individuals accus
 
 ---
 
-### [Jobless claims stay low in latest week](https://www.marketwatch.com/story/jobless-claims-stay-low-in-latest-week-27b4b50b?mod=mw_rss_marketpulse)
+### [It’s time for startups to get proactive and prioritize security](https://venturebeat.com/datadecisionmakers/its-time-for-startups-to-get-proactive-and-prioritize-security/)
 
-**Source:** MarketWatch IPO | **Published:** 2025-02-13
+**Source:** VentureBeat Startups | **Published:** 2022-05-10
 
+Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowFounding a company is hard work. Between the ...
 
-
-**Categories:** ai, stock
-
----
-
-### [Startup Funding Regained Its Footing In 2024 As AI Became The Star Of The Show - Crunchbase News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZnJDVVNVNVYzamtTSmlBWmNoT09iZnpVWVhkczJDbXVOWi1MdklyaEJTOFdIWkI2WWhNSVJkQlhCVDBrTl9CeUdVUXVteFNjbjhZNldjbVcxNUhFX1E2SEE5VU84Z2Nvc2ZVemVyLWRFREFqX0RGMEgyMnh5MUdFT29nbw?oc=5)
-
-**Source:** Google: AI Funding Rounds | **Published:** 2025-01-07
-
-<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPZnJDVVNVNVYzamtTSmlBWmNoT09iZnpVWVhkczJDbXVOWi1MdklyaEJTOFdIWkI2WWhNSVJkQlhCVDBrTl9CeUdVUXVteFNjbjhZNldjbVcxNUhFX1E2SEE5VU84Z2Nvc2ZVemVyLW...
-
-**Categories:** ai, emerging
+**Categories:** startups, cybersecurity, emerging
 
 ---
 
-### [Trainline boosts guidance for the second time this year](https://www.marketwatch.com/story/trainline-boosts-guidance-for-the-second-time-this-year-513373f6?mod=mw_rss_marketpulse)
+## Stock (299 articles)
 
-**Source:** MarketWatch IPO | **Published:** 2024-10-28
+### [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
 
+**Source:** TechCrunch | **Published:** 2025-07-07
 
+CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
 
-**Categories:** ai, emerging, stock
-
----
-
-### [Data observability company Cribl raises $150M](https://venturebeat.com/data-infrastructure/data-observability-company-cribl-raises-150m/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-24
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowCribl, a data observability platform used by ...
-
-**Categories:** startups, ai, emerging
+**Categories:** stock, ai, startups, general
 
 ---
 
-### [Headless CMS platform Payload goes open source](https://venturebeat.com/business/headless-cms-platform-payload-goes-open-source/)
+### [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)
 
-**Source:** VentureBeat Startups | **Published:** 2022-05-24
+**Source:** The Verge | **Published:** 2025-07-07
 
-Let theOSS Enterprise newsletterguide your open-source journey!Sign up here.WordPress might be the darling of the content management system (CMS) world, powering some40%of the world’s websites, but al...
+GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
 
-**Categories:** startups, ai, emerging
-
----
-
-### [The Women in AI Breakfast is a go, and nominations for the Women in AI Awards now open](https://venturebeat.com/ai/the-women-in-ai-breakfast-is-a-go-and-nominations-for-the-women-in-ai-awards-now-open/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-18
-
-Women leaders are increasingly at the center of AI innovation, and they’ll be in the spotlight at this year’s Women in AI Breakfast and Women in AI Awards as part of Transform 2022. VentureBeat is com...
-
-**Categories:** startups, ai, emerging
+**Categories:** emerging, stock, ai, general
 
 ---
-
-### [Rain nabs $11M to build voice products](https://venturebeat.com/marketing/rain-nabs-11m-to-build-voice-products/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-13
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowThe shift to working from home during the pan...
-
-**Categories:** startups, ai, emerging, stock
-
----
-
-### [Rocky Linux developer CIQ raises $26M to recreate CentOS for enterprises](https://venturebeat.com/entrepreneur/rocky-linux-developer-ciq-raises-26m-to-recreate-centos-for-enterprises/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-11
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Why companies need to get a handle on ethical and responsible AI (VB On-Demand)](https://venturebeat.com/ai/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-25
-
-Presented by Defined.aiAs AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow. Join this VB Live event for an in-de...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Embracing an ML-first mindset helps startups accelerate time-to-market and build long-term competitiveness](https://venturebeat.com/datadecisionmakers/embracing-an-ml-first-mindset-helps-startups-accelerate-time-to-market-and-build-long-term-competitiveness/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-21
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowOf the many fascinating insights I get from w...
-
-**Categories:** startups, ai, emerging, stock
-
----
-
-### [Enterprise VR training company Strivr raises $35M to help reskill the workforce](https://venturebeat.com/business/enterprise-vr-training-company-strivr-raises-35m-to-help-reskill-the-workforce/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-19
-
-Strivr, the company behind an enterprise-focused virtual reality (VR) training platform used by big names such as Walmart, Verizon and Bank of America, has raised $35 million in an extension to itspre...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Microsoft launches Azure Managed Grafana service in preview](https://venturebeat.com/enterprise-analytics/microsoft-launches-azure-managed-grafana-service-in-preview/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-19
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Why transparent, interpretable, and unbiased AI is more crucial than ever (VB Live)](https://venturebeat.com/data-infrastructure/why-transparent-interpretable-and-unbiased-ai-is-more-crucial-than-ever-vb-live/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-06
-
-Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What government policies will shape the future of AI? Join Intel’s Melvin Greer, IBM’s Noelle Silver and Daniela Braga from D...
-
-**Categories:** startups, ai, emerging
-
----
-
-## Stock (295 articles)
 
 ### [Palantir Stock Goes 'Warp Speed' — But There's A Caveat](https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/palantir-stock-accenture-warp-speed-for-warships/?src=A00220&yptr=yahoo)
 
@@ -9200,11 +12052,11 @@ Italy shipbuilder appoints new US chief(Photo: Fincantieri)Stuart ChirlsMon, Jul
 
 ### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
 
-**Source:** TechCrunch Startups | **Published:** 2025-07-07
+**Source:** TechCrunch | **Published:** 2025-07-07
 
 The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
 
-**Categories:** startups, ai, emerging, stock
+**Categories:** stock, general, ai, startups, emerging
 
 ---
 
@@ -9225,6 +12077,16 @@ Tesla shares drop after Elon Musk says he will start a political partySkip Navig
 Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleThe power of randomnessLimited time offerRead this article and register for y...
 
 **Categories:** ai, general, emerging, stock
+
+---
+
+### [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
+
+**Categories:** emerging, stock, ai, general
 
 ---
 
@@ -9265,6 +12127,16 @@ IonQ Inc. raised $1 billion in a sale of stock and warrants to an affiliate of S
 <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5GUXpWazJCelZMdE04MFlEeG1sNHFLWnhLcWJsWHYxQjRQeURNcnFod2dUUzM4TzYtVjEwVTNNRlZncXZ3U19PejRyZUtrNDhFU2ZJY2FrZlQyT2x6c0Nsci1vcjhpVnNQMUx6V204SX...
 
 **Categories:** ai, emerging, stock
+
+---
+
+### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
+
+**Categories:** stock, general, ai, startups, emerging
 
 ---
 
@@ -10358,13 +13230,13 @@ Dow Jones futures fell slightly Sunday night, along with S&P 500 futures and Nas
 
 ---
 
-### [Drive Capital’s second act –  how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
+### [Drive Capital’s second act — how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
 
 **Source:** TechCrunch | **Published:** 2025-07-05
 
 The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
 
-**Categories:** ai, stock, startups, general, emerging
+**Categories:** stock, general, ai, startups, emerging
 
 ---
 
@@ -11936,2084 +14808,6 @@ Want smarter insights in your inbox? Sign up for our weekly newsletters to get o
 Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowOf the many fascinating insights I get from w...
 
 **Categories:** startups, ai, emerging, stock
-
----
-
-## General (147 articles)
-
-### [Trump advisor Navarro rips Apple's Tim Cook, saying he's not moving production out of China fast enough](https://www.cnbc.com/2025/07/07/trump-navarro-apple-tim-cook-china.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Navarro rips Apple for not moving production out of China fast enoughSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhite House trade advisor...
-
-**Categories:** general, emerging, stock
-
----
-
-### [America’s police-industrial complex has a meme stock](https://www.ft.com/content/5b44d353-27db-477c-bd0f-222dac6e7539)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerAmerica’s police-industrial complex has a meme stockSubscribe to unlock this articleTry unlimited accessOnly$1for 4 we...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Oldest wooden tools in East Asia may have come from any of three species](https://arstechnica.com/science/2025/07/did-denisovans-or-homo-erectus-make-the-oldest-wooden-tools-in-east-asia/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navSomeone made very sophisticated wooden tools in China 300,000 years...
-
-**Categories:** general
-
----
-
-### [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
-
-**Categories:** ai, general, emerging
-
----
-
-### [CoreWeave strikes $9bn deal to buy rival Core Scientific](https://www.ft.com/content/7a304ced-f737-4ecd-959f-b72e45fa9f2f)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerAI data centre group CoreWeave strikes $9bn deal to buy rival Core ScientificSubscribe to unlock this articleTry unlim...
-
-**Categories:** general, stock
-
----
-
-### [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Robinhood stock tokens face scrutiny in the European Union after OpenAI warning](https://www.cnbc.com/2025/07/07/robinhood-stock-tokens-face-scrutiny-in-the-eu-after-openai-warning.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Robinhood stock tokens face scrutiny in the EU after OpenAI warningSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsThe Bank of Lithuania, Robi...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple scores big victory with 'F1,' but AI is still a major problem in Cupertino](https://www.cnbc.com/2025/07/04/apple-f1-artificial-intelligence.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Apple's 'F1' success doesn't make up for AI stumblesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhile "F1" was a victory lap for Apple' se...
-
-**Categories:** ai, general, stock
-
----
-
-### [F1 in Britain: Terrible English summer weather equals entertaining race](https://arstechnica.com/cars/2025/07/f1-in-britain-terrible-english-summer-weather-equals-entertaining-race/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe heat dome that oppressed much of Europe has broken. Not a drop ...
-
-**Categories:** ai, general
-
----
-
-### [Tesla shares drop 7% after Elon Musk says he is launching a political party](https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Tesla shares drop after Elon Musk says he will start a political partySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk said he would ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [The power of randomness](https://www.ft.com/content/2a4fb079-5733-40b6-ac64-8d3b6b702a81)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleThe power of randomnessLimited time offerRead this article and register for y...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [CoreWeave to acquire Core Scientific in $9 billion all-stock deal](https://www.cnbc.com/2025/07/07/coreweave-core-scientific-stock-acquisition.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-CoreWeave to acquire Core Scientific in $9 billion all-stock dealSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsArtificial intelligence hyper...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple appeals 500 million euro EU fine over App Store policies](https://www.cnbc.com/2025/07/07/apple-appeal-eu-fine-app-store.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Apple appeals 500 million euro EU fine over App Store policiesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsApple appealed the 500 million e...
-
-**Categories:** cybersecurity, general, stock
-
----
-
-### [Susquehanna Affiliate Buys $1 Billion IonQ Stake at 25% Premium](https://www.bloomberg.com/news/articles/2025-07-07/susquehanna-affiliate-buys-1-billion-ionq-stake-at-25-premium)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-IonQ Inc. raised $1 billion in a sale of stock and warrants to an affiliate of Susquehanna International Group, in a deal priced at a 25% premium to the quantum computing company’s closing price on Th...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [TikTok reportedly developing new version of app ahead of planned US sale](https://techcrunch.com/2025/07/07/tiktok-reportedly-developing-new-version-of-app-ahead-of-planned-us-sale/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-TikTok is developing a new version of its app for U.S. users ahead of an expected sale of the app to a group of investors, according to a report fromThe Information.The company reportedly plans to lau...
-
-**Categories:** startups, general
-
----
-
-### [Ingram Micro says ongoing outage caused by ransomware attack](https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate companies to let developers steer users outsid...
-
-**Categories:** startups, ai, general
-
----
-
-### [CoreWeave to Buy Core Scientific in $9 Billion Stock Deal](https://www.bloomberg.com/news/articles/2025-07-07/coreweave-to-buy-core-scientific-in-deal-valued-at-9-billion)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-CoreWeave Inc. is dropping $9 billion on the data-center operator Core Scientific Inc. in an effort to gain more direct control over the physical assets powering the artificial-intelligence boom.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Strategy Posts $14 Billion Unrealized Gain in Second Quarter](https://www.bloomberg.com/news/articles/2025-07-07/strategy-posts-14-billion-unrealized-gain-in-second-quarter)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Michael Saylor’s Strategy registered an unrealized gain of $14.05 billion in the second quarter due to a rebound in Bitcoin’s price and a recent accounting change.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general
-
----
-
-### [Amazon’s Shopping Bot Falls Short of Prime Performance](https://www.bloomberg.com/news/newsletters/2025-07-07/amazon-s-shopping-bot-falls-short-of-prime-performance)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Austin Carr looks at the performance of Amazon’s shopping bot, Rufus.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [How a big shift in training LLMs led to a capability explosion](https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
-
-**Categories:** ai, general, emerging
-
----
-
-### [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
-
-**Categories:** ai, general, emerging
-
----
-
-### [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Huawei’s AI Lab Fends Off Accusations It Copied Rival Models](https://www.bloomberg.com/news/articles/2025-07-07/huawei-s-ai-lab-fends-off-accusations-it-copied-rival-models)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Huawei Technologies Co.’s secretive AI research lab has pushed back against accusations it relied on rivals’ models to develop its own Pangu platform, taking the unusual step of rebutting claims about...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsApple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’An Extinction Rebellion protester was arrested after spray-painting ‘Tim + Trump = Toxic’ on Apple’s New York City storefront.An E...
-
-**Categories:** ai, general, emerging
-
----
-
-### [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-Podcasts/DecoderHow SharkNinja took over the home, with CEO Mark BarrocasThe head of the home appliance giant on grilling, product design, and the future of viral marketing.byNilay PatelJul 7, 2025, 2...
-
-**Categories:** general, emerging
-
----
-
-### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsNow you can just tell SmartThings how to automate your homeNew updates to Samsung’s smart home platform let you set up routines with natural language, plus there’s now an Apple Watch widget.﻿New u...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Apple Appeals ‘Unprecedented’ €500 Million EU App Store Fine](https://www.bloomberg.com/news/articles/2025-07-07/apple-appeals-unprecedented-500-million-eu-app-store-fine)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Apple Inc. appealed a €500 million ($580 million) fine from the European Union, calling the penalty “unprecedented” and the regulator’s required changes to its App Store as “unlawful.”
-
-**Categories:** general, stock
-
----
-
-### [Nvidia challenger Groq expands with first European data center](https://www.cnbc.com/2025/07/07/ai-chip-startup-groq-expands-with-first-european-data-center.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Nvidia challenger Groq expands with first European data centerSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsGroq said it has established its...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Destiny&#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsDestiny’s mobile spinoff will arrive in August﻿Destiny: Risingis a free-to-play RPG shooter for iOS and Android set in an ‘alternate timeline’ to the main franchise.﻿Destiny: Risingis a free-to-pl...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Windows 11 has finally overtaken Windows 10 as the most used desktop OS](https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsWindows 11 has finally overtaken Windows 10 as the most used desktop OSWindows 11 is now more widely used than Windows 10, nearly four years after its release.Windows 11 is now more widely used th...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsSpecs leak for three Samsung foldables ahead of Wednesday’s UnpackedSamsung’s launch is two days away, but there’s not much left we don’t know.Samsung’s launch is two days away, but there’s not mu...
-
-**Categories:** ai, general
-
----
-
-### [Capgemini to Buy WNS for $3.3 Billion to Expand AI Offer](https://www.bloomberg.com/news/articles/2025-07-07/capgemini-to-buy-it-firm-wns-for-3-3-billion-to-boost-ai)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-The French consulting company Capgemini SE has agreed to buy IT outsourcing firm WNS Holdings Ltd. for $3.3 billion in cash in a push to expand its presence in artificial intelligence, a technology in...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple Supplier Lens Tech Said to Price $607 Million Hong Kong Listing at Top of Range](https://www.bloomberg.com/news/articles/2025-07-07/apple-supplier-lens-tech-said-to-price-607-million-hk-listing-at-top-of-range)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Apple Inc. supplier Lens Technology Co. has raised HK$4.8 billion ($607 million) after pricing its Hong Kong listing at the top of the marketed range, according to terms of the deal seen by Bloomberg ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [‘No honour among thieves’: M&S hacking group starts turf war](https://www.ft.com/content/22cb54ef-1611-4aef-b671-16316280e3fb)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footer‘No honour among thieves’: M&S hacking group starts turf warSubscribe to unlock this articleJoin FT EditOnly$4.99per m...
-
-**Categories:** cybersecurity, general, emerging, stock
-
----
-
-### [US stocks: rally or overcorrection?](https://www.ft.com/content/23dcb650-df6a-47af-a722-bf6c4e434b38)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-US stocks: rally or overcorrection?onx(opens in a new window)US stocks: rally or overcorrection?onfacebook(opens in a new window)US stocks: rally or overcorrection?onlinkedin(opens in a new window)US ...
-
-**Categories:** general, stock
-
----
-
-### [On-the-job learning upended by AI and hybrid work](https://www.ft.com/content/071089b8-839a-4f96-af79-394c08a146d1)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOn-the-job learning upended by AI and hybrid workSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeks...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Why it is vital that you understand the infrastructure behind AI](https://www.ft.com/content/8452bf94-9a41-4040-913f-ef1a462d6ea6)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhy it is vital that you understand the infrastructure behind AISubscribe to unlock this articleTry unlimited accessOn...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [How Xiaomi Succeeded Where Apple Failed](https://www.bloomberg.com/news/articles/2025-07-06/xiaomi-founder-s-bold-ev-bet-is-paying-off-where-apple-s-failed)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-06
-
-Lei Jun, founder and chairman of Xiaomi Corp., the only tech company to have successfully diversified into carmaking, couldn’t resist.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
-
-**Categories:** startups, general, emerging
-
----
-
-### [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-NewsTikTok’s ‘ban’ problem could end soon with a new app and a saleThe Information reports a new TikTok app could replace the old one in September.The Information reports a new TikTok app could replac...
-
-**Categories:** general, emerging
-
----
-
-### [Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general, emerging
-
----
-
-### [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-TechHere are 33 of our favorite deals from Amazon’s early Prime Day saleAmazon Prime Day kicks off on July 8th, but you don’t need to wait until then to save.Amazon Prime Day kicks off on July 8th, bu...
-
-**Categories:** ai, general, emerging
-
----
-
-### [12 Best Kids Headphones (2025), Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** ai, general, emerging
-
----
-
-### [How to watch Summer Games Done Quick 2025](https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-GamingHow to watch Summer Games Done Quick 2025The summer speedrunning charity showcase is back, raising money for Doctors Without Borders.The summer speedrunning charity showcase is back, raising mon...
-
-**Categories:** general, emerging
-
----
-
-### [Figuring out why a nap might help people see things in new ways](https://arstechnica.com/science/2025/07/figuring-out-why-a-nap-might-help-people-see-things-in-new-ways/)
-
-**Source:** Ars Technica | **Published:** 2025-07-06
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navDmitri Mendeleev famously saw the complete arrangement of the perio...
-
-**Categories:** general
-
----
-
-### [It’s a bad time to be a graduate](https://www.ft.com/content/002a0943-f977-44bd-bc78-957c877dfed1)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-06
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerIt’s a bad time to be a graduateSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month....
-
-**Categories:** ai, general, stock
-
----
-
-### [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general
-
----
-
-### [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-EntertainmentThe Verge’s summer ‘in’ and ‘out’ listIn our second annual trend forecast, The Verge staff weighs in on Labubus, tariffs, The Hague, and AI slop.byMia SatoJul 6, 2025, 1:00 PM UTCLinkFace...
-
-**Categories:** general, emerging
-
----
-
-### [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-Tech/ReviewsLenovo Chromebook Plus 14 review: the new king of Chromebooks﻿An OLED display, a fast processor, 16GB of RAM, and all-day battery life for $749? That’s a lot to like.If you buy something f...
-
-**Categories:** emerging, ai, general
-
----
-
-### [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Meteorologists Say the National Weather Service Did Its Job in Texas](https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveAt least 27people, including nine children, are dead in central Texas after flash floods struck suddenly on the morning of the Fourth of July holiday. After a sto...
-
-**Categories:** general
-
----
-
-### [Drive Capital’s second act –  how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
-
-**Categories:** ai, stock, startups, general, emerging
-
----
-
-### [Ask not for whom the Louvre of Bluesky tolls, it tolls for thee](https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-A group known as the Independent Publishers Alliance has filed an antitrust complaint with the European Commission over Google’s AI Overviews,according to Reuters.The complaint accuses Google of “misu...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Secret Service in US Expands a Global Push Against Crypto Scams](https://www.bloomberg.com/news/articles/2025-07-05/us-secret-service-builds-international-network-to-fight-crypto-crime)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-05
-
-The scam began with a message, then a friendly exchange. A stranger directed the victim to a cryptocurrency investment site that appeared professional &mdash; slick design, charts, even customer suppo...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-NewsCyberpunk: Edgerunners 2 will be even sadder and bloodierNetflix’s Cyberpunk 2077 anime spinoff is coming back for a second 10-episode season with ‘an entirely new story.’Netflix’s Cyberpunk 2077 ...
-
-**Categories:** emerging, cybersecurity, general
-
----
-
-### [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Inside a Utah desert facility preparing humans for life on Mars](https://www.cnbc.com/2025/07/05/utah-mars-desert-research.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-05
-
-Inside a Utah desert facility preparing humans for life on MarsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuHidden among the majestic canyons of the ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Best Laptop Stands (2025): 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general
-
----
-
-### [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveTriangleUpBuy NowMultiple Buying Options Available$269at Amazon$269at BoseAll products featured on WIRED are independently selected by our editors. However, when ...
-
-**Categories:** general, emerging
-
----
-
-### [Everything You Can Do in the Photoshop Mobile App](https://www.wired.com/story/everything-you-can-do-in-the-photoshop-mobile-app/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveYou know yoursoftware is a success when its name becomes a verb: You'll now commonly hear about images being photoshopped, even if the editing wasn't done with th...
-
-**Categories:** general
-
----
-
-### [The curious rise of giant tablets on wheels](https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/)
-
-**Source:** Ars Technica | **Published:** 2025-07-05
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the past few years, LG has set off a strange tech trend that’s...
-
-**Categories:** general
-
----
-
-### [Samsung is about to find out if Ultra is enough](https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-Tech/SamsungSamsung is about to find out if Ultra is enoughIt looks like Samsung has some new ideas about foldables this year — but will they be enough to entice buyers?It looks like Samsung has some ...
-
-**Categories:** emerging, general
-
----
-
-### [The 50 Best Movies on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveNetflix has plentyof movies to watch. Maybetoomany. Sometimes finding the right film at the right time can seem like an impossible task. Let us help you. Below is...
-
-**Categories:** general, emerging
-
----
-
-### [Is It Time to Stop Protecting the Grizzly Bear?](https://www.wired.com/story/is-it-time-to-stop-protecting-the-grizzly-bear-endangered-species-act-list/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveThis story originallyappeared onVoxand is part of theClimate Deskcollaboration.In the early 1900s, long before smartphones and selfie sticks, tourists flocked to ...
-
-**Categories:** general, emerging
-
----
-
-### [The 49 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveStreaming services areknown for having award-worthy series but also plenty of duds. Our guide to the best TV shows on Netflix is updated weekly to help you know w...
-
-**Categories:** general, emerging
-
----
-
-### [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveIn recent years,North Korea has deployedthousands of so-called IT workers to infiltrate Western businesses, get paid salaries, and send money back to support the ...
-
-**Categories:** ai, cybersecurity, general, emerging
-
----
-
-### [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-Gaming/Games ReviewDeltarune is halfway done, but it feels like a full gameThe parallel story to Undertale is just as good.The parallel story to Undertale is just as good.byJay PetersJul 5, 2025, 1:00...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Ethereum is powering Wall Street's future. The crypto scene at Cannes shows how far it's come](https://www.cnbc.com/2025/07/04/the-ethcc-crypto-scene-at-cannes-shows-how-far-ethereum-has-come.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-05
-
-The EthCC crypto scene at Cannes shows how far Ethereum has comeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsCrypto founders, developers, a...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Nvidia Partner Hon Hai Meets Sales Estimates on Strong AI Demand](https://www.bloomberg.com/news/articles/2025-07-05/nvidia-partner-hon-hai-meets-sales-estimates-on-strong-ai-demand)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-05
-
-Hon Hai Precision Industry Co. reported 15.8% growth in quarterly sales on robust demand for AI servers and iPhones.
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-Transportation/Cars/Mercedes-BenzMercedes-Benz electric G-Wagen review: king of the off-roadThe G580 with EQ Technology may have a fancy name, but it stays true to its original formula.byPeter NelsonJ...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Apple races to box office glory with Brad Pitt’s F1 blockbuster](https://www.ft.com/content/fe5a2104-e56f-48a7-9aab-a61f413f780a)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-05
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleApple races to box office glory with Brad Pitt’s F1 blockbusterLimited time o...
-
-**Categories:** general, stock
-
----
-
-### [ChatGPT — the last of the great romantics](https://www.ft.com/content/22c42b1a-c5eb-4d92-843e-c5a4fb17be6b)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-05
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerChatGPT — the last of the great romanticsSubscribe to unlock this articleJoin FT EditOnly$4.99per monthAccess to eight...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
-
-**Source:** The Verge | **Published:** 2025-07-04
-
-TechHere are the best Apple Watch deals available right now﻿Every model in Apple’s current lineup, from the entry-level SE to the jet black Ultra 2, is receiving a sizable discount right now.﻿Every mo...
-
-**Categories:** emerging, ai, general
-
----
-
-### [IPO market gets boost from Circle's 500% surge, sparking optimism that drought may be ending](https://www.cnbc.com/2025/07/03/ipo-market-boost-from-circle-500percent-surge-vcs-say-drought-may-be-ending.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-IPO market boost from Circle 500% surge, VCs say drought may be endingSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTech IPOs had a big mont...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-Microsoft is closing its operations in Pakistan, marking the end of a 25-year presence in the South Asian nation.The Redmond-based company on Friday told TechCrunch that it is changing its operational...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Trump inaugural impersonators scammed donors out of crypto, feds say](https://www.cnbc.com/2025/07/04/trump-cryptocurrency-ethereum-tokens.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-Trump inaugural impersonators scammed donors out of crypto, feds saySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsScammers impersonating the...
-
-**Categories:** ai, general, stock
-
----
-
-### [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-Welcome back toTechCrunch Mobility— your central hub for news and insights on the future of transportation. Sign up here for free — just clickTechCrunch Mobility!This week I’m publishing an abbreviate...
-
-**Categories:** startups, general
-
----
-
-### [OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats](https://www.cnbc.com/2025/07/04/openai-altman-july-4-zohran-mamdani.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-OpenAI CEO Sam Altman celebrates capitalism in July 4 postSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI CEO Sam Altman said he finds ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Musk backs Sen. Paul's criticism of Trump's megabill in first comment since it passed](https://www.cnbc.com/2025/07/04/musk-trump-megabill.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-Musk backs criticism of Trump's megabill after it passed HouseSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTesla CEO Elon Musk made his fir...
-
-**Categories:** general, stock
-
----
-
-### [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveCruise robotaxis areback on the road … well, kind of. Though General Motorspulled the plugon its self-driving taxi business last year, the automaker has been quie...
-
-**Categories:** ai, general, emerging
-
----
-
-### [How to Choose the Right Soundbar (2025): Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general, emerging
-
----
-
-### [15 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, general
-
----
-
-### [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-The European Union on Friday said it will stick to its timeline for implementing its landmark AI legislation, in response to a concerted effort by more than a hundred tech companies to delay the bloc’...
-
-**Categories:** startups, ai, general
-
----
-
-### [15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, ai, general
-
----
-
-### [The 13 Best Fans for the Coolest Summer (2025)](https://www.wired.com/gallery/best-fans/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, general
-
----
-
-### [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveWhether due toconsumer backlash or an aging EV lineup, or both, Tesla saleshave again seen a global plunge, this time 13 percent last quarter compared to the prev...
-
-**Categories:** emerging, general
-
----
-
-### [Best Fourth of July Mattress Deals From Helix, Birch, and More (2025)](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveChristmas in July,mattress edition. The Fourth of July is not only for barbecues and pool hangouts, but some of the best mattress deals you’ll see all year. That'...
-
-**Categories:** emerging, general
-
----
-
-### [Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now](https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/)
-
-**Source:** Ars Technica | **Published:** 2025-07-04
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navWelcome to Edition 8.01 of the Rocket Report! Today's edition will ...
-
-**Categories:** general, emerging
-
----
-
-### [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveThere are around11,000 satellites orbiting Earth, and it is estimated that at least 50,000 more will be launched in the next decade. There are also exploration in...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Valve conquered PC gaming. What comes next?](https://www.ft.com/content/f4a13716-838a-43da-853b-7c31ac17192c)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-04
-
-Valve conquered PC gaming. What comes next?onx(opens in a new window)Valve conquered PC gaming. What comes next?onfacebook(opens in a new window)Valve conquered PC gaming. What comes next?onlinkedin(o...
-
-**Categories:** general, stock
-
----
-
-### [Hitachi Energy says AI power spikes threaten to destabilise global supply](https://www.ft.com/content/2789d048-7791-4f9a-8dbe-229c45f8083b)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-04
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHitachi Energy says AI power spikes threaten to destabilise global supplySubscribe to unlock this articleTry unlimited...
-
-**Categories:** ai, general, stock
-
----
-
-### [Uniqlo Owner, Seven &amp; i To Set Tone for Japan’s Consumer Sector](https://www.bloomberg.com/news/articles/2025-07-04/uniqlo-owner-seven-i-to-set-tone-for-japan-s-consumer-sector)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-04
-
-Uniqlo owner Fast Retailing Co. and Seven &amp; i Holdings Co. will show how Japan’s consumer sector is faring as Asia’s earnings season kicks off.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Microsoft layoffs hit 830 workers in home state of Washington](https://www.cnbc.com/2025/07/03/microsoft-layoffs-hit-830-workers-in-home-state-of-washington-.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-Microsoft layoffs hit 830 workers in home state of WashingtonSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsMicrosoft's latest job cuts affec...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-Slate Auto, theelectric vehicle startup backed by Jeff Bezos, has stopped promoting that its upcoming pickup truck will start “under $20,000” following passage of President Trump’s tax cut bill. The b...
-
-**Categories:** startups, general
-
----
-
-### [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-You got into Y Combinator, raised $20 million from a16z, and then exited to Meta? That’s cool, I guess. But did Soham Parekh apply to work at your startup?There is now a new badge of honor for startup...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)
-
-**Source:** Wired | **Published:** 2025-07-03
-
-Save this storySaveSave this storySaveUS attorney generalPam Bondi has told at least 10 tech companies, including Apple, Microsoft, Amazon, and Google, that they have “incurred no liability” for suppo...
-
-**Categories:** general
-
----
-
-### [Tripadvisor stock surges 17% as Starboard Value builds sizable stake in online travel company](https://www.cnbc.com/2025/07/03/tripadvisor-activist-starboard-value.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-Tripadvisor stock surges as Starboard Value builds 9% stakeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTripadvisor's stock jumped after St...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Provider of covert surveillance app spills passwords for 62,000 users](https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe maker of a phone app that is advertised as providing a stealthy...
-
-**Categories:** general, emerging
-
----
-
-### [Final GOP bill kneecaps renewables and hydrogen but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-Republican legislators Thursday passed a reconciliation act that, among other things, unwinds much of the Inflation Reduction Act (IRA). The bill, which passed 218-214 with two Republicans voting no, ...
-
-**Categories:** emerging, startups, general
-
----
-
-### [Judge: You can’t ban DEI grants without bothering to define DEI](https://arstechnica.com/science/2025/07/doge-told-the-nih-which-grants-to-cancel-with-no-scientific-review/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn mid-June, a federal judgeissued a stinging rebuketo the Trump ad...
-
-**Categories:** ai, general
-
----
-
-### [Meta’s “AI superintelligence” effort sounds just like its failed “metaverse”](https://arstechnica.com/ai/2025/07/metas-ai-superintelligence-effort-sounds-just-like-its-failed-metaverse/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
-
-**Categories:** ai, general, emerging
-
----
-
-### [The Last of Us co-creator Neil Druckmann exits HBO show](https://arstechnica.com/culture/2025/07/the-last-of-us-co-creator-neil-druckmann-exits-hbo-show/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTwo key writers of HBO's seriesThe Last of Usare moving on, accordi...
-
-**Categories:** general, emerging
-
----
-
-### [U.S. lifts chip software curbs on China in sign of trade truce](https://www.cnbc.com/2025/07/03/us-lifts-chip-software-curbs-on-china-amid-trade-truce-synopsys-says-.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-U.S. lifts chip software curbs on China in sign of trade truceSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsSiemens AG, Synopsys, and Cadenc...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Signs of a pick-up in venture capital exits are finally emerging](https://www.ft.com/content/2e0201f6-8258-4c59-a7a7-689b2c094701)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerSigns of a pick-up in venture capital exits are finally emergingSubscribe to unlock this articleTry unlimited accessOn...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips](https://www.cnbc.com/2025/07/03/coreweave-dell-blackwell-ultra-nvidia.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-CoreWeave says it's the first to get Nvidia's Blackwell UltraSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsNvidia's Blackwell Ultra chips, t...
-
-**Categories:** ai, general, stock
-
----
-
-### [2025 VW ID Buzz review: If you want an electric minivan, this is it](https://arstechnica.com/cars/2025/07/2025-vw-id-buzz-acres-of-space-but-being-electric-comes-at-a-premium/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you had asked me a few years ago, I would have told you that the...
-
-**Categories:** general
-
----
-
-### [Bad data leads to bad policy](https://www.ft.com/content/689a72db-e622-4868-b52c-9a5cdc4ad1f5)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerBad data leads to bad policySubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month.
-Com...
-
-**Categories:** ai, general, stock
-
----
-
-### [Man’s ghastly festering ulcer stumps doctors—until they cut out a wedge of flesh](https://arstechnica.com/health/2025/07/man-fails-to-take-his-medicine-the-flesh-starts-rotting-off-his-leg/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
-
-**Categories:** ai, general, emerging
-
----
-
-### [xAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAftermonths of backlashover alleged pollution concerns, xAI has fin...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Dinosaurs to doctors’ records: the UK weighs up its data assets](https://www.ft.com/content/7585ed49-3e2c-4863-b0dc-a8a2942e9b9c)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerDinosaurs to doctors’ records: the UK weighs up its data assetsSubscribe to unlock this articleTry unlimited accessOnl...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Glovo pauses ‘heat bonuses’ for Italian food delivery workers after backlash](https://www.ft.com/content/d87ae9b1-e18b-4369-92d5-51d16c6e694b)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerGlovo pauses ‘heat bonuses’ for Italian food delivery workers after backlashSubscribe to unlock this articleTry unlimi...
-
-**Categories:** general, stock
-
----
-
-### [Apple's China iPhone sales grows for the first time in two years](https://www.cnbc.com/2025/07/03/apple-china-iphone-sales-grew-for-the-first-time-in-two-years.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-Apple China iPhone sales grew for the first time in two yearsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsSales of iPhones in China jumped ...
-
-**Categories:** general, emerging, stock
-
----
-
-### [I’m human. Are you? The battle for our online identity](https://www.ft.com/content/1a93ca54-d1b9-4b06-b504-7c4937173068)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerI’m human. Are you? The battle for our online identitySubscribe to unlock this articleTry unlimited accessOnly$1for 4 ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Like Google, China's biggest search player Baidu is beefing up its product with AI to fight rivals](https://www.cnbc.com/2025/07/03/chinas-baidu-is-beefing-up-its-search-product-with-ai-to-fight-rivals.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-China's Baidu is beefing up its search product with AI to fight rivalsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsBaidu has given its sear...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Amazon to shut down Freevee streaming TV service in August](https://www.cnbc.com/2025/07/02/amazon-freevee-streaming.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-Amazon to shut down Freevee streaming TV service in AugustSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAmazon is sunsetting its standalone ...
-
-**Categories:** general, stock
-
----
-
-### [Cutting-edge pressure and BYD leads Tesla](https://www.ft.com/content/51c19253-3afc-4c57-906f-cb7964130b00)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerCutting-edge pressure and BYD leads TeslaSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75p...
-
-**Categories:** general, stock
-
----
-
-### [AI voice startup ElevenLabs pushes global expansion as it gears up for an IPO](https://www.cnbc.com/2025/07/03/ai-voice-startup-elevenlabs-plots-global-expansion-eventual-ipo.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-AI voice startup ElevenLabs plots global expansion, eventual IPOSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAI voice generation platform E...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Are bigger AI models better stock pickers? Maybe, but probably not](https://www.ft.com/content/89d88cbf-a92c-43d2-b8af-88ae26529be0)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT AlphavilleRegister to unlock this articleAre bigger AI models better stock pickers? Maybe, but probably notFT Alpha...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Chip software makers say US restrictions on sales to China lifted](https://www.ft.com/content/36b12cb9-68d4-4e31-84e8-6d96d676b45d)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerChip software makers say US restrictions on sales to China liftedSubscribe to unlock this articleTry unlimited accessO...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Meta’s AI climate tool raised false hope of CO₂ removal, scientists say](https://www.ft.com/content/69220fea-9c9a-4f55-9118-65d2660c85d4)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerMeta’s AI climate tool raised false hope of CO₂ removal, scientists saySubscribe to unlock this articleJoin FT EditOnl...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [European CEOs urge Brussels to halt landmark AI Act](https://www.ft.com/content/a825759e-aec8-4184-bc73-f604f169204c)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerEuropean CEOs urge Brussels to halt landmark AI ActSubscribe to unlock this articleTry unlimited accessOnly$1for 4 wee...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [How hopeful can we be about AI climate tech?](https://www.ft.com/content/bd835b8f-e39a-4e5f-84d0-2fb019b47b80)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHow hopeful can we be about AI climate tech?Subscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$...
-
-**Categories:** ai, general, stock
-
----
-
-### [Whose job is safe from AI?](https://www.ft.com/content/b67bcbaa-67b9-48f8-ad4d-4cd6f9bdc1b7)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhose job is safe from AI?Subscribe to unlock this articleJoin FT EditOnly$49a yearGet 2 months free with an annual su...
-
-**Categories:** ai, general, stock
-
----
-
-### [OpenAI signs $30bn data centre deal with Oracle](https://www.ft.com/content/b4324903-ff53-48c2-bf71-4151cd4f68d0)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-02
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOpenAI signs $30bn data centre deal with OracleSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksTh...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Datadog stock jumps 10% on tech company’s inclusion in S&P 500 index](https://www.cnbc.com/2025/07/02/datadog-stock-jumps-sp-500-index-inclusion.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Datadog stock jumps on inclusion in S&P 500 indexSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsDatadog shares were up 10% in extended tradin...
-
-**Categories:** emerging, general, stock
-
----
-
-### [OpenAI says Robinhood's tokens aren't equity in the company](https://www.cnbc.com/2025/07/02/openai-robinhood-tokens.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-OpenAI says Robinhood's tokens aren't equity in the companySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI said it did not partner with...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [TikTok is being flooded with racist AI videos generated by Google’s Veo 3](https://arstechnica.com/ai/2025/07/racist-ai-videos-created-with-google-veo-3-are-proliferating-on-tiktok/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe release of Google's Veo 3 video generator in May represented ad...
-
-**Categories:** ai, general
-
----
-
-### [Everything that could go wrong with X’s new AI-written community notes](https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navElon Musk's X arguably revolutionized social media fact-checking by...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Qantas hit by cyber attack after FBI alert on Scattered Spider group](https://www.ft.com/content/255cdc1d-f31e-4199-ad95-4666a0a660a2)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-02
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerQantas hit by cyber attack after FBI alert on Scattered Spider groupSubscribe to unlock this articleTry unlimited acce...
-
-**Categories:** general, stock, ai, emerging, cybersecurity
-
----
-
-### [New evidence that some supernovae may be a “double detonation”](https://arstechnica.com/science/2025/07/new-evidence-that-some-supernovae-may-be-a-double-detonation/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navType Ia supernovae are critical tools in astronomy, since they all ...
-
-**Categories:** general, emerging
-
----
-
-### [Robinhood stock hits $100 as it roars 30% since S&P 500 snub](https://www.cnbc.com/2025/07/02/robinhood-stock-record.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Robinhood stock hits $100 as it roars 30% since S&P 500 snubSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsRobinhood stock hit the $100 mark ...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Rice could be key to brewing better non-alcoholic beer](https://arstechnica.com/science/2025/07/rice-could-be-key-to-brewing-better-non-alcoholic-beer/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThere is increasing consumer demand for low- or non-alcoholic beers...
-
-**Categories:** general
-
----
-
-### [AT&T rolls out Wireless Account Lock protection to curb the SIM-swap scourge](https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAT&T is rolling out a protection that prevents unauthorized changes...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Elon Musk's X goes down for some users](https://www.cnbc.com/2025/07/02/elon-musk-x-outage.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Elon Musk's X goes down for some usersSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk's social media platform X was hit with an outa...
-
-**Categories:** general, stock
-
----
-
-### [Ukraine summons top US diplomat after Washington halts some arms supplies](https://www.ft.com/content/b69e327d-95a3-487d-a9b6-6a72ef48ba61)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-02
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerUkraine summons top US diplomat after Washington halts some arms suppliesSubscribe to unlock this articleTry unlimited...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Ether and related stocks gain amid the latest crypto craze: Tokenization](https://www.cnbc.com/2025/07/02/ether-and-related-stocks-gain-amid-the-latest-crypto-craze-tokenization.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Ether and related stocks gain amid the latest crypto craze: TokenizationSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsShares of BitMine Imme...
-
-**Categories:** ai, general, stock
-
----
-
-### [From Le Mans to Driven—where does F1: The Movie rank?](https://arstechnica.com/cars/2025/07/f1-the-movie-takes-motorsport-into-the-imax-age/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIt may not have escaped your attention that there's a new film abou...
-
-**Categories:** general
-
----
-
-### [NYT to start searching deleted ChatGPT logs after beating OpenAI in court](https://arstechnica.com/tech-policy/2025/07/nyt-to-start-searching-deleted-chatgpt-logs-after-beating-openai-in-court/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navLast week, OpenAI raised objections in court, hoping to overturn a ...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Paramount accused of bribery as it settles Trump lawsuit for $16 million](https://arstechnica.com/tech-policy/2025/07/paramount-accused-of-bribery-as-it-settles-trump-lawsuit-for-16-million/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navCBS owner Paramount has reached a $16 million settlement with Presi...
-
-**Categories:** emerging, general
-
----
-
-### [Medical groups warn Senate budget bill will create dystopian health care system](https://arstechnica.com/health/2025/07/doctors-blast-senate-bill-point-out-that-11-8m-losing-health-insurance-is-bad/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navMedical organizations are blasting the Senate's budget bill in the ...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Tesla Q2 2025 sales dropped more than 13% year over year](https://arstechnica.com/cars/2025/07/tesla-q2-2025-sales-dropped-more-than-13-year-over-year/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTesla sold 384,122 electric vehicles during the months of April, Ma...
-
-**Categories:** emerging, general
-
----
-
-## Startups (58 articles)
-
-### [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-07
-
-The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
-
-**Categories:** startups, ai, emerging, stock
-
----
-
-### [TikTok reportedly developing new version of app ahead of planned US sale](https://techcrunch.com/2025/07/07/tiktok-reportedly-developing-new-version-of-app-ahead-of-planned-us-sale/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-TikTok is developing a new version of its app for U.S. users ahead of an expected sale of the app to a group of investors, according to a report fromThe Information.The company reportedly plans to lau...
-
-**Categories:** startups, general
-
----
-
-### [Ingram Micro says ongoing outage caused by ransomware attack](https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate companies to let developers steer users outsid...
-
-**Categories:** startups, ai, general
-
----
-
-### [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
-
-**Categories:** startups, general, emerging
-
----
-
-### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-06
-
-With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
-
-**Categories:** ai, startups, emerging
-
----
-
-### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-06
-
-With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-06
-
-Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Drive Capital’s second act –  how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
-
-**Categories:** ai, stock, startups, general, emerging
-
----
-
-### [Ask not for whom the Louvre of Bluesky tolls, it tolls for thee](https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-A group known as the Independent Publishers Alliance has filed an antitrust complaint with the European Commission over Google’s AI Overviews,according to Reuters.The complaint accuses Google of “misu...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Ready-made stem cell therapies for pets could be coming](https://techcrunch.com/2025/07/04/ready-made-stem-cell-therapies-for-pets-could-be-coming/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-04
-
-Earlier this week, San Diego startup Gallant announced$18 millionin funding to bring the first FDA-approved ready-to-use stem cell therapy to veterinary medicine. If it passes regulatory muster, it co...
-
-**Categories:** startups, emerging
-
----
-
-### [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-Microsoft is closing its operations in Pakistan, marking the end of a 25-year presence in the South Asian nation.The Redmond-based company on Friday told TechCrunch that it is changing its operational...
-
-**Categories:** startups, general, emerging
-
----
-
-### [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-Welcome back toTechCrunch Mobility— your central hub for news and insights on the future of transportation. Sign up here for free — just clickTechCrunch Mobility!This week I’m publishing an abbreviate...
-
-**Categories:** startups, general
-
----
-
-### [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-The European Union on Friday said it will stick to its timeline for implementing its landmark AI legislation, in response to a concerted effort by more than a hundred tech companies to delay the bloc’...
-
-**Categories:** startups, ai, general
-
----
-
-### [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-Slate Auto, theelectric vehicle startup backed by Jeff Bezos, has stopped promoting that its upcoming pickup truck will start “under $20,000” following passage of President Trump’s tax cut bill. The b...
-
-**Categories:** startups, general
-
----
-
-### [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-You got into Y Combinator, raised $20 million from a16z, and then exited to Meta? That’s cool, I guess. But did Soham Parekh apply to work at your startup?There is now a new badge of honor for startup...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Cluely’s ARR doubled in a week to $7M, founder Roy Lee says. But rivals are coming.](https://techcrunch.com/2025/07/03/cluelys-arr-doubled-in-a-week-to-7m-founder-roy-lee-says-but-rivals-are-coming/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Cluely’s revenue has skyrocketed to about $7 million in ARR sinceit launched its new enterprise producta week ago, founder Roy Lee told TechCrunch. “Every single person who has a meeting or an intervi...
-
-**Categories:** startups, emerging
-
----
-
-### [Who is Soham Parekh, the serial moonlighter Silicon Valley startups can’t stop hiring?](https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-In the last week, social media users have shared dozens of stories about encounters with Soham Parekh, a software engineer who seems to have been simultaneously working at multiple Silicon Valley star...
-
-**Categories:** startups, emerging
-
----
-
-### [TechCrunch All Stage brings back early launch prices for a limited time](https://techcrunch.com/2025/07/03/rollback-rates-techcrunch-all-stage-brings-back-early-launch-prices-for-a-limited-time/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-We’re almost there, and ticket rates have officially rolled back with savings of up to $425.TechCrunch All Stage, the founder summit of the year, is just around the corner. On July 15, Boston becomes ...
-
-**Categories:** startups, emerging
-
----
-
-### [Wonder Dynamics co-founder Nikola Todorovic joins the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/wonder-dynamics-co-founder-nikola-todorovic-joins-the-ai-stage-at-techcrunch-disrupt-2025/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-TechCrunch Disrupt 2025is back at Moscone West in San Francisco from October 27-29, bringing together 10,000+ startup and VC leaders to dig into what’s next in tech. And when it comes to artificial in...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Stripe’s first employee, the founder of fintech Increase, sort of bought a bank](https://techcrunch.com/2025/07/03/stripes-first-employee-the-founder-of-fintech-increase-sort-of-bought-a-bank/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-It’s an open secret in the fintech world that the founder and CEO of startupIncrease, Darragh Buckley, has been trying for years to “buy a bank,” as one person familiar with the landscape told TechCru...
-
-**Categories:** startups, emerging
-
----
-
-### [Final GOP bill kneecaps renewables and hydrogen but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-Republican legislators Thursday passed a reconciliation act that, among other things, unwinds much of the Inflation Reduction Act (IRA). The bill, which passed 218-214 with two Republicans voting no, ...
-
-**Categories:** emerging, startups, general
-
----
-
-### [Why Cloudflare wants AI companies to pay for content](https://techcrunch.com/podcast/why-cloudflare-wants-ai-companies-to-pay-for-content/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Listen onApple PodcastsListen onSpotifyCloudflare wants AI companies to pay up. The cloud infrastructure provider, which powers around 20% of the web, is launching a new experiment that would let publ...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Kristen Craft brings fresh fundraising strategy to the Foundation Stage at TechCrunch All Stage](https://techcrunch.com/2025/07/03/kristen-craft-brings-fresh-fundraising-strategy-to-the-foundation-stage-at-techcrunch-all-stage/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Raising in 2025 doesn’t look anything like it did in 2021 — and that’s exactly the point.AtTechCrunch All StageonJuly 15at Boston’s SoWa Power Station,Kristen Craft, head of Business Development at Fi...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Pinwheel introduces a smartwatch for kids that includes an AI chatbot](https://techcrunch.com/2025/07/03/pinwheel-introduces-a-smartwatch-for-kids-that-includes-an-ai-chatbot/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-As a parent, it can be daunting to hand over a smart device to their tween when a myriad of online dangers exist. Pinwheel, a kid-friendly tech company, is introducing a new solution for parents who w...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Castelion is raising a $350M Series B to scale hypersonic missile business](https://techcrunch.com/2025/07/03/castelion-raises-350m-series-b-to-scale-hypersonic-missile-business/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Hypersonic weapons startupCastelionis raising a $350 million Series B led by Lightspeed Venture Partners and Altimeter Capital, according to sources and documents viewed by TechCrunch.The round, which...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Tighten up your cap table with Fidelity, Cimulate, and DepositLink at TechCrunch All Stage 2025](https://techcrunch.com/2025/07/03/tighten-up-your-cap-table-with-fidelity-cimulate-and-depositlink-at-techcrunch-all-stage-2025/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Fundraising is already hard — don’t let a messy cap table make it harder.AtTechCrunch All StageonJuly 15, founders will get a behind-the-scenes look at what it really takes to keep a raise on track du...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Writer CEO May Habib to take the AI Stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/07/03/writer-ceo-may-habib-to-take-the-ai-stage-at-techcrunch-disrupt-2025/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-AI agents are reshaping how work gets done across industries, and atTechCrunch Disrupt 2025, one of the leading voices in that transformation is stepping onto the AI Stage.May Habib, CEO and co-founde...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Israeli quantum startup Qedma just raised $26M, with IBM joining in](https://techcrunch.com/2025/07/03/israeli-quantum-startup-qedma-just-raised-26-million-with-ibm-joining-in/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-03
-
-Despite their imposing presence, quantum computers are delicate beasts, and their errors are among the main bottlenecks that the quantum computing community is actively working to address. Failing thi...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Robinhood’s co-founder is beaming up (and down) the future of energy](https://techcrunch.com/podcast/robinhoods-co-founder-is-beaming-up-and-down-the-future-of-energy/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-02
-
-Listen onApple PodcastsListen onSpotifyRobinhood’s Baiju Bhatt has a new mission: solar power from space.Fresh off a$50 million Series Araise, Robinhood co-founder Baiju Bhatt is going all-in on space...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [David H. Rosmarin brings a founder-focused approach to anxiety at TechCrunch All Stage](https://techcrunch.com/2025/07/02/david-h-rosmarin-brings-a-founder-focused-approach-to-anxiety-at-techcrunch-all-stage/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-02
-
-Startups demand constant decision-making and pressure-filled pivots, which bring big emotional swings. It’s no wonder anxiety shows up at every stage. But what if it didn’t have to be a liability?AtTe...
-
-**Categories:** startups, emerging
-
----
-
-### [Lovable on track to raise $150M at $2B valuation](https://techcrunch.com/2025/07/02/lovable-on-track-to-raise-150m-at-2b-valuation/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-02
-
-Lovable, one of the darlings of the vibe-coding world and one of Europe’s fastest-growing AI startups, is working on raising a fresh round of over $150 million at a near $2 billion valuation, theFinan...
-
-**Categories:** startups, ai, emerging, stock
-
----
-
-### [Jon McNeill brings the operator’s playbook to TechCrunch All Stage](https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-01
-
-Founders are often told to chase product-market fit before anything else, but what if scaling too soon, too fast, is what’s really holding them back?AtTechCrunch All Stage 2025onJuly 15 in Boston,Jon ...
-
-**Categories:** startups, emerging
-
----
-
-### [Figma moves closer to a blockbuster IPO that could raise $1.5B](https://techcrunch.com/2025/07/01/figma-moves-closer-to-a-blockbuster-ipo-that-could-raise-1-5b/)
-
-**Source:** TechCrunch Startups | **Published:** 2025-07-01
-
-Figmapublicly sharedits financials Tuesday, inching the design software company closer to an IPO. And while this initial S-1 is missing details such as number of shares to be offered and what price, t...
-
-**Categories:** ai, startups, emerging, stock
-
----
-
-### [4 tips for using analytics and data to drive growth and profits](https://venturebeat.com/datadecisionmakers/4-tips-for-using-analytics-and-data-to-drive-growth-and-profits/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-06-10
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowAccording to aGartnerstudy, about 40% of ente...
-
-**Categories:** startups, emerging
-
----
-
-### [Stripe’s new apps marketplace brings third-party tools directly into Stripe](https://venturebeat.com/apps/stripes-new-apps-marketplace-brings-third-party-tools-to-the-mix/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-24
-
-Payments processing and financial infrastructure giant Stripe has launched a newapps marketplace, designed to bring third-party accounting, analytics, CRM, marketing and esignature features directly i...
-
-**Categories:** startups, emerging, stock
-
----
-
-### [Data observability company Cribl raises $150M](https://venturebeat.com/data-infrastructure/data-observability-company-cribl-raises-150m/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-24
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowCribl, a data observability platform used by ...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Headless CMS platform Payload goes open source](https://venturebeat.com/business/headless-cms-platform-payload-goes-open-source/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-24
-
-Let theOSS Enterprise newsletterguide your open-source journey!Sign up here.WordPress might be the darling of the content management system (CMS) world, powering some40%of the world’s websites, but al...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Once frenemies, Elastic and AWS are now besties](https://venturebeat.com/business/once-frenemies-elastic-and-aws-are-now-besties/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-19
-
-It has been a frosty few years forElasticand Amazon’s AWS cloud computing arm, with the duofrequently locking hornsover various issues relating to Elastic’s ex-open-source database search engine —Elas...
-
-**Categories:** startups, emerging
-
----
-
-### [The Women in AI Breakfast is a go, and nominations for the Women in AI Awards now open](https://venturebeat.com/ai/the-women-in-ai-breakfast-is-a-go-and-nominations-for-the-women-in-ai-awards-now-open/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-18
-
-Women leaders are increasingly at the center of AI innovation, and they’ll be in the spotlight at this year’s Women in AI Breakfast and Women in AI Awards as part of Transform 2022. VentureBeat is com...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [What technical leaders can learn from my experience with a $500,000 bug](https://venturebeat.com/datadecisionmakers/what-technical-leaders-can-learn-from-my-experience-with-a-500000-bug/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-15
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowWhen I started the social media app Skout in ...
-
-**Categories:** startups, emerging
-
----
-
-### [Rain nabs $11M to build voice products](https://venturebeat.com/marketing/rain-nabs-11m-to-build-voice-products/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-13
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowThe shift to working from home during the pan...
-
-**Categories:** startups, ai, emerging, stock
-
----
-
-### [Rocky Linux developer CIQ raises $26M to recreate CentOS for enterprises](https://venturebeat.com/entrepreneur/rocky-linux-developer-ciq-raises-26m-to-recreate-centos-for-enterprises/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-11
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [It’s time for startups to get proactive and prioritize security](https://venturebeat.com/datadecisionmakers/its-time-for-startups-to-get-proactive-and-prioritize-security/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-10
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowFounding a company is hard work. Between the ...
-
-**Categories:** startups, cybersecurity, emerging
-
----
-
-### [GitHub to enforce 2FA for all code contributors by the end of 2023](https://venturebeat.com/entrepreneur/github-to-enforce-2fa-for-all-code-contributors-by-the-end-of-2023/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-05-04
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
-
-**Categories:** startups, emerging
-
----
-
-### [3 lessons learned from building a software startup](https://venturebeat.com/datadecisionmakers/3-lessons-learned-from-building-a-software-startup/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-29
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowAbout90%of startups fail, and of that stunnin...
-
-**Categories:** startups, emerging
-
----
-
-### [Why companies need to get a handle on ethical and responsible AI (VB On-Demand)](https://venturebeat.com/ai/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-25
-
-Presented by Defined.aiAs AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow. Join this VB Live event for an in-de...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Embracing an ML-first mindset helps startups accelerate time-to-market and build long-term competitiveness](https://venturebeat.com/datadecisionmakers/embracing-an-ml-first-mindset-helps-startups-accelerate-time-to-market-and-build-long-term-competitiveness/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-21
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowOf the many fascinating insights I get from w...
-
-**Categories:** startups, ai, emerging, stock
-
----
-
-### [Stigg launches to help SaaS companies dabble with different pricing and feature packaging](https://venturebeat.com/business/stigg-launches-to-help-saas-companies-dabble-with-different-pricing-and-feature-packaging/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-20
-
-Arecent report commissionedby payments infrastructure company Paddle identified “agile pricing” as one of the key ways that SaaS companies can improve their bottom lines — experimenting with different...
-
-**Categories:** startups, emerging
-
----
-
-### [Enterprise VR training company Strivr raises $35M to help reskill the workforce](https://venturebeat.com/business/enterprise-vr-training-company-strivr-raises-35m-to-help-reskill-the-workforce/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-19
-
-Strivr, the company behind an enterprise-focused virtual reality (VR) training platform used by big names such as Walmart, Verizon and Bank of America, has raised $35 million in an extension to itspre...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [Microsoft launches Azure Managed Grafana service in preview](https://venturebeat.com/enterprise-analytics/microsoft-launches-azure-managed-grafana-service-in-preview/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-19
-
-Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders.Subscribe NowLet theOSS Enterprise newsletterguide your op...
-
-**Categories:** startups, ai, emerging
-
----
-
-### [4 emerging tech cities for new graduates](https://venturebeat.com/business/4-emerging-tech-cities-for-new-graduates/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-13
-
-With colleges finishing up towards the end of April and early May, this year’s crop of technology graduates will be thinking about next steps. The great news is college grads aged 25-to-34 have an emp...
-
-**Categories:** startups, emerging
-
----
-
-### [Data fabric versus data mesh: What’s the difference?](https://venturebeat.com/business/data-fabric-versus-data-mesh-whats-the-difference/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-08
-
-As more and more processes move online during the pandemic, businesses are adopting analytics to gain greater insight into their operations. According to 2021 survey commissioned by Starburst and Red ...
-
-**Categories:** startups, emerging
-
----
-
-### [Why transparent, interpretable, and unbiased AI is more crucial than ever (VB Live)](https://venturebeat.com/data-infrastructure/why-transparent-interpretable-and-unbiased-ai-is-more-crucial-than-ever-vb-live/)
-
-**Source:** VentureBeat Startups | **Published:** 2022-04-06
-
-Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What government policies will shape the future of AI? Join Intel’s Melvin Greer, IBM’s Noelle Silver and Daniela Braga from D...
-
-**Categories:** startups, ai, emerging
 
 ---
 
