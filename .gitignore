@@ -43,7 +43,7 @@ news_data.db
 *.db
 
 # Config files with sensitive data
-config.yaml
+# config.yaml  # Uncomment to exclude config.yaml from git
 
 # Test files
 *test*.txt
