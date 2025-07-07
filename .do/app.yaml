@@ -1,0 +1,59 @@
+# DigitalOcean App Platform specification for TechPulse Daily (Testing)
+name: techpulse-daily-test
+
+services:
+  - name: techpulse-web
+    # Use Docker image instead of GitHub source
+    image:
+      registry_type: DOCR
+      repository: techpulse-daily
+      tag: latest
+    
+    # Service configuration
+    instance_count: 1
+    instance_size_slug: apps-s-1vcpu-1gb
+    
+    # Environment variables
+    envs:
+      - key: FLASK_APP
+        value: app.py
+      - key: FLASK_ENV
+        value: production
+      - key: PYTHONPATH
+        value: /app
+    
+    # HTTP configuration
+    http_port: 5000
+    routes:
+      - path: /
+    
+    # Health check
+    health_check:
+      http_path: /api/stats
+      initial_delay_seconds: 30
+      period_seconds: 10
+      timeout_seconds: 5
+      success_threshold: 1
+      failure_threshold: 3
+
+  - name: techpulse-scraper
+    # Use Docker image instead of GitHub source
+    image:
+      registry_type: DOCR
+      repository: techpulse-daily
+      tag: latest
+    
+    # Worker configuration (no HTTP port)
+    instance_count: 1
+    instance_size_slug: apps-s-1vcpu-1gb
+    
+    # Environment variables
+    envs:
+      - key: PYTHONPATH
+        value: /app
+    
+    # Custom run command for scraper
+    run_command: python tech_scraper.py --schedule
+
+# Region
+region: nyc

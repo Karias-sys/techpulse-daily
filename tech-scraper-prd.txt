@@ -1,0 +1,666 @@
+# Product Requirements Document (PRD)
+## Tech News Aggregator & Summarizer
+
+### 1. Executive Summary
+
+**Product Name**: TechPulse Daily
+
+**Purpose**: An automated web scraping tool that collects, aggregates, and summarizes technology news from multiple sources daily, providing a personalized news digest focused on emerging technologies, cybersecurity, stock market tech news, and AI developments.
+
+**Target User**: Individual tech enthusiast with no coding experience who wants to stay updated on technology trends without manually visiting multiple news sites.
+
+### 2. Problem Statement
+
+**Current Situation**:
+- Tech news is scattered across dozens of websites
+- Manually checking multiple sources is time-consuming
+- Important news can be missed
+- Information overload makes it hard to identify key stories
+
+**Desired Outcome**:
+- Single location for all relevant tech news
+- Automated daily collection
+- AI-generated summaries for quick scanning
+- Categorized news for easy navigation
+
+### 3. Goals & Objectives
+
+**Primary Goals**:
+1. Automate daily collection of tech news from 10-15 sources
+2. Generate concise summaries for each article
+3. Categorize news into defined topics
+4. Present news in an easily readable format
+
+**Success Metrics**:
+- Successfully scrape at least 50 articles daily
+- Generate summaries within 2 minutes per article
+- 95% uptime for daily automation
+- Zero manual intervention required after setup
+
+### 4. User Stories
+
+As a tech enthusiast, I want to:
+1. **Read daily tech news digest** so that I stay informed without visiting multiple sites
+2. **See article summaries** so that I can quickly decide which articles to read in full
+3. **Filter news by category** so that I can focus on topics of interest
+4. **Access historical news** so that I can review past articles
+5. **Set up the system easily** so that I don't need programming knowledge
+
+### 5. Functional Requirements
+
+#### 5.1 Data Collection
+- **RSS Feed Parser**
+  - Support for standard RSS/Atom feeds
+  - Handle malformed feeds gracefully
+  - Extract: title, link, description, publish date, author
+  
+- **Web Scraper**
+  - Fallback for sites without RSS
+  - Respect robots.txt
+  - Handle rate limiting
+  - Extract article metadata and content
+
+- **Source Management**
+  - Configurable list of news sources
+  - Easy addition/removal of sources
+  - Source health monitoring
+
+#### 5.2 Content Processing
+- **Duplicate Detection**
+  - Identify similar articles across sources
+  - Merge or flag duplicates
+  
+- **Summarization**
+  - Generate 2-3 sentence summaries
+  - Preserve key facts and figures
+  - Maintain context and accuracy
+
+- **Categorization**
+  - Auto-categorize into predefined topics:
+    - Emerging Technologies
+    - Cybersecurity
+    - Stock Market (Tech)
+    - AI/Machine Learning
+    - General Tech
+  - Support for multiple categories per article
+
+#### 5.3 Storage & Retrieval
+- **Data Storage**
+  - Store raw articles
+  - Store processed summaries
+  - Maintain 30-day history
+  - Searchable archive
+
+- **Output Formats**
+  - Daily HTML report
+  - Markdown file
+  - JSON export
+  - RSS feed generation
+
+#### 5.4 Automation
+- **Scheduling**
+  - Run daily at configurable time
+  - Retry failed sources
+  - Error notification system
+
+- **Performance**
+  - Process all sources within 30 minutes
+  - Parallel processing capability
+  - Resource usage limits
+
+### 6. Non-Functional Requirements
+
+#### 6.1 Usability
+- Single configuration file for all settings
+- Clear documentation with examples
+- Error messages in plain English
+- Progress indicators during execution
+
+#### 6.2 Reliability
+- Graceful handling of source failures
+- Automatic recovery from errors
+- Daily execution logs
+- Data backup functionality
+
+#### 6.3 Performance
+- Complete daily run in under 30 minutes
+- Minimal memory usage (<500MB)
+- Efficient API usage to avoid rate limits
+
+#### 6.4 Security
+- Secure storage of API keys
+- No storage of personal data
+- Respect website terms of service
+- User agent identification
+
+### 7. Technical Architecture
+
+#### 7.1 Components
+```
+┌─────────────────┐     ┌──────────────┐     ┌─────────────┐
+│   Scheduler     │────▶│   Scraper    │────▶│  Processor  │
+│  (Daily Run)    │     │  Component   │     │ (Summarize) │
+└─────────────────┘     └──────────────┘     └─────────────┘
+                                │                     │
+                                ▼                     ▼
+                        ┌──────────────┐     ┌─────────────┐
+                        │   Storage    │◀────│ Categorizer │
+                        │  (Database)  │     │             │
+                        └──────────────┘     └─────────────┘
+                                │
+                                ▼
+                        ┌──────────────┐
+                        │   Output     │
+                        │  Generator   │
+                        └──────────────┘
+```
+
+#### 7.2 Technology Stack
+- **Programming Language**: Python 3.9+
+- **Libraries**:
+  - feedparser (RSS parsing)
+  - requests (HTTP requests)
+  - beautifulsoup4 (HTML parsing)
+  - openai/anthropic (summarization)
+  - schedule (task scheduling)
+  - sqlite3 (database)
+- **Development Tools**:
+  - Cursor IDE
+  - Claude Code assistant
+
+### 8. News Sources
+
+#### Complete Source List with URLs:
+1. **General Tech**
+   - TechCrunch (RSS): `https://techcrunch.com/feed/`
+   - The Verge (RSS): `https://www.theverge.com/rss/index.xml`
+   - Ars Technica (RSS): `https://feeds.arstechnica.com/arstechnica/index`
+   - Wired (RSS): `https://www.wired.com/feed/rss`
+
+2. **AI/ML Focused**
+   - VentureBeat AI (RSS): `https://venturebeat.com/category/ai/feed/`
+   - MIT Technology Review (RSS): `https://www.technologyreview.com/feed/`
+   - AI News (RSS): `https://artificialintelligence-news.com/feed/`
+
+3. **Cybersecurity**
+   - Krebs on Security (RSS): `https://krebsonsecurity.com/feed/`
+   - The Hacker News (RSS): `https://thehackernews.com/feeds/posts/default`
+   - Bleeping Computer (RSS): `https://www.bleepingcomputer.com/feed/`
+
+4. **Stock Market Tech**
+   - MarketWatch Tech (RSS): `https://feeds.marketwatch.com/marketwatch/technologybulletin/`
+   - Seeking Alpha Tech (RSS): `https://seekingalpha.com/sector/technology.xml`
+   - Yahoo Finance Tech (RSS): `https://finance.yahoo.com/rss/sector?s=technology`
+
+5. **Emerging Tech**
+   - IEEE Spectrum (RSS): `https://spectrum.ieee.org/feeds/feed.rss`
+   - Next Big Future (RSS): `https://www.nextbigfuture.com/feed`
+
+6. **IPO & Emerging Companies** (NEW)
+   - Nasdaq IPO Center: `https://www.nasdaq.com/feed/rssoutbound?category=IPOs`
+   - Renaissance Capital IPO News: `https://www.renaissancecapital.com/RSS/News.aspx`
+   - MarketWatch IPO News: `https://feeds.marketwatch.com/marketwatch/marketpulse/`
+
+7. **Small-Cap & Growth Stocks** (NEW)
+   - MarketWatch Small Cap: `https://feeds.marketwatch.com/marketwatch/smallcap/`
+   - Seeking Alpha Small Cap: `https://seekingalpha.com/feed/tag/small-cap-stocks.xml`
+   - The Motley Fool: `https://www.fool.com/feeds/index.aspx`
+   - Benzinga Small Cap: `https://www.benzinga.com/rss/small-cap`
+   - InvestorPlace Small Cap: `https://investorplace.com/category/small-cap-stocks/feed/`
+
+8. **Startup & Venture Capital** (NEW)
+   - TechCrunch Startups: `https://techcrunch.com/category/startups/feed/`
+   - VentureBeat Startups: `https://venturebeat.com/category/entrepreneur/feed/`
+   - PitchBook News: `https://pitchbook.com/news/feed`
+
+9. **Financial Analysis** (NEW)
+   - Morningstar Stocks: `https://www.morningstar.com/feeds/rss/stocks`
+   - Bloomberg Technology: `https://feeds.bloomberg.com/technology/news.rss`
+   - CNBC Tech: `https://www.cnbc.com/id/19854910/device/rss/rss.html`
+   - Financial Times Tech: `https://www.ft.com/technology?format=rss`
+
+10. **Sector-Specific** (NEW)
+    - Fierce Biotech: `https://www.fiercebiotech.com/rss/xml`
+    - GreenTech Media: `https://www.greentechmedia.com/feeds/news`
+
+#### Google News RSS Feed Templates:
+For dynamic topic tracking, use these Google News RSS templates:
+- Tech IPOs: `https://news.google.com/rss/search?q=tech+IPO+2025&hl=en-US&gl=US&ceid=US:en`
+- Emerging Tech Companies: `https://news.google.com/rss/search?q=emerging+technology+companies&hl=en-US&gl=US&ceid=US:en`
+- AI Startups: `https://news.google.com/rss/search?q=AI+startups+funding&hl=en-US&gl=US&ceid=US:en`
+- Specific Company: `https://news.google.com/rss/search?q=[COMPANY_NAME]+stock&hl=en-US&gl=US&ceid=US:en`
+
+### 9. Implementation Phases
+
+#### Phase 1: Basic Scraper (Week 1-2)
+- Set up Python environment
+- Implement RSS feed parser
+- Create basic storage system
+- Generate simple text output
+
+#### Phase 2: Summarization (Week 3-4)
+- Integrate AI API for summaries
+- Implement categorization
+- Add duplicate detection
+- Create HTML output
+
+#### Phase 3: Automation (Week 5-6)
+- Set up daily scheduling
+- Add error handling
+- Implement logging
+- Create configuration system
+
+#### Phase 4: Enhancement (Week 7-8)
+- Add more sources
+- Improve categorization
+- Create search functionality
+- Optimize performance
+
+### 10. Configuration Example
+
+```yaml
+# config.yaml
+general:
+  run_time: "08:00"
+  output_dir: "./daily_news"
+  keep_days: 30
+
+sources:
+  # General Tech
+  - name: "TechCrunch"
+    url: "https://techcrunch.com/feed/"
+    type: "rss"
+    categories: ["general", "startups"]
+    
+  - name: "The Hacker News"
+    url: "https://thehackernews.com/feeds/posts/default"
+    type: "rss"
+    categories: ["cybersecurity"]
+    
+  # IPO & Emerging Companies (NEW)
+  - name: "Nasdaq IPO Center"
+    url: "https://www.nasdaq.com/feed/rssoutbound?category=IPOs"
+    type: "rss"
+    categories: ["stock-market", "emerging-tech"]
+    
+  - name: "MarketWatch Small Cap"
+    url: "https://feeds.marketwatch.com/marketwatch/smallcap/"
+    type: "rss"
+    categories: ["stock-market", "emerging-tech"]
+    
+  # Add all sources from section 8...
+
+# Company Alerts (NEW)
+alerts:
+  enabled: true
+  delivery_methods: ["email", "in_app"]
+  
+  tickers:
+    - symbol: "NVDA"
+      company: "NVIDIA"
+      frequency: "immediate"
+      
+    - symbol: "AAPL"
+      company: "Apple"
+      frequency: "daily"
+      
+  keywords:
+    - phrase: "AI breakthrough"
+      condition: "any"
+      categories: ["ai", "emerging-tech"]
+      
+    - phrase: "cybersecurity AND breach"
+      condition: "all"
+      categories: ["cybersecurity"]
+
+# Google News Custom Feeds (NEW)
+google_news_feeds:
+  - name: "Tech IPOs 2025"
+    query: "tech IPO 2025"
+    categories: ["stock-market"]
+    
+  - name: "AI Funding Rounds"
+    query: "AI startup funding OR investment"
+    categories: ["ai", "emerging-tech"]
+
+summarization:
+  api: "openai"
+  model: "gpt-3.5-turbo"
+  max_length: 100
+
+output:
+  formats: ["html", "markdown"]
+  include_summaries: true
+  group_by_category: true
+```
+
+### 11. Success Criteria
+
+The project will be considered successful when:
+1. Daily automated runs execute without manual intervention
+2. All configured sources are successfully scraped
+3. Summaries are generated for 90%+ of articles
+4. Output is generated in readable format
+5. System runs for 30 consecutive days without critical failures
+
+### 12. Future Enhancements
+
+- Web interface for reading news
+- Mobile app integration
+- Personalization based on reading habits
+- Social media integration
+- Newsletter generation
+- Sentiment analysis
+- Trend detection
+- Custom alerts for specific topics
+
+### 13. Constraints & Assumptions
+
+**Constraints**:
+- Must respect rate limits and robots.txt
+- Limited to publicly available content
+- API costs for summarization
+- Local machine must be running for scheduler
+
+**Assumptions**:
+- News sources maintain stable RSS/HTML structure
+- Internet connection is reliable
+- AI API remains available and affordable
+- User has basic ability to run Python scripts
+
+### 14. User Interface Requirements (Added Post-Scraper Implementation)
+
+#### 14.1 Overview
+After successful implementation of the scraper, a web-based UI is required to visualize and organize the collected news articles with enhanced readability and user interaction features.
+
+#### 14.2 UI Functional Requirements
+
+**Core Features**:
+1. **Article Display**
+   - Card-based layout for each article
+   - Show title, source, date, summary, and category
+   - Click-through to original article
+   - Visual distinction between read/unread articles
+
+2. **Categorization System**
+   - Filter pills for each category:
+     - All Categories
+     - AI & Machine Learning
+     - Cybersecurity
+     - Emerging Tech
+     - Stock Market
+     - General Tech
+   - Active state indication
+   - Quick category switching
+
+3. **Favorites Functionality**
+   - Star icon to favorite/unfavorite articles
+   - Dedicated favorites page
+   - Persistent storage of favorites
+   - Visual feedback on interaction
+
+4. **Search Capability**
+   - Real-time search across titles and summaries
+   - Debounced input (300ms delay)
+   - Search icon indicator
+   - Clear search results
+
+5. **Statistics Dashboard**
+   - Today's article count
+   - Total favorites
+   - Active sources count
+   - Articles read today
+
+#### 14.3 Technical Implementation
+
+**Backend Requirements**:
+1. **Database Migration**
+   - Convert from CSV to SQLite
+   - Tables needed:
+     ```sql
+     articles (id, title, link, summary, category, source, date, is_read)
+     favorites (id, article_id, date_favorited)
+     ```
+
+2. **Flask Web Application**
+   - Main routes:
+     - `/` - Homepage with today's articles
+     - `/favorites` - Favorited articles
+     - `/archive` - Historical articles
+     - `/category/<name>` - Category filtered view
+   
+   - API endpoints:
+     - `GET /api/articles` - Fetch articles (with optional filters)
+     - `POST /api/favorite/<id>` - Toggle favorite status
+     - `GET /api/stats` - Dashboard statistics
+     - `GET /api/search?q=<query>` - Search articles
+
+3. **Frontend Stack**
+   - HTML5 with Bootstrap 5 for responsive design
+   - Vanilla JavaScript for interactivity
+   - Bootstrap Icons for UI elements
+   - Dark theme with CSS custom properties
+
+#### 14.4 UI Design Specifications
+
+**Visual Design**:
+- Dark theme optimized for reading
+- Color scheme:
+  - Primary: #2563eb (blue)
+  - Secondary: #64748b (gray)
+  - Accent: #f59e0b (amber for favorites)
+  - Background: #0f172a (dark navy)
+  - Card background: #1e293b
+
+**Layout Structure**:
+- Responsive grid system
+- Mobile-first approach
+- Maximum content width: 1200px
+- Card-based article display
+- Sticky navigation bar
+
+#### 14.5 File Structure for UI
+```
+tech-news-scraper/
+├── app.py              # Flask application
+├── database.py         # Database operations
+├── scraper.py          # Existing scraper (DO NOT MODIFY)
+├── migrate_to_db.py    # CSV to SQLite migration script
+├── static/
+│   ├── style.css      # Custom styles (optional)
+│   └── script.js      # JavaScript functions (optional)
+├── templates/
+│   ├── index.html     # Main page template
+│   ├── favorites.html # Favorites page
+│   └── archive.html   # Archive page
+└── data/
+    ├── news.db        # SQLite database
+    └── articles.csv   # Original CSV (kept as backup)
+```
+
+#### 14.6 Implementation Instructions for Claude Code
+
+**Phase 1: Database Setup**
+1. Create `database.py` with SQLAlchemy models
+2. Create `migrate_to_db.py` to convert existing CSV data
+3. Ensure backward compatibility with scraper.py
+
+**Phase 2: Flask Backend**
+1. Create `app.py` with all required routes
+2. Implement API endpoints with JSON responses
+3. Add error handling and logging
+
+**Phase 3: Frontend Integration**
+1. Use the provided HTML template as base
+2. Implement JavaScript fetch() calls to API
+3. Add loading states and error handling
+
+**Phase 4: Testing & Polish**
+1. Test all CRUD operations
+2. Verify responsive design
+3. Add keyboard shortcuts (optional)
+4. Implement pagination for large datasets
+
+### 17. Company Alert System Requirements (NEW FEATURE)
+
+#### 17.1 Overview
+A real-time alert system that monitors specific company tickers and keywords, notifying users when relevant news appears.
+
+#### 17.2 Functional Requirements
+
+**Alert Configuration:**
+1. **Ticker Alerts**
+   - Add/remove company stock tickers (e.g., AAPL, TSLA, NVDA)
+   - Set alert frequency (immediate, hourly, daily digest)
+   - Choose alert delivery method (email, in-app, push notification)
+
+2. **Keyword Alerts**
+   - Create custom keyword combinations
+   - Boolean operators (AND, OR, NOT)
+   - Case sensitivity options
+   - Phrase matching with quotes
+
+3. **Alert Conditions**
+   - News volume thresholds (e.g., alert when 5+ articles in 1 hour)
+   - Source priority (only alert from tier-1 sources)
+   - Sentiment triggers (positive/negative news)
+   - Category filters (only cybersecurity news about Company X)
+
+#### 17.3 Implementation Details
+
+**Database Schema:**
+```sql
+-- Alerts table
+CREATE TABLE alerts (
+    id INTEGER PRIMARY KEY,
+    user_id INTEGER,
+    alert_type TEXT CHECK(alert_type IN ('ticker', 'keyword')),
+    alert_value TEXT NOT NULL,
+    conditions JSON,
+    frequency TEXT DEFAULT 'immediate',
+    is_active BOOLEAN DEFAULT 1,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Alert history
+CREATE TABLE alert_history (
+    id INTEGER PRIMARY KEY,
+    alert_id INTEGER REFERENCES alerts(id),
+    article_id INTEGER REFERENCES articles(id),
+    triggered_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    delivered BOOLEAN DEFAULT 0
+);
+```
+
+**API Endpoints:**
+- `POST /api/alerts` - Create new alert
+- `GET /api/alerts` - List user's alerts
+- `PUT /api/alerts/<id>` - Update alert settings
+- `DELETE /api/alerts/<id>` - Remove alert
+- `GET /api/alerts/<id>/history` - View alert history
+
+**Google News Integration:**
+```python
+# Dynamic RSS feed generation for company tracking
+def generate_company_feed(ticker, company_name):
+    base_url = "https://news.google.com/rss/search"
+    params = {
+        'q': f'{company_name} OR {ticker} stock',
+        'hl': 'en-US',
+        'gl': 'US',
+        'ceid': 'US:en'
+    }
+    return f"{base_url}?{urlencode(params)}"
+```
+
+#### 17.4 UI Components
+
+**Alert Management Page:**
+- List of active alerts with toggle switches
+- "Add Alert" button opening modal dialog
+- Alert statistics (triggers today, this week, total)
+- Quick actions (pause, delete, edit)
+
+**Alert Creation Modal:**
+- Alert type selector (Ticker/Keyword)
+- Ticker autocomplete with validation
+- Keyword input with syntax helper
+- Condition builders with dropdowns
+- Preview of matching articles
+
+**Alert Notification Display:**
+- Toast notifications for immediate alerts
+- Alert badge on navigation bar
+- Dedicated alerts inbox
+- Mark as read functionality
+
+### 18. RSS Feed Testing Requirements
+
+#### 18.1 Feed Validation Script
+Claude Code must create a `test_feeds.py` script that:
+
+1. **Tests each RSS feed URL** from the sources list
+2. **Validates RSS/XML structure** using feedparser
+3. **Checks for required fields** (title, link, pubDate)
+4. **Reports feed health metrics**:
+   - Response time
+   - Number of entries
+   - Last update time
+   - Error messages
+
+#### 18.2 Testing Implementation
+```python
+# Example structure for feed testing
+def test_feed(name, url):
+    """Test individual RSS feed and return status"""
+    try:
+        response = requests.get(url, timeout=10)
+        feed = feedparser.parse(response.content)
+        
+        return {
+            'name': name,
+            'url': url,
+            'status': 'OK' if feed.entries else 'EMPTY',
+            'entry_count': len(feed.entries),
+            'last_updated': feed.get('updated', 'Unknown'),
+            'response_time': response.elapsed.total_seconds(),
+            'error': None
+        }
+    except Exception as e:
+        return {
+            'name': name,
+            'url': url,
+            'status': 'ERROR',
+            'error': str(e)
+        }
+```
+
+#### 18.3 Testing Output Format
+The script must produce a formatted report:
+```
+RSS Feed Test Report
+===================
+Testing 35 feeds...
+
+✅ TechCrunch (0.34s) - 25 entries - Last updated: 2 hours ago
+✅ The Verge (0.45s) - 20 entries - Last updated: 1 hour ago
+❌ Broken Feed Name - Error: 404 Not Found
+⚠️  Empty Feed Name - No entries found
+
+Summary:
+- Successful: 32/35 (91.4%)
+- Failed: 2/35
+- Empty: 1/35
+- Average response time: 0.67s
+
+Failed feeds requiring attention:
+1. Broken Feed Name: https://example.com/feed
+2. Another Broken Feed: https://example2.com/rss
+```
+
+#### 18.4 Continuous Monitoring
+- Run feed tests daily before scraping
+- Log feed health metrics to database
+- Alert when feeds fail 3 consecutive days
+- Auto-disable consistently failing feeds
+- Generate weekly feed health reports

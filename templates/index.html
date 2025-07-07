@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechPulse Daily - Tech News Aggregator</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
+    
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #64748b;
+            --accent-color: #f59e0b;
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-color: #f1f5f9;
+            --border-color: #334155;
+        }
+        
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+        
+        .navbar {
+            background-color: var(--card-bg) !important;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .navbar-brand {
+            font-weight: 700;
+            color: var(--primary-color) !important;
+        }
+        
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+        }
+        
+        .article-card {
+            margin-bottom: 1.5rem;
+        }
+        
+        .article-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+        }
+        
+        .article-title a {
+            color: var(--text-color);
+            text-decoration: none;
+        }
+        
+        .article-title a:hover {
+            color: var(--primary-color);
+        }
+        
+        .article-meta {
+            font-size: 0.875rem;
+            color: var(--secondary-color);
+            margin-bottom: 0.75rem;
+        }
+        
+        .article-summary {
+            color: #cbd5e1;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+        
+        .category-badge {
+            background-color: var(--primary-color);
+            color: white;
+            font-size: 0.75rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 1rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.25rem;
+        }
+        
+        .category-badge.cybersecurity {
+            background-color: #dc2626;
+        }
+        
+        .category-badge.ai {
+            background-color: #7c3aed;
+        }
+        
+        .category-badge.emerging {
+            background-color: #059669;
+        }
+        
+        .category-badge.stock {
+            background-color: #ea580c;
+        }
+        
+        .btn-favorite {
+            background: none;
+            border: none;
+            color: var(--secondary-color);
+            font-size: 1.2rem;
+            transition: color 0.2s ease;
+        }
+        
+        .btn-favorite:hover {
+            color: var(--accent-color);
+        }
+        
+        .btn-favorite.favorited {
+            color: var(--accent-color);
+        }
+        
+        .filter-pills .nav-link {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            border-radius: 50px;
+            padding: 0.5rem 1rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+            transition: all 0.2s ease;
+        }
+        
+        .filter-pills .nav-link:hover {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        
+        .filter-pills .nav-link.active {
+            background-color: var(--primary-color);
+            color: white;
+            border-color: var(--primary-color);
+        }
+        
+        .stats-card {
+            background: linear-gradient(135deg, var(--primary-color), #1e40af);
+            color: white;
+            border: none;
+        }
+        
+        .stats-number {
+            font-size: 2rem;
+            font-weight: 700;
+        }
+        
+        .search-box {
+            position: relative;
+        }
+        
+        .search-box input {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            padding-left: 2.5rem;
+        }
+        
+        .search-box input:focus {
+            background-color: var(--card-bg);
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 0.2rem rgba(37, 99, 235, 0.25);
+            color: var(--text-color);
+        }
+        
+        .search-icon {
+            position: absolute;
+            left: 0.75rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--secondary-color);
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: var(--secondary-color);
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 3rem;
+            color: var(--secondary-color);
+        }
+        
+        .article-actions {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border-color);
+        }
+        
+        .read-indicator {
+            opacity: 0.6;
+        }
+        
+        .read-indicator.unread {
+            opacity: 1;
+        }
+        
+        @media (max-width: 768px) {
+            .filter-pills {
+                flex-wrap: wrap;
+            }
+            
+            .stats-number {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-newspaper"></i> TechPulse Daily
+            </a>
+            
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">
+                            <i class="bi bi-house"></i> Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/favorites">
+                            <i class="bi bi-star"></i> Favorites
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/archive">
+                            <i class="bi bi-archive"></i> Archive
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mt-4">
+        <!-- Statistics Dashboard -->
+        <div class="row mb-4">
+            <div class="col-md-3 col-6 mb-3">
+                <div class="card stats-card">
+                    <div class="card-body text-center">
+                        <div class="stats-number" id="todayArticles">0</div>
+                        <div class="small">Today's Articles</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 mb-3">
+                <div class="card stats-card">
+                    <div class="card-body text-center">
+                        <div class="stats-number" id="totalFavorites">0</div>
+                        <div class="small">Total Favorites</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 mb-3">
+                <div class="card stats-card">
+                    <div class="card-body text-center">
+                        <div class="stats-number" id="activeSources">0</div>
+                        <div class="small">Active Sources</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-6 mb-3">
+                <div class="card stats-card">
+                    <div class="card-body text-center">
+                        <div class="stats-number" id="readToday">0</div>
+                        <div class="small">Read Today</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Search and Filters -->
+        <div class="row mb-4">
+            <div class="col-md-6 mb-3">
+                <div class="search-box">
+                    <i class="bi bi-search search-icon"></i>
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search articles...">
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="filter-pills d-flex flex-wrap">
+                    <button class="nav-link active" data-category="all">All Categories</button>
+                    <button class="nav-link" data-category="ai">AI & ML</button>
+                    <button class="nav-link" data-category="cybersecurity">Cybersecurity</button>
+                    <button class="nav-link" data-category="emerging">Emerging Tech</button>
+                    <button class="nav-link" data-category="stock">Stock Market</button>
+                    <button class="nav-link" data-category="general">General Tech</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Articles Container -->
+        <div class="row">
+            <div class="col-12">
+                <div id="articlesContainer">
+                    <div class="loading">
+                        <i class="bi bi-arrow-clockwise spinner-border"></i>
+                        <p>Loading articles...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+        let currentCategory = 'all';
+        let searchTimeout;
+        let currentArticles = [];
+        
+        // Initialize the application
+        document.addEventListener('DOMContentLoaded', function() {
+            loadStatistics();
+            loadArticles();
+            setupEventListeners();
+        });
+        
+        // Setup event listeners
+        function setupEventListeners() {
+            // Category filter buttons
+            document.querySelectorAll('.filter-pills .nav-link').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // Update active button
+                    document.querySelectorAll('.filter-pills .nav-link').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    // Update current category and load articles
+                    currentCategory = this.dataset.category;
+                    loadArticles();
+                });
+            });
+            
+            // Search input
+            document.getElementById('searchInput').addEventListener('input', function() {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(() => {
+                    const query = this.value.trim();
+                    if (query) {
+                        searchArticles(query);
+                    } else {
+                        loadArticles();
+                    }
+                }, 300);
+            });
+        }
+        
+        // Load statistics
+        async function loadStatistics() {
+            try {
+                const response = await fetch('/api/stats');
+                const data = await response.json();
+                
+                if (data.success) {
+                    document.getElementById('todayArticles').textContent = data.stats.today_articles;
+                    document.getElementById('totalFavorites').textContent = data.stats.total_favorites;
+                    document.getElementById('activeSources').textContent = data.stats.active_sources;
+                    document.getElementById('readToday').textContent = data.stats.articles_read_today;
+                }
+            } catch (error) {
+                console.error('Error loading statistics:', error);
+            }
+        }
+        
+        // Load articles
+        async function loadArticles() {
+            try {
+                showLoading();
+                
+                let url = '/api/articles?limit=50';
+                if (currentCategory !== 'all') {
+                    url += `&category=${currentCategory}`;
+                }
+                
+                const response = await fetch(url);
+                const data = await response.json();
+                
+                if (data.success) {
+                    currentArticles = data.articles;
+                    displayArticles(currentArticles);
+                } else {
+                    showError('Failed to load articles');
+                }
+            } catch (error) {
+                console.error('Error loading articles:', error);
+                showError('Failed to load articles');
+            }
+        }
+        
+        // Search articles
+        async function searchArticles(query) {
+            try {
+                showLoading();
+                
+                const response = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
+                const data = await response.json();
+                
+                if (data.success) {
+                    currentArticles = data.articles;
+                    displayArticles(currentArticles);
+                } else {
+                    showError('Search failed');
+                }
+            } catch (error) {
+                console.error('Error searching articles:', error);
+                showError('Search failed');
+            }
+        }
+        
+        // Display articles
+        function displayArticles(articles) {
+            const container = document.getElementById('articlesContainer');
+            
+            if (articles.length === 0) {
+                container.innerHTML = `
+                    <div class="no-articles">
+                        <i class="bi bi-newspaper" style="font-size: 3rem; margin-bottom: 1rem;"></i>
+                        <h4>No articles found</h4>
+                        <p>Try adjusting your search or filter criteria.</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            const articlesHtml = articles.map(article => `
+                <div class="article-card">
+                    <div class="card ${article.is_read ? 'read-indicator' : 'read-indicator unread'}">
+                        <div class="card-body">
+                            <h5 class="article-title">
+                                <a href="${article.url}" target="_blank" onclick="markAsRead(${article.id})">
+                                    ${article.title}
+                                </a>
+                            </h5>
+                            
+                            <div class="article-meta">
+                                <i class="bi bi-building"></i> ${article.source} | 
+                                <i class="bi bi-calendar"></i> ${formatDate(article.published_date)} |
+                                <i class="bi bi-clock"></i> ${formatTime(article.published_date)}
+                            </div>
+                            
+                            <div class="article-summary">
+                                ${article.summary || article.description || ''}
+                            </div>
+                            
+                            <div class="mb-3">
+                                ${article.categories.map(cat => `
+                                    <span class="category-badge ${cat}">${formatCategory(cat)}</span>
+                                `).join('')}
+                            </div>
+                            
+                            <div class="article-actions">
+                                <div>
+                                    <button class="btn btn-sm btn-outline-primary" onclick="window.open('${article.url}', '_blank'); markAsRead(${article.id})">
+                                        <i class="bi bi-box-arrow-up-right"></i> Read Full Article
+                                    </button>
+                                </div>
+                                <div>
+                                    <button class="btn-favorite ${article.is_favorited ? 'favorited' : ''}" 
+                                            onclick="toggleFavorite(${article.id})" 
+                                            title="${article.is_favorited ? 'Remove from favorites' : 'Add to favorites'}">
+                                        <i class="bi ${article.is_favorited ? 'bi-star-fill' : 'bi-star'}"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            container.innerHTML = articlesHtml;
+        }
+        
+        // Toggle favorite status
+        async function toggleFavorite(articleId) {
+            try {
+                const response = await fetch(`/api/favorite/${articleId}`, {
+                    method: 'POST'
+                });
+                const data = await response.json();
+                
+                if (data.success) {
+                    // Update UI
+                    const btn = document.querySelector(`button[onclick="toggleFavorite(${articleId})"]`);
+                    const icon = btn.querySelector('i');
+                    
+                    if (data.is_favorited) {
+                        btn.classList.add('favorited');
+                        icon.className = 'bi bi-star-fill';
+                        btn.title = 'Remove from favorites';
+                    } else {
+                        btn.classList.remove('favorited');
+                        icon.className = 'bi bi-star';
+                        btn.title = 'Add to favorites';
+                    }
+                    
+                    // Update article in current list
+                    const article = currentArticles.find(a => a.id === articleId);
+                    if (article) {
+                        article.is_favorited = data.is_favorited;
+                    }
+                    
+                    // Refresh statistics
+                    loadStatistics();
+                } else {
+                    console.error('Failed to toggle favorite');
+                }
+            } catch (error) {
+                console.error('Error toggling favorite:', error);
+            }
+        }
+        
+        // Mark article as read
+        async function markAsRead(articleId) {
+            try {
+                await fetch(`/api/read/${articleId}`, {
+                    method: 'POST'
+                });
+                
+                // Update UI
+                const article = currentArticles.find(a => a.id === articleId);
+                if (article) {
+                    article.is_read = true;
+                }
+                
+                // Refresh statistics
+                loadStatistics();
+            } catch (error) {
+                console.error('Error marking as read:', error);
+            }
+        }
+        
+        // Utility functions
+        function showLoading() {
+            document.getElementById('articlesContainer').innerHTML = `
+                <div class="loading">
+                    <i class="bi bi-arrow-clockwise spinner-border"></i>
+                    <p>Loading articles...</p>
+                </div>
+            `;
+        }
+        
+        function showError(message) {
+            document.getElementById('articlesContainer').innerHTML = `
+                <div class="no-articles">
+                    <i class="bi bi-exclamation-triangle" style="font-size: 3rem; margin-bottom: 1rem; color: #dc2626;"></i>
+                    <h4>Error</h4>
+                    <p>${message}</p>
+                </div>
+            `;
+        }
+        
+        function formatDate(dateStr) {
+            if (!dateStr) return '';
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { 
+                year: 'numeric', 
+                month: 'short', 
+                day: 'numeric' 
+            });
+        }
+        
+        function formatTime(dateStr) {
+            if (!dateStr) return '';
+            const date = new Date(dateStr);
+            return date.toLocaleTimeString('en-US', { 
+                hour: 'numeric', 
+                minute: '2-digit' 
+            });
+        }
+        
+        function formatCategory(category) {
+            const categoryMap = {
+                'ai': 'AI & ML',
+                'cybersecurity': 'Cybersecurity',
+                'emerging': 'Emerging Tech',
+                'stock': 'Stock Market',
+                'general': 'General Tech'
+            };
+            return categoryMap[category] || category.charAt(0).toUpperCase() + category.slice(1);
+        }
+    </script>
+</body>
+</html>

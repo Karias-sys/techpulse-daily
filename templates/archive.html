@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archive - TechPulse Daily</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
+    
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #64748b;
+            --accent-color: #f59e0b;
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-color: #f1f5f9;
+            --border-color: #334155;
+        }
+        
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+        
+        .navbar {
+            background-color: var(--card-bg) !important;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .navbar-brand {
+            font-weight: 700;
+            color: var(--primary-color) !important;
+        }
+        
+        .nav-link.active {
+            color: var(--primary-color) !important;
+        }
+        
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+        }
+        
+        .article-card {
+            margin-bottom: 1.5rem;
+        }
+        
+        .article-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+        }
+        
+        .article-title a {
+            color: var(--text-color);
+            text-decoration: none;
+        }
+        
+        .article-title a:hover {
+            color: var(--primary-color);
+        }
+        
+        .article-meta {
+            font-size: 0.875rem;
+            color: var(--secondary-color);
+            margin-bottom: 0.75rem;
+        }
+        
+        .article-summary {
+            color: #cbd5e1;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+        
+        .category-badge {
+            background-color: var(--primary-color);
+            color: white;
+            font-size: 0.75rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 1rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.25rem;
+        }
+        
+        .category-badge.cybersecurity {
+            background-color: #dc2626;
+        }
+        
+        .category-badge.ai {
+            background-color: #7c3aed;
+        }
+        
+        .category-badge.emerging {
+            background-color: #059669;
+        }
+        
+        .category-badge.stock {
+            background-color: #ea580c;
+        }
+        
+        .btn-favorite {
+            background: none;
+            border: none;
+            color: var(--secondary-color);
+            font-size: 1.2rem;
+            transition: color 0.2s ease;
+        }
+        
+        .btn-favorite:hover {
+            color: var(--accent-color);
+        }
+        
+        .btn-favorite.favorited {
+            color: var(--accent-color);
+        }
+        
+        .article-actions {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border-color);
+        }
+        
+        .archive-header {
+            background: linear-gradient(135deg, var(--primary-color), #1e40af);
+            color: white;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+        }
+        
+        .filter-pills .nav-link {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            border-radius: 50px;
+            padding: 0.5rem 1rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+            transition: all 0.2s ease;
+        }
+        
+        .filter-pills .nav-link:hover {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        
+        .filter-pills .nav-link.active {
+            background-color: var(--primary-color);
+            color: white;
+            border-color: var(--primary-color);
+        }
+        
+        .time-filter .btn {
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .search-box {
+            position: relative;
+        }
+        
+        .search-box input {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            padding-left: 2.5rem;
+        }
+        
+        .search-box input:focus {
+            background-color: var(--card-bg);
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 0.2rem rgba(37, 99, 235, 0.25);
+            color: var(--text-color);
+        }
+        
+        .search-icon {
+            position: absolute;
+            left: 0.75rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--secondary-color);
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: var(--secondary-color);
+        }
+        
+        .no-articles {
+            text-align: center;
+            padding: 3rem;
+            color: var(--secondary-color);
+        }
+        
+        .pagination-container {
+            margin-top: 2rem;
+        }
+        
+        .page-link {
+            background-color: var(--card-bg);
+            border-color: var(--border-color);
+            color: var(--text-color);
+        }
+        
+        .page-link:hover {
+            background-color: var(--primary-color);
+            border-color: var(--primary-color);
+            color: white;
+        }
+        
+        .page-item.active .page-link {
+            background-color: var(--primary-color);
+            border-color: var(--primary-color);
+        }
+        
+        @media (max-width: 768px) {
+            .archive-header {
+                padding: 1.5rem 0;
+            }
+            
+            .filter-pills {
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-newspaper"></i> TechPulse Daily
+            </a>
+            
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">
+                            <i class="bi bi-house"></i> Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/favorites">
+                            <i class="bi bi-star"></i> Favorites
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/archive">
+                            <i class="bi bi-archive"></i> Archive
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <div class="archive-header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h1 class="mb-2">
+                        <i class="bi bi-archive"></i> News Archive
+                    </h1>
+                    <p class="mb-0">Browse historical tech news articles</p>
+                </div>
+                <div class="col-md-4 text-md-end">
+                    <div class="h2 mb-0">
+                        <span id="totalArticles">0</span> articles
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container">
+        <!-- Filters -->
+        <div class="row mb-4">
+            <div class="col-md-6 mb-3">
+                <div class="search-box">
+                    <i class="bi bi-search search-icon"></i>
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search archive...">
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="time-filter d-flex flex-wrap justify-content-md-end">
+                    <button class="btn btn-outline-secondary active" data-days="7">Last 7 days</button>
+                    <button class="btn btn-outline-secondary" data-days="30">Last 30 days</button>
+                    <button class="btn btn-outline-secondary" data-days="90">Last 3 months</button>
+                    <button class="btn btn-outline-secondary" data-days="all">All time</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Category Filters -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="filter-pills d-flex flex-wrap">
+                    <button class="nav-link active" data-category="all">All Categories</button>
+                    <button class="nav-link" data-category="ai">AI & ML</button>
+                    <button class="nav-link" data-category="cybersecurity">Cybersecurity</button>
+                    <button class="nav-link" data-category="emerging">Emerging Tech</button>
+                    <button class="nav-link" data-category="stock">Stock Market</button>
+                    <button class="nav-link" data-category="general">General Tech</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Articles Container -->
+        <div class="row">
+            <div class="col-12">
+                <div id="articlesContainer">
+                    <div class="loading">
+                        <i class="bi bi-arrow-clockwise spinner-border"></i>
+                        <p>Loading articles...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Pagination -->
+        <div class="row">
+            <div class="col-12">
+                <div class="pagination-container d-flex justify-content-center" id="paginationContainer">
+                    <!-- Pagination will be inserted here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+        let currentCategory = 'all';
+        let currentDays = 7;
+        let currentPage = 1;
+        let currentSearch = '';
+        let searchTimeout;
+        let currentArticles = [];
+        const articlesPerPage = 20;
+        
+        // Initialize the application
+        document.addEventListener('DOMContentLoaded', function() {
+            loadArticles();
+            setupEventListeners();
+        });
+        
+        // Setup event listeners
+        function setupEventListeners() {
+            // Category filter buttons
+            document.querySelectorAll('.filter-pills .nav-link').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // Update active button
+                    document.querySelectorAll('.filter-pills .nav-link').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    // Update current category and load articles
+                    currentCategory = this.dataset.category;
+                    currentPage = 1;
+                    loadArticles();
+                });
+            });
+            
+            // Time filter buttons
+            document.querySelectorAll('.time-filter .btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // Update active button
+                    document.querySelectorAll('.time-filter .btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    // Update current time filter and load articles
+                    currentDays = this.dataset.days === 'all' ? null : parseInt(this.dataset.days);
+                    currentPage = 1;
+                    loadArticles();
+                });
+            });
+            
+            // Search input
+            document.getElementById('searchInput').addEventListener('input', function() {
+                clearTimeout(searchTimeout);
+                searchTimeout = setTimeout(() => {
+                    currentSearch = this.value.trim();
+                    currentPage = 1;
+                    loadArticles();
+                }, 300);
+            });
+        }
+        
+        // Load articles
+        async function loadArticles() {
+            try {
+                showLoading();
+                
+                let url = `/api/articles?limit=${articlesPerPage}&offset=${(currentPage - 1) * articlesPerPage}`;
+                
+                if (currentCategory !== 'all') {
+                    url += `&category=${currentCategory}`;
+                }
+                
+                if (currentDays) {
+                    url += `&days=${currentDays}`;
+                }
+                
+                if (currentSearch) {
+                    url += `&search=${encodeURIComponent(currentSearch)}`;
+                }
+                
+                const response = await fetch(url);
+                const data = await response.json();
+                
+                if (data.success) {
+                    currentArticles = data.articles;
+                    displayArticles(currentArticles);
+                    updateTotalCount();
+                    
+                    // Load total count for pagination (simplified - using current page results)
+                    updatePagination(data.articles.length === articlesPerPage);
+                } else {
+                    showError('Failed to load articles');
+                }
+            } catch (error) {
+                console.error('Error loading articles:', error);
+                showError('Failed to load articles');
+            }
+        }
+        
+        // Display articles
+        function displayArticles(articles) {
+            const container = document.getElementById('articlesContainer');
+            
+            if (articles.length === 0) {
+                container.innerHTML = `
+                    <div class="no-articles">
+                        <i class="bi bi-archive" style="font-size: 3rem; margin-bottom: 1rem;"></i>
+                        <h4>No articles found</h4>
+                        <p>Try adjusting your search or filter criteria.</p>
+                        <button class="btn btn-primary" onclick="resetFilters()">
+                            <i class="bi bi-arrow-clockwise"></i> Reset Filters
+                        </button>
+                    </div>
+                `;
+                return;
+            }
+            
+            const articlesHtml = articles.map(article => `
+                <div class="article-card">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="article-title">
+                                <a href="${article.url}" target="_blank" onclick="markAsRead(${article.id})">
+                                    ${article.title}
+                                </a>
+                            </h5>
+                            
+                            <div class="article-meta">
+                                <i class="bi bi-building"></i> ${article.source} | 
+                                <i class="bi bi-calendar"></i> ${formatDate(article.published_date)} |
+                                <i class="bi bi-clock"></i> ${formatTime(article.published_date)}
+                                ${article.is_read ? ' | <i class="bi bi-check-circle text-success"></i> Read' : ''}
+                            </div>
+                            
+                            <div class="article-summary">
+                                ${article.summary || article.description || ''}
+                            </div>
+                            
+                            <div class="mb-3">
+                                ${article.categories.map(cat => `
+                                    <span class="category-badge ${cat}">${formatCategory(cat)}</span>
+                                `).join('')}
+                            </div>
+                            
+                            <div class="article-actions">
+                                <div>
+                                    <button class="btn btn-sm btn-outline-primary" onclick="window.open('${article.url}', '_blank'); markAsRead(${article.id})">
+                                        <i class="bi bi-box-arrow-up-right"></i> Read Full Article
+                                    </button>
+                                </div>
+                                <div>
+                                    <button class="btn-favorite ${article.is_favorited ? 'favorited' : ''}" 
+                                            onclick="toggleFavorite(${article.id})" 
+                                            title="${article.is_favorited ? 'Remove from favorites' : 'Add to favorites'}">
+                                        <i class="bi ${article.is_favorited ? 'bi-star-fill' : 'bi-star'}"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            
+            container.innerHTML = articlesHtml;
+        }
+        
+        // Update pagination
+        function updatePagination(hasMore) {
+            const container = document.getElementById('paginationContainer');
+            
+            if (currentPage === 1 && !hasMore) {
+                container.innerHTML = '';
+                return;
+            }
+            
+            let paginationHtml = '<nav><ul class="pagination">';
+            
+            // Previous button
+            if (currentPage > 1) {
+                paginationHtml += `
+                    <li class="page-item">
+                        <a class="page-link" href="#" onclick="changePage(${currentPage - 1})">
+                            <i class="bi bi-chevron-left"></i> Previous
+                        </a>
+                    </li>
+                `;
+            }
+            
+            // Page numbers (simplified - show current page)
+            paginationHtml += `
+                <li class="page-item active">
+                    <span class="page-link">Page ${currentPage}</span>
+                </li>
+            `;
+            
+            // Next button
+            if (hasMore) {
+                paginationHtml += `
+                    <li class="page-item">
+                        <a class="page-link" href="#" onclick="changePage(${currentPage + 1})">
+                            Next <i class="bi bi-chevron-right"></i>
+                        </a>
+                    </li>
+                `;
+            }
+            
+            paginationHtml += '</ul></nav>';
+            container.innerHTML = paginationHtml;
+        }
+        
+        // Change page
+        function changePage(page) {
+            currentPage = page;
+            loadArticles();
+            window.scrollTo(0, 0);
+        }
+        
+        // Toggle favorite status
+        async function toggleFavorite(articleId) {
+            try {
+                const response = await fetch(`/api/favorite/${articleId}`, {
+                    method: 'POST'
+                });
+                const data = await response.json();
+                
+                if (data.success) {
+                    // Update UI
+                    const btn = document.querySelector(`button[onclick="toggleFavorite(${articleId})"]`);
+                    const icon = btn.querySelector('i');
+                    
+                    if (data.is_favorited) {
+                        btn.classList.add('favorited');
+                        icon.className = 'bi bi-star-fill';
+                        btn.title = 'Remove from favorites';
+                    } else {
+                        btn.classList.remove('favorited');
+                        icon.className = 'bi bi-star';
+                        btn.title = 'Add to favorites';
+                    }
+                    
+                    // Update article in current list
+                    const article = currentArticles.find(a => a.id === articleId);
+                    if (article) {
+                        article.is_favorited = data.is_favorited;
+                    }
+                } else {
+                    console.error('Failed to toggle favorite');
+                }
+            } catch (error) {
+                console.error('Error toggling favorite:', error);
+            }
+        }
+        
+        // Mark article as read
+        async function markAsRead(articleId) {
+            try {
+                await fetch(`/api/read/${articleId}`, {
+                    method: 'POST'
+                });
+                
+                // Update UI
+                const article = currentArticles.find(a => a.id === articleId);
+                if (article) {
+                    article.is_read = true;
+                }
+            } catch (error) {
+                console.error('Error marking as read:', error);
+            }
+        }
+        
+        // Reset all filters
+        function resetFilters() {
+            // Reset UI
+            document.querySelectorAll('.filter-pills .nav-link').forEach(b => b.classList.remove('active'));
+            document.querySelector('.filter-pills .nav-link[data-category="all"]').classList.add('active');
+            
+            document.querySelectorAll('.time-filter .btn').forEach(b => b.classList.remove('active'));
+            document.querySelector('.time-filter .btn[data-days="7"]').classList.add('active');
+            
+            document.getElementById('searchInput').value = '';
+            
+            // Reset variables
+            currentCategory = 'all';
+            currentDays = 7;
+            currentSearch = '';
+            currentPage = 1;
+            
+            // Reload articles
+            loadArticles();
+        }
+        
+        // Update total count
+        async function updateTotalCount() {
+            // For simplicity, we'll just show the current page results
+            // In a real app, you'd make a separate API call to get total count
+            document.getElementById('totalArticles').textContent = currentArticles.length;
+        }
+        
+        // Utility functions
+        function showLoading() {
+            document.getElementById('articlesContainer').innerHTML = `
+                <div class="loading">
+                    <i class="bi bi-arrow-clockwise spinner-border"></i>
+                    <p>Loading articles...</p>
+                </div>
+            `;
+        }
+        
+        function showError(message) {
+            document.getElementById('articlesContainer').innerHTML = `
+                <div class="no-articles">
+                    <i class="bi bi-exclamation-triangle" style="font-size: 3rem; margin-bottom: 1rem; color: #dc2626;"></i>
+                    <h4>Error</h4>
+                    <p>${message}</p>
+                    <button class="btn btn-primary" onclick="loadArticles()">
+                        <i class="bi bi-arrow-clockwise"></i> Try Again
+                    </button>
+                </div>
+            `;
+        }
+        
+        function formatDate(dateStr) {
+            if (!dateStr) return '';
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { 
+                year: 'numeric', 
+                month: 'short', 
+                day: 'numeric' 
+            });
+        }
+        
+        function formatTime(dateStr) {
+            if (!dateStr) return '';
+            const date = new Date(dateStr);
+            return date.toLocaleTimeString('en-US', { 
+                hour: 'numeric', 
+                minute: '2-digit' 
+            });
+        }
+        
+        function formatCategory(category) {
+            const categoryMap = {
+                'ai': 'AI & ML',
+                'cybersecurity': 'Cybersecurity',
+                'emerging': 'Emerging Tech',
+                'stock': 'Stock Market',
+                'general': 'General Tech'
+            };
+            return categoryMap[category] || category.charAt(0).toUpperCase() + category.slice(1);
+        }
+    </script>
+</body>
+</html>

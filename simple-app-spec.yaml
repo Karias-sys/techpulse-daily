@@ -1,0 +1,46 @@
+name: techpulse-daily
+region: nyc
+services:
+- name: web
+  image:
+    registry_type: DOCKER_HUB
+    repository: python
+    tag: "3.11-slim"
+  build_command: |
+    apt-get update && apt-get install -y gcc g++ libxml2-dev libxslt-dev curl wget git
+    pip install flask requests beautifulsoup4 lxml feedparser openai pyyaml sqlalchemy python-dateutil schedule
+  run_command: |
+    cat > app.py << 'EOF'
+    from flask import Flask, render_template, jsonify, request
+    import os
+    
+    app = Flask(__name__)
+    
+    @app.route('/')
+    def index():
+        return '<h1>TechPulse Daily</h1><p>News aggregator is running!</p>'
+    
+    @app.route('/api/stats')
+    def stats():
+        return jsonify({"status": "ok", "message": "App is running"})
+    
+    if __name__ == '__main__':
+        port = int(os.environ.get('PORT', 5000))
+        app.run(host='0.0.0.0', port=port, debug=False)
+    EOF
+    python app.py
+  environment_slug: python
+  instance_count: 1
+  instance_size_slug: apps-s-1vcpu-1gb
+  http_port: 5000
+  routes:
+  - path: /
+  envs:
+  - key: PORT
+    value: "5000"
+  health_check:
+    http_path: /api/stats
+    initial_delay_seconds: 60
+    period_seconds: 30
+    timeout_seconds: 10
+    failure_threshold: 3

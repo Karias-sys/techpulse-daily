@@ -1,0 +1,81 @@
+BEST CODING PRACTICES — USER RULE
+
+APPLIES TO
+  **/*.ts  **/*.tsx  **/*.js  **/*.jsx
+  **/*.py  **/*.java **/*.go  **/*.rs  **/*.cs
+  (Add or remove globs as needed.)
+
+ALWAYS APPLY: YES
+────────────────────────────────────────────────────────────
+1  CORE PRINCIPLES
+• KISS – Keep it simple & short; avoid needless abstraction.  
+• DRY – Remove duplication; share logic via functions/modules.  
+• SOLID (OO) / Functional purity (FP) when appropriate.  
+• YAGNI – Build only what is required now.  
+• Favor composition over inheritance; aim for immutability.
+
+2  PROJECT STRUCTURE & FILE LAYOUT
+• One public responsibility per file/module.  
+• Place tests beside code ( __tests__, *.spec.*, etc.).  
+• Export/public API at the top; private helpers below.  
+• Keep directories shallow and feature-oriented.
+
+3  NAMING & STYLE
+• Variables → JS/TS/Go camelCase, Python snake_case, Java/C#/Rust camelCase.  
+• Classes/Types → PascalCase in every language.  
+• Constants/Enums → SCREAMING_SNAKE_CASE.  
+• Indentation → 2 spaces (JS/TS/Go), 4 spaces (Python/Java/C#/Rust). No tabs.  
+• Always run the language formatter (Prettier, Black, gofmt, rustfmt, dotnet-format, etc.).  
+• Limit line length to 100 chars; wrap code sensibly.
+
+4  DOCUMENTATION & COMMENTS
+• Every public function/class must have a docstring/JSDoc/XML doc.  
+• Explain **why** something is done, not what obvious code does.  
+• Use inline comments sparingly—only for intent or tricky logic.  
+• Keep TODO/FIXME blocks short and dated; resolve quickly.
+
+5  ERROR HANDLING & LOGGING
+• Never swallow exceptions; re-throw or propagate with context.  
+• Use typed/wrapped errors (e.g., `class MyError extends Error {}` or `fmt.Errorf("…: %w", err)`).  
+• Centralize logging behind a utility; include correlation/request IDs.
+
+6  TESTING & VERIFICATION
+• Unit tests for every public path; aim for ≥ 80 % line coverage.  
+• Fast, deterministic, isolated; mock external IO/network/fs.  
+• Snapshot/Golden tests for UI or DSL code generation.  
+• CI must run linter, type-checker, and test suite; build fails on any warning.
+
+7  SECURITY & COMPLIANCE
+• Parameterize all queries; never build SQL/NoSQL with string concatenation.  
+• Validate and sanitize every external input (zod, class-validator, pydantic, etc.).  
+• Secrets live in env managers or Vault; never commit plaintext keys.  
+• Stay on latest LTS runtime; patch dependencies weekly.
+
+8  PERFORMANCE & SCALABILITY
+• Be Big-O aware; target ≤ O(n log n) in hot paths.  
+• Lazy-load heavy modules, paginate large queries, stream huge payloads.  
+• Prefer asynchronous IO over blocking operations.
+
+9  CODE REVIEW CHECKLIST
+[ ] Compiles/lints with **zero** errors or warnings.  
+[ ] All tests pass (`npm test`, `pytest`, `go test`, etc.).  
+[ ] No TODO/FIXME placeholders remain.  
+[ ] Follows naming & style conventions.  
+[ ] Public APIs are documented.  
+[ ] New code covered by tests.  
+[ ] No hard-coded credentials/secrets.  
+[ ] Reasonable complexity (≤ 15 logical lines per function where feasible).
+
+10  DEPRECATED / DISALLOWED PATTERNS
+✗ `var` in JS/TS — use `const` or `let`.  
+✗ Callback-style async in new code — use `async/await` or Promises.  
+✗ `require()` in ESM files.  
+✗ Wildcard `import *` in Python — import symbols explicitly.  
+✗ `eval`, `exec`, or unchecked reflection that bypasses type safety (tooling scripts exempt).  
+
+VERIFICATION STEPS FOR AI ASSISTANT
+1. Re-read generated diff for any guideline violations.  
+2. Run static analysis tools virtually; ensure zero issues.  
+3. Provide a brief summary of changes and why they meet these rules.
+────────────────────────────────────────────────────────────
+END OF RULE
