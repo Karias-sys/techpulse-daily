@@ -1,44 +1,45 @@
-# TechPulse Daily Configuration Template
-# Copy this file to config.yaml and update with your settings
+general:
+  run_time: "08:00"
+  output_dir: "./daily_news"
+  keep_days: 30
+  max_articles_per_source: 20
 
-# OpenAI API Configuration
-openai:
-  api_key: "your-openai-api-key-here"
-  model: "gpt-3.5-turbo"
-  max_tokens: 500
-
-# Database Configuration
-database:
-  url: "data/news.db"
-
-# RSS Feed Sources
 sources:
+  # General Tech
   - name: "TechCrunch"
     url: "https://techcrunch.com/feed/"
-    category: "general"
-  - name: "Ars Technica"
-    url: "https://feeds.arstechnica.com/arstechnica/index"
-    category: "general"
+    type: "rss"
+    categories: ["general", "startups"]
+    
   - name: "The Verge"
     url: "https://www.theverge.com/rss/index.xml"
-    category: "general"
+    type: "rss"
+    categories: ["general"]
+    
+  - name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/index"
+    type: "rss"
+    categories: ["general"]
+    
   - name: "Wired"
     url: "https://www.wired.com/feed/rss"
-    category: "general"
+    type: "rss"
+    categories: ["general"]
 
-# Scraper Configuration
-scraper:
-  schedule_time: "08:00"
-  max_articles_per_source: 50
-  user_agent: "TechPulse Daily Bot 1.0"
+summarization:
+  api: "openai"
+  model: "gpt-3.5-turbo"
+  max_length: 100
+  api_key: ""  # Set your OpenAI API key here
 
-# Output Configuration
 output:
-  generate_html: true
-  generate_markdown: true
-  output_dir: "daily_news"
+  formats: ["html", "markdown"]
+  include_summaries: true
+  group_by_category: true
+  
+database:
+  path: "./news_data.db"
 
-# Logging Configuration
 logging:
   level: "INFO"
-  file: "logs/scraper.log"
+  file: "./logs/scraper.log"
