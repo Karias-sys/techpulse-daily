@@ -1,8 +1,8 @@
 # TechPulse Daily - 2025-07-07
 
-Total Articles: 619
+Total Articles: 622
 
-## Ai (348 articles)
+## General (182 articles)
 
 ### [9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
 
@@ -10,7 +10,18 @@ Total Articles: 619
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** ai, general
+**Categories:** general, ai
+
+---
+
+### [What would a cheap, Apple A18-powered MacBook actually be good at?](https://arstechnica.com/apple/2025/07/what-would-a-cheap-apple-a18-powered-macbook-actually-be-good-at/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navSome Apple rumors just don't go away, hanging around in perpetuity ...
+
+**Categories:** general
 
 ---
 
@@ -20,7 +31,18 @@ Save this storySaveSave this storySaveAll products featured on WIRED are indepen
 
 Fortnite maker Epic Games has settled its antitrust case against Samsung, according to a court filing.The case, filed last September, accused Samsung of working with Google to block rival app stores b...
 
-**Categories:** ai, startups, general
+**Categories:** startups, general, ai
+
+---
+
+### [Samsung and Epic Games call a truce in app store lawsuit](https://arstechnica.com/gadgets/2025/07/samsung-and-epic-games-call-a-truce-in-app-store-lawsuit/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navEpic Games, buoyed by the massive success of Fortnite, has spent th...
+
+**Categories:** general
 
 ---
 
@@ -31,7 +53,7 @@ Fortnite maker Epic Games has settled its antitrust case against Samsung, accord
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navBack in 1929, archaeologists unearthed several human skeletons (sev...
 
-**Categories:** ai, general
+**Categories:** general, ai
 
 ---
 
@@ -41,7 +63,99 @@ Text
 
 Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
+
+---
+
+### [Bluesky users can customize their notifications, including activity alerts from their favorite accounts](https://techcrunch.com/2025/07/07/bluesky-users-can-customize-their-notifications-including-activity-alerts-from-their-favorite-accounts/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+On Monday, Blueskyannouncedthree updates to enhance notifications, allowing users to personalize their experience while decluttering their notification center and reducing unnecessary alerts.The updat...
+
+**Categories:** startups, general
+
+---
+
+### [Measles cases reach 33-year high as RFK Jr. pursues anti-vaccine agenda](https://arstechnica.com/health/2025/07/measles-cases-reach-33-year-high-as-rfk-jr-pursues-anti-vaccine-agenda/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the weekend, the tally of measles cases reached 1,281, setting...
+
+**Categories:** general, emerging
+
+---
+
+### [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+The iPhone’s new glassy look has been toned down with Monday’s release of the third developer beta of iOS 26. This follows user complaints that the update made parts of the user interface more difficu...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+TechThe best Fitbits for your fitness and healthWhether you want a basic fitness tracker or a smartwatch, there’s a Fitbit for everyone — though the best Fitbit smartwatch isn’t technically a Fitbit.I...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Trump and Congress finalize law that could hurt your Wi-Fi](https://arstechnica.com/tech-policy/2025/07/trump-and-congress-finalize-law-that-could-hurt-your-wi-fi/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe Federal Communications Commission has regained its authority to...
+
+**Categories:** general
+
+---
+
+### [The 8 Best Travel Pillows (2025), Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, emerging
+
+---
+
+### [Apple just added more frost to its Liquid Glass design](https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsApple just added more frost to its Liquid Glass design﻿The latest iOS 26 developer beta makes Apple’s new UI a little less transparent and easier to read.﻿The latest iOS 26 developer beta makes Ap...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [xAI updated Grok to be more &#8216;politically incorrect&#8217;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+AIxAI updated Grok to be more ‘politically incorrect’After a wild weekend, Elon Musk is playing woke-a-mole with his own chatbot.After a wild weekend, Elon Musk is playing woke-a-mole with his own cha...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Jack Dorsey working on Bluetooth messaging app, Bitchat](https://techcrunch.com/2025/07/07/jack-dorsey-working-on-bluetooth-messaging-app-bitchat/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Block CEO and Twitter co-founder Jack Dorseywrote in an X poston Sunday night that he spent his weekend creating an app called Bitchat (presumably a combination of the words “bit” and “chat,” and nott...
+
+**Categories:** startups, general
 
 ---
 
@@ -52,7 +166,18 @@ Some ChatGPT subscribersare reportinganew featureappearing in their drop-down li
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navFubo has agreed to pay $3.4 million to settle a class-action lawsui...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
+
+---
+
+### [“No honor among thieves”: M&S hacking group starts turf war](https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe ransomware group linked to the recent cyberattacks on UK retail...
+
+**Categories:** general, emerging, cybersecurity
 
 ---
 
@@ -62,7 +187,7 @@ Text
 
 Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -72,7 +197,7 @@ Some tennis players are not happy with Wimbledon’s new AI line judges,as repor
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -82,7 +207,7 @@ Save this storySaveSave this storySaveAll products featured on WIRED are indepen
 
 Save this storySaveSave this storySaveBest Air Purifier OverallIQAir Atem XRead more$1,400AmazonBest Coway Air PurifierCoway Airmega 450Read more$499$325(35% off)AmazonBest Value Air PurifierCoway Air...
 
-**Categories:** ai, general
+**Categories:** general, ai
 
 ---
 
@@ -92,7 +217,27 @@ Save this storySaveSave this storySaveBest Air Purifier OverallIQAir Atem XRead 
 
 CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
 
-**Categories:** stock, ai, startups, general
+**Categories:** startups, general, stock, ai
+
+---
+
+### [Waymo robotaxis are heading to Philadelphia and NYC](https://techcrunch.com/2025/07/07/waymo-heading-to-philadelphia-and-nyc/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Waymo kicked off two “road trips” to Philadelphia and New York City on Monday, signaling the Alphabet-owned company’s interest in expanding into Northeastern cities.Waymo’s branded “road trips” don’t ...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [Microsoft’s Edge browser now loads sites even faster](https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsMicrosoft’s Edge browser now loads sites even faster﻿The company says it’s improved the responsiveness of several Edge features, including its settings page.﻿The company says it’s improved the res...
+
+**Categories:** general, emerging
 
 ---
 
@@ -102,7 +247,1746 @@ CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire C
 
 GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
 
-**Categories:** emerging, stock, ai, general
+**Categories:** general, stock, emerging, ai
+
+---
+
+### [US may get its own glitchy version of TikTok if Trump’s deal works out](https://arstechnica.com/tech-policy/2025/07/trumps-shaky-plan-to-save-tiktok-may-push-users-to-buggy-version-of-app/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navCould Donald Trump possibly follow through on his campaign promise ...
+
+**Categories:** general
+
+---
+
+### [Trump advisor Navarro rips Apple's Tim Cook, saying he's not moving production out of China fast enough](https://www.cnbc.com/2025/07/07/trump-navarro-apple-tim-cook-china.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Navarro rips Apple for not moving production out of China fast enoughSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhite House trade advisor...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [America’s police-industrial complex has a meme stock](https://www.ft.com/content/5b44d353-27db-477c-bd0f-222dac6e7539)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerAmerica’s police-industrial complex has a meme stockSubscribe to unlock this articleTry unlimited accessOnly$1for 4 we...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Oldest wooden tools in East Asia may have come from any of three species](https://arstechnica.com/science/2025/07/did-denisovans-or-homo-erectus-make-the-oldest-wooden-tools-in-east-asia/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navSomeone made very sophisticated wooden tools in China 300,000 years...
+
+**Categories:** general
+
+---
+
+### [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [CoreWeave strikes $9bn deal to buy rival Core Scientific](https://www.ft.com/content/7a304ced-f737-4ecd-959f-b72e45fa9f2f)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerAI data centre group CoreWeave strikes $9bn deal to buy rival Core ScientificSubscribe to unlock this articleTry unlim...
+
+**Categories:** general, stock
+
+---
+
+### [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
+
+**Categories:** startups, general, emerging, ai
+
+---
+
+### [Robinhood stock tokens face scrutiny in the European Union after OpenAI warning](https://www.cnbc.com/2025/07/07/robinhood-stock-tokens-face-scrutiny-in-the-eu-after-openai-warning.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Robinhood stock tokens face scrutiny in the EU after OpenAI warningSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsThe Bank of Lithuania, Robi...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple scores big victory with 'F1,' but AI is still a major problem in Cupertino](https://www.cnbc.com/2025/07/04/apple-f1-artificial-intelligence.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Apple's 'F1' success doesn't make up for AI stumblesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhile "F1" was a victory lap for Apple' se...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Trump’s next tariffs will target South Korea and Japan](https://www.theverge.com/news/699681/trump-south-korea-japan-tariff-25-percent)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee will go into effect on August 1st, which is when the Trump administration will also impose sweeping tariffs on countries th...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [F1 in Britain: Terrible English summer weather equals entertaining race](https://arstechnica.com/cars/2025/07/f1-in-britain-terrible-english-summer-weather-equals-entertaining-race/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe heat dome that oppressed much of Europe has broken. Not a drop ...
+
+**Categories:** general, ai
+
+---
+
+### [Bluesky can really keep up with the news now that it has activity notifications](https://www.theverge.com/news/699671/bluesky-push-notifications-activity-controls-reposts)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsBluesky can really keep up with the news now that it has activity notifications﻿A new update has also added much more control over which notifications users will see, and who can trigger them.﻿A n...
+
+**Categories:** general, emerging
+
+---
+
+### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
+
+**Categories:** startups, stock, ai, general, emerging
+
+---
+
+### [Tesla shares drop 7% after Elon Musk says he is launching a political party](https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Tesla shares drop after Elon Musk says he will start a political partySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk said he would ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [The power of randomness](https://www.ft.com/content/2a4fb079-5733-40b6-ac64-8d3b6b702a81)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleThe power of randomnessLimited time offerRead this article and register for y...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
+
+**Categories:** general, stock, emerging, ai
+
+---
+
+### [Epic reaches mystery settlement with Samsung days before new Galaxy phones](https://www.theverge.com/analysis/699541/epic-games-settle-samsung-auto-blocker-lawsuit)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+AnalysisEpic reaches mystery settlement with Samsung days before new Galaxy phonesEpic isn’t saying what it got out of Samsung.Epic isn’t saying what it got out of Samsung.bySean HollisterJul 7, 2025,...
+
+**Categories:** general, emerging
+
+---
+
+### [CoreWeave to acquire Core Scientific in $9 billion all-stock deal](https://www.cnbc.com/2025/07/07/coreweave-core-scientific-stock-acquisition.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+CoreWeave to acquire Core Scientific in $9 billion all-stock dealSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsArtificial intelligence hyper...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple appeals 500 million euro EU fine over App Store policies](https://www.cnbc.com/2025/07/07/apple-appeal-eu-fine-app-store.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Apple appeals 500 million euro EU fine over App Store policiesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsApple appealed the 500 million e...
+
+**Categories:** cybersecurity, general, stock
+
+---
+
+### [Susquehanna Affiliate Buys $1 Billion IonQ Stake at 25% Premium](https://www.bloomberg.com/news/articles/2025-07-07/susquehanna-affiliate-buys-1-billion-ionq-stake-at-25-premium)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+IonQ Inc. raised $1 billion in a sale of stock and warrants to an affiliate of Susquehanna International Group, in a deal priced at a 25% premium to the quantum computing company’s closing price on Th...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [TikTok reportedly developing new version of app ahead of planned US sale](https://techcrunch.com/2025/07/07/tiktok-reportedly-developing-new-version-of-app-ahead-of-planned-us-sale/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+TikTok is developing a new version of its app for U.S. users ahead of an expected sale of the app to a group of investors, according to a report fromThe Information.The company reportedly plans to lau...
+
+**Categories:** startups, general
+
+---
+
+### [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+TechApple’s latest AirPods are already on sale for $99 before Prime DayPlus, we found deals on the latest Kindle Scribe and Garmin’s Venu Sq 2.Plus, we found deals on the latest Kindle Scribe and Garm...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Ingram Micro says ongoing outage caused by ransomware attack](https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [Nintendo wants to keep ‘traditional approach’ to development as costs skyrocket](https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsNintendo wants to keep ‘traditional approach’ to development as costs skyrocketNintendo president Shuntaro Furukawa says the company will make ‘necessary investments for more efficient development...
+
+**Categories:** emerging, general
+
+---
+
+### [Wicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movie](https://www.theverge.com/news/699463/mattel-hot-wheels-live-action-movie-jon-m-chu-director)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsWicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movieThere are still no plot details, but the Hot Wheels movie has found its director three years after being announced.There are st...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
+
+**Categories:** startups, stock, ai, general, emerging
+
+---
+
+### [CoreWeave to Buy Core Scientific in $9 Billion Stock Deal](https://www.bloomberg.com/news/articles/2025-07-07/coreweave-to-buy-core-scientific-in-deal-valued-at-9-billion)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+CoreWeave Inc. is dropping $9 billion on the data-center operator Core Scientific Inc. in an effort to gain more direct control over the physical assets powering the artificial-intelligence boom.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Strategy Posts $14 Billion Unrealized Gain in Second Quarter](https://www.bloomberg.com/news/articles/2025-07-07/strategy-posts-14-billion-unrealized-gain-in-second-quarter)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Michael Saylor’s Strategy registered an unrealized gain of $14.05 billion in the second quarter due to a rebound in Bitcoin’s price and a recent accounting change.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general
+
+---
+
+### [Amazon’s Shopping Bot Falls Short of Prime Performance](https://www.bloomberg.com/news/newsletters/2025-07-07/amazon-s-shopping-bot-falls-short-of-prime-performance)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Austin Carr looks at the performance of Amazon’s shopping bot, Rufus.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [How a big shift in training LLMs led to a capability explosion](https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Huawei’s AI Lab Fends Off Accusations It Copied Rival Models](https://www.bloomberg.com/news/articles/2025-07-07/huawei-s-ai-lab-fends-off-accusations-it-copied-rival-models)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Huawei Technologies Co.’s secretive AI research lab has pushed back against accusations it relied on rivals’ models to develop its own Pangu platform, taking the unusual step of rebutting claims about...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsApple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’An Extinction Rebellion protester was arrested after spray-painting ‘Tim + Trump = Toxic’ on Apple’s New York City storefront.An E...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+Podcasts/DecoderHow SharkNinja took over the home, with CEO Mark BarrocasThe head of the home appliance giant on grilling, product design, and the future of viral marketing.byNilay PatelJul 7, 2025, 2...
+
+**Categories:** general, emerging
+
+---
+
+### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsNow you can just tell SmartThings how to automate your homeNew updates to Samsung’s smart home platform let you set up routines with natural language, plus there’s now an Apple Watch widget.﻿New u...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Apple Appeals ‘Unprecedented’ €500 Million EU App Store Fine](https://www.bloomberg.com/news/articles/2025-07-07/apple-appeals-unprecedented-500-million-eu-app-store-fine)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Apple Inc. appealed a €500 million ($580 million) fine from the European Union, calling the penalty “unprecedented” and the regulator’s required changes to its App Store as “unlawful.”
+
+**Categories:** general, stock
+
+---
+
+### [Nvidia challenger Groq expands with first European data center](https://www.cnbc.com/2025/07/07/ai-chip-startup-groq-expands-with-first-european-data-center.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-07
+
+Nvidia challenger Groq expands with first European data centerSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsGroq said it has established its...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Destiny&#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsDestiny’s mobile spinoff will arrive in August﻿Destiny: Risingis a free-to-play RPG shooter for iOS and Android set in an ‘alternate timeline’ to the main franchise.﻿Destiny: Risingis a free-to-pl...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Windows 11 has finally overtaken Windows 10 as the most used desktop OS](https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsWindows 11 has finally overtaken Windows 10 as the most used desktop OSWindows 11 is now more widely used than Windows 10, nearly four years after its release.Windows 11 is now more widely used th...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsSpecs leak for three Samsung foldables ahead of Wednesday’s UnpackedSamsung’s launch is two days away, but there’s not much left we don’t know.Samsung’s launch is two days away, but there’s not mu...
+
+**Categories:** ai, general
+
+---
+
+### [Capgemini to Buy WNS for $3.3 Billion to Expand AI Offer](https://www.bloomberg.com/news/articles/2025-07-07/capgemini-to-buy-it-firm-wns-for-3-3-billion-to-boost-ai)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+The French consulting company Capgemini SE has agreed to buy IT outsourcing firm WNS Holdings Ltd. for $3.3 billion in cash in a push to expand its presence in artificial intelligence, a technology in...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Apple Supplier Lens Tech Said to Price $607 Million Hong Kong Listing at Top of Range](https://www.bloomberg.com/news/articles/2025-07-07/apple-supplier-lens-tech-said-to-price-607-million-hk-listing-at-top-of-range)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-07
+
+Apple Inc. supplier Lens Technology Co. has raised HK$4.8 billion ($607 million) after pricing its Hong Kong listing at the top of the marketed range, according to terms of the deal seen by Bloomberg ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [‘No honour among thieves’: M&S hacking group starts turf war](https://www.ft.com/content/22cb54ef-1611-4aef-b671-16316280e3fb)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footer‘No honour among thieves’: M&S hacking group starts turf warSubscribe to unlock this articleJoin FT EditOnly$4.99per m...
+
+**Categories:** cybersecurity, general, emerging, stock
+
+---
+
+### [US stocks: rally or overcorrection?](https://www.ft.com/content/23dcb650-df6a-47af-a722-bf6c4e434b38)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+US stocks: rally or overcorrection?onx(opens in a new window)US stocks: rally or overcorrection?onfacebook(opens in a new window)US stocks: rally or overcorrection?onlinkedin(opens in a new window)US ...
+
+**Categories:** general, stock
+
+---
+
+### [On-the-job learning upended by AI and hybrid work](https://www.ft.com/content/071089b8-839a-4f96-af79-394c08a146d1)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOn-the-job learning upended by AI and hybrid workSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeks...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Why it is vital that you understand the infrastructure behind AI](https://www.ft.com/content/8452bf94-9a41-4040-913f-ef1a462d6ea6)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-07
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhy it is vital that you understand the infrastructure behind AISubscribe to unlock this articleTry unlimited accessOn...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [How Xiaomi Succeeded Where Apple Failed](https://www.bloomberg.com/news/articles/2025-07-06/xiaomi-founder-s-bold-ev-bet-is-paying-off-where-apple-s-failed)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-06
+
+Lei Jun, founder and chairman of Xiaomi Corp., the only tech company to have successfully diversified into carmaking, couldn’t resist.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
+
+**Categories:** startups, general, emerging, ai
+
+---
+
+### [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
+
+**Categories:** startups, general, emerging, ai
+
+---
+
+### [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
+
+**Categories:** startups, general, emerging, ai
+
+---
+
+### [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
+
+**Source:** TechCrunch | **Published:** 2025-07-06
+
+Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
+
+**Categories:** startups, general, emerging, ai
+
+---
+
+### [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+NewsTikTok’s ‘ban’ problem could end soon with a new app and a saleThe Information reports a new TikTok app could replace the old one in September.The Information reports a new TikTok app could replac...
+
+**Categories:** general, emerging
+
+---
+
+### [Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, emerging
+
+---
+
+### [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+TechHere are 33 of our favorite deals from Amazon’s early Prime Day saleAmazon Prime Day kicks off on July 8th, but you don’t need to wait until then to save.Amazon Prime Day kicks off on July 8th, bu...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [12 Best Kids Headphones (2025), Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [How to watch Summer Games Done Quick 2025](https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+GamingHow to watch Summer Games Done Quick 2025The summer speedrunning charity showcase is back, raising money for Doctors Without Borders.The summer speedrunning charity showcase is back, raising mon...
+
+**Categories:** general, emerging
+
+---
+
+### [Figuring out why a nap might help people see things in new ways](https://arstechnica.com/science/2025/07/figuring-out-why-a-nap-might-help-people-see-things-in-new-ways/)
+
+**Source:** Ars Technica | **Published:** 2025-07-06
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navDmitri Mendeleev famously saw the complete arrangement of the perio...
+
+**Categories:** general
+
+---
+
+### [It’s a bad time to be a graduate](https://www.ft.com/content/002a0943-f977-44bd-bc78-957c877dfed1)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-06
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerIt’s a bad time to be a graduateSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month....
+
+**Categories:** ai, general, stock
+
+---
+
+### [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general
+
+---
+
+### [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+EntertainmentThe Verge’s summer ‘in’ and ‘out’ listIn our second annual trend forecast, The Verge staff weighs in on Labubus, tariffs, The Hague, and AI slop.byMia SatoJul 6, 2025, 1:00 PM UTCLinkFace...
+
+**Categories:** general, emerging
+
+---
+
+### [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
+
+**Source:** The Verge | **Published:** 2025-07-06
+
+Tech/ReviewsLenovo Chromebook Plus 14 review: the new king of Chromebooks﻿An OLED display, a fast processor, 16GB of RAM, and all-day battery life for $749? That’s a lot to like.If you buy something f...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
+
+**Source:** Wired | **Published:** 2025-07-06
+
+Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Meteorologists Say the National Weather Service Did Its Job in Texas](https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveAt least 27people, including nine children, are dead in central Texas after flash floods struck suddenly on the morning of the Fourth of July holiday. After a sto...
+
+**Categories:** general
+
+---
+
+### [Drive Capital’s second act — how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
+
+**Categories:** startups, stock, ai, general, emerging
+
+---
+
+### [Ask not for whom the Louvre of Bluesky tolls, it tolls for thee](https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
+
+**Source:** TechCrunch | **Published:** 2025-07-05
+
+A group known as the Independent Publishers Alliance has filed an antitrust complaint with the European Commission over Google’s AI Overviews,according to Reuters.The complaint accuses Google of “misu...
+
+**Categories:** startups, ai, general, emerging
+
+---
+
+### [Secret Service in US Expands a Global Push Against Crypto Scams](https://www.bloomberg.com/news/articles/2025-07-05/us-secret-service-builds-international-network-to-fight-crypto-crime)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-05
+
+The scam began with a message, then a friendly exchange. A stranger directed the victim to a cryptocurrency investment site that appeared professional &mdash; slick design, charts, even customer suppo...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+NewsCyberpunk: Edgerunners 2 will be even sadder and bloodierNetflix’s Cyberpunk 2077 anime spinoff is coming back for a second 10-episode season with ‘an entirely new story.’Netflix’s Cyberpunk 2077 ...
+
+**Categories:** emerging, cybersecurity, general
+
+---
+
+### [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Inside a Utah desert facility preparing humans for life on Mars](https://www.cnbc.com/2025/07/05/utah-mars-desert-research.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-05
+
+Inside a Utah desert facility preparing humans for life on MarsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuHidden among the majestic canyons of the ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Best Laptop Stands (2025): 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general
+
+---
+
+### [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveTriangleUpBuy NowMultiple Buying Options Available$269at Amazon$269at BoseAll products featured on WIRED are independently selected by our editors. However, when ...
+
+**Categories:** general, emerging
+
+---
+
+### [Everything You Can Do in the Photoshop Mobile App](https://www.wired.com/story/everything-you-can-do-in-the-photoshop-mobile-app/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveYou know yoursoftware is a success when its name becomes a verb: You'll now commonly hear about images being photoshopped, even if the editing wasn't done with th...
+
+**Categories:** general
+
+---
+
+### [The curious rise of giant tablets on wheels](https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/)
+
+**Source:** Ars Technica | **Published:** 2025-07-05
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the past few years, LG has set off a strange tech trend that’s...
+
+**Categories:** general
+
+---
+
+### [Samsung is about to find out if Ultra is enough](https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+Tech/SamsungSamsung is about to find out if Ultra is enoughIt looks like Samsung has some new ideas about foldables this year — but will they be enough to entice buyers?It looks like Samsung has some ...
+
+**Categories:** emerging, general
+
+---
+
+### [The 49 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveStreaming services areknown for having award-worthy series but also plenty of duds. Our guide to the best TV shows on Netflix is updated weekly to help you know w...
+
+**Categories:** general, emerging
+
+---
+
+### [The 50 Best Movies on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveNetflix has plentyof movies to watch. Maybetoomany. Sometimes finding the right film at the right time can seem like an impossible task. Let us help you. Below is...
+
+**Categories:** general, emerging
+
+---
+
+### [Is It Time to Stop Protecting the Grizzly Bear?](https://www.wired.com/story/is-it-time-to-stop-protecting-the-grizzly-bear-endangered-species-act-list/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveThis story originallyappeared onVoxand is part of theClimate Deskcollaboration.In the early 1900s, long before smartphones and selfie sticks, tourists flocked to ...
+
+**Categories:** general, emerging
+
+---
+
+### [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
+
+**Source:** Wired | **Published:** 2025-07-05
+
+Save this storySaveSave this storySaveIn recent years,North Korea has deployedthousands of so-called IT workers to infiltrate Western businesses, get paid salaries, and send money back to support the ...
+
+**Categories:** ai, cybersecurity, general, emerging
+
+---
+
+### [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+Gaming/Games ReviewDeltarune is halfway done, but it feels like a full gameThe parallel story to Undertale is just as good.The parallel story to Undertale is just as good.byJay PetersJul 5, 2025, 1:00...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Ethereum is powering Wall Street's future. The crypto scene at Cannes shows how far it's come](https://www.cnbc.com/2025/07/04/the-ethcc-crypto-scene-at-cannes-shows-how-far-ethereum-has-come.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-05
+
+The EthCC crypto scene at Cannes shows how far Ethereum has comeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsCrypto founders, developers, a...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Nvidia Partner Hon Hai Meets Sales Estimates on Strong AI Demand](https://www.bloomberg.com/news/articles/2025-07-05/nvidia-partner-hon-hai-meets-sales-estimates-on-strong-ai-demand)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-05
+
+Hon Hai Precision Industry Co. reported 15.8% growth in quarterly sales on robust demand for AI servers and iPhones.
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
+
+**Source:** The Verge | **Published:** 2025-07-05
+
+Transportation/Cars/Mercedes-BenzMercedes-Benz electric G-Wagen review: king of the off-roadThe G580 with EQ Technology may have a fancy name, but it stays true to its original formula.byPeter NelsonJ...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Apple races to box office glory with Brad Pitt’s F1 blockbuster](https://www.ft.com/content/fe5a2104-e56f-48a7-9aab-a61f413f780a)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-05
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleApple races to box office glory with Brad Pitt’s F1 blockbusterLimited time o...
+
+**Categories:** general, stock
+
+---
+
+### [ChatGPT — the last of the great romantics](https://www.ft.com/content/22c42b1a-c5eb-4d92-843e-c5a4fb17be6b)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-05
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerChatGPT — the last of the great romanticsSubscribe to unlock this articleJoin FT EditOnly$4.99per monthAccess to eight...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+
+**Source:** The Verge | **Published:** 2025-07-04
+
+TechHere are the best Apple Watch deals available right now﻿Every model in Apple’s current lineup, from the entry-level SE to the jet black Ultra 2, is receiving a sizable discount right now.﻿Every mo...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [IPO market gets boost from Circle's 500% surge, sparking optimism that drought may be ending](https://www.cnbc.com/2025/07/03/ipo-market-boost-from-circle-500percent-surge-vcs-say-drought-may-be-ending.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+IPO market boost from Circle 500% surge, VCs say drought may be endingSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTech IPOs had a big mont...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+Microsoft is closing its operations in Pakistan, marking the end of a 25-year presence in the South Asian nation.The Redmond-based company on Friday told TechCrunch that it is changing its operational...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [Trump inaugural impersonators scammed donors out of crypto, feds say](https://www.cnbc.com/2025/07/04/trump-cryptocurrency-ethereum-tokens.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+Trump inaugural impersonators scammed donors out of crypto, feds saySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsScammers impersonating the...
+
+**Categories:** ai, general, stock
+
+---
+
+### [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+Welcome back toTechCrunch Mobility— your central hub for news and insights on the future of transportation. Sign up here for free — just clickTechCrunch Mobility!This week I’m publishing an abbreviate...
+
+**Categories:** startups, general
+
+---
+
+### [OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats](https://www.cnbc.com/2025/07/04/openai-altman-july-4-zohran-mamdani.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+OpenAI CEO Sam Altman celebrates capitalism in July 4 postSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI CEO Sam Altman said he finds ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Musk backs Sen. Paul's criticism of Trump's megabill in first comment since it passed](https://www.cnbc.com/2025/07/04/musk-trump-megabill.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-04
+
+Musk backs criticism of Trump's megabill after it passed HouseSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTesla CEO Elon Musk made his fir...
+
+**Categories:** general, stock
+
+---
+
+### [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveCruise robotaxis areback on the road … well, kind of. Though General Motorspulled the plugon its self-driving taxi business last year, the automaker has been quie...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [How to Choose the Right Soundbar (2025): Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, emerging
+
+---
+
+### [15 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, general
+
+---
+
+### [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
+
+**Source:** TechCrunch | **Published:** 2025-07-04
+
+The European Union on Friday said it will stick to its timeline for implementing its landmark AI legislation, in response to a concerted effort by more than a hundred tech companies to delay the bloc’...
+
+**Categories:** startups, ai, general
+
+---
+
+### [15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [The 13 Best Fans for the Coolest Summer (2025)](https://www.wired.com/gallery/best-fans/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** emerging, general
+
+---
+
+### [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveWhether due toconsumer backlash or an aging EV lineup, or both, Tesla saleshave again seen a global plunge, this time 13 percent last quarter compared to the prev...
+
+**Categories:** emerging, general
+
+---
+
+### [Best Fourth of July Mattress Deals From Helix, Birch, and More (2025)](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveChristmas in July,mattress edition. The Fourth of July is not only for barbecues and pool hangouts, but some of the best mattress deals you’ll see all year. That'...
+
+**Categories:** emerging, general
+
+---
+
+### [Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now](https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/)
+
+**Source:** Ars Technica | **Published:** 2025-07-04
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navWelcome to Edition 8.01 of the Rocket Report! Today's edition will ...
+
+**Categories:** general, emerging
+
+---
+
+### [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
+
+**Source:** Wired | **Published:** 2025-07-04
+
+Save this storySaveSave this storySaveThere are around11,000 satellites orbiting Earth, and it is estimated that at least 50,000 more will be launched in the next decade. There are also exploration in...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Valve conquered PC gaming. What comes next?](https://www.ft.com/content/f4a13716-838a-43da-853b-7c31ac17192c)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-04
+
+Valve conquered PC gaming. What comes next?onx(opens in a new window)Valve conquered PC gaming. What comes next?onfacebook(opens in a new window)Valve conquered PC gaming. What comes next?onlinkedin(o...
+
+**Categories:** general, stock
+
+---
+
+### [Hitachi Energy says AI power spikes threaten to destabilise global supply](https://www.ft.com/content/2789d048-7791-4f9a-8dbe-229c45f8083b)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-04
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHitachi Energy says AI power spikes threaten to destabilise global supplySubscribe to unlock this articleTry unlimited...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Uniqlo Owner, Seven &amp; i To Set Tone for Japan’s Consumer Sector](https://www.bloomberg.com/news/articles/2025-07-04/uniqlo-owner-seven-i-to-set-tone-for-japan-s-consumer-sector)
+
+**Source:** Bloomberg Technology | **Published:** 2025-07-04
+
+Uniqlo owner Fast Retailing Co. and Seven &amp; i Holdings Co. will show how Japan’s consumer sector is faring as Asia’s earnings season kicks off.
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Microsoft layoffs hit 830 workers in home state of Washington](https://www.cnbc.com/2025/07/03/microsoft-layoffs-hit-830-workers-in-home-state-of-washington-.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+Microsoft layoffs hit 830 workers in home state of WashingtonSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsMicrosoft's latest job cuts affec...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+Slate Auto, theelectric vehicle startup backed by Jeff Bezos, has stopped promoting that its upcoming pickup truck will start “under $20,000” following passage of President Trump’s tax cut bill. The b...
+
+**Categories:** startups, general
+
+---
+
+### [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+You got into Y Combinator, raised $20 million from a16z, and then exited to Meta? That’s cool, I guess. But did Soham Parekh apply to work at your startup?There is now a new badge of honor for startup...
+
+**Categories:** startups, general, emerging
+
+---
+
+### [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)
+
+**Source:** Wired | **Published:** 2025-07-03
+
+Save this storySaveSave this storySaveUS attorney generalPam Bondi has told at least 10 tech companies, including Apple, Microsoft, Amazon, and Google, that they have “incurred no liability” for suppo...
+
+**Categories:** general
+
+---
+
+### [Tripadvisor stock surges 17% as Starboard Value builds sizable stake in online travel company](https://www.cnbc.com/2025/07/03/tripadvisor-activist-starboard-value.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+Tripadvisor stock surges as Starboard Value builds 9% stakeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTripadvisor's stock jumped after St...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Provider of covert surveillance app spills passwords for 62,000 users](https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe maker of a phone app that is advertised as providing a stealthy...
+
+**Categories:** general, emerging
+
+---
+
+### [Final GOP bill kneecaps renewables and hydrogen but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
+
+**Source:** TechCrunch | **Published:** 2025-07-03
+
+Republican legislators Thursday passed a reconciliation act that, among other things, unwinds much of the Inflation Reduction Act (IRA). The bill, which passed 218-214 with two Republicans voting no, ...
+
+**Categories:** emerging, startups, general
+
+---
+
+### [Judge: You can’t ban DEI grants without bothering to define DEI](https://arstechnica.com/science/2025/07/doge-told-the-nih-which-grants-to-cancel-with-no-scientific-review/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn mid-June, a federal judgeissued a stinging rebuketo the Trump ad...
+
+**Categories:** general, ai
+
+---
+
+### [Meta’s “AI superintelligence” effort sounds just like its failed “metaverse”](https://arstechnica.com/ai/2025/07/metas-ai-superintelligence-effort-sounds-just-like-its-failed-metaverse/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [The Last of Us co-creator Neil Druckmann exits HBO show](https://arstechnica.com/culture/2025/07/the-last-of-us-co-creator-neil-druckmann-exits-hbo-show/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTwo key writers of HBO's seriesThe Last of Usare moving on, accordi...
+
+**Categories:** general, emerging
+
+---
+
+### [U.S. lifts chip software curbs on China in sign of trade truce](https://www.cnbc.com/2025/07/03/us-lifts-chip-software-curbs-on-china-amid-trade-truce-synopsys-says-.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+U.S. lifts chip software curbs on China in sign of trade truceSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsSiemens AG, Synopsys, and Cadenc...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Signs of a pick-up in venture capital exits are finally emerging](https://www.ft.com/content/2e0201f6-8258-4c59-a7a7-689b2c094701)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerSigns of a pick-up in venture capital exits are finally emergingSubscribe to unlock this articleTry unlimited accessOn...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips](https://www.cnbc.com/2025/07/03/coreweave-dell-blackwell-ultra-nvidia.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+CoreWeave says it's the first to get Nvidia's Blackwell UltraSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsNvidia's Blackwell Ultra chips, t...
+
+**Categories:** ai, general, stock
+
+---
+
+### [2025 VW ID Buzz review: If you want an electric minivan, this is it](https://arstechnica.com/cars/2025/07/2025-vw-id-buzz-acres-of-space-but-being-electric-comes-at-a-premium/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you had asked me a few years ago, I would have told you that the...
+
+**Categories:** general
+
+---
+
+### [Bad data leads to bad policy](https://www.ft.com/content/689a72db-e622-4868-b52c-9a5cdc4ad1f5)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerBad data leads to bad policySubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month.
+Com...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Man’s ghastly festering ulcer stumps doctors—until they cut out a wedge of flesh](https://arstechnica.com/health/2025/07/man-fails-to-take-his-medicine-the-flesh-starts-rotting-off-his-leg/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [xAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
+
+**Source:** Ars Technica | **Published:** 2025-07-03
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAftermonths of backlashover alleged pollution concerns, xAI has fin...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Dinosaurs to doctors’ records: the UK weighs up its data assets](https://www.ft.com/content/7585ed49-3e2c-4863-b0dc-a8a2942e9b9c)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerDinosaurs to doctors’ records: the UK weighs up its data assetsSubscribe to unlock this articleTry unlimited accessOnl...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Glovo pauses ‘heat bonuses’ for Italian food delivery workers after backlash](https://www.ft.com/content/d87ae9b1-e18b-4369-92d5-51d16c6e694b)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerGlovo pauses ‘heat bonuses’ for Italian food delivery workers after backlashSubscribe to unlock this articleTry unlimi...
+
+**Categories:** general, stock
+
+---
+
+### [Apple's China iPhone sales grows for the first time in two years](https://www.cnbc.com/2025/07/03/apple-china-iphone-sales-grew-for-the-first-time-in-two-years.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+Apple China iPhone sales grew for the first time in two yearsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsSales of iPhones in China jumped ...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [I’m human. Are you? The battle for our online identity](https://www.ft.com/content/1a93ca54-d1b9-4b06-b504-7c4937173068)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerI’m human. Are you? The battle for our online identitySubscribe to unlock this articleTry unlimited accessOnly$1for 4 ...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Like Google, China's biggest search player Baidu is beefing up its product with AI to fight rivals](https://www.cnbc.com/2025/07/03/chinas-baidu-is-beefing-up-its-search-product-with-ai-to-fight-rivals.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+China's Baidu is beefing up its search product with AI to fight rivalsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsBaidu has given its sear...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Amazon to shut down Freevee streaming TV service in August](https://www.cnbc.com/2025/07/02/amazon-freevee-streaming.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+Amazon to shut down Freevee streaming TV service in AugustSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAmazon is sunsetting its standalone ...
+
+**Categories:** general, stock
+
+---
+
+### [Cutting-edge pressure and BYD leads Tesla](https://www.ft.com/content/51c19253-3afc-4c57-906f-cb7964130b00)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerCutting-edge pressure and BYD leads TeslaSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75p...
+
+**Categories:** general, stock
+
+---
+
+### [AI voice startup ElevenLabs pushes global expansion as it gears up for an IPO](https://www.cnbc.com/2025/07/03/ai-voice-startup-elevenlabs-plots-global-expansion-eventual-ipo.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-03
+
+AI voice startup ElevenLabs plots global expansion, eventual IPOSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAI voice generation platform E...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Are bigger AI models better stock pickers? Maybe, but probably not](https://www.ft.com/content/89d88cbf-a92c-43d2-b8af-88ae26529be0)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT AlphavilleRegister to unlock this articleAre bigger AI models better stock pickers? Maybe, but probably notFT Alpha...
+
+**Categories:** ai, general, emerging, stock
+
+---
+
+### [Chip software makers say US restrictions on sales to China lifted](https://www.ft.com/content/36b12cb9-68d4-4e31-84e8-6d96d676b45d)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerChip software makers say US restrictions on sales to China liftedSubscribe to unlock this articleTry unlimited accessO...
+
+**Categories:** general, emerging, stock
+
+---
+
+### [Meta’s AI climate tool raised false hope of CO₂ removal, scientists say](https://www.ft.com/content/69220fea-9c9a-4f55-9118-65d2660c85d4)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerMeta’s AI climate tool raised false hope of CO₂ removal, scientists saySubscribe to unlock this articleJoin FT EditOnl...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [European CEOs urge Brussels to halt landmark AI Act](https://www.ft.com/content/a825759e-aec8-4184-bc73-f604f169204c)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerEuropean CEOs urge Brussels to halt landmark AI ActSubscribe to unlock this articleTry unlimited accessOnly$1for 4 wee...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [How hopeful can we be about AI climate tech?](https://www.ft.com/content/bd835b8f-e39a-4e5f-84d0-2fb019b47b80)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHow hopeful can we be about AI climate tech?Subscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$...
+
+**Categories:** ai, general, stock
+
+---
+
+### [Whose job is safe from AI?](https://www.ft.com/content/b67bcbaa-67b9-48f8-ad4d-4cd6f9bdc1b7)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-03
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhose job is safe from AI?Subscribe to unlock this articleJoin FT EditOnly$49a yearGet 2 months free with an annual su...
+
+**Categories:** ai, general, stock
+
+---
+
+### [OpenAI signs $30bn data centre deal with Oracle](https://www.ft.com/content/b4324903-ff53-48c2-bf71-4151cd4f68d0)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-02
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOpenAI signs $30bn data centre deal with OracleSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksTh...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Datadog stock jumps 10% on tech company’s inclusion in S&P 500 index](https://www.cnbc.com/2025/07/02/datadog-stock-jumps-sp-500-index-inclusion.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Datadog stock jumps on inclusion in S&P 500 indexSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsDatadog shares were up 10% in extended tradin...
+
+**Categories:** emerging, general, stock
+
+---
+
+### [OpenAI says Robinhood's tokens aren't equity in the company](https://www.cnbc.com/2025/07/02/openai-robinhood-tokens.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+OpenAI says Robinhood's tokens aren't equity in the companySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI said it did not partner with...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [TikTok is being flooded with racist AI videos generated by Google’s Veo 3](https://arstechnica.com/ai/2025/07/racist-ai-videos-created-with-google-veo-3-are-proliferating-on-tiktok/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe release of Google's Veo 3 video generator in May represented ad...
+
+**Categories:** ai, general
+
+---
+
+### [Everything that could go wrong with X’s new AI-written community notes](https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navElon Musk's X arguably revolutionized social media fact-checking by...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Qantas hit by cyber attack after FBI alert on Scattered Spider group](https://www.ft.com/content/255cdc1d-f31e-4199-ad95-4666a0a660a2)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-02
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerQantas hit by cyber attack after FBI alert on Scattered Spider groupSubscribe to unlock this articleTry unlimited acce...
+
+**Categories:** general, stock, ai, emerging, cybersecurity
+
+---
+
+### [New evidence that some supernovae may be a “double detonation”](https://arstechnica.com/science/2025/07/new-evidence-that-some-supernovae-may-be-a-double-detonation/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navType Ia supernovae are critical tools in astronomy, since they all ...
+
+**Categories:** general, emerging
+
+---
+
+### [Robinhood stock hits $100 as it roars 30% since S&P 500 snub](https://www.cnbc.com/2025/07/02/robinhood-stock-record.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Robinhood stock hits $100 as it roars 30% since S&P 500 snubSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsRobinhood stock hit the $100 mark ...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Rice could be key to brewing better non-alcoholic beer](https://arstechnica.com/science/2025/07/rice-could-be-key-to-brewing-better-non-alcoholic-beer/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThere is increasing consumer demand for low- or non-alcoholic beers...
+
+**Categories:** general
+
+---
+
+### [AT&T rolls out Wireless Account Lock protection to curb the SIM-swap scourge](https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAT&T is rolling out a protection that prevents unauthorized changes...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Elon Musk's X goes down for some users](https://www.cnbc.com/2025/07/02/elon-musk-x-outage.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Elon Musk's X goes down for some usersSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk's social media platform X was hit with an outa...
+
+**Categories:** general, stock
+
+---
+
+### [Ukraine summons top US diplomat after Washington halts some arms supplies](https://www.ft.com/content/b69e327d-95a3-487d-a9b6-6a72ef48ba61)
+
+**Source:** Financial Times Tech | **Published:** 2025-07-02
+
+Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerUkraine summons top US diplomat after Washington halts some arms suppliesSubscribe to unlock this articleTry unlimited...
+
+**Categories:** emerging, ai, general, stock
+
+---
+
+### [Ether and related stocks gain amid the latest crypto craze: Tokenization](https://www.cnbc.com/2025/07/02/ether-and-related-stocks-gain-amid-the-latest-crypto-craze-tokenization.html)
+
+**Source:** CNBC Tech | **Published:** 2025-07-02
+
+Ether and related stocks gain amid the latest crypto craze: TokenizationSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsShares of BitMine Imme...
+
+**Categories:** ai, general, stock
+
+---
+
+### [From Le Mans to Driven—where does F1: The Movie rank?](https://arstechnica.com/cars/2025/07/f1-the-movie-takes-motorsport-into-the-imax-age/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIt may not have escaped your attention that there's a new film abou...
+
+**Categories:** general
+
+---
+
+### [NYT to start searching deleted ChatGPT logs after beating OpenAI in court](https://arstechnica.com/tech-policy/2025/07/nyt-to-start-searching-deleted-chatgpt-logs-after-beating-openai-in-court/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navLast week, OpenAI raised objections in court, hoping to overturn a ...
+
+**Categories:** ai, general, emerging
+
+---
+
+### [Paramount accused of bribery as it settles Trump lawsuit for $16 million](https://arstechnica.com/tech-policy/2025/07/paramount-accused-of-bribery-as-it-settles-trump-lawsuit-for-16-million/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navCBS owner Paramount has reached a $16 million settlement with Presi...
+
+**Categories:** emerging, general
+
+---
+
+### [Medical groups warn Senate budget bill will create dystopian health care system](https://arstechnica.com/health/2025/07/doctors-blast-senate-bill-point-out-that-11-8m-losing-health-insurance-is-bad/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navMedical organizations are blasting the Senate's budget bill in the ...
+
+**Categories:** emerging, ai, general
+
+---
+
+### [Tesla Q2 2025 sales dropped more than 13% year over year](https://arstechnica.com/cars/2025/07/tesla-q2-2025-sales-dropped-more-than-13-year-over-year/)
+
+**Source:** Ars Technica | **Published:** 2025-07-02
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTesla sold 384,122 electric vehicles during the months of April, Ma...
+
+**Categories:** emerging, general
+
+---
+
+## Ai (351 articles)
+
+### [9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, ai
+
+---
+
+### [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Fortnite maker Epic Games has settled its antitrust case against Samsung, according to a court filing.The case, filed last September, accused Samsung of working with Google to block rival app stores b...
+
+**Categories:** startups, general, ai
+
+---
+
+### [Ancient skull may have been half human, half Neanderthal child](https://arstechnica.com/science/2025/07/ancient-skull-may-have-been-half-human-half-neanderthal-child/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navBack in 1929, archaeologists unearthed several human skeletons (sev...
+
+**Categories:** general, ai
+
+---
+
+### [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
+
+**Categories:** startups, general, emerging, ai
+
+---
+
+### [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+TechThe best Fitbits for your fitness and healthWhether you want a basic fitness tracker or a smartwatch, there’s a Fitbit for everyone — though the best Fitbit smartwatch isn’t technically a Fitbit.I...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Apple just added more frost to its Liquid Glass design](https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsApple just added more frost to its Liquid Glass design﻿The latest iOS 26 developer beta makes Apple’s new UI a little less transparent and easier to read.﻿The latest iOS 26 developer beta makes Ap...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [xAI updated Grok to be more &#8216;politically incorrect&#8217;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+AIxAI updated Grok to be more ‘politically incorrect’After a wild weekend, Elon Musk is playing woke-a-mole with his own chatbot.After a wild weekend, Elon Musk is playing woke-a-mole with his own cha...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Fubo pays $3.4M to settle claims it illegally shared user data with advertisers](https://arstechnica.com/gadgets/2025/07/fubo-pays-3-4m-to-settle-claims-it-illegally-shared-user-data-with-advertisers/)
+
+**Source:** Ars Technica | **Published:** 2025-07-07
+
+Text
+        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navFubo has agreed to pay $3.4 million to settle a class-action lawsui...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
+
+**Categories:** startups, general, emerging, ai
+
+---
+
+### [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [15 Best Air Purifiers (2025): Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+
+**Source:** Wired | **Published:** 2025-07-07
+
+Save this storySaveSave this storySaveBest Air Purifier OverallIQAir Atem XRead more$1,400AmazonBest Coway Air PurifierCoway Airmega 450Read more$499$325(35% off)AmazonBest Value Air PurifierCoway Air...
+
+**Categories:** general, ai
+
+---
+
+### [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
+
+**Source:** TechCrunch | **Published:** 2025-07-07
+
+CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
+
+**Categories:** startups, general, stock, ai
+
+---
+
+### [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
+
+**Categories:** general, stock, emerging, ai
 
 ---
 
@@ -132,7 +2016,7 @@ Chevron preps quick closing of Hess deal and awaits result of Exxon disputeIllus
 
 Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -152,7 +2036,7 @@ The Dow Jones Industrial Average and other major indexes weakened further on Mon
 
 Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -192,7 +2076,7 @@ SONAR Enhances Oracle’s OTM Integration and Launches Shipper Consortium for Un
 
 NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee will go into effect on August 1st, which is when the Trump administration will also impose sweeping tariffs on countries th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -203,7 +2087,7 @@ NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee w
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe heat dome that oppressed much of Europe has broken. Not a drop ...
 
-**Categories:** ai, general
+**Categories:** general, ai
 
 ---
 
@@ -213,7 +2097,7 @@ Text
 
 The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -273,7 +2157,7 @@ Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to foot
 
 Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
 
-**Categories:** emerging, stock, ai, general
+**Categories:** general, stock, emerging, ai
 
 ---
 
@@ -323,7 +2207,7 @@ SponsoredIn partnership withTeamViewerDigital transformation has long been a boa
 
 TechApple’s latest AirPods are already on sale for $99 before Prime DayPlus, we found deals on the latest Kindle Scribe and Garmin’s Venu Sq 2.Plus, we found deals on the latest Kindle Scribe and Garm...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -363,7 +2247,7 @@ NewsWicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movieThe
 
 Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -454,7 +2338,7 @@ Welcome to Tech In Depth, our daily newsletter about the business of tech from B
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -464,7 +2348,7 @@ Text
 
 Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -484,7 +2368,7 @@ Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 y
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -534,7 +2418,7 @@ The findings a decade ago were, well, shocking. Mainstream economists had long a
 
 Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -934,7 +2818,7 @@ With AI igniting an investor frenzy, every month, more startups obtain unicorn s
 
 With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -944,7 +2828,7 @@ With AI igniting an investor frenzy, every month, more startups obtain unicorn s
 
 The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -964,7 +2848,7 @@ The main Reuters news account, as well as the Reuters World account, became inac
 
 Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -1004,7 +2888,7 @@ If You Plan to Receive Social Security in 2035, You Have to Prepare Yourself for
 
 Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -1064,7 +2948,7 @@ How SoundHound AI Is Quietly Building a Global AI Empire | The Motley FoolPlease
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -1164,7 +3048,7 @@ Where Will Nvidia Stock Be in 1 Year? | The Motley FoolPlease ensure Javascript 
 
 Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -1204,7 +3088,7 @@ Save this storySaveSave this storySaveThe original versionofthis storyappeared i
 
 The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -1244,7 +3128,7 @@ The scam began with a message, then a friendly exchange. A stranger directed the
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -1755,7 +3639,7 @@ Listen onApple PodcastsListen onSpotifyCloudflare wants AI companies to pay up. 
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn mid-June, a federal judgeissued a stinging rebuketo the Trump ad...
 
-**Categories:** ai, general
+**Categories:** general, ai
 
 ---
 
@@ -1776,7 +3660,7 @@ Raising in 2025 doesn’t look anything like it did in 2021 — and that’s exa
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -1858,7 +3742,7 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -3499,1830 +5383,6 @@ Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What 
 
 ---
 
-## General (179 articles)
-
-### [9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** ai, general
-
----
-
-### [What would a cheap, Apple A18-powered MacBook actually be good at?](https://arstechnica.com/apple/2025/07/what-would-a-cheap-apple-a18-powered-macbook-actually-be-good-at/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navSome Apple rumors just don't go away, hanging around in perpetuity ...
-
-**Categories:** general
-
----
-
-### [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Fortnite maker Epic Games has settled its antitrust case against Samsung, according to a court filing.The case, filed last September, accused Samsung of working with Google to block rival app stores b...
-
-**Categories:** ai, startups, general
-
----
-
-### [Samsung and Epic Games call a truce in app store lawsuit](https://arstechnica.com/gadgets/2025/07/samsung-and-epic-games-call-a-truce-in-app-store-lawsuit/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navEpic Games, buoyed by the massive success of Fortnite, has spent th...
-
-**Categories:** general
-
----
-
-### [Ancient skull may have been half human, half Neanderthal child](https://arstechnica.com/science/2025/07/ancient-skull-may-have-been-half-human-half-neanderthal-child/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navBack in 1929, archaeologists unearthed several human skeletons (sev...
-
-**Categories:** ai, general
-
----
-
-### [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
-
-**Categories:** emerging, ai, startups, general
-
----
-
-### [Bluesky users can customize their notifications, including activity alerts from their favorite accounts](https://techcrunch.com/2025/07/07/bluesky-users-can-customize-their-notifications-including-activity-alerts-from-their-favorite-accounts/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-On Monday, Blueskyannouncedthree updates to enhance notifications, allowing users to personalize their experience while decluttering their notification center and reducing unnecessary alerts.The updat...
-
-**Categories:** startups, general
-
----
-
-### [Measles cases reach 33-year high as RFK Jr. pursues anti-vaccine agenda](https://arstechnica.com/health/2025/07/measles-cases-reach-33-year-high-as-rfk-jr-pursues-anti-vaccine-agenda/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the weekend, the tally of measles cases reached 1,281, setting...
-
-**Categories:** emerging, general
-
----
-
-### [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-The iPhone’s new glassy look has been toned down with Monday’s release of the third developer beta of iOS 26. This follows user complaints that the update made parts of the user interface more difficu...
-
-**Categories:** emerging, startups, general
-
----
-
-### [Trump and Congress finalize law that could hurt your Wi-Fi](https://arstechnica.com/tech-policy/2025/07/trump-and-congress-finalize-law-that-could-hurt-your-wi-fi/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe Federal Communications Commission has regained its authority to...
-
-**Categories:** general
-
----
-
-### [The 8 Best Travel Pillows (2025), Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, general
-
----
-
-### [Jack Dorsey working on Bluetooth messaging app, Bitchat](https://techcrunch.com/2025/07/07/jack-dorsey-working-on-bluetooth-messaging-app-bitchat/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Block CEO and Twitter co-founder Jack Dorseywrote in an X poston Sunday night that he spent his weekend creating an app called Bitchat (presumably a combination of the words “bit” and “chat,” and nott...
-
-**Categories:** startups, general
-
----
-
-### [Fubo pays $3.4M to settle claims it illegally shared user data with advertisers](https://arstechnica.com/gadgets/2025/07/fubo-pays-3-4m-to-settle-claims-it-illegally-shared-user-data-with-advertisers/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navFubo has agreed to pay $3.4 million to settle a class-action lawsui...
-
-**Categories:** emerging, ai, general
-
----
-
-### [“No honor among thieves”: M&S hacking group starts turf war](https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe ransomware group linked to the recent cyberattacks on UK retail...
-
-**Categories:** cybersecurity, emerging, general
-
----
-
-### [Tennis players criticize AI technology used by Wimbledon](https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
-
-**Categories:** emerging, ai, startups, general
-
----
-
-### [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, ai, general
-
----
-
-### [15 Best Air Purifiers (2025): Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveBest Air Purifier OverallIQAir Atem XRead more$1,400AmazonBest Coway Air PurifierCoway Airmega 450Read more$499$325(35% off)AmazonBest Value Air PurifierCoway Air...
-
-**Categories:** ai, general
-
----
-
-### [CoreWeave acquires data center provider Core Scientific in $9B stock deal](https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
-
-**Categories:** stock, ai, startups, general
-
----
-
-### [Waymo robotaxis are heading to Philadelphia and NYC](https://techcrunch.com/2025/07/07/waymo-heading-to-philadelphia-and-nyc/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Waymo kicked off two “road trips” to Philadelphia and New York City on Monday, signaling the Alphabet-owned company’s interest in expanding into Northeastern cities.Waymo’s branded “road trips” don’t ...
-
-**Categories:** emerging, startups, general
-
----
-
-### [Microsoft’s Edge browser now loads sites even faster](https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsMicrosoft’s Edge browser now loads sites even faster﻿The company says it’s improved the responsiveness of several Edge features, including its settings page.﻿The company says it’s improved the res...
-
-**Categories:** emerging, general
-
----
-
-### [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
-
-**Categories:** emerging, stock, ai, general
-
----
-
-### [US may get its own glitchy version of TikTok if Trump’s deal works out](https://arstechnica.com/tech-policy/2025/07/trumps-shaky-plan-to-save-tiktok-may-push-users-to-buggy-version-of-app/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navCould Donald Trump possibly follow through on his campaign promise ...
-
-**Categories:** general
-
----
-
-### [Trump advisor Navarro rips Apple's Tim Cook, saying he's not moving production out of China fast enough](https://www.cnbc.com/2025/07/07/trump-navarro-apple-tim-cook-china.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Navarro rips Apple for not moving production out of China fast enoughSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhite House trade advisor...
-
-**Categories:** general, emerging, stock
-
----
-
-### [America’s police-industrial complex has a meme stock](https://www.ft.com/content/5b44d353-27db-477c-bd0f-222dac6e7539)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerAmerica’s police-industrial complex has a meme stockSubscribe to unlock this articleTry unlimited accessOnly$1for 4 we...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Oldest wooden tools in East Asia may have come from any of three species](https://arstechnica.com/science/2025/07/did-denisovans-or-homo-erectus-make-the-oldest-wooden-tools-in-east-asia/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navSomeone made very sophisticated wooden tools in China 300,000 years...
-
-**Categories:** general
-
----
-
-### [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
-
-**Categories:** emerging, ai, general
-
----
-
-### [CoreWeave strikes $9bn deal to buy rival Core Scientific](https://www.ft.com/content/7a304ced-f737-4ecd-959f-b72e45fa9f2f)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerAI data centre group CoreWeave strikes $9bn deal to buy rival Core ScientificSubscribe to unlock this articleTry unlim...
-
-**Categories:** general, stock
-
----
-
-### [Threads is nearing X’s daily app users, new data shows](https://techcrunch.com/2025/07/07/threads-is-nearing-xs-daily-app-users-new-data-shows/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
-
-**Categories:** emerging, ai, startups, general
-
----
-
-### [Robinhood stock tokens face scrutiny in the European Union after OpenAI warning](https://www.cnbc.com/2025/07/07/robinhood-stock-tokens-face-scrutiny-in-the-eu-after-openai-warning.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Robinhood stock tokens face scrutiny in the EU after OpenAI warningSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsThe Bank of Lithuania, Robi...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple scores big victory with 'F1,' but AI is still a major problem in Cupertino](https://www.cnbc.com/2025/07/04/apple-f1-artificial-intelligence.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Apple's 'F1' success doesn't make up for AI stumblesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsWhile "F1" was a victory lap for Apple' se...
-
-**Categories:** ai, general, stock
-
----
-
-### [Trump’s next tariffs will target South Korea and Japan](https://www.theverge.com/news/699681/trump-south-korea-japan-tariff-25-percent)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee will go into effect on August 1st, which is when the Trump administration will also impose sweeping tariffs on countries th...
-
-**Categories:** emerging, ai, general
-
----
-
-### [F1 in Britain: Terrible English summer weather equals entertaining race](https://arstechnica.com/cars/2025/07/f1-in-britain-terrible-english-summer-weather-equals-entertaining-race/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe heat dome that oppressed much of Europe has broken. Not a drop ...
-
-**Categories:** ai, general
-
----
-
-### [Bluesky can really keep up with the news now that it has activity notifications](https://www.theverge.com/news/699671/bluesky-push-notifications-activity-controls-reposts)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsBluesky can really keep up with the news now that it has activity notifications﻿A new update has also added much more control over which notifications users will see, and who can trigger them.﻿A n...
-
-**Categories:** emerging, general
-
----
-
-### [AI is forcing the data industry to consolidate — but that’s not the whole story](https://techcrunch.com/2025/07/07/ai-is-forcing-the-data-industry-to-consolidate-but-thats-not-the-whole-story/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
-
-**Categories:** stock, general, ai, startups, emerging
-
----
-
-### [Tesla shares drop 7% after Elon Musk says he is launching a political party](https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Tesla shares drop after Elon Musk says he will start a political partySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk said he would ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [The power of randomness](https://www.ft.com/content/2a4fb079-5733-40b6-ac64-8d3b6b702a81)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleThe power of randomnessLimited time offerRead this article and register for y...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
-
-**Categories:** emerging, stock, ai, general
-
----
-
-### [Epic reaches mystery settlement with Samsung days before new Galaxy phones](https://www.theverge.com/analysis/699541/epic-games-settle-samsung-auto-blocker-lawsuit)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-AnalysisEpic reaches mystery settlement with Samsung days before new Galaxy phonesEpic isn’t saying what it got out of Samsung.Epic isn’t saying what it got out of Samsung.bySean HollisterJul 7, 2025,...
-
-**Categories:** emerging, general
-
----
-
-### [CoreWeave to acquire Core Scientific in $9 billion all-stock deal](https://www.cnbc.com/2025/07/07/coreweave-core-scientific-stock-acquisition.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-CoreWeave to acquire Core Scientific in $9 billion all-stock dealSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsArtificial intelligence hyper...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple appeals 500 million euro EU fine over App Store policies](https://www.cnbc.com/2025/07/07/apple-appeal-eu-fine-app-store.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Apple appeals 500 million euro EU fine over App Store policiesSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsApple appealed the 500 million e...
-
-**Categories:** cybersecurity, general, stock
-
----
-
-### [Susquehanna Affiliate Buys $1 Billion IonQ Stake at 25% Premium](https://www.bloomberg.com/news/articles/2025-07-07/susquehanna-affiliate-buys-1-billion-ionq-stake-at-25-premium)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-IonQ Inc. raised $1 billion in a sale of stock and warrants to an affiliate of Susquehanna International Group, in a deal priced at a 25% premium to the quantum computing company’s closing price on Th...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [TikTok reportedly developing new version of app ahead of planned US sale](https://techcrunch.com/2025/07/07/tiktok-reportedly-developing-new-version-of-app-ahead-of-planned-us-sale/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-TikTok is developing a new version of its app for U.S. users ahead of an expected sale of the app to a group of investors, according to a report fromThe Information.The company reportedly plans to lau...
-
-**Categories:** startups, general
-
----
-
-### [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-TechApple’s latest AirPods are already on sale for $99 before Prime DayPlus, we found deals on the latest Kindle Scribe and Garmin’s Venu Sq 2.Plus, we found deals on the latest Kindle Scribe and Garm...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Ingram Micro says ongoing outage caused by ransomware attack](https://techcrunch.com/2025/07/07/ingram-micro-says-ongoing-outage-caused-by-ransomware-attack/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
-
-**Categories:** emerging, startups, general
-
----
-
-### [Nintendo wants to keep ‘traditional approach’ to development as costs skyrocket](https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsNintendo wants to keep ‘traditional approach’ to development as costs skyrocketNintendo president Shuntaro Furukawa says the company will make ‘necessary investments for more efficient development...
-
-**Categories:** emerging, general
-
----
-
-### [Wicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movie](https://www.theverge.com/news/699463/mattel-hot-wheels-live-action-movie-jon-m-chu-director)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsWicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movieThere are still no plot details, but the Hot Wheels movie has found its director three years after being announced.There are st...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Apple appeals EU’s €500M fine over App Store payment restraints](https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/)
-
-**Source:** TechCrunch | **Published:** 2025-07-07
-
-Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
-
-**Categories:** stock, general, ai, startups, emerging
-
----
-
-### [CoreWeave to Buy Core Scientific in $9 Billion Stock Deal](https://www.bloomberg.com/news/articles/2025-07-07/coreweave-to-buy-core-scientific-in-deal-valued-at-9-billion)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-CoreWeave Inc. is dropping $9 billion on the data-center operator Core Scientific Inc. in an effort to gain more direct control over the physical assets powering the artificial-intelligence boom.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Strategy Posts $14 Billion Unrealized Gain in Second Quarter](https://www.bloomberg.com/news/articles/2025-07-07/strategy-posts-14-billion-unrealized-gain-in-second-quarter)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Michael Saylor’s Strategy registered an unrealized gain of $14.05 billion in the second quarter due to a rebound in Bitcoin’s price and a recent accounting change.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general
-
----
-
-### [Amazon’s Shopping Bot Falls Short of Prime Performance](https://www.bloomberg.com/news/newsletters/2025-07-07/amazon-s-shopping-bot-falls-short-of-prime-performance)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Austin Carr looks at the performance of Amazon’s shopping bot, Rufus.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [How a big shift in training LLMs led to a capability explosion](https://arstechnica.com/ai/2025/07/how-a-big-shift-in-training-llms-led-to-a-capability-explosion/)
-
-**Source:** Ars Technica | **Published:** 2025-07-07
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
-
-**Categories:** emerging, ai, general
-
----
-
-### [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
-
-**Categories:** emerging, ai, general
-
----
-
-### [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Huawei’s AI Lab Fends Off Accusations It Copied Rival Models](https://www.bloomberg.com/news/articles/2025-07-07/huawei-s-ai-lab-fends-off-accusations-it-copied-rival-models)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Huawei Technologies Co.’s secretive AI research lab has pushed back against accusations it relied on rivals’ models to develop its own Pangu platform, taking the unusual step of rebutting claims about...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsApple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’An Extinction Rebellion protester was arrested after spray-painting ‘Tim + Trump = Toxic’ on Apple’s New York City storefront.An E...
-
-**Categories:** emerging, ai, general
-
----
-
-### [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-Podcasts/DecoderHow SharkNinja took over the home, with CEO Mark BarrocasThe head of the home appliance giant on grilling, product design, and the future of viral marketing.byNilay PatelJul 7, 2025, 2...
-
-**Categories:** general, emerging
-
----
-
-### [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
-
-**Source:** Wired | **Published:** 2025-07-07
-
-Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsNow you can just tell SmartThings how to automate your homeNew updates to Samsung’s smart home platform let you set up routines with natural language, plus there’s now an Apple Watch widget.﻿New u...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Apple Appeals ‘Unprecedented’ €500 Million EU App Store Fine](https://www.bloomberg.com/news/articles/2025-07-07/apple-appeals-unprecedented-500-million-eu-app-store-fine)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Apple Inc. appealed a €500 million ($580 million) fine from the European Union, calling the penalty “unprecedented” and the regulator’s required changes to its App Store as “unlawful.”
-
-**Categories:** general, stock
-
----
-
-### [Nvidia challenger Groq expands with first European data center](https://www.cnbc.com/2025/07/07/ai-chip-startup-groq-expands-with-first-european-data-center.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-07
-
-Nvidia challenger Groq expands with first European data centerSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsGroq said it has established its...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Destiny&#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsDestiny’s mobile spinoff will arrive in August﻿Destiny: Risingis a free-to-play RPG shooter for iOS and Android set in an ‘alternate timeline’ to the main franchise.﻿Destiny: Risingis a free-to-pl...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Windows 11 has finally overtaken Windows 10 as the most used desktop OS](https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsWindows 11 has finally overtaken Windows 10 as the most used desktop OSWindows 11 is now more widely used than Windows 10, nearly four years after its release.Windows 11 is now more widely used th...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
-
-**Source:** The Verge | **Published:** 2025-07-07
-
-NewsSpecs leak for three Samsung foldables ahead of Wednesday’s UnpackedSamsung’s launch is two days away, but there’s not much left we don’t know.Samsung’s launch is two days away, but there’s not mu...
-
-**Categories:** ai, general
-
----
-
-### [Capgemini to Buy WNS for $3.3 Billion to Expand AI Offer](https://www.bloomberg.com/news/articles/2025-07-07/capgemini-to-buy-it-firm-wns-for-3-3-billion-to-boost-ai)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-The French consulting company Capgemini SE has agreed to buy IT outsourcing firm WNS Holdings Ltd. for $3.3 billion in cash in a push to expand its presence in artificial intelligence, a technology in...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Apple Supplier Lens Tech Said to Price $607 Million Hong Kong Listing at Top of Range](https://www.bloomberg.com/news/articles/2025-07-07/apple-supplier-lens-tech-said-to-price-607-million-hk-listing-at-top-of-range)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-07
-
-Apple Inc. supplier Lens Technology Co. has raised HK$4.8 billion ($607 million) after pricing its Hong Kong listing at the top of the marketed range, according to terms of the deal seen by Bloomberg ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [‘No honour among thieves’: M&S hacking group starts turf war](https://www.ft.com/content/22cb54ef-1611-4aef-b671-16316280e3fb)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footer‘No honour among thieves’: M&S hacking group starts turf warSubscribe to unlock this articleJoin FT EditOnly$4.99per m...
-
-**Categories:** cybersecurity, general, emerging, stock
-
----
-
-### [US stocks: rally or overcorrection?](https://www.ft.com/content/23dcb650-df6a-47af-a722-bf6c4e434b38)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-US stocks: rally or overcorrection?onx(opens in a new window)US stocks: rally or overcorrection?onfacebook(opens in a new window)US stocks: rally or overcorrection?onlinkedin(opens in a new window)US ...
-
-**Categories:** general, stock
-
----
-
-### [On-the-job learning upended by AI and hybrid work](https://www.ft.com/content/071089b8-839a-4f96-af79-394c08a146d1)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOn-the-job learning upended by AI and hybrid workSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeks...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Why it is vital that you understand the infrastructure behind AI](https://www.ft.com/content/8452bf94-9a41-4040-913f-ef1a462d6ea6)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-07
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhy it is vital that you understand the infrastructure behind AISubscribe to unlock this articleTry unlimited accessOn...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [How Xiaomi Succeeded Where Apple Failed](https://www.bloomberg.com/news/articles/2025-07-06/xiaomi-founder-s-bold-ev-bet-is-paying-off-where-apple-s-failed)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-06
-
-Lei Jun, founder and chairman of Xiaomi Corp., the only tech company to have successfully diversified into carmaking, couldn’t resist.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’](https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
-
-**Categories:** emerging, startups, general
-
----
-
-### [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
-
-**Categories:** emerging, ai, startups, general
-
----
-
-### [X blocked Reuters accounts in India](https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
-
-**Categories:** emerging, ai, startups, general
-
----
-
-### [Researchers seek to influence peer review with hidden AI prompts](https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
-
-**Categories:** emerging, ai, startups, general
-
----
-
-### [How Brex is keeping up with AI by embracing the ‘messiness’](https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/)
-
-**Source:** TechCrunch | **Published:** 2025-07-06
-
-Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
-
-**Categories:** emerging, ai, startups, general
-
----
-
-### [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-NewsTikTok’s ‘ban’ problem could end soon with a new app and a saleThe Information reports a new TikTok app could replace the old one in September.The Information reports a new TikTok app could replac...
-
-**Categories:** general, emerging
-
----
-
-### [Best Indoor TV Antenna (2025): Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, general
-
----
-
-### [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-TechHere are 33 of our favorite deals from Amazon’s early Prime Day saleAmazon Prime Day kicks off on July 8th, but you don’t need to wait until then to save.Amazon Prime Day kicks off on July 8th, bu...
-
-**Categories:** ai, general, emerging
-
----
-
-### [12 Best Kids Headphones (2025), Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, ai, general
-
----
-
-### [How to watch Summer Games Done Quick 2025](https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-GamingHow to watch Summer Games Done Quick 2025The summer speedrunning charity showcase is back, raising money for Doctors Without Borders.The summer speedrunning charity showcase is back, raising mon...
-
-**Categories:** general, emerging
-
----
-
-### [Figuring out why a nap might help people see things in new ways](https://arstechnica.com/science/2025/07/figuring-out-why-a-nap-might-help-people-see-things-in-new-ways/)
-
-**Source:** Ars Technica | **Published:** 2025-07-06
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navDmitri Mendeleev famously saw the complete arrangement of the perio...
-
-**Categories:** general
-
----
-
-### [It’s a bad time to be a graduate](https://www.ft.com/content/002a0943-f977-44bd-bc78-957c877dfed1)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-06
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerIt’s a bad time to be a graduateSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month....
-
-**Categories:** ai, general, stock
-
----
-
-### [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general
-
----
-
-### [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-EntertainmentThe Verge’s summer ‘in’ and ‘out’ listIn our second annual trend forecast, The Verge staff weighs in on Labubus, tariffs, The Hague, and AI slop.byMia SatoJul 6, 2025, 1:00 PM UTCLinkFace...
-
-**Categories:** general, emerging
-
----
-
-### [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
-
-**Source:** The Verge | **Published:** 2025-07-06
-
-Tech/ReviewsLenovo Chromebook Plus 14 review: the new king of Chromebooks﻿An OLED display, a fast processor, 16GB of RAM, and all-day battery life for $749? That’s a lot to like.If you buy something f...
-
-**Categories:** emerging, ai, general
-
----
-
-### [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
-
-**Source:** Wired | **Published:** 2025-07-06
-
-Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Meteorologists Say the National Weather Service Did Its Job in Texas](https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveAt least 27people, including nine children, are dead in central Texas after flash floods struck suddenly on the morning of the Fourth of July holiday. After a sto...
-
-**Categories:** general
-
----
-
-### [Drive Capital’s second act — how the Columbus venture firm found success after a split](https://techcrunch.com/2025/07/05/drive-capitals-second-act-how-the-columbus-venture-firm-found-success-after-a-split/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
-
-**Categories:** stock, general, ai, startups, emerging
-
----
-
-### [Ask not for whom the Louvre of Bluesky tolls, it tolls for thee](https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
-
-**Categories:** emerging, startups, general
-
----
-
-### [Google faces EU antitrust complaint over AI Overviews](https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/)
-
-**Source:** TechCrunch | **Published:** 2025-07-05
-
-A group known as the Independent Publishers Alliance has filed an antitrust complaint with the European Commission over Google’s AI Overviews,according to Reuters.The complaint accuses Google of “misu...
-
-**Categories:** startups, ai, general, emerging
-
----
-
-### [Secret Service in US Expands a Global Push Against Crypto Scams](https://www.bloomberg.com/news/articles/2025-07-05/us-secret-service-builds-international-network-to-fight-crypto-crime)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-05
-
-The scam began with a message, then a friendly exchange. A stranger directed the victim to a cryptocurrency investment site that appeared professional &mdash; slick design, charts, even customer suppo...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-NewsCyberpunk: Edgerunners 2 will be even sadder and bloodierNetflix’s Cyberpunk 2077 anime spinoff is coming back for a second 10-episode season with ‘an entirely new story.’Netflix’s Cyberpunk 2077 ...
-
-**Categories:** emerging, cybersecurity, general
-
----
-
-### [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale (2025)](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Inside a Utah desert facility preparing humans for life on Mars](https://www.cnbc.com/2025/07/05/utah-mars-desert-research.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-05
-
-Inside a Utah desert facility preparing humans for life on MarsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuHidden among the majestic canyons of the ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Best Laptop Stands (2025): 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general
-
----
-
-### [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveTriangleUpBuy NowMultiple Buying Options Available$269at Amazon$269at BoseAll products featured on WIRED are independently selected by our editors. However, when ...
-
-**Categories:** emerging, general
-
----
-
-### [Everything You Can Do in the Photoshop Mobile App](https://www.wired.com/story/everything-you-can-do-in-the-photoshop-mobile-app/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveYou know yoursoftware is a success when its name becomes a verb: You'll now commonly hear about images being photoshopped, even if the editing wasn't done with th...
-
-**Categories:** general
-
----
-
-### [The curious rise of giant tablets on wheels](https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/)
-
-**Source:** Ars Technica | **Published:** 2025-07-05
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the past few years, LG has set off a strange tech trend that’s...
-
-**Categories:** general
-
----
-
-### [Samsung is about to find out if Ultra is enough](https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-Tech/SamsungSamsung is about to find out if Ultra is enoughIt looks like Samsung has some new ideas about foldables this year — but will they be enough to entice buyers?It looks like Samsung has some ...
-
-**Categories:** emerging, general
-
----
-
-### [The 49 Best Shows on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-shows-this-week/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveStreaming services areknown for having award-worthy series but also plenty of duds. Our guide to the best TV shows on Netflix is updated weekly to help you know w...
-
-**Categories:** general, emerging
-
----
-
-### [The 50 Best Movies on Netflix Right Now (July 2025)](https://www.wired.com/story/netflix-best-movies-this-week/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveNetflix has plentyof movies to watch. Maybetoomany. Sometimes finding the right film at the right time can seem like an impossible task. Let us help you. Below is...
-
-**Categories:** emerging, general
-
----
-
-### [Is It Time to Stop Protecting the Grizzly Bear?](https://www.wired.com/story/is-it-time-to-stop-protecting-the-grizzly-bear-endangered-species-act-list/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveThis story originallyappeared onVoxand is part of theClimate Deskcollaboration.In the early 1900s, long before smartphones and selfie sticks, tourists flocked to ...
-
-**Categories:** emerging, general
-
----
-
-### [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
-
-**Source:** Wired | **Published:** 2025-07-05
-
-Save this storySaveSave this storySaveIn recent years,North Korea has deployedthousands of so-called IT workers to infiltrate Western businesses, get paid salaries, and send money back to support the ...
-
-**Categories:** ai, cybersecurity, general, emerging
-
----
-
-### [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-Gaming/Games ReviewDeltarune is halfway done, but it feels like a full gameThe parallel story to Undertale is just as good.The parallel story to Undertale is just as good.byJay PetersJul 5, 2025, 1:00...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Ethereum is powering Wall Street's future. The crypto scene at Cannes shows how far it's come](https://www.cnbc.com/2025/07/04/the-ethcc-crypto-scene-at-cannes-shows-how-far-ethereum-has-come.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-05
-
-The EthCC crypto scene at Cannes shows how far Ethereum has comeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsCrypto founders, developers, a...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Nvidia Partner Hon Hai Meets Sales Estimates on Strong AI Demand](https://www.bloomberg.com/news/articles/2025-07-05/nvidia-partner-hon-hai-meets-sales-estimates-on-strong-ai-demand)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-05
-
-Hon Hai Precision Industry Co. reported 15.8% growth in quarterly sales on robust demand for AI servers and iPhones.
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
-
-**Source:** The Verge | **Published:** 2025-07-05
-
-Transportation/Cars/Mercedes-BenzMercedes-Benz electric G-Wagen review: king of the off-roadThe G580 with EQ Technology may have a fancy name, but it stays true to its original formula.byPeter NelsonJ...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Apple races to box office glory with Brad Pitt’s F1 blockbuster](https://www.ft.com/content/fe5a2104-e56f-48a7-9aab-a61f413f780a)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-05
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT WeekendRegister to unlock this articleApple races to box office glory with Brad Pitt’s F1 blockbusterLimited time o...
-
-**Categories:** general, stock
-
----
-
-### [ChatGPT — the last of the great romantics](https://www.ft.com/content/22c42b1a-c5eb-4d92-843e-c5a4fb17be6b)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-05
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerChatGPT — the last of the great romanticsSubscribe to unlock this articleJoin FT EditOnly$4.99per monthAccess to eight...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
-
-**Source:** The Verge | **Published:** 2025-07-04
-
-TechHere are the best Apple Watch deals available right now﻿Every model in Apple’s current lineup, from the entry-level SE to the jet black Ultra 2, is receiving a sizable discount right now.﻿Every mo...
-
-**Categories:** emerging, ai, general
-
----
-
-### [IPO market gets boost from Circle's 500% surge, sparking optimism that drought may be ending](https://www.cnbc.com/2025/07/03/ipo-market-boost-from-circle-500percent-surge-vcs-say-drought-may-be-ending.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-IPO market boost from Circle 500% surge, VCs say drought may be endingSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTech IPOs had a big mont...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Microsoft is closing its local operations in Pakistan](https://techcrunch.com/2025/07/04/microsoft-is-closing-its-local-operations-in-pakistan/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-Microsoft is closing its operations in Pakistan, marking the end of a 25-year presence in the South Asian nation.The Redmond-based company on Friday told TechCrunch that it is changing its operational...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Trump inaugural impersonators scammed donors out of crypto, feds say](https://www.cnbc.com/2025/07/04/trump-cryptocurrency-ethereum-tokens.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-Trump inaugural impersonators scammed donors out of crypto, feds saySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsScammers impersonating the...
-
-**Categories:** ai, general, stock
-
----
-
-### [TechCrunch Mobility: The state of EV sales and Rivian secures the next $1B from VW](https://techcrunch.com/2025/07/04/techcrunch-mobility-the-state-of-ev-sales-and-rivian-secures-the-next-1b-from-vw/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-Welcome back toTechCrunch Mobility— your central hub for news and insights on the future of transportation. Sign up here for free — just clickTechCrunch Mobility!This week I’m publishing an abbreviate...
-
-**Categories:** startups, general
-
----
-
-### [OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats](https://www.cnbc.com/2025/07/04/openai-altman-july-4-zohran-mamdani.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-OpenAI CEO Sam Altman celebrates capitalism in July 4 postSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI CEO Sam Altman said he finds ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Musk backs Sen. Paul's criticism of Trump's megabill in first comment since it passed](https://www.cnbc.com/2025/07/04/musk-trump-megabill.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-04
-
-Musk backs criticism of Trump's megabill after it passed HouseSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTesla CEO Elon Musk made his fir...
-
-**Categories:** general, stock
-
----
-
-### [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveCruise robotaxis areback on the road … well, kind of. Though General Motorspulled the plugon its self-driving taxi business last year, the automaker has been quie...
-
-**Categories:** ai, general, emerging
-
----
-
-### [How to Choose the Right Soundbar (2025): Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** general, emerging
-
----
-
-### [15 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, general
-
----
-
-### [EU says it will continue rolling out AI legislation on schedule](https://techcrunch.com/2025/07/04/eu-says-it-will-continue-rolling-out-ai-legislation-on-schedule/)
-
-**Source:** TechCrunch | **Published:** 2025-07-04
-
-The European Union on Friday said it will stick to its timeline for implementing its landmark AI legislation, in response to a concerted effort by more than a hundred tech companies to delay the bloc’...
-
-**Categories:** startups, ai, general
-
----
-
-### [15 Best Heat Protectant Sprays for Wet and Dry Hair (2025)](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, ai, general
-
----
-
-### [The 13 Best Fans for the Coolest Summer (2025)](https://www.wired.com/gallery/best-fans/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
-
-**Categories:** emerging, general
-
----
-
-### [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveWhether due toconsumer backlash or an aging EV lineup, or both, Tesla saleshave again seen a global plunge, this time 13 percent last quarter compared to the prev...
-
-**Categories:** emerging, general
-
----
-
-### [Best Fourth of July Mattress Deals From Helix, Birch, and More (2025)](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveChristmas in July,mattress edition. The Fourth of July is not only for barbecues and pool hangouts, but some of the best mattress deals you’ll see all year. That'...
-
-**Categories:** emerging, general
-
----
-
-### [Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now](https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/)
-
-**Source:** Ars Technica | **Published:** 2025-07-04
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navWelcome to Edition 8.01 of the Rocket Report! Today's edition will ...
-
-**Categories:** emerging, general
-
----
-
-### [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
-
-**Source:** Wired | **Published:** 2025-07-04
-
-Save this storySaveSave this storySaveThere are around11,000 satellites orbiting Earth, and it is estimated that at least 50,000 more will be launched in the next decade. There are also exploration in...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Valve conquered PC gaming. What comes next?](https://www.ft.com/content/f4a13716-838a-43da-853b-7c31ac17192c)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-04
-
-Valve conquered PC gaming. What comes next?onx(opens in a new window)Valve conquered PC gaming. What comes next?onfacebook(opens in a new window)Valve conquered PC gaming. What comes next?onlinkedin(o...
-
-**Categories:** general, stock
-
----
-
-### [Hitachi Energy says AI power spikes threaten to destabilise global supply](https://www.ft.com/content/2789d048-7791-4f9a-8dbe-229c45f8083b)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-04
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHitachi Energy says AI power spikes threaten to destabilise global supplySubscribe to unlock this articleTry unlimited...
-
-**Categories:** ai, general, stock
-
----
-
-### [Uniqlo Owner, Seven &amp; i To Set Tone for Japan’s Consumer Sector](https://www.bloomberg.com/news/articles/2025-07-04/uniqlo-owner-seven-i-to-set-tone-for-japan-s-consumer-sector)
-
-**Source:** Bloomberg Technology | **Published:** 2025-07-04
-
-Uniqlo owner Fast Retailing Co. and Seven &amp; i Holdings Co. will show how Japan’s consumer sector is faring as Asia’s earnings season kicks off.
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Microsoft layoffs hit 830 workers in home state of Washington](https://www.cnbc.com/2025/07/03/microsoft-layoffs-hit-830-workers-in-home-state-of-washington-.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-Microsoft layoffs hit 830 workers in home state of WashingtonSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsMicrosoft's latest job cuts affec...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit](https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-Slate Auto, theelectric vehicle startup backed by Jeff Bezos, has stopped promoting that its upcoming pickup truck will start “under $20,000” following passage of President Trump’s tax cut bill. The b...
-
-**Categories:** startups, general
-
----
-
-### [Everyone in tech has an opinion about Soham Parekh](https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-You got into Y Combinator, raised $20 million from a16z, and then exited to Meta? That’s cool, I guess. But did Soham Parekh apply to work at your startup?There is now a new badge of honor for startup...
-
-**Categories:** startups, general, emerging
-
----
-
-### [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)
-
-**Source:** Wired | **Published:** 2025-07-03
-
-Save this storySaveSave this storySaveUS attorney generalPam Bondi has told at least 10 tech companies, including Apple, Microsoft, Amazon, and Google, that they have “incurred no liability” for suppo...
-
-**Categories:** general
-
----
-
-### [Tripadvisor stock surges 17% as Starboard Value builds sizable stake in online travel company](https://www.cnbc.com/2025/07/03/tripadvisor-activist-starboard-value.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-Tripadvisor stock surges as Starboard Value builds 9% stakeSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsTripadvisor's stock jumped after St...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Provider of covert surveillance app spills passwords for 62,000 users](https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe maker of a phone app that is advertised as providing a stealthy...
-
-**Categories:** emerging, general
-
----
-
-### [Final GOP bill kneecaps renewables and hydrogen but lifts nuclear and geothermal](https://techcrunch.com/2025/07/03/final-gop-bill-kneecaps-renewables-and-hydrogen-but-lifts-nuclear-and-geothermal/)
-
-**Source:** TechCrunch | **Published:** 2025-07-03
-
-Republican legislators Thursday passed a reconciliation act that, among other things, unwinds much of the Inflation Reduction Act (IRA). The bill, which passed 218-214 with two Republicans voting no, ...
-
-**Categories:** emerging, startups, general
-
----
-
-### [Judge: You can’t ban DEI grants without bothering to define DEI](https://arstechnica.com/science/2025/07/doge-told-the-nih-which-grants-to-cancel-with-no-scientific-review/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn mid-June, a federal judgeissued a stinging rebuketo the Trump ad...
-
-**Categories:** ai, general
-
----
-
-### [Meta’s “AI superintelligence” effort sounds just like its failed “metaverse”](https://arstechnica.com/ai/2025/07/metas-ai-superintelligence-effort-sounds-just-like-its-failed-metaverse/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
-
-**Categories:** emerging, ai, general
-
----
-
-### [The Last of Us co-creator Neil Druckmann exits HBO show](https://arstechnica.com/culture/2025/07/the-last-of-us-co-creator-neil-druckmann-exits-hbo-show/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTwo key writers of HBO's seriesThe Last of Usare moving on, accordi...
-
-**Categories:** emerging, general
-
----
-
-### [U.S. lifts chip software curbs on China in sign of trade truce](https://www.cnbc.com/2025/07/03/us-lifts-chip-software-curbs-on-china-amid-trade-truce-synopsys-says-.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-U.S. lifts chip software curbs on China in sign of trade truceSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsSiemens AG, Synopsys, and Cadenc...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Signs of a pick-up in venture capital exits are finally emerging](https://www.ft.com/content/2e0201f6-8258-4c59-a7a7-689b2c094701)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerSigns of a pick-up in venture capital exits are finally emergingSubscribe to unlock this articleTry unlimited accessOn...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [CoreWeave is the first cloud provider to deploy Nvidia's latest AI chips](https://www.cnbc.com/2025/07/03/coreweave-dell-blackwell-ultra-nvidia.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-CoreWeave says it's the first to get Nvidia's Blackwell UltraSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsNvidia's Blackwell Ultra chips, t...
-
-**Categories:** ai, general, stock
-
----
-
-### [2025 VW ID Buzz review: If you want an electric minivan, this is it](https://arstechnica.com/cars/2025/07/2025-vw-id-buzz-acres-of-space-but-being-electric-comes-at-a-premium/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you had asked me a few years ago, I would have told you that the...
-
-**Categories:** general
-
----
-
-### [Bad data leads to bad policy](https://www.ft.com/content/689a72db-e622-4868-b52c-9a5cdc4ad1f5)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerBad data leads to bad policySubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75per month.
-Com...
-
-**Categories:** ai, general, stock
-
----
-
-### [Man’s ghastly festering ulcer stumps doctors—until they cut out a wedge of flesh](https://arstechnica.com/health/2025/07/man-fails-to-take-his-medicine-the-flesh-starts-rotting-off-his-leg/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
-
-**Categories:** emerging, ai, general
-
----
-
-### [xAI data center gets air permit to run 15 turbines, but imaging shows 24 on site](https://arstechnica.com/tech-policy/2025/07/xai-gets-an-air-permit-to-power-its-supercomputer-but-pollution-fears-remain/)
-
-**Source:** Ars Technica | **Published:** 2025-07-03
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAftermonths of backlashover alleged pollution concerns, xAI has fin...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Dinosaurs to doctors’ records: the UK weighs up its data assets](https://www.ft.com/content/7585ed49-3e2c-4863-b0dc-a8a2942e9b9c)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerDinosaurs to doctors’ records: the UK weighs up its data assetsSubscribe to unlock this articleTry unlimited accessOnl...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Glovo pauses ‘heat bonuses’ for Italian food delivery workers after backlash](https://www.ft.com/content/d87ae9b1-e18b-4369-92d5-51d16c6e694b)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerGlovo pauses ‘heat bonuses’ for Italian food delivery workers after backlashSubscribe to unlock this articleTry unlimi...
-
-**Categories:** general, stock
-
----
-
-### [Apple's China iPhone sales grows for the first time in two years](https://www.cnbc.com/2025/07/03/apple-china-iphone-sales-grew-for-the-first-time-in-two-years.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-Apple China iPhone sales grew for the first time in two yearsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsSales of iPhones in China jumped ...
-
-**Categories:** general, emerging, stock
-
----
-
-### [I’m human. Are you? The battle for our online identity](https://www.ft.com/content/1a93ca54-d1b9-4b06-b504-7c4937173068)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerI’m human. Are you? The battle for our online identitySubscribe to unlock this articleTry unlimited accessOnly$1for 4 ...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Like Google, China's biggest search player Baidu is beefing up its product with AI to fight rivals](https://www.cnbc.com/2025/07/03/chinas-baidu-is-beefing-up-its-search-product-with-ai-to-fight-rivals.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-China's Baidu is beefing up its search product with AI to fight rivalsSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsBaidu has given its sear...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Amazon to shut down Freevee streaming TV service in August](https://www.cnbc.com/2025/07/02/amazon-freevee-streaming.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-Amazon to shut down Freevee streaming TV service in AugustSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAmazon is sunsetting its standalone ...
-
-**Categories:** general, stock
-
----
-
-### [Cutting-edge pressure and BYD leads Tesla](https://www.ft.com/content/51c19253-3afc-4c57-906f-cb7964130b00)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerCutting-edge pressure and BYD leads TeslaSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$75p...
-
-**Categories:** general, stock
-
----
-
-### [AI voice startup ElevenLabs pushes global expansion as it gears up for an IPO](https://www.cnbc.com/2025/07/03/ai-voice-startup-elevenlabs-plots-global-expansion-eventual-ipo.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-03
-
-AI voice startup ElevenLabs plots global expansion, eventual IPOSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsAI voice generation platform E...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Are bigger AI models better stock pickers? Maybe, but probably not](https://www.ft.com/content/89d88cbf-a92c-43d2-b8af-88ae26529be0)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerFT AlphavilleRegister to unlock this articleAre bigger AI models better stock pickers? Maybe, but probably notFT Alpha...
-
-**Categories:** ai, general, emerging, stock
-
----
-
-### [Chip software makers say US restrictions on sales to China lifted](https://www.ft.com/content/36b12cb9-68d4-4e31-84e8-6d96d676b45d)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerChip software makers say US restrictions on sales to China liftedSubscribe to unlock this articleTry unlimited accessO...
-
-**Categories:** general, emerging, stock
-
----
-
-### [Meta’s AI climate tool raised false hope of CO₂ removal, scientists say](https://www.ft.com/content/69220fea-9c9a-4f55-9118-65d2660c85d4)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerMeta’s AI climate tool raised false hope of CO₂ removal, scientists saySubscribe to unlock this articleJoin FT EditOnl...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [European CEOs urge Brussels to halt landmark AI Act](https://www.ft.com/content/a825759e-aec8-4184-bc73-f604f169204c)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerEuropean CEOs urge Brussels to halt landmark AI ActSubscribe to unlock this articleTry unlimited accessOnly$1for 4 wee...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [How hopeful can we be about AI climate tech?](https://www.ft.com/content/bd835b8f-e39a-4e5f-84d0-2fb019b47b80)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerHow hopeful can we be about AI climate tech?Subscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksThen$...
-
-**Categories:** ai, general, stock
-
----
-
-### [Whose job is safe from AI?](https://www.ft.com/content/b67bcbaa-67b9-48f8-ad4d-4cd6f9bdc1b7)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-03
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerWhose job is safe from AI?Subscribe to unlock this articleJoin FT EditOnly$49a yearGet 2 months free with an annual su...
-
-**Categories:** ai, general, stock
-
----
-
-### [OpenAI signs $30bn data centre deal with Oracle](https://www.ft.com/content/b4324903-ff53-48c2-bf71-4151cd4f68d0)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-02
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerOpenAI signs $30bn data centre deal with OracleSubscribe to unlock this articleTry unlimited accessOnly$1for 4 weeksTh...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Datadog stock jumps 10% on tech company’s inclusion in S&P 500 index](https://www.cnbc.com/2025/07/02/datadog-stock-jumps-sp-500-index-inclusion.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Datadog stock jumps on inclusion in S&P 500 indexSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsDatadog shares were up 10% in extended tradin...
-
-**Categories:** emerging, general, stock
-
----
-
-### [OpenAI says Robinhood's tokens aren't equity in the company](https://www.cnbc.com/2025/07/02/openai-robinhood-tokens.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-OpenAI says Robinhood's tokens aren't equity in the companySkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsOpenAI said it did not partner with...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [TikTok is being flooded with racist AI videos generated by Google’s Veo 3](https://arstechnica.com/ai/2025/07/racist-ai-videos-created-with-google-veo-3-are-proliferating-on-tiktok/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe release of Google's Veo 3 video generator in May represented ad...
-
-**Categories:** ai, general
-
----
-
-### [Everything that could go wrong with X’s new AI-written community notes](https://arstechnica.com/tech-policy/2025/07/everything-that-could-go-wrong-with-xs-new-ai-written-community-notes/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navElon Musk's X arguably revolutionized social media fact-checking by...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Qantas hit by cyber attack after FBI alert on Scattered Spider group](https://www.ft.com/content/255cdc1d-f31e-4199-ad95-4666a0a660a2)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-02
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerQantas hit by cyber attack after FBI alert on Scattered Spider groupSubscribe to unlock this articleTry unlimited acce...
-
-**Categories:** general, stock, ai, emerging, cybersecurity
-
----
-
-### [New evidence that some supernovae may be a “double detonation”](https://arstechnica.com/science/2025/07/new-evidence-that-some-supernovae-may-be-a-double-detonation/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navType Ia supernovae are critical tools in astronomy, since they all ...
-
-**Categories:** general, emerging
-
----
-
-### [Robinhood stock hits $100 as it roars 30% since S&P 500 snub](https://www.cnbc.com/2025/07/02/robinhood-stock-record.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Robinhood stock hits $100 as it roars 30% since S&P 500 snubSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsRobinhood stock hit the $100 mark ...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Rice could be key to brewing better non-alcoholic beer](https://arstechnica.com/science/2025/07/rice-could-be-key-to-brewing-better-non-alcoholic-beer/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThere is increasing consumer demand for low- or non-alcoholic beers...
-
-**Categories:** general
-
----
-
-### [AT&T rolls out Wireless Account Lock protection to curb the SIM-swap scourge](https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navAT&T is rolling out a protection that prevents unauthorized changes...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Elon Musk's X goes down for some users](https://www.cnbc.com/2025/07/02/elon-musk-x-outage.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Elon Musk's X goes down for some usersSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsElon Musk's social media platform X was hit with an outa...
-
-**Categories:** general, stock
-
----
-
-### [Ukraine summons top US diplomat after Washington halts some arms supplies](https://www.ft.com/content/b69e327d-95a3-487d-a9b6-6a72ef48ba61)
-
-**Source:** Financial Times Tech | **Published:** 2025-07-02
-
-Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to footerUkraine summons top US diplomat after Washington halts some arms suppliesSubscribe to unlock this articleTry unlimited...
-
-**Categories:** emerging, ai, general, stock
-
----
-
-### [Ether and related stocks gain amid the latest crypto craze: Tokenization](https://www.cnbc.com/2025/07/02/ether-and-related-stocks-gain-amid-the-latest-crypto-craze-tokenization.html)
-
-**Source:** CNBC Tech | **Published:** 2025-07-02
-
-Ether and related stocks gain amid the latest crypto craze: TokenizationSkip NavigationMarketsBusinessInvestingTechPoliticsVideoWatchlistInvesting ClubPROLivestreamMenuKey PointsShares of BitMine Imme...
-
-**Categories:** ai, general, stock
-
----
-
-### [From Le Mans to Driven—where does F1: The Movie rank?](https://arstechnica.com/cars/2025/07/f1-the-movie-takes-motorsport-into-the-imax-age/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIt may not have escaped your attention that there's a new film abou...
-
-**Categories:** general
-
----
-
-### [NYT to start searching deleted ChatGPT logs after beating OpenAI in court](https://arstechnica.com/tech-policy/2025/07/nyt-to-start-searching-deleted-chatgpt-logs-after-beating-openai-in-court/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navLast week, OpenAI raised objections in court, hoping to overturn a ...
-
-**Categories:** ai, general, emerging
-
----
-
-### [Paramount accused of bribery as it settles Trump lawsuit for $16 million](https://arstechnica.com/tech-policy/2025/07/paramount-accused-of-bribery-as-it-settles-trump-lawsuit-for-16-million/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navCBS owner Paramount has reached a $16 million settlement with Presi...
-
-**Categories:** emerging, general
-
----
-
-### [Medical groups warn Senate budget bill will create dystopian health care system](https://arstechnica.com/health/2025/07/doctors-blast-senate-bill-point-out-that-11-8m-losing-health-insurance-is-bad/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navMedical organizations are blasting the Senate's budget bill in the ...
-
-**Categories:** emerging, ai, general
-
----
-
-### [Tesla Q2 2025 sales dropped more than 13% year over year](https://arstechnica.com/cars/2025/07/tesla-q2-2025-sales-dropped-more-than-13-year-over-year/)
-
-**Source:** Ars Technica | **Published:** 2025-07-02
-
-Text
-        settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTesla sold 384,122 electric vehicles during the months of April, Ma...
-
-**Categories:** emerging, general
-
----
-
 ## Startups (66 articles)
 
 ### [Fortnite maker Epic Games settles antitrust case against Samsung](https://techcrunch.com/2025/07/07/fortnite-maker-epic-games-settles-antitrust-case-against-samsung/)
@@ -5331,7 +5391,7 @@ Text
 
 Fortnite maker Epic Games has settled its antitrust case against Samsung, according to a court filing.The case, filed last September, accused Samsung of working with Google to block rival app stores b...
 
-**Categories:** ai, startups, general
+**Categories:** startups, general, ai
 
 ---
 
@@ -5341,7 +5401,7 @@ Fortnite maker Epic Games has settled its antitrust case against Samsung, accord
 
 Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -5361,7 +5421,7 @@ On Monday, Blueskyannouncedthree updates to enhance notifications, allowing user
 
 The iPhone’s new glassy look has been toned down with Monday’s release of the third developer beta of iOS 26. This follows user complaints that the update made parts of the user interface more difficu...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -5381,7 +5441,7 @@ Block CEO and Twitter co-founder Jack Dorseywrote in an X poston Sunday night th
 
 Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -5391,7 +5451,7 @@ Some tennis players are not happy with Wimbledon’s new AI line judges,as repor
 
 CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
 
-**Categories:** stock, ai, startups, general
+**Categories:** startups, general, stock, ai
 
 ---
 
@@ -5401,7 +5461,7 @@ CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire C
 
 Waymo kicked off two “road trips” to Philadelphia and New York City on Monday, signaling the Alphabet-owned company’s interest in expanding into Northeastern cities.Waymo’s branded “road trips” don’t ...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -5411,7 +5471,7 @@ Waymo kicked off two “road trips” to Philadelphia and New York City on Monda
 
 Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -5421,7 +5481,7 @@ Instagram Threads is close to catching up to top competitor X in terms of mobile
 
 The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -5441,7 +5501,7 @@ TikTok is developing a new version of its app for U.S. users ahead of an expecte
 
 Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -5451,7 +5511,7 @@ Ingram Micro, a U.S. technology distributing giant and managed services provider
 
 Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -5461,7 +5521,7 @@ Apple on Monday filed an appeal against the EU’s decision to fine the company 
 
 On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -5481,7 +5541,7 @@ With AI igniting an investor frenzy, every month, more startups obtain unicorn s
 
 With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -5491,7 +5551,7 @@ With AI igniting an investor frenzy, every month, more startups obtain unicorn s
 
 The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -5501,7 +5561,7 @@ The main Reuters news account, as well as the Reuters World account, became inac
 
 Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -5511,7 +5571,7 @@ Academics may be leaning on a novel strategy to influence peer review of their r
 
 Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -5521,7 +5581,7 @@ Companies have struggled to adopt the right AI tools as the technology evolves a
 
 The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -5531,7 +5591,7 @@ The venture capital world has always had a hot-and-cold relationship with the Mi
 
 It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -5985,7 +6045,7 @@ Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What 
 
 ---
 
-## Emerging (488 articles)
+## Emerging (491 articles)
 
 ### [ChatGPT is testing a mysterious new feature called ‘study together’](https://techcrunch.com/2025/07/07/chatgpt-is-testing-a-mysterious-new-feature-called-study-together/)
 
@@ -5993,7 +6053,7 @@ Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What 
 
 Some ChatGPT subscribersare reportinganew featureappearing in their drop-down list of available tools called “Study Together.”The mode is apparently the chatbot’s way of becoming a better educational ...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -6004,7 +6064,7 @@ Some ChatGPT subscribersare reportinganew featureappearing in their drop-down li
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navOver the weekend, the tally of measles cases reached 1,281, setting...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -6014,7 +6074,17 @@ Text
 
 The iPhone’s new glassy look has been toned down with Monday’s release of the third developer beta of iOS 26. This follows user complaints that the update made parts of the user interface more difficu...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
+
+---
+
+### [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+TechThe best Fitbits for your fitness and healthWhether you want a basic fitness tracker or a smartwatch, there’s a Fitbit for everyone — though the best Fitbit smartwatch isn’t technically a Fitbit.I...
+
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6024,7 +6094,27 @@ The iPhone’s new glassy look has been toned down with Monday’s release of th
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
+
+---
+
+### [Apple just added more frost to its Liquid Glass design](https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+NewsApple just added more frost to its Liquid Glass design﻿The latest iOS 26 developer beta makes Apple’s new UI a little less transparent and easier to read.﻿The latest iOS 26 developer beta makes Ap...
+
+**Categories:** general, emerging, ai
+
+---
+
+### [xAI updated Grok to be more &#8216;politically incorrect&#8217;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)
+
+**Source:** The Verge | **Published:** 2025-07-07
+
+AIxAI updated Grok to be more ‘politically incorrect’After a wild weekend, Elon Musk is playing woke-a-mole with his own chatbot.After a wild weekend, Elon Musk is playing woke-a-mole with his own cha...
+
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6035,7 +6125,7 @@ Save this storySaveSave this storySaveAll products featured on WIRED are indepen
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navFubo has agreed to pay $3.4 million to settle a class-action lawsui...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6046,7 +6136,7 @@ Text
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe ransomware group linked to the recent cyberattacks on UK retail...
 
-**Categories:** cybersecurity, emerging, general
+**Categories:** general, emerging, cybersecurity
 
 ---
 
@@ -6056,7 +6146,7 @@ Text
 
 Some tennis players are not happy with Wimbledon’s new AI line judges,as reported by The Telegraph.This is the first year the prestigious tennis tournament, which is still ongoing, replaced human line...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -6066,7 +6156,7 @@ Some tennis players are not happy with Wimbledon’s new AI line judges,as repor
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6076,7 +6166,7 @@ Save this storySaveSave this storySaveAll products featured on WIRED are indepen
 
 Waymo kicked off two “road trips” to Philadelphia and New York City on Monday, signaling the Alphabet-owned company’s interest in expanding into Northeastern cities.Waymo’s branded “road trips” don’t ...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -6086,7 +6176,7 @@ Waymo kicked off two “road trips” to Philadelphia and New York City on Monda
 
 NewsMicrosoft’s Edge browser now loads sites even faster﻿The company says it’s improved the responsiveness of several Edge features, including its settings page.﻿The company says it’s improved the res...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -6106,7 +6196,7 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 
 GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
 
-**Categories:** emerging, stock, ai, general
+**Categories:** general, stock, emerging, ai
 
 ---
 
@@ -6226,7 +6316,7 @@ Chevron preps quick closing of Hess deal and awaits result of Exxon disputeIllus
 
 Save this storySaveSave this storySaveOn June 11,the UK’s Food Standards Agency (FSA) issued an alert declaring several candies manufactured by The Hershey Company “unsafe to eat.” Four products from ...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6246,7 +6336,7 @@ The Dow Jones Industrial Average and other major indexes weakened further on Mon
 
 Instagram Threads is close to catching up to top competitor X in terms of mobile app users, according to new data from market intelligence providerSimilarweb. In June 2025, Threads’ mobile app for iOS...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -6286,7 +6376,7 @@ Stocks Pressured Ahead of Wednesday's Tariff DeadlineRich AsplundMon, Jul 7, 202
 
 NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee will go into effect on August 1st, which is when the Trump administration will also impose sweeping tariffs on countries th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6296,7 +6386,7 @@ NewsTrump’s next tariffs will target South Korea and JapanThe 25 percent fee w
 
 NewsBluesky can really keep up with the news now that it has activity notifications﻿A new update has also added much more control over which notifications users will see, and who can trigger them.﻿A n...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -6306,7 +6396,7 @@ NewsBluesky can really keep up with the news now that it has activity notificati
 
 The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -6356,7 +6446,7 @@ Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to foot
 
 Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
 
-**Categories:** emerging, stock, ai, general
+**Categories:** general, stock, emerging, ai
 
 ---
 
@@ -6366,7 +6456,7 @@ Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunT
 
 AnalysisEpic reaches mystery settlement with Samsung days before new Galaxy phonesEpic isn’t saying what it got out of Samsung.Epic isn’t saying what it got out of Samsung.bySean HollisterJul 7, 2025,...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -6416,7 +6506,7 @@ SponsoredIn partnership withTeamViewerDigital transformation has long been a boa
 
 TechApple’s latest AirPods are already on sale for $99 before Prime DayPlus, we found deals on the latest Kindle Scribe and Garmin’s Venu Sq 2.Plus, we found deals on the latest Kindle Scribe and Garm...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6446,7 +6536,7 @@ TechApple’s latest AirPods are already on sale for $99 before Prime DayPlus, w
 
 Ingram Micro, a U.S. technology distributing giant and managed services provider, said on Monday a ransomware attack is the cause of an ongoing outage at the company.The hack began on Thursday, after ...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -6486,7 +6576,7 @@ NewsWicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movieThe
 
 Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -6607,7 +6697,7 @@ Welcome to Tech In Depth, our daily newsletter about the business of tech from B
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIn April 2023, a few weeks after the launch of GPT-4, the Internet ...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6617,7 +6707,7 @@ Text
 
 Save this storySaveSave this storySaveTrey had struggledwith alcoholism for 15 years, eventually drinking heavily each night before quitting in December. But staying sober was a struggle for the 36-ye...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6647,7 +6737,7 @@ Hackers abuse leaked Shellter red team tool to deploy infostealersByBill ToulasJ
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -6747,7 +6837,7 @@ The findings a decade ago were, well, shocking. Mainstream economists had long a
 
 Save this storySaveSave this storySaveWhen Rebecca Kornmanwas a student at Kenyon College, she and some of her friends picked up a voyeuristic hobby. Using the Ohio liberal arts school’s student direc...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -7157,7 +7247,7 @@ Lei Jun, founder and chairman of Xiaomi Corp., the only tech company to have suc
 
 On Friday morning, Elon Muskdeclared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”While Musk didn’t say exactly what improvements to look for, he...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -7257,7 +7347,7 @@ With AI igniting an investor frenzy, every month, more startups obtain unicorn s
 
 With AI igniting an investor frenzy, every month, more startups obtain unicorn status.Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so f...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -7267,7 +7357,7 @@ With AI igniting an investor frenzy, every month, more startups obtain unicorn s
 
 The main Reuters news account, as well as the Reuters World account, became inaccessible to X users in India on Saturday evening. Access was subsequently restored on Sunday.Reuters reportsthat Indian ...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -7297,7 +7387,7 @@ Tariff Dealine, Fed Minutes and Other Key Thing to Watch this WeekGavin McMaster
 
 Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.Nikkei Asia reportsthat wh...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -7367,7 +7457,7 @@ If You Plan to Receive Social Security in 2035, You Have to Prepare Yourself for
 
 Companies have struggled to adopt the right AI tools as the technology evolves at a far faster pace than their slow sales cycles.Corporate credit card company Brex is no different. The startup found i...
 
-**Categories:** emerging, ai, startups, general
+**Categories:** startups, general, emerging, ai
 
 ---
 
@@ -7387,7 +7477,7 @@ NewsTikTok’s ‘ban’ problem could end soon with a new app and a saleThe Inf
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -7457,7 +7547,7 @@ How SoundHound AI Is Quietly Building a Global AI Empire | The Motley FoolPlease
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -7647,7 +7737,7 @@ After a 50% Crash, This Tech Stock Is a Tremendous Value | The Motley FoolPlease
 
 Save this storySaveSave this storySaveThe original versionofthis storyappeared inQuanta Magazine.WhenTodd Sacktorwas about to turn 3, his 4-year-old sister died of leukemia. “An empty bedroom next to ...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -7737,7 +7827,7 @@ Dow Jones futures fell slightly Sunday night, along with S&P 500 futures and Nas
 
 The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -7747,7 +7837,7 @@ The venture capital world has always had a hot-and-cold relationship with the Mi
 
 It’s a sad weekend over at Bluesky, where one of the best accounts hasdisappeared— although we can still hope for its resurrection.Known as The Louvre of Bluesky, the account in question struck fear i...
 
-**Categories:** emerging, startups, general
+**Categories:** startups, general, emerging
 
 ---
 
@@ -7807,7 +7897,7 @@ NewsCyberpunk: Edgerunners 2 will be even sadder and bloodierNetflix’s Cyberpu
 
 Save this storySaveSave this storySaveAll products featured on WIRED are independently selected by our editors. However, we may receive compensation from retailers and/or from purchases of products th...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -7877,7 +7967,7 @@ Inside a Utah desert facility preparing humans for life on MarsSkip NavigationMa
 
 Save this storySaveSave this storySaveTriangleUpBuy NowMultiple Buying Options Available$269at Amazon$269at BoseAll products featured on WIRED are independently selected by our editors. However, when ...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -7937,7 +8027,7 @@ Save this storySaveSave this storySaveStreaming services areknown for having awa
 
 Save this storySaveSave this storySaveNetflix has plentyof movies to watch. Maybetoomany. Sometimes finding the right film at the right time can seem like an impossible task. Let us help you. Below is...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -7947,7 +8037,7 @@ Save this storySaveSave this storySaveNetflix has plentyof movies to watch. Mayb
 
 Save this storySaveSave this storySaveThis story originallyappeared onVoxand is part of theClimate Deskcollaboration.In the early 1900s, long before smartphones and selfie sticks, tourists flocked to ...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -8278,7 +8368,7 @@ Save this storySaveSave this storySaveChristmas in July,mattress edition. The Fo
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navWelcome to Edition 8.01 of the Rocket Report! Today's edition will ...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -8489,7 +8579,7 @@ Looks like there are new Grok 4 model versions (0702) – grok-4-0702 and grok-4
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe maker of a phone app that is advertised as providing a stealthy...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -8570,7 +8660,7 @@ Raising in 2025 doesn’t look anything like it did in 2021 — and that’s exa
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIna memo to employees earlier this week, Meta CEO Mark Zuckerberg s...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -8581,7 +8671,7 @@ Text
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navTwo key writers of HBO's seriesThe Last of Usare moving on, accordi...
 
-**Categories:** emerging, general
+**Categories:** general, emerging
 
 ---
 
@@ -8662,7 +8752,7 @@ How 100+ Security Leaders Are Tackling AI RiskWiz's latest guide explores how or
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navIf you were looking for some motivation to follow your doctor's adv...
 
-**Categories:** emerging, ai, general
+**Categories:** general, emerging, ai
 
 ---
 
@@ -10894,7 +10984,7 @@ Presented by Defined.aiWhat does it mean to build responsible, ethical AI? What 
 Text
         settingsStory textSizeSmallStandardLargeWidth*StandardWideLinksStandardOrange* Subscribers onlyLearn moreMinimize to navThe ransomware group linked to the recent cyberattacks on UK retail...
 
-**Categories:** cybersecurity, emerging, general
+**Categories:** general, emerging, cybersecurity
 
 ---
 
@@ -11826,7 +11916,7 @@ Want smarter insights in your inbox? Sign up for our weekly newsletters to get o
 
 CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire Core Scientific, a data center infrastructure provider.As a result of the deal, CoreWeave says it will gain access to mor...
 
-**Categories:** stock, ai, startups, general
+**Categories:** startups, general, stock, ai
 
 ---
 
@@ -11836,7 +11926,7 @@ CoreWeaveannounced Mondaythat it signed a $9 billion all-stock deal to acquire C
 
 GamingThe next Switch 2 restock kicks off at 7PM ET online at WalmartWalmart is giving you another chance at snagging the year’s most coveted console.Walmart is giving you another chance at snagging t...
 
-**Categories:** emerging, stock, ai, general
+**Categories:** general, stock, emerging, ai
 
 ---
 
@@ -12056,7 +12146,7 @@ Italy shipbuilder appoints new US chief(Photo: Fincantieri)Stuart ChirlsMon, Jul
 
 The data industry is on the verge of a drastic transformation.The market is consolidating. And if the deal flow in the past two months is any indicator — withDatabricks buying Neon for $1 billionandSa...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -12086,7 +12176,7 @@ Subscribe to readAccessibility helpSkip to navigationSkip to contentSkip to foot
 
 Transportation/Electric Cars/TeslaTesla’s real struggles have only just begunTrump’s budget bill could cost Tesla billions of dollars in credit sales. And Elon Musk’s promise to create a third politic...
 
-**Categories:** emerging, stock, ai, general
+**Categories:** general, stock, emerging, ai
 
 ---
 
@@ -12136,7 +12226,7 @@ IonQ Inc. raised $1 billion in a sale of stock and warrants to an affiliate of S
 
 Apple on Monday filed an appeal against the EU’s decision to fine the company €500 million (about $580 million) for not complying with rules that mandate the company to let developers steer users outs...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 
@@ -13236,7 +13326,7 @@ Dow Jones futures fell slightly Sunday night, along with S&P 500 futures and Nas
 
 The venture capital world has always had a hot-and-cold relationship with the Midwest. Investors rush in during boom times, then retreat to the coasts when markets turn sour. For Columbus, Ohio-basedD...
 
-**Categories:** stock, general, ai, startups, emerging
+**Categories:** startups, stock, ai, general, emerging
 
 ---
 

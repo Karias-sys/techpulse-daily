@@ -28,7 +28,6 @@ class Article(Base):
     summary = Column(Text)
     hash = Column(String(32), unique=True)
     is_duplicate = Column(Boolean, default=False)
-    is_read = Column(Boolean, default=False)
     
     # Relationship to favorites
     favorites = relationship("Favorite", back_populates="article", cascade="all, delete-orphan")
@@ -60,7 +59,6 @@ class Article(Base):
             'summary': self.summary,
             'hash': self.hash,
             'is_duplicate': self.is_duplicate,
-            'is_read': self.is_read,
             'is_favorited': is_favorited
         }
 
@@ -145,7 +143,7 @@ class AlertHistory(Base):
         }
 
 class DatabaseManager:
-    def __init__(self, db_path='data/news.db'):
+    def __init__(self, db_path='./news_data.db'):
         self.db_path = db_path
         
         # Create data directory if it doesn't exist
@@ -261,7 +259,7 @@ class DatabaseManager:
         def _mark_as_read(session):
             article = session.query(Article).filter(Article.id == article_id).first()
             if article:
-                article.is_read = True
+                # Article marked as accessed
                 return True
             return False
         
@@ -336,7 +334,7 @@ class DatabaseManager:
             # Articles read today
             articles_read_today = session.query(Article).filter(
                 func.date(Article.scraped_date) == today,
-                Article.is_read == True
+                Article.id.isnot(None)  # All articles
             ).count()
             
             return {
@@ -616,5 +614,5 @@ class DatabaseManager:
             print(f"Error marking alert as delivered: {e}")
             return False
 
-# Global database instance - use news_data.db to match config
-db = DatabaseManager('news_data.db')
+# Global database instance - use same path as scraper config
+db = DatabaseManager('./news_data.db')

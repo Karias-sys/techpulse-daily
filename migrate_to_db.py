@@ -16,7 +16,7 @@ def migrate_from_existing_db():
     """Migrate from existing SQLite database created by scraper"""
     
     # Check if the scraper's database exists
-    scraper_db_path = 'news_data.db'
+    scraper_db_path = './news_data.db'
     if not Path(scraper_db_path).exists():
         print(f"Scraper database {scraper_db_path} not found. Run the scraper first.")
         return False
