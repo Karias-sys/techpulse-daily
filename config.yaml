@@ -25,6 +25,28 @@ sources:
     url: "https://www.wired.com/feed/rss"
     type: "rss"
     categories: ["general"]
+    
+  # Startup & Venture Capital
+  - name: "TechCrunch Startups"
+    url: "https://techcrunch.com/category/startups/feed/"
+    type: "rss"
+    categories: ["emerging-tech", "general"]
+    
+  - name: "VentureBeat Startups"
+    url: "https://venturebeat.com/category/entrepreneur/feed/"
+    type: "rss"
+    categories: ["emerging-tech", "ai"]
+    
+  # Financial News
+  - name: "Financial Times Tech"
+    url: "https://www.ft.com/technology?format=rss"
+    type: "rss"
+    categories: ["stock-market", "general"]
+    
+  - name: "Bloomberg Technology"
+    url: "https://feeds.bloomberg.com/technology/news.rss"
+    type: "rss"
+    categories: ["stock-market", "general", "ai"]
 
 summarization:
   api: "openai"
